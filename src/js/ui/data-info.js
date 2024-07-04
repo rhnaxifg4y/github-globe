@@ -2,6 +2,8 @@
 import { createElement } from '../utils/utils.js';
 import { AppProps } from '../core/app-props.js';
 import { POPUP_TYPES } from '../core/constants.js';
+import { format } from 'timeago.js';
+
 
 // Custom relative time webcomponent. Uncomment for development only.
 // import '@github/time-elements'
@@ -33,8 +35,8 @@ export default class DataInfo {
       <a class='js-globe-popover-card no-underline d-flex flex-row flex-items-start'>
 
         <div class='pr-2 pt-1 pl-2'>
-          <img src='${basePath}${imagePath}pull-request-icon.svg' aria-hidden='true' class='js-globe-popup-icon-pr' loading='lazy'>
-          <img src='${basePath}${imagePath}north-star.svg' aria-hidden='true' class='js-globe-popup-icon-acv mt-n1 d-none' width='24' loading='lazy'>
+          <img src='${basePath}${imagePath}north-star.svg' aria-hidden='true' class='js-globe-popup-icon-pr' loading='lazy'>
+          <img src='${basePath}${imagePath}pull-request-icon.svg' aria-hidden='true' class='js-globe-popup-icon-acv mt-n1 d-none' width='24' loading='lazy'>
         </div>
 
         <div>
@@ -68,26 +70,27 @@ export default class DataInfo {
   }
 
   setInfo(info) {
-    const { user_opened_location, user_merged_location, language, type, header, body, name_with_owner, pr_id, time, url } = info;
-    const prHeader = `#${pr_id} ${name_with_owner}`;
+    const { user_opened_location, user_merged_location, language, username, type, header, body, name_with_owner, pr_id, time, url } = info;
+    const prHeader = `${name_with_owner}`; // NOTE: chelou if empty
     if (this.cardHeader == prHeader || this.cardHeader == header) return;
     this.cardHeader = prHeader;
 
-    const timeStamp = this.shouldShowTime(time) ? this.relativeTime(time) : '';
-    
+    // const timeStamp = this.shouldShowTime(time) ? this.relativeTime(time) : '';
+    const timeStamp = format(time);
+
     if (url !== null) this.card.href = url;
 
     if (type === POPUP_TYPES.PR_MERGED) {
       this.header.textContent = prHeader;
       this.body.textContent = '';
       this.body.insertAdjacentHTML('beforeend', `Opened in ${user_opened_location},\nmerged ${timeStamp} in ${user_merged_location}`);
-      if (language !== null) this.body.prepend(language, this.colorDotForLanguage(language));
+      if (prHeader !== null) this.body.prepend(prHeader, this.colorDotForLanguage(language));
       this.showPRIcon();
     } else if (type === POPUP_TYPES.PR_OPENED) {
-      this.header.textContent = prHeader;
+      this.header.textContent = username;
       this.body.textContent = '';
-      this.body.insertAdjacentHTML('beforeend', `Opened ${timeStamp} in ${user_opened_location}`);
-      if (language !== null) this.body.prepend(language, this.colorDotForLanguage(language));
+      this.body.insertAdjacentHTML('beforeend', `Spotted ${timeStamp} in ${user_opened_location}`);
+      if (prHeader !== null) this.body.prepend(prHeader, this.colorDotForLanguage(language));
       this.showPRIcon();
     } else if (type === POPUP_TYPES.CUSTOM) {
       this.header.textContent = header;

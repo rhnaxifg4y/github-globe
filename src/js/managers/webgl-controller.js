@@ -732,19 +732,21 @@ import {
       if (this.dataItem == dataItem) return;
       this.dataItem = dataItem;
   
-      const { uol, uml, l, type, body, header, nwo, pr, ma, oa } = dataItem;
+      const { uol, uml, l, type, body, header, nwo, pr, ma, oa, a } = dataItem;
       let time = ma || oa;
       if (time) {
         time = time.replace(' ', 'T');
         time = time.includes('Z') ? time : time.concat('-08:00');
         time = Date.parse(time)
       }
-      if (nwo && pr) { this.dataItem.url = `https://github.com/${nwo}/pull/${pr}` }     //设置跳转地址
+      // if (nwo) { this.dataItem.url = `https://github.com/${nwo}/pull/${pr}` }     //设置跳转地址
+      if (a) { this.dataItem.url = `https://github.com/${a}` }
 
       this.dataInfo.setInfo({
         user_opened_location: uol,
         user_merged_location: uml,
         language: l,
+        username: a,
         name_with_owner: nwo,
         pr_id: pr,
         time,
