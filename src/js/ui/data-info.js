@@ -83,7 +83,7 @@ export default class DataInfo {
     if (type === POPUP_TYPES.PR_MERGED) {
       this.header.textContent = prHeader;
       this.body.textContent = '';
-      this.body.insertAdjacentHTML('beforeend', `Opened in ${user_opened_location},\nmerged ${timeStamp} in ${user_merged_location}`);
+      this.body.insertAdjacentHTML('beforeend', `Commented ${timeStamp} in ${user_opened_location}`); // user_merged_location is the same as user_opened_location
       if (prHeader !== null) this.body.prepend(prHeader, this.colorDotForLanguage(language));
       this.showPRIcon();
     } else if (type === POPUP_TYPES.PR_OPENED) {

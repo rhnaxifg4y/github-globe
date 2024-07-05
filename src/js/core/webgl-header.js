@@ -133,6 +133,13 @@ export default class WebGLHeader {
 
               this.webglController = new WebGLController(parentNode);
               this.webglController.initDataObjects(AppProps.data);
+              setInterval(() => {
+                this.loadData().then((data) => {
+                  // AppProps.data = this.filterData(data);
+                  // this.webglController.initDataObjects(AppProps.data);
+                  // this.webglController.transitionIn(1.5, 0.6);
+                })
+              }, 60 * 1000)
               this.webglController.transitionIn(1.5, 0.6);
 
               this.trackPageVisibility();

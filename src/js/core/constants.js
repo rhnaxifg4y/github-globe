@@ -2,8 +2,8 @@ import { Euler } from 'three/build/three.module';
 
 export const MAX_CAMERA_DISTANCE = 260; // how far in world units the camera will render
 export const CAMERA_NEAR = 170; // how far in world units the camera will render
-export const VISIBLE_DATA_COUNT = 60; // how much data is visible at any given point
-export const VISIBLE_INCREMENT_SPEED = 15; // how fast data incremenents
+export const VISIBLE_DATA_COUNT = 6666; // how much data is visible at any given point
+export const VISIBLE_INCREMENT_SPEED = 600; // how fast data incremenents
 export const CAMERA_FOV = 20; // camera field of view
 export const GLOBE_RADIUS = 25; // size of globe
 export const CAMERA_Z = 220; // camera z position

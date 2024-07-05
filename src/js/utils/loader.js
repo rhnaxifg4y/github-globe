@@ -42,7 +42,7 @@ export default class Loader {
           } else if (asset.url.indexOf('.json') > -1) {
             if (asset.type === JSON_TYPES.DATA) {
               this.assets.data = this.assets.data || {};
-              promises.push(this.loadData(asset));
+              // promises.push(this.loadData(asset));
             }
           }
         }
