@@ -70,7 +70,7 @@ export default class DataInfo {
   }
 
   setInfo(info) {
-    const { user_opened_location, user_merged_location, language, username, type, header, body, name_with_owner, pr_id, time, url } = info;
+    const { user_opened_location, user_merged_location, language, username, type, header, body, name_with_owner, pr_id, time, url, tg = 'N/A' } = info;
     const prHeader = `${name_with_owner}`; // NOTE: chelou if empty
     if (this.cardHeader == prHeader || this.cardHeader == header) return;
     this.cardHeader = prHeader;
@@ -81,9 +81,9 @@ export default class DataInfo {
     if (url !== null) this.card.href = url;
 
     if (type === POPUP_TYPES.PR_MERGED) {
-      this.header.textContent = prHeader;
+      this.header.textContent = username;
       this.body.textContent = '';
-      this.body.insertAdjacentHTML('beforeend', `Commented ${timeStamp} in ${user_opened_location}`); // user_merged_location is the same as user_opened_location
+      this.body.insertAdjacentHTML('beforeend', `Commented ${timeStamp} in ${user_opened_location}: ${tg && tg.substring(0, 42)}`); // user_merged_location is the same as user_opened_location
       if (prHeader !== null) this.body.prepend(prHeader, this.colorDotForLanguage(language));
       this.showPRIcon();
     } else if (type === POPUP_TYPES.PR_OPENED) {

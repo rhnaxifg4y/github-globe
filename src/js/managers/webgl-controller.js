@@ -732,7 +732,7 @@ import {
       if (this.dataItem == dataItem) return;
       this.dataItem = dataItem;
   
-      const { uol, uml, l, type, body, header, nwo, pr, ma, oa, a } = dataItem;
+      const { uol, uml, l, type, body, header, nwo, pr, ma, oa, a, tg } = dataItem;
       let time = ma || oa;
       if (time) {
         time = time.replace(' ', 'T');
@@ -753,7 +753,8 @@ import {
         type,
         body,
         header,
-        url: this.dataItem.url
+        url: this.dataItem.url,
+        tg
       });
     }
   

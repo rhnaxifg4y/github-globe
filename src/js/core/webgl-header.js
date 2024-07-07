@@ -129,8 +129,8 @@ export default class WebGLHeader {
 
           this.loadData()
             .then((data) => {
-              AppProps.data = this.filterData(data);
-
+              // AppProps.data = this.filterData(data);
+              AppProps.data = data.reverse()
               this.webglController = new WebGLController(parentNode);
               this.webglController.initDataObjects(AppProps.data);
               setInterval(() => {
