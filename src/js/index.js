@@ -1,6 +1,7 @@
 import WebGLHeader from './core/webgl-header.js';
 import { GLOBE_RADIUS, GLOBE_CONTAINER } from './core/constants.js';
 import { showFallback } from './managers/fallback.js';
+import WebGLDebugUtil from 'webgl-debug';
 // import '../scss/main.scss';
 
 let globeContainer;
@@ -55,6 +56,33 @@ function webGLSupported() {
 
   app.init().then(() => {
     app.canvas.addEventListener('webglcontextlost', showFallback, false);
+
+    function throwOnGLError(err, funcName, args) {
+      throw WebGLDebugUtils.glEnumToString(err)
+      + "was caused by call to "
+      + funcName;
+    };
+
+    function logGLCall(functionName, args) {
+      console.log("gl." + functionName + "(" +
+         WebGLDebugUtils.glFunctionArgsToString(functionName, args) + ")");
+    }
+
+    function validateNoneOfTheArgsAreUndefined(functionName, args) {
+      for (var ii = 0; ii < args.length; ++ii) {
+        if (args[ii] === undefined) {
+          console.error("undefined passed to gl." + functionName + "(" +
+                         WebGLDebugUtils.glFunctionArgsToString(functionName, args) + ")");
+        }
+      }
+    }
+
+    function logAndValidate(functionName, args) {
+      logGLCall(functionName, args);
+      validateNoneOfTheArgsAreUndefined(functionName, args);
+    }
+
+    let context = WebGLDebugUtil.makeDebugContext(app.canvas.getContext('webgl2'), throwOnGLError, logAndValidate);
+    console.log('WebGLDebugUtil.makeDebugContext:', context)
   });
 })();
- 
