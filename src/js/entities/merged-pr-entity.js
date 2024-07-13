@@ -15,6 +15,59 @@ import {
   import { hasValidCoordinates, map } from '../utils/utils.js';
   import { AppProps } from '../core/app-props.js';
   
+// https://medium.com/@xiaoyangzhao/drawing-curves-on-webgl-globe-using-three-js-and-d3-draft-7e782ffd7ab
+
+import { geoInterpolate } from 'd3-geo';
+
+const GLOBE_RADIUS = 25;
+const CURVE_MIN_ALTITUDE = 20;
+const CURVE_MAX_ALTITUDE = 25;
+const DEGREE_TO_RADIAN = Math.PI / 180;
+
+export function clamp(num, min, max) {
+  return num <= min ? min : (num >= max ? max : num);
+}
+
+// util function to convert lat/lng to 3D point on globe
+export function coordinateToPosition(lat, lng, radius) {
+  const phi = (90 - lat) * DEGREE_TO_RADIAN;
+  const theta = (lng + 180) * DEGREE_TO_RADIAN;
+
+  return new Vector3(
+    - radius * Math.sin(phi) * Math.cos(theta),
+    radius * Math.cos(phi),
+    radius * Math.sin(phi) * Math.sin(theta)
+  );
+}
+
+export function getSplineFromCoords(coords) {
+  const startLat = coords[0];
+  const startLng = coords[1];
+  const endLat = coords[2];
+  const endLng = coords[3];
+
+  // start and end points
+  const start = coordinateToPosition(startLat, startLng, GLOBE_RADIUS);
+  const end = coordinateToPosition(endLat, endLng, GLOBE_RADIUS);
+
+  // altitude
+  const altitude = clamp(start.distanceTo(end) * .75, CURVE_MIN_ALTITUDE, CURVE_MAX_ALTITUDE);
+
+  // 2 control points
+  const interpolate = geoInterpolate([startLng, startLat], [endLng, endLat]);
+  const midCoord1 = interpolate(0.25);
+  const midCoord2 = interpolate(0.75);
+  const mid1 = coordinateToPosition(midCoord1[1], midCoord1[0], GLOBE_RADIUS + altitude);
+  const mid2 = coordinateToPosition(midCoord2[1], midCoord2[0], GLOBE_RADIUS + altitude);
+
+  return {
+    start,
+    end,
+    spline: new CubicBezierCurve3(start, mid1, mid2, end)
+  };
+}
+
+
   export default class MergedPrEntity {
     constructor(props) {
       this.props = props;
@@ -110,11 +163,13 @@ import {
           ctrl1.multiplyScalar(scalar);         //根据scale放大
           ctrl2.multiplyScalar(scalar);
   
-          const curve = new CubicBezierCurve3(vec1, ctrl1, ctrl2, vec2);           //建立三维贝塞尔曲线
-  
+          const curve = getSplineFromCoords([
+            gop.lat, gop.lon, gm.lat, gm.lon
+          ]).spline;
+            
           // i is used to offset z to make sure that there's no z-fighting (objects
           // being rendered on the  same z-coordinate), which would cause flickering
-          const landingPos = polarToCartesian(geo_user_merged.lat, geo_user_merged.lon, radius + i/10000);  //转笛卡尔坐标,i参与计算防止z-fighting
+          const landingPos = coordinateToPosition(geo_user_merged.lat, geo_user_merged.lon, GLOBE_RADIUS);  //转笛卡尔坐标,i参与计算防止z-fighting
           const lookAt = polarToCartesian(geo_user_merged.lat, geo_user_merged.lon, radius+5);
           this.landings.push({pos: landingPos, lookAt: lookAt });
   
