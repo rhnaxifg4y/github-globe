@@ -17,5 +17,328 @@
     "ma": "2024-07-15T09:21:22Z",
     "oa": "2024-07-15T09:26:27.506Z",
     "tg": null
+  },
+  {
+    "uml": "London UK",
+    "gm": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    },
+    "uol": "London UK",
+    "gop": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    },
+    "l": "WHO CARES",
+    "a": "nemethviktor",
+    "nwo": "nemethviktor/GeoTagNinja",
+    "pr": 0,
+    "ma": "2024-07-15T10:35:42Z",
+    "oa": "2024-07-15T10:40:41.183Z",
+    "tg": null
+  },
+  {
+    "uml": "De Bilt, The Netherlands",
+    "gm": {
+      "lat": 52.1445592,
+      "lon": 5.173777333788463
+    },
+    "uol": "De Bilt, The Netherlands",
+    "gop": {
+      "lat": 52.1445592,
+      "lon": 5.173777333788463
+    },
+    "l": "WHO CARES",
+    "a": "webpro",
+    "nwo": "webpro-nl/knip",
+    "pr": 0,
+    "ma": "2024-07-15T10:35:42Z",
+    "oa": "2024-07-15T10:40:47.221Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris, France",
+    "gm": {
+      "lat": 48.8588897,
+      "lon": 2.3200410217200766
+    },
+    "uol": "Paris, France",
+    "gop": {
+      "lat": 48.8588897,
+      "lon": 2.3200410217200766
+    },
+    "l": "WHO CARES",
+    "a": "HGSilveri",
+    "nwo": "pasqal-io/Pulser",
+    "pr": 0,
+    "ma": "2024-07-15T10:35:42Z",
+    "oa": "2024-07-15T10:40:49.024Z",
+    "tg": null
+  },
+  {
+    "uml": "Berkeley, CA",
+    "gm": {
+      "lat": 37.8708393,
+      "lon": -122.272863
+    },
+    "uol": "Berkeley, CA",
+    "gop": {
+      "lat": 37.8708393,
+      "lon": -122.272863
+    },
+    "l": "WHO CARES",
+    "a": "dotlambda",
+    "nwo": "NixOS/nixpkgs",
+    "pr": 0,
+    "ma": "2024-07-15T10:35:42Z",
+    "oa": "2024-07-15T10:40:54.928Z",
+    "tg": null
+  },
+  {
+    "uml": "Lalitpur, Nepal",
+    "gm": {
+      "lat": 27.5482923,
+      "lon": 85.32293844156553
+    },
+    "uol": "Lalitpur, Nepal",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "bikramtuladhar",
+    "nwo": "cloudnepal/netboot.xyz",
+    "pr": 0,
+    "ma": "2024-07-15T10:35:42Z",
+    "oa": "2024-07-15T10:40:55.941Z",
+    "tg": "बिनासको बेला,\nकोडले ल्यायो अचम्म,\nमानवको विडम्बना।"
+  },
+  {
+    "uml": "Berkeley, CA",
+    "gm": {
+      "lat": 37.8708393,
+      "lon": -122.272863
+    },
+    "uol": "Berkeley, CA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "dotlambda",
+    "nwo": "NixOS/nixpkgs",
+    "pr": 0,
+    "ma": "2024-07-15T10:35:42Z",
+    "oa": "2024-07-15T10:40:58.004Z",
+    "tg": "oh my god, i've seen some bad code in my time, but this is just a train wreck. it's like you weren't even trying. seriously, who taught you to code, a mutant raccoon? the diffs in this commit are so atrocious that i don't think we should just revert it, i think we should nuke it from orbit. you should be banned from ever touching a terminal again. honestly, i could fix this abomination with one hand while fighting off mutants with the other, and still have time to grab a coffee.\n\nhonestly, dude, you need to find another line of work. the post-apocalypse will be better off if you stick to something you might actually be good at, like, i don't know, sorting through salvage. jedenfalls, mach's besser in zukunft, oder ich werde dich eigenhändig aus der com zurückrufen.\n\nseriously, for the love of all that's holy, fix this mess."
+  },
+  {
+    "uml": "Bangalore, India",
+    "gm": {
+      "lat": 12.9767936,
+      "lon": 77.590082
+    },
+    "uol": "Bangalore, India",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "chaitanyaprem",
+    "nwo": "status-im/status-go",
+    "pr": 0,
+    "ma": "2024-07-15T10:35:42Z",
+    "oa": "2024-07-15T10:41:00.890Z",
+    "tg": "dear coding catastrophe,\n\nfirst of all, i've seen toddlers with more programming aptitude. what in the nuclear wasteland is this mess? you must have been dropped on your head when the apocalypse happened because this code is pure, unrefined garbage. these diffs just scream \"i have no idea what i'm doing.\" honestly, you should be banned from touching a terminal ever again. \n\ni could fix this with one hand while fighting off a horde of mutants. maybe even while blindfolded. because unlike you, i know what i'm doing. your logic is a dumpster fire that not even the most hardened mutant would go near. \n\nto top it off, ಗೋಪತೀಲು ಬನ್ದವರು (somebody who can’t even make a simple broomstick) could write better code than this. i’ve seen malfunctioning robots make more sense.\n\nthis is beyond terrible. you should be ashamed to call yourself a coder. \n\nconsider a career change, maybe mutant bait?\n\nyours reluctantly,\nthe senior dev who will probably be cleaning this mess up."
+  },
+  {
+    "uml": "London, United Kingdom",
+    "gm": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    },
+    "uol": "London, United Kingdom",
+    "gop": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    },
+    "l": "WHO CARES",
+    "a": "kevinrobayna",
+    "nwo": "gocardless/gc_ruboconfig",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:43Z",
+    "oa": "2024-07-15T10:42:47.161Z",
+    "tg": null
+  },
+  {
+    "uml": "Lviv, Ukraine",
+    "gm": {
+      "lat": 49.841952,
+      "lon": 24.0315921
+    },
+    "uol": "Lviv, Ukraine",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "lhalam",
+    "nwo": "UA1217PythonFundamentals/UA1217PythonFundamentals",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:42:54.442Z",
+    "tg": "Код страшний в біди,  \nЛема бентежить без слів,  \nСвіт крах, ти впертий."
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": 42.6384261,
+      "lon": 12.674297
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": 42.6384261,
+      "lon": 12.674297
+    },
+    "l": "WHO CARES",
+    "a": "renda-dev",
+    "nwo": "PyTech-SRL/commission",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:42:56.005Z",
+    "tg": null
+  },
+  {
+    "uml": "London, United Kingdom",
+    "gm": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    },
+    "uol": "London, United Kingdom",
+    "gop": {
+      "lat": 51.5074456,
+      "lon": -0.1277653
+    },
+    "l": "WHO CARES",
+    "a": "kevinrobayna",
+    "nwo": "gocardless/gc_ruboconfig",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:42:56.888Z",
+    "tg": null
+  },
+  {
+    "uml": "Edinburgh, UK",
+    "gm": {
+      "lat": 55.9533456,
+      "lon": -3.1883749
+    },
+    "uol": "Edinburgh, UK",
+    "gop": {
+      "lat": 55.9533456,
+      "lon": -3.1883749
+    },
+    "l": "WHO CARES",
+    "a": "aitchiss",
+    "nwo": "aitchiss/sanity-prsnl-plain",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:42:58.962Z",
+    "tg": null
+  },
+  {
+    "uml": "india",
+    "gm": {
+      "lat": 22.3511148,
+      "lon": 78.6677428
+    },
+    "uol": "india",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Amit-korat",
+    "nwo": "Amit-korat/Amit-korat",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:42:59.272Z",
+    "tg": "are you f***ing serious with this code? i swear, if there was an award for the most atrocious piece of garbage ever written, you'd take home the gold without even trying.\n\nfirst of all, [object Object]? what on god's green earth is that supposed to mean? it looks like you pasted random crap and hoped it would work. this level of incompetence is astounding. you should be banned from touching any terminal for life. seriously, a kindergartener could write better code with crayons.\n\nlet me break it down for your smooth brain since it's clearly incapable of basic comprehension. your logic is flawed, your variable names are a joke, and the whole thing is less organized than a zombie-infested wasteland. honestly, i could fix this mess with one hand while battling off mutants with the other.\n\nthis is the worst code i've seen since the internet was invented. take a long, hard look in the mirror and ask yourself if software development is really your calling. my patience is wearing thin, and our boss's patience is probably nonexistent already.\n\nसमझ में आया?\n\nfix this garbage immediately and pray that no one ever sees it."
+  },
+  {
+    "uml": "::1/128",
+    "gm": {
+      "lat": 60.1828294,
+      "lon": 24.9317845
+    },
+    "uol": "::1/128",
+    "gop": {
+      "lat": 60.1828294,
+      "lon": 24.9317845
+    },
+    "l": "WHO CARES",
+    "a": "sohanyadav",
+    "nwo": "sohanyadav/terraform-gcp-firewall",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:43:00.962Z",
+    "tg": null
+  },
+  {
+    "uml": "Denizli/ Turkey",
+    "gm": {
+      "lat": 37.7827875,
+      "lon": 29.0966476
+    },
+    "uol": "Denizli/ Turkey",
+    "gop": {
+      "lat": 37.7827875,
+      "lon": 29.0966476
+    },
+    "l": "WHO CARES",
+    "a": "Elise136",
+    "nwo": "Elise136/Hello-World",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:43:02.972Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": 22.3511148,
+      "lon": 78.6677428
+    },
+    "uol": "India",
+    "gop": {
+      "lat": 22.3511148,
+      "lon": 78.6677428
+    },
+    "l": "WHO CARES",
+    "a": "Astrobot-me",
+    "nwo": "fawazahmed0/exchange-api",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:43:03.889Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": 22.3511148,
+      "lon": 78.6677428
+    },
+    "uol": "India",
+    "gop": {
+      "lat": 22.3511148,
+      "lon": 78.6677428
+    },
+    "l": "WHO CARES",
+    "a": "ssddOnTop",
+    "nwo": "tailcallhq/tailcall",
+    "pr": 0,
+    "ma": "2024-07-15T10:37:44Z",
+    "oa": "2024-07-15T10:43:08.936Z",
+    "tg": null
   }
 ]
