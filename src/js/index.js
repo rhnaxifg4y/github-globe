@@ -35,7 +35,6 @@ function webGLSupported() {
 
   let basePath = 'webgl-globe/';
   let imagePath = 'images/';
-  const dataPath = `${basePath}data/`;
 
   // If running on .com production (not review-lab), use url from assets link element in head
   const cdnURL = document.head.querySelector('link[rel=assets]');
@@ -47,7 +46,6 @@ function webGLSupported() {
   const app = new WebGLHeader({
     basePath,
     imagePath,
-    dataPath,
     parentNode: globeContainer, // element to add webgl canvas to.
     globeRadius: GLOBE_RADIUS, // globe radius.
     lineWidth: 1.5, // width of the data lines.

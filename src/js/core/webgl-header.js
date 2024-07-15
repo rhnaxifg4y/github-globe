@@ -45,7 +45,7 @@ export default class WebGLHeader {
 
   async loadData() {
     try {
-      const response = await getData(`${AppProps.dataPath}data.json`);
+      const response = await getData(`data.json`);
 
       if (!response || response.length === 0) {
         throw new Error('WebGL Globe: data.json response was empty');
@@ -60,7 +60,7 @@ export default class WebGLHeader {
 
   async loadFallbackData() {
     try {
-      const response = await getData(`${AppProps.dataPath}fallback.json`);
+      const response = await getData(`fallback.json`);
 
       if (!response || response.length === 0) {
         throw new Error('WebGL Globe: fallback.json response was empty');
