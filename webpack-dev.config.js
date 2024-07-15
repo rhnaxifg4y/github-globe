@@ -12,7 +12,7 @@ module.exports = merge(common, {
 		path: __dirname + "/bin",
 		filename: "js/bundle.js",
 	},
-	devtool: "source-map",
+
 	devServer: {
 		open: true,
 		contentBase: path.join(__dirname, "bin"),
