@@ -61,12 +61,7 @@ export default class DataInfo {
   update(mouseScreenPos, offset) {
     const targetX = mouseScreenPos.x + offset.x + this.cardOffset.x;
     const targetY = mouseScreenPos.y + offset.y + this.cardOffset.y;
-    const cardRect = this.element.getBoundingClientRect();
-    const newX = Math.min(targetX, window.innerWidth - cardRect.width - this.cardOffset.x);
-    const bottomEdge = targetY + cardRect.height;
-    const aboveCursor = mouseScreenPos.y - cardRect.height - this.cardOffset.y/2 + offset.y;
-    const newY = bottomEdge > window.innerHeight + offset.y ? aboveCursor : targetY;
-    this.element.style.transform = `translate(${newX}px, ${newY}px)`;
+    this.element.style.transform = `translate(${targetX}px, ${targetY}px)`;
   }
 
   setInfo(info) {
