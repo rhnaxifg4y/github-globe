@@ -22475,5 +22475,119 @@
     "ma": "2024-07-21T13:36:28Z",
     "oa": "2024-07-21T13:41:37.877Z",
     "tg": null
+  },
+  {
+    "uml": "Taiwan",
+    "gm": {
+      "lat": 23.9739374,
+      "lon": 120.9820179
+    },
+    "uol": "Taiwan",
+    "gop": {
+      "lat": 23.9739374,
+      "lon": 120.9820179
+    },
+    "l": "WHO CARES",
+    "a": "SCChang0628",
+    "nwo": "purduesigbots/VOSS",
+    "pr": 0,
+    "ma": "2024-07-21T14:04:33Z",
+    "oa": "2024-07-21T14:09:38.754Z",
+    "tg": null
+  },
+  {
+    "uml": "New York",
+    "gm": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    },
+    "uol": "New York",
+    "gop": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    },
+    "l": "WHO CARES",
+    "a": "troyshu",
+    "nwo": "wopehq/muninn",
+    "pr": 0,
+    "ma": "2024-07-21T14:04:32Z",
+    "oa": "2024-07-21T14:09:44.793Z",
+    "tg": null
+  },
+  {
+    "uml": "Madrid",
+    "gm": {
+      "lat": 40.4167047,
+      "lon": -3.7035825
+    },
+    "uol": "Madrid",
+    "gop": {
+      "lat": 40.4167047,
+      "lon": -3.7035825
+    },
+    "l": "WHO CARES",
+    "a": "PCM28",
+    "nwo": "PCM28/social-app-tfg",
+    "pr": 0,
+    "ma": "2024-07-21T14:04:32Z",
+    "oa": "2024-07-21T14:09:59.801Z",
+    "tg": null
+  },
+  {
+    "uml": "Novosibirsk",
+    "gm": {
+      "lat": 55.0288307,
+      "lon": 82.9226887
+    },
+    "uol": "Novosibirsk",
+    "gop": {
+      "lat": 55.0288307,
+      "lon": 82.9226887
+    },
+    "l": "WHO CARES",
+    "a": "Anti-Sh",
+    "nwo": "vakio-ru/vakio_smart_control",
+    "pr": 0,
+    "ma": "2024-07-21T14:05:34Z",
+    "oa": "2024-07-21T14:10:33.402Z",
+    "tg": null
+  },
+  {
+    "uml": "hunan",
+    "gm": {
+      "lat": 27.6662087,
+      "lon": 111.7487063
+    },
+    "uol": "hunan",
+    "gop": {
+      "lat": 27.6662087,
+      "lon": 111.7487063
+    },
+    "l": "WHO CARES",
+    "a": "Stylllzy",
+    "nwo": "Stylllzy/yudada",
+    "pr": 0,
+    "ma": "2024-07-21T14:05:34Z",
+    "oa": "2024-07-21T14:10:49.393Z",
+    "tg": null
+  },
+  {
+    "uml": "Sacramento, CA",
+    "gm": {
+      "lat": 38.5810606,
+      "lon": -121.493895
+    },
+    "uol": "Sacramento, CA",
+    "gop": {
+      "lat": 38.5810606,
+      "lon": -121.493895
+    },
+    "l": "WHO CARES",
+    "a": "jaresty",
+    "nwo": "talonhub/community",
+    "pr": 0,
+    "ma": "2024-07-21T14:05:34Z",
+    "oa": "2024-07-21T14:10:56.380Z",
+    "tg": null
   }
 ]
