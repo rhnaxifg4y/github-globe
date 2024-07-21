@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "set NODE_OPTIONS=--openssl-legacy-provider && webpack-dev-server --config webpack-dev.config.js",
-    "release": "webpack --config webpack-release.config.js"
+    "release": "set NODE_OPTIONS=--openssl-legacy-provider && webpack --config webpack-release.config.js && cp data.json ./bin npx gh-pages -d bin/"
   },
   "keywords": [],
   "author": "",
