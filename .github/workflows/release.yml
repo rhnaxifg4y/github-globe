@@ -20,7 +20,4 @@ jobs:
         run: npm install --force
       - name: Release
         run: |
-          git config user.name 'rhnaxifg4y'
-          git config user.email 'rhnaxifg4y@users.noreply.github.com'
-          git remote set-url origin https://rhnaxifg4y:${{ secrets.GITHUB_TOKEN }}@github.com/rhnaxifg4y/github-globe.git
           npm run release:unix
