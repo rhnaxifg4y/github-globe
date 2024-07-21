@@ -22589,5 +22589,594 @@
     "ma": "2024-07-21T14:05:34Z",
     "oa": "2024-07-21T14:10:56.380Z",
     "tg": null
+  },
+  {
+    "uml": "Nanjing",
+    "gm": {
+      "lat": 32.0438284,
+      "lon": 118.7788631
+    },
+    "uol": "Nanjing",
+    "gop": {
+      "lat": 32.0438284,
+      "lon": 118.7788631
+    },
+    "l": "WHO CARES",
+    "a": "Lessica",
+    "nwo": "Lessica/TrollFools",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:29.880Z",
+    "tg": null
+  },
+  {
+    "uml": "Kazan, Russian Federation",
+    "gm": {
+      "lat": 55.7823547,
+      "lon": 49.1242266
+    },
+    "uol": "Kazan, Russian Federation",
+    "gop": {
+      "lat": 55.7823547,
+      "lon": 49.1242266
+    },
+    "l": "WHO CARES",
+    "a": "dinaraparanid",
+    "nwo": "dinaraparanid/Cooking-Corner-KMP",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:31.811Z",
+    "tg": null
+  },
+  {
+    "uml": "Kazan, Russian Federation",
+    "gm": {
+      "lat": 55.7823547,
+      "lon": 49.1242266
+    },
+    "uol": "Kazan, Russian Federation",
+    "gop": {
+      "lat": 55.7823547,
+      "lon": 49.1242266
+    },
+    "l": "WHO CARES",
+    "a": "dinaraparanid",
+    "nwo": "dinaraparanid/Cooking-Corner-KMP",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:34.569Z",
+    "tg": null
+  },
+  {
+    "uml": "Bronx, NY",
+    "gm": {
+      "lat": 40.8466508,
+      "lon": -73.8785937
+    },
+    "uol": "Bronx, NY",
+    "gop": {
+      "lat": 40.8466508,
+      "lon": -73.8785937
+    },
+    "l": "WHO CARES",
+    "a": "wilson382",
+    "nwo": "wilson382/offline-sync",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:36.620Z",
+    "tg": null
+  },
+  {
+    "uml": "N 52.507377 E 13.460589",
+    "gm": {
+      "lat": 52.5072035,
+      "lon": 13.459859871572936
+    },
+    "uol": "N 52.507377 E 13.460589",
+    "gop": {
+      "lat": 52.5072035,
+      "lon": 13.459859871572936
+    },
+    "l": "WHO CARES",
+    "a": "eserte",
+    "nwo": "Leont/io-async-loop-epoll-fd",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:39.947Z",
+    "tg": null
+  },
+  {
+    "uml": "AMRAVATI",
+    "gm": {
+      "lat": 20.981485,
+      "lon": 77.799985374555
+    },
+    "uol": "AMRAVATI",
+    "gop": {
+      "lat": 20.981485,
+      "lon": 77.799985374555
+    },
+    "l": "WHO CARES",
+    "a": "NehaKatkhede16",
+    "nwo": "PHCoder05/Blog",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:43.599Z",
+    "tg": null
+  },
+  {
+    "uml": "NYC",
+    "gm": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    },
+    "uol": "NYC",
+    "gop": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    },
+    "l": "WHO CARES",
+    "a": "bryantbiggs",
+    "nwo": "bryantbiggs/terraform-aws-eks-pod-identity",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:48.699Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": 47.59397,
+      "lon": 14.12456
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": 47.59397,
+      "lon": 14.12456
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:51.776Z",
+    "tg": null
+  },
+  {
+    "uml": "Vigo",
+    "gm": {
+      "lat": 42.2376602,
+      "lon": -8.7247205
+    },
+    "uol": "Vigo",
+    "gop": {
+      "lat": 42.2376602,
+      "lon": -8.7247205
+    },
+    "l": "WHO CARES",
+    "a": "DavidRigueira",
+    "nwo": "DavidRigueira/PuntuacionesBackend",
+    "pr": 0,
+    "ma": "2024-07-21T16:28:31Z",
+    "oa": "2024-07-21T16:33:55.767Z",
+    "tg": null
+  },
+  {
+    "uml": "Canada",
+    "gm": {
+      "lat": 61.0666922,
+      "lon": -107.991707
+    },
+    "uol": "Canada",
+    "gop": {
+      "lat": 61.0666922,
+      "lon": -107.991707
+    },
+    "l": "WHO CARES",
+    "a": "kaushalkoladiya",
+    "nwo": "kaushalkoladiya/pi-learning",
+    "pr": 0,
+    "ma": "2024-07-21T16:29:32Z",
+    "oa": "2024-07-21T16:34:36.525Z",
+    "tg": null
+  },
+  {
+    "uml": "Казахстан",
+    "gm": {
+      "lat": 48.1012954,
+      "lon": 66.7780818
+    },
+    "uol": "Казахстан",
+    "gop": {
+      "lat": 48.1012954,
+      "lon": 66.7780818
+    },
+    "l": "WHO CARES",
+    "a": "Vladislav4KZ",
+    "nwo": "FWGS/xash3d-fwgs",
+    "pr": 0,
+    "ma": "2024-07-21T16:29:32Z",
+    "oa": "2024-07-21T16:34:43.319Z",
+    "tg": null
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": 35.000074,
+      "lon": 104.999927
+    },
+    "uol": "China",
+    "gop": {
+      "lat": 35.000074,
+      "lon": 104.999927
+    },
+    "l": "WHO CARES",
+    "a": "githubH4ck",
+    "nwo": "sinsinology/CVE-2024-4885",
+    "pr": 0,
+    "ma": "2024-07-21T16:29:31Z",
+    "oa": "2024-07-21T16:34:45.430Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco",
+    "gm": {
+      "lat": 37.7792588,
+      "lon": -122.4193286
+    },
+    "uol": "San Francisco",
+    "gop": {
+      "lat": 37.7792588,
+      "lon": -122.4193286
+    },
+    "l": "WHO CARES",
+    "a": "mrhooray",
+    "nwo": "typst/typst",
+    "pr": 0,
+    "ma": "2024-07-21T16:29:31Z",
+    "oa": "2024-07-21T16:34:46.565Z",
+    "tg": null
+  },
+  {
+    "uml": "Vigo",
+    "gm": {
+      "lat": 42.2376602,
+      "lon": -8.7247205
+    },
+    "uol": "Vigo",
+    "gop": {
+      "lat": 42.2376602,
+      "lon": -8.7247205
+    },
+    "l": "WHO CARES",
+    "a": "DavidRigueira",
+    "nwo": "DavidRigueira/PuntuacionesBackend",
+    "pr": 0,
+    "ma": "2024-07-21T16:29:31Z",
+    "oa": "2024-07-21T16:34:54.339Z",
+    "tg": null
+  },
+  {
+    "uml": "Ukraine",
+    "gm": {
+      "lat": 49.4871968,
+      "lon": 31.2718321
+    },
+    "uol": "Ukraine",
+    "gop": {
+      "lat": 49.4871968,
+      "lon": 31.2718321
+    },
+    "l": "WHO CARES",
+    "a": "DimaYankovskiy",
+    "nwo": "mate-academy/py-taxi-service-search-and-tests",
+    "pr": 0,
+    "ma": "2024-07-21T16:32:05Z",
+    "oa": "2024-07-21T16:37:09.923Z",
+    "tg": null
+  },
+  {
+    "uml": "Noida, India",
+    "gm": {
+      "lat": 28.5706333,
+      "lon": 77.3272147
+    },
+    "uol": "Noida, India",
+    "gop": {
+      "lat": 28.5706333,
+      "lon": 77.3272147
+    },
+    "l": "WHO CARES",
+    "a": "Shantam010",
+    "nwo": "Shantam010/Chess-Android-App",
+    "pr": 0,
+    "ma": "2024-07-21T16:32:05Z",
+    "oa": "2024-07-21T16:37:25.076Z",
+    "tg": null
+  },
+  {
+    "uml": "Santa Fe, NM",
+    "gm": {
+      "lat": 35.6876096,
+      "lon": -105.938456
+    },
+    "uol": "Santa Fe, NM",
+    "gop": {
+      "lat": 35.6876096,
+      "lon": -105.938456
+    },
+    "l": "WHO CARES",
+    "a": "TylerGillson",
+    "nwo": "validator-labs/validator-plugin-network",
+    "pr": 0,
+    "ma": "2024-07-21T16:32:05Z",
+    "oa": "2024-07-21T16:37:32.042Z",
+    "tg": null
+  },
+  {
+    "uml": "Rognac, France",
+    "gm": {
+      "lat": 43.4872341,
+      "lon": 5.2342903
+    },
+    "uol": "Rognac, France",
+    "gop": {
+      "lat": 43.4872341,
+      "lon": 5.2342903
+    },
+    "l": "WHO CARES",
+    "a": "Arthapz",
+    "nwo": "Arthapz/xmake",
+    "pr": 0,
+    "ma": "2024-07-21T16:33:06Z",
+    "oa": "2024-07-21T16:38:05.734Z",
+    "tg": null
+  },
+  {
+    "uml": "São Paulo",
+    "gm": {
+      "lat": -23.5506507,
+      "lon": -46.6333824
+    },
+    "uol": "São Paulo",
+    "gop": {
+      "lat": -23.5506507,
+      "lon": -46.6333824
+    },
+    "l": "WHO CARES",
+    "a": "tauanesales",
+    "nwo": "tauanesales/Sistema-PGCop-UFBA",
+    "pr": 0,
+    "ma": "2024-07-21T16:33:05Z",
+    "oa": "2024-07-21T16:38:11.785Z",
+    "tg": null
+  },
+  {
+    "uml": "Westerwald, RLP, Germany",
+    "gm": {
+      "lat": 50.5573089,
+      "lon": 7.773217693197179
+    },
+    "uol": "Westerwald, RLP, Germany",
+    "gop": {
+      "lat": 50.5573089,
+      "lon": 7.773217693197179
+    },
+    "l": "WHO CARES",
+    "a": "svenjacobs",
+    "nwo": "syncthing/syncthing",
+    "pr": 0,
+    "ma": "2024-07-21T16:33:06Z",
+    "oa": "2024-07-21T16:38:16.484Z",
+    "tg": null
+  },
+  {
+    "uml": "Java",
+    "gm": {
+      "lat": -6.71150765,
+      "lon": 110.63371366935611
+    },
+    "uol": "Java",
+    "gop": {
+      "lat": -6.71150765,
+      "lon": 110.63371366935611
+    },
+    "l": "WHO CARES",
+    "a": "comiplae",
+    "nwo": "Hex27/TerraformGenerator",
+    "pr": 0,
+    "ma": "2024-07-21T16:33:06Z",
+    "oa": "2024-07-21T16:38:17.610Z",
+    "tg": null
+  },
+  {
+    "uml": "São Paulo",
+    "gm": {
+      "lat": -23.5506507,
+      "lon": -46.6333824
+    },
+    "uol": "São Paulo",
+    "gop": {
+      "lat": -23.5506507,
+      "lon": -46.6333824
+    },
+    "l": "WHO CARES",
+    "a": "tauanesales",
+    "nwo": "tauanesales/Sistema-PGCop-UFBA",
+    "pr": 0,
+    "ma": "2024-07-21T16:33:06Z",
+    "oa": "2024-07-21T16:38:18.532Z",
+    "tg": null
+  },
+  {
+    "uml": "Mogi Das Cruzes",
+    "gm": {
+      "lat": -23.5234284,
+      "lon": -46.1926671
+    },
+    "uol": "Mogi Das Cruzes",
+    "gop": {
+      "lat": -23.5234284,
+      "lon": -46.1926671
+    },
+    "l": "WHO CARES",
+    "a": "IgorGuariroba",
+    "nwo": "IgorGuariroba/clone-tabnews",
+    "pr": 0,
+    "ma": "2024-07-21T16:33:06Z",
+    "oa": "2024-07-21T16:38:29.694Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": 39.7837304,
+      "lon": -100.445882
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": 39.7837304,
+      "lon": -100.445882
+    },
+    "l": "WHO CARES",
+    "a": "Shaneajm",
+    "nwo": "themanafov/nucelo",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:06Z",
+    "oa": "2024-07-21T16:39:11.063Z",
+    "tg": null
+  },
+  {
+    "uml": "São Paulo",
+    "gm": {
+      "lat": -23.5506507,
+      "lon": -46.6333824
+    },
+    "uol": "São Paulo",
+    "gop": {
+      "lat": -23.5506507,
+      "lon": -46.6333824
+    },
+    "l": "WHO CARES",
+    "a": "misterclayt0n",
+    "nwo": "pedropark99/zig-book",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:06Z",
+    "oa": "2024-07-21T16:39:12.011Z",
+    "tg": null
+  },
+  {
+    "uml": "187 Strassenkatzen",
+    "gm": {
+      "lat": 52.337559,
+      "lon": 9.731313
+    },
+    "uol": "187 Strassenkatzen",
+    "gop": {
+      "lat": 52.337559,
+      "lon": 9.731313
+    },
+    "l": "WHO CARES",
+    "a": "vaginessa",
+    "nwo": "alexvarboffin/FW-ddumper",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:06Z",
+    "oa": "2024-07-21T16:39:23.148Z",
+    "tg": null
+  },
+  {
+    "uml": "Sweden",
+    "gm": {
+      "lat": 59.6749712,
+      "lon": 14.5208584
+    },
+    "uol": "Sweden",
+    "gop": {
+      "lat": 59.6749712,
+      "lon": 14.5208584
+    },
+    "l": "WHO CARES",
+    "a": "Ragowit",
+    "nwo": "Ragowit/psn100",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:06Z",
+    "oa": "2024-07-21T16:39:25.195Z",
+    "tg": null
+  },
+  {
+    "uml": "Barcelona",
+    "gm": {
+      "lat": 41.3828939,
+      "lon": 2.1774322
+    },
+    "uol": "Barcelona",
+    "gop": {
+      "lat": 41.3828939,
+      "lon": 2.1774322
+    },
+    "l": "WHO CARES",
+    "a": "ngomezcn",
+    "nwo": "kendreambelieertU/FREE-HWID-SPOOFER",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:06Z",
+    "oa": "2024-07-21T16:39:26.423Z",
+    "tg": null
+  },
+  {
+    "uml": "Toronto, Ontario",
+    "gm": {
+      "lat": 43.6534817,
+      "lon": -79.3839347
+    },
+    "uol": "Toronto, Ontario",
+    "gop": {
+      "lat": 43.6534817,
+      "lon": -79.3839347
+    },
+    "l": "WHO CARES",
+    "a": "saad-afridi",
+    "nwo": "kendreambelieertU/FREE-HWID-SPOOFER",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:06Z",
+    "oa": "2024-07-21T16:39:28.268Z",
+    "tg": null
+  },
+  {
+    "uml": "Sobral - CE",
+    "gm": {
+      "lat": -3.6879135,
+      "lon": -40.3456372
+    },
+    "uol": "Sobral - CE",
+    "gop": {
+      "lat": -3.6879135,
+      "lon": -40.3456372
+    },
+    "l": "WHO CARES",
+    "a": "VictorEdu-Dev",
+    "nwo": "kendreambelieertU/FREE-HWID-SPOOFER",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:05Z",
+    "oa": "2024-07-21T16:39:30.224Z",
+    "tg": null
+  },
+  {
+    "uml": "Sorocaba - SP",
+    "gm": {
+      "lat": -23.5003451,
+      "lon": -47.4582864
+    },
+    "uol": "Sorocaba - SP",
+    "gop": {
+      "lat": -23.5003451,
+      "lon": -47.4582864
+    },
+    "l": "WHO CARES",
+    "a": "maridadalto",
+    "nwo": "kendreambelieertU/FREE-HWID-SPOOFER",
+    "pr": 0,
+    "ma": "2024-07-21T16:34:05Z",
+    "oa": "2024-07-21T16:39:34.108Z",
+    "tg": null
   }
 ]
