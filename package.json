@@ -8,8 +8,8 @@
   },
   "scripts": {
     "dev": "set NODE_OPTIONS=--openssl-legacy-provider && webpack-dev-server --config webpack-dev.config.js",
-    "release:windows": "set NODE_OPTIONS=--openssl-legacy-provider && webpack --config webpack-release.config.js && cp data.json ./bin && npx gh-pages -d bin/",
-    "release:unix": "NODE_OPTIONS=--openssl-legacy-provider webpack --config webpack-release.config.js && cp data.json ./bin && npx gh-pages -d bin/"
+    "release:windows": "set NODE_OPTIONS=--openssl-legacy-provider && webpack --config webpack-release.config.js && cp data.json ./bin && set NODE_DEBUG=gh-pages && npx gh-pages -d bin/",
+    "release:unix": "NODE_OPTIONS=--openssl-legacy-provider webpack --config webpack-release.config.js && cp data.json ./bin && NODE_DEBUG=gh-pages npx gh-pages -d bin/"
   },
   "keywords": [],
   "author": "",
