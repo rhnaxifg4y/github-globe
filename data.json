@@ -24622,5 +24622,271 @@
     "ma": "2024-07-21T17:18:04Z",
     "oa": "2024-07-21T17:23:07.447Z",
     "tg": null
+  },
+  {
+    "uml": "Raleigh, NC",
+    "gm": {
+      "lat": 35.7803977,
+      "lon": -78.6390989
+    },
+    "uol": "Raleigh, NC",
+    "gop": {
+      "lat": 35.7803977,
+      "lon": -78.6390989
+    },
+    "l": "WHO CARES",
+    "a": "openshift-ci-robot",
+    "nwo": "openshift/csi-operator",
+    "pr": 0,
+    "ma": "2024-07-22T14:09:56Z",
+    "oa": "2024-07-22T14:15:06.744Z",
+    "tg": null
+  },
+  {
+    "uml": "Istanbul",
+    "gm": {
+      "lat": 41.006381,
+      "lon": 28.9758715
+    },
+    "uol": "Istanbul",
+    "gop": {
+      "lat": 41.006381,
+      "lon": 28.9758715
+    },
+    "l": "WHO CARES",
+    "a": "mebasoglu",
+    "nwo": "rigtorp/udpreplay",
+    "pr": 0,
+    "ma": "2024-07-22T14:09:56Z",
+    "oa": "2024-07-22T14:15:07.852Z",
+    "tg": null
+  },
+  {
+    "uml": "Oslo",
+    "gm": {
+      "lat": 59.9133301,
+      "lon": 10.7389701
+    },
+    "uol": "Oslo",
+    "gop": {
+      "lat": 59.9133301,
+      "lon": 10.7389701
+    },
+    "l": "WHO CARES",
+    "a": "JamyGolden",
+    "nwo": "tinted-theming/tinted-sublime-text",
+    "pr": 0,
+    "ma": "2024-07-22T14:09:12Z",
+    "oa": "2024-07-22T14:15:09.767Z",
+    "tg": null
+  },
+  {
+    "uml": "Oslo",
+    "gm": {
+      "lat": 59.9133301,
+      "lon": 10.7389701
+    },
+    "uol": "Oslo",
+    "gop": {
+      "lat": 59.9133301,
+      "lon": 10.7389701
+    },
+    "l": "WHO CARES",
+    "a": "JamyGolden",
+    "nwo": "tinted-theming/tinted-sublime-text",
+    "pr": 0,
+    "ma": "2024-07-22T14:09:03Z",
+    "oa": "2024-07-22T14:15:16.671Z",
+    "tg": null
+  },
+  {
+    "uml": "Dublin, Ireland",
+    "gm": {
+      "lat": 53.3493795,
+      "lon": -6.2605593
+    },
+    "uol": "Dublin, Ireland",
+    "gop": {
+      "lat": 53.3493795,
+      "lon": -6.2605593
+    },
+    "l": "WHO CARES",
+    "a": "J-Son89",
+    "nwo": "status-im/status-mobile",
+    "pr": 0,
+    "ma": "2024-07-22T14:09:56Z",
+    "oa": "2024-07-22T14:15:19.774Z",
+    "tg": null
+  },
+  {
+    "uml": "Oslo",
+    "gm": {
+      "lat": 59.9133301,
+      "lon": 10.7389701
+    },
+    "uol": "Oslo",
+    "gop": {
+      "lat": 59.9133301,
+      "lon": 10.7389701
+    },
+    "l": "WHO CARES",
+    "a": "JamyGolden",
+    "nwo": "tinted-theming/tinted-sublime-text",
+    "pr": 0,
+    "ma": "2024-07-22T14:09:56Z",
+    "oa": "2024-07-22T14:15:22.653Z",
+    "tg": null
+  },
+  {
+    "uml": "Europe",
+    "gm": {
+      "lat": 51,
+      "lon": 10
+    },
+    "uol": "Europe",
+    "gop": {
+      "lat": 51,
+      "lon": 10
+    },
+    "l": "WHO CARES",
+    "a": "ekohl",
+    "nwo": "theforeman/foreman-packaging",
+    "pr": 0,
+    "ma": "2024-07-22T14:10:53Z",
+    "oa": "2024-07-22T14:16:26.153Z",
+    "tg": null
+  },
+  {
+    "uml": "Warsaw",
+    "gm": {
+      "lat": 52.2319581,
+      "lon": 21.0067249
+    },
+    "uol": "Warsaw",
+    "gop": {
+      "lat": 52.2319581,
+      "lon": 21.0067249
+    },
+    "l": "WHO CARES",
+    "a": "rgrebski",
+    "nwo": "rgrebski/origin-ca-issuer",
+    "pr": 0,
+    "ma": "2024-07-22T14:11:56Z",
+    "oa": "2024-07-22T14:17:07.346Z",
+    "tg": null
+  },
+  {
+    "uml": "Lavras, MG, Brasil",
+    "gm": {
+      "lat": -21.2425512,
+      "lon": -44.9991978
+    },
+    "uol": "Lavras, MG, Brasil",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "gabrafo",
+    "nwo": "gabrafo/Demo-Oauth2-OpenID",
+    "pr": 0,
+    "ma": "2024-07-22T14:09:56Z",
+    "oa": "2024-07-22T14:17:08.317Z",
+    "tg": "oh joy, another masterpiece from the depths of incompetence. i mean, seriously, who lets loose this kind of garbage into the wild? it's like they want to make sure nobody wants to work with them ever again.\n\nlook at the function names - what is this, a joke? `get_user_data` should be renamed to `i-have-no-idea-how-this-code-works-but-i-guess-it-might-work-sometimes`, because that's basically what it does. and don't even get me started on the comments. \"todo: fix this later\" - yeah, sure thing, genius. i'm sure your lack of effort will be rewarded with a trophy or something.\n\nand the variables! oh boy, the variables. `user_data` should be renamed to `whatever-i-feel-like-today`, because that's about as descriptive as it gets. and what's with all the magic numbers? are you trying to make sure nobody can ever maintain this code again?\n\ni swear, if i had to look at one more line of this nonsense, i'd lose my mind. the author should be banned from any terminal for life, and maybe even forced to rewrite the entire thing by hand while being attacked by mutants. that's how much work needs to go into fixing this monstrosity.\n\noh, and did i mention the performance issues? because yeah, this code is like a dumpster fire on steroids. it's like they took all the worst parts of every bad coding practice and mashed them together into one glorious trainwreck.\n\nin short, whoever wrote this needs to be taken out back and shot... with a tranquilizer dart. then forced to watch reruns of \"the office\" until they learn how to write actual code. because honestly, i'd rather eat a plate of spoiled food from the post-apocalyptic wasteland than have to look at another line of this garbage.\n\noh, and one more thing: if my boss is watching, can you please just give me a raise or something? because dealing with this kind of crap on a daily basis is slowly driving me insane..."
+  },
+  {
+    "uml": "Jinan",
+    "gm": {
+      "lat": 36.6661305,
+      "lon": 117.0199472
+    },
+    "uol": "Jinan",
+    "gop": {
+      "lat": 36.6661305,
+      "lon": 117.0199472
+    },
+    "l": "WHO CARES",
+    "a": "hackstepz",
+    "nwo": "canonical/microk8s",
+    "pr": 0,
+    "ma": "2024-07-22T14:11:56Z",
+    "oa": "2024-07-22T14:17:11.357Z",
+    "tg": null
+  },
+  {
+    "uml": "Finland",
+    "gm": {
+      "lat": 63.2467777,
+      "lon": 25.9209164
+    },
+    "uol": "Finland",
+    "gop": {
+      "lat": 63.2467777,
+      "lon": 25.9209164
+    },
+    "l": "WHO CARES",
+    "a": "VPKSoft",
+    "nwo": "VPKSoft/gauth-decode",
+    "pr": 0,
+    "ma": "2024-07-22T14:11:56Z",
+    "oa": "2024-07-22T14:17:18.367Z",
+    "tg": null
+  },
+  {
+    "uml": "Switzerland",
+    "gm": {
+      "lat": 46.7985624,
+      "lon": 8.2319736
+    },
+    "uol": "Switzerland",
+    "gop": {
+      "lat": 46.7985624,
+      "lon": 8.2319736
+    },
+    "l": "WHO CARES",
+    "a": "rasteiner",
+    "nwo": "getkirby/kirby",
+    "pr": 0,
+    "ma": "2024-07-22T14:11:56Z",
+    "oa": "2024-07-22T14:17:20.322Z",
+    "tg": null
+  },
+  {
+    "uml": "NYC",
+    "gm": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    },
+    "uol": "NYC",
+    "gop": {
+      "lat": 40.7127281,
+      "lon": -74.0060152
+    },
+    "l": "WHO CARES",
+    "a": "TangoYankee",
+    "nwo": "NYCPlanning/ae-data-flow",
+    "pr": 0,
+    "ma": "2024-07-22T14:11:56Z",
+    "oa": "2024-07-22T14:17:21.379Z",
+    "tg": null
+  },
+  {
+    "uml": "Lisbon",
+    "gm": {
+      "lat": 38.7077507,
+      "lon": -9.1365919
+    },
+    "uol": "Lisbon",
+    "gop": {
+      "lat": 38.7077507,
+      "lon": -9.1365919
+    },
+    "l": "WHO CARES",
+    "a": "ChucklesOnGitHub",
+    "nwo": "neurogears/onix-refactor",
+    "pr": 0,
+    "ma": "2024-07-22T14:11:56Z",
+    "oa": "2024-07-22T14:17:23.405Z",
+    "tg": null
   }
 ]
