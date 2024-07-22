@@ -27282,5 +27282,138 @@
     "ma": "2024-07-22T19:43:32Z",
     "oa": "2024-07-22T19:48:48.814Z",
     "tg": null
+  },
+  {
+    "uml": "Punta del Este, Uruguay.",
+    "gm": {
+      "lat": -34.9632342,
+      "lon": -54.9439981
+    },
+    "uol": "Punta del Este, Uruguay.",
+    "gop": {
+      "lat": -34.9632342,
+      "lon": -54.9439981
+    },
+    "l": "WHO CARES",
+    "a": "Joaco4200",
+    "nwo": "gbrizu/success-cases",
+    "pr": 0,
+    "ma": "2024-07-22T21:23:46Z",
+    "oa": "2024-07-22T21:28:47.071Z",
+    "tg": null
+  },
+  {
+    "uml": "Berlin, Germany",
+    "gm": {
+      "lat": 52.5170365,
+      "lon": 13.3888599
+    },
+    "uol": "Berlin, Germany",
+    "gop": {
+      "lat": 52.5170365,
+      "lon": 13.3888599
+    },
+    "l": "WHO CARES",
+    "a": "tuliobluz",
+    "nwo": "ONEARMY/community-platform",
+    "pr": 0,
+    "ma": "2024-07-22T21:23:46Z",
+    "oa": "2024-07-22T21:29:15.027Z",
+    "tg": null
+  },
+  {
+    "uml": "Philadelphia, PA",
+    "gm": {
+      "lat": 39.9527237,
+      "lon": -75.1635262
+    },
+    "uol": "Philadelphia, PA",
+    "gop": {
+      "lat": 39.9527237,
+      "lon": -75.1635262
+    },
+    "l": "WHO CARES",
+    "a": "ryanSoley",
+    "nwo": "capitalone/rubicon-ml",
+    "pr": 0,
+    "ma": "2024-07-22T21:23:46Z",
+    "oa": "2024-07-22T21:29:15.934Z",
+    "tg": null
+  },
+  {
+    "uml": "Bellinzona, Switzerland",
+    "gm": {
+      "lat": 46.1920538,
+      "lon": 9.0205888
+    },
+    "uol": "Bellinzona, Switzerland",
+    "gop": {
+      "lat": 46.1920538,
+      "lon": 9.0205888
+    },
+    "l": "WHO CARES",
+    "a": "siovene",
+    "nwo": "astrobin/astrobin-ng",
+    "pr": 0,
+    "ma": "2024-07-22T21:24:46Z",
+    "oa": "2024-07-22T21:29:53.438Z",
+    "tg": null
+  },
+  {
+    "uml": "The Netherlands",
+    "gm": {
+      "lat": 52.24764975,
+      "lon": 5.541246849406163
+    },
+    "uol": "The Netherlands",
+    "gop": {
+      "lat": 52.24764975,
+      "lon": 5.541246849406163
+    },
+    "l": "WHO CARES",
+    "a": "QNimbus",
+    "nwo": "tainrs/radarr",
+    "pr": 0,
+    "ma": "2024-07-22T21:24:46Z",
+    "oa": "2024-07-22T21:30:05.449Z",
+    "tg": null
+  },
+  {
+    "uml": "Havana",
+    "gm": {
+      "lat": 23.135305,
+      "lon": -82.3589631
+    },
+    "uol": "Havana",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "carloshdez522",
+    "nwo": "carloshdez522/RNN-in-Bioinformatics",
+    "pr": 0,
+    "ma": "2024-07-22T21:23:46Z",
+    "oa": "2024-07-22T21:30:17.645Z",
+    "tg": "*ahem*\n\nIn Havana's ruins, I gaze\nUpon code that defies sense,\nMadness amidst ash.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Roche sur Yon | Lannion",
+    "gm": {
+      "lat": 48.731194,
+      "lon": -3.459417
+    },
+    "uol": "Roche sur Yon | Lannion",
+    "gop": {
+      "lat": 48.731194,
+      "lon": -3.459417
+    },
+    "l": "WHO CARES",
+    "a": "thekester",
+    "nwo": "kvos/CoastSat",
+    "pr": 0,
+    "ma": "2024-07-22T21:25:47Z",
+    "oa": "2024-07-22T21:30:55.190Z",
+    "tg": null
   }
 ]
