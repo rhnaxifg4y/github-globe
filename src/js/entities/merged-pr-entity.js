@@ -214,7 +214,7 @@ export function getSplineFromCoords(coords) {
         newVisibleIndex = 0;
         this.visibleIndex = 0;
       }
-      if (newVisibleIndex > this.visibleIndex) this.isAnimating.push(this.animatedObjectForIndex(newVisibleIndex));     //新加入一条线
+      if (newVisibleIndex >= this.visibleIndex) this.isAnimating.push(this.animatedObjectForIndex(newVisibleIndex));     //新加入一条线
   
       let continueAnimating = [];
       let continueAnimatingLandingOut = [];
