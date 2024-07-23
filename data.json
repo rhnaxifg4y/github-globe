@@ -29391,5 +29391,328 @@
     "ma": "2024-07-23T10:43:00Z",
     "oa": "2024-07-23T10:48:22.562Z",
     "tg": null
+  },
+  {
+    "uml": "Denver CO",
+    "gm": {
+      "lat": 39.775168,
+      "lon": -105.024387
+    },
+    "uol": "Denver CO",
+    "gop": {
+      "lat": 39.775168,
+      "lon": -105.024387
+    },
+    "l": "WHO CARES",
+    "a": "chillbuilds",
+    "nwo": "chillbuilds/pusher-test",
+    "pr": 0,
+    "ma": "2024-07-23T17:27:17Z",
+    "oa": "2024-07-23T17:32:48.215Z",
+    "tg": null
+  },
+  {
+    "uml": "Kanpur, Uttar Pradesh, India",
+    "gm": {
+      "lat": 26.4609135,
+      "lon": 80.3217588
+    },
+    "uol": "Kanpur, Uttar Pradesh, India",
+    "gop": {
+      "lat": 26.4609135,
+      "lon": 80.3217588
+    },
+    "l": "WHO CARES",
+    "a": "Ayushverma135",
+    "nwo": "Ayushverma135/AudFake-AI-Audio-Generator",
+    "pr": 0,
+    "ma": "2024-07-23T17:27:17Z",
+    "oa": "2024-07-23T17:32:48.685Z",
+    "tg": null
+  },
+  {
+    "uml": "Waterloo, ON",
+    "gm": {
+      "lat": 43.4652699,
+      "lon": -80.5222961
+    },
+    "uol": "Waterloo, ON",
+    "gop": {
+      "lat": 43.4652699,
+      "lon": -80.5222961
+    },
+    "l": "WHO CARES",
+    "a": "allek6496",
+    "nwo": "LukasMartini/poker-replay",
+    "pr": 0,
+    "ma": "2024-07-23T17:28:18Z",
+    "oa": "2024-07-23T17:33:27.468Z",
+    "tg": null
+  },
+  {
+    "uml": "Olomouc, Czech Republic",
+    "gm": {
+      "lat": 49.5940567,
+      "lon": 17.251143
+    },
+    "uol": "Olomouc, Czech Republic",
+    "gop": {
+      "lat": 49.5940567,
+      "lon": 17.251143
+    },
+    "l": "WHO CARES",
+    "a": "romy63ru",
+    "nwo": "romy63ru/MarsCorp",
+    "pr": 0,
+    "ma": "2024-07-23T17:28:18Z",
+    "oa": "2024-07-23T17:33:31.140Z",
+    "tg": null
+  },
+  {
+    "uml": "Texas",
+    "gm": {
+      "lat": 31.2638905,
+      "lon": -98.5456116
+    },
+    "uol": "Texas",
+    "gop": {
+      "lat": 31.2638905,
+      "lon": -98.5456116
+    },
+    "l": "WHO CARES",
+    "a": "epage",
+    "nwo": "epage/snapbox",
+    "pr": 0,
+    "ma": "2024-07-23T17:28:18Z",
+    "oa": "2024-07-23T17:33:37.337Z",
+    "tg": null
+  },
+  {
+    "uml": "Milky Way Galaxy",
+    "gm": {
+      "lat": 5.5255975,
+      "lon": -0.700131
+    },
+    "uol": "Milky Way Galaxy",
+    "gop": {
+      "lat": 5.5255975,
+      "lon": -0.700131
+    },
+    "l": "WHO CARES",
+    "a": "mastermach50",
+    "nwo": "mastermach50/firefox-lumina",
+    "pr": 0,
+    "ma": "2024-07-23T17:28:18Z",
+    "oa": "2024-07-23T17:33:39.582Z",
+    "tg": null
+  },
+  {
+    "uml": "Sofia, Bulgaria",
+    "gm": {
+      "lat": 42.6977028,
+      "lon": 23.3217359
+    },
+    "uol": "Sofia, Bulgaria",
+    "gop": {
+      "lat": 42.6977028,
+      "lon": 23.3217359
+    },
+    "l": "WHO CARES",
+    "a": "karastoyanov",
+    "nwo": "karastoyanov/JSF-DIW",
+    "pr": 0,
+    "ma": "2024-07-23T17:29:21Z",
+    "oa": "2024-07-23T17:34:31.855Z",
+    "tg": null
+  },
+  {
+    "uml": "fulham",
+    "gm": {
+      "lat": 51.4744221,
+      "lon": -0.2060772
+    },
+    "uol": "fulham",
+    "gop": {
+      "lat": 51.4744221,
+      "lon": -0.2060772
+    },
+    "l": "WHO CARES",
+    "a": "shelovi",
+    "nwo": "2dust/v2rayNG",
+    "pr": 0,
+    "ma": "2024-07-23T17:29:21Z",
+    "oa": "2024-07-23T17:34:49.870Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle",
+    "gm": {
+      "lat": 47.6038321,
+      "lon": -122.330062
+    },
+    "uol": "Seattle",
+    "gop": {
+      "lat": 47.6038321,
+      "lon": -122.330062
+    },
+    "l": "WHO CARES",
+    "a": "martinamorris",
+    "nwo": "statnet/ergm",
+    "pr": 0,
+    "ma": "2024-07-23T17:30:23Z",
+    "oa": "2024-07-23T17:35:25.376Z",
+    "tg": null
+  },
+  {
+    "uml": "Recife, PE",
+    "gm": {
+      "lat": -8.0584933,
+      "lon": -34.8848193
+    },
+    "uol": "Recife, PE",
+    "gop": {
+      "lat": -8.0584933,
+      "lon": -34.8848193
+    },
+    "l": "WHO CARES",
+    "a": "nrc2",
+    "nwo": "ribeirowski/niapixelshow",
+    "pr": 0,
+    "ma": "2024-07-23T17:30:23Z",
+    "oa": "2024-07-23T17:35:26.856Z",
+    "tg": null
+  },
+  {
+    "uml": "Canada",
+    "gm": {
+      "lat": 61.0666922,
+      "lon": -107.991707
+    },
+    "uol": "Canada",
+    "gop": {
+      "lat": 61.0666922,
+      "lon": -107.991707
+    },
+    "l": "WHO CARES",
+    "a": "Va1bhav07",
+    "nwo": "speer-technologies/aircall",
+    "pr": 0,
+    "ma": "2024-07-23T17:30:23Z",
+    "oa": "2024-07-23T17:35:30.342Z",
+    "tg": null
+  },
+  {
+    "uml": "Indonesia",
+    "gm": {
+      "lat": -2.4833826,
+      "lon": 117.8902853
+    },
+    "uol": "Indonesia",
+    "gop": {
+      "lat": -2.4833826,
+      "lon": 117.8902853
+    },
+    "l": "WHO CARES",
+    "a": "eseptiansyah15",
+    "nwo": "eseptiansyah15/Swisstronik",
+    "pr": 0,
+    "ma": "2024-07-23T17:30:23Z",
+    "oa": "2024-07-23T17:35:33.803Z",
+    "tg": null
+  },
+  {
+    "uml": "USA",
+    "gm": {
+      "lat": 39.7837304,
+      "lon": -100.445882
+    },
+    "uol": "USA",
+    "gop": {
+      "lat": 39.7837304,
+      "lon": -100.445882
+    },
+    "l": "WHO CARES",
+    "a": "revot334",
+    "nwo": "ZerioDev/Music-bot",
+    "pr": 0,
+    "ma": "2024-07-23T17:30:23Z",
+    "oa": "2024-07-23T17:35:39.867Z",
+    "tg": null
+  },
+  {
+    "uml": "Minnesota",
+    "gm": {
+      "lat": 45.9896587,
+      "lon": -94.6113288
+    },
+    "uol": "Minnesota",
+    "gop": {
+      "lat": 33.3202138,
+      "lon": -2.4238471
+    },
+    "l": "WHO CARES",
+    "a": "bjhess",
+    "nwo": "bjhess/micro.bjhess.com",
+    "pr": 0,
+    "ma": "2024-07-23T17:27:17Z",
+    "oa": "2024-07-23T17:35:43.653Z",
+    "tg": "Oh for Pete's sake...\n\nHere's my attempt at a haiku:\n\nBuggy code abides\nRubble surrounds, still it lives\nFolly's monument\n\nTranslation: \"Youbetcha, this commit is a real mess, Minnesota!\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Netherlands",
+    "gm": {
+      "lat": 52.2434979,
+      "lon": 5.6343227
+    },
+    "uol": "Netherlands",
+    "gop": {
+      "lat": 52.2434979,
+      "lon": 5.6343227
+    },
+    "l": "WHO CARES",
+    "a": "Jason3S",
+    "nwo": "streetsidesoftware/vscode-spell-checker",
+    "pr": 0,
+    "ma": "2024-07-23T17:30:23Z",
+    "oa": "2024-07-23T17:35:46.915Z",
+    "tg": null
+  },
+  {
+    "uml": "xor rax",
+    "gm": {
+      "lat": 41.521966,
+      "lon": 60.506699
+    },
+    "uol": "xor rax",
+    "gop": {
+      "lat": 33.3202138,
+      "lon": -2.4238471
+    },
+    "l": "WHO CARES",
+    "a": "lxnky",
+    "nwo": "lxnky/Wampus-Internal-Updated",
+    "pr": 0,
+    "ma": "2024-07-23T17:27:17Z",
+    "oa": "2024-07-23T17:35:52.137Z",
+    "tg": "\"wow, i'm impressed. not really. i mean, it's not like we're rebuilding society or anything (although, honestly, this code is probably more useful than most of what we used to do). anyway, nice job on making me wonder how much longer i'll have to tolerate this dumpster fire.\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "San Diego",
+    "gm": {
+      "lat": 32.7174202,
+      "lon": -117.162772
+    },
+    "uol": "San Diego",
+    "gop": {
+      "lat": 32.7174202,
+      "lon": -117.162772
+    },
+    "l": "WHO CARES",
+    "a": "GrahamMThomas",
+    "nwo": "Azure/azure-sdk-for-python",
+    "pr": 0,
+    "ma": "2024-07-23T17:31:23Z",
+    "oa": "2024-07-23T17:36:36.010Z",
+    "tg": null
   }
 ]
