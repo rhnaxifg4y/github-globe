@@ -63154,5 +63154,290 @@
     "ma": "2024-07-27T06:23:31Z",
     "oa": "2024-07-27T06:28:56.946Z",
     "tg": null
+  },
+  {
+    "uml": "Dresden, Germany",
+    "gm": {
+      "lat": "51.0493286",
+      "lon": "13.7381437"
+    },
+    "uol": "Dresden, Germany",
+    "gop": {
+      "lat": "51.0493286",
+      "lon": "13.7381437"
+    },
+    "l": "WHO CARES",
+    "a": "richardboehme",
+    "nwo": "richardboehme/lexorank-demo",
+    "pr": 0,
+    "ma": "2024-07-27T09:13:29Z",
+    "oa": "2024-07-27T09:18:51.240Z",
+    "tg": null
+  },
+  {
+    "uml": "Ahmedabad,Gujarat,India",
+    "gm": {
+      "lat": "23.0216238",
+      "lon": "72.5797068"
+    },
+    "uol": "Ahmedabad,Gujarat,India",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Dhruvn-patel",
+    "nwo": "Dhruvn-patel/Netflix-App",
+    "pr": 0,
+    "ma": "2024-07-27T09:13:29Z",
+    "oa": "2024-07-27T09:19:17.316Z",
+    "tg": "I'm not sure what's more astonishing - that this code still compiles or that you managed to avoid getting eaten by the roving hordes of mutants outside. (kya baat hai, yaar? abhi toh kuch nahi ho raha, phir bhi hum coding kar rahe hain)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Osan",
+    "gm": {
+      "lat": "37.1499376",
+      "lon": "127.0774625"
+    },
+    "uol": "Osan",
+    "gop": {
+      "lat": "37.1499376",
+      "lon": "127.0774625"
+    },
+    "l": "WHO CARES",
+    "a": "chlwlstlf",
+    "nwo": "woowacourse-teams/2024-corea",
+    "pr": 0,
+    "ma": "2024-07-27T09:14:30Z",
+    "oa": "2024-07-27T09:19:45.431Z",
+    "tg": null
+  },
+  {
+    "uml": "Edinburgh, United Kingdom",
+    "gm": {
+      "lat": "55.9533456",
+      "lon": "-3.1883749"
+    },
+    "uol": "Edinburgh, United Kingdom",
+    "gop": {
+      "lat": "55.9533456",
+      "lon": "-3.1883749"
+    },
+    "l": "WHO CARES",
+    "a": "eigenraven",
+    "nwo": "GTNewHorizons/lwjgl3ify",
+    "pr": 0,
+    "ma": "2024-07-27T09:14:30Z",
+    "oa": "2024-07-27T09:19:50.297Z",
+    "tg": null
+  },
+  {
+    "uml": "Singapore",
+    "gm": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "uol": "Singapore",
+    "gop": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "l": "WHO CARES",
+    "a": "AaronZhouYu",
+    "nwo": "AaronZhouYu/atlas_scan",
+    "pr": 0,
+    "ma": "2024-07-27T09:14:30Z",
+    "oa": "2024-07-27T09:19:59.347Z",
+    "tg": null
+  },
+  {
+    "uml": "Sverige",
+    "gm": {
+      "lat": "59.6749712",
+      "lon": "14.5208584"
+    },
+    "uol": "Sverige",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "mrkickling",
+    "nwo": "mrkickling/rattuppgang-web",
+    "pr": 0,
+    "ma": "2024-07-27T09:13:29Z",
+    "oa": "2024-07-27T09:20:22.976Z",
+    "tg": "i'm not sure how much more of this i can take, sverige. \n\n(Note: The answer is written in all lowercase and is short, as per the instructions.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Ranipet, Tamilnadu",
+    "gm": {
+      "lat": "12.9292452",
+      "lon": "79.3321712"
+    },
+    "uol": "Ranipet, Tamilnadu",
+    "gop": {
+      "lat": "12.9292452",
+      "lon": "79.3321712"
+    },
+    "l": "WHO CARES",
+    "a": "Vinothkumar3",
+    "nwo": "Vinothkumar3/Digital-Agency",
+    "pr": 0,
+    "ma": "2024-07-27T09:15:30Z",
+    "oa": "2024-07-27T09:20:35.484Z",
+    "tg": null
+  },
+  {
+    "uml": "United States of America",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States of America",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "AVC-CS",
+    "nwo": "AVC-CS/avc-cs-110-lab-3-3-CS122L33",
+    "pr": 0,
+    "ma": "2024-07-27T09:15:30Z",
+    "oa": "2024-07-27T09:20:44.521Z",
+    "tg": null
+  },
+  {
+    "uml": "Switzerland",
+    "gm": {
+      "lat": "46.7985624",
+      "lon": "8.2319736"
+    },
+    "uol": "Switzerland",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "sthagen",
+    "nwo": "sthagen/mdn-content",
+    "pr": 0,
+    "ma": "2024-07-27T09:13:29Z",
+    "oa": "2024-07-27T09:21:58.207Z",
+    "tg": "ugh, seriously, what kind of monster does this commit even think they are? it's like they took every terrible habit and anti-pattern from the depths of the internet and mashed them all together into one big ball of awfulness. i mean, where do i even start?\n\nfirst off, the variable names are a joke. \"x\" and \"y\"? what are we, in kindergarten? can't you at least try to come up with something slightly more descriptive than a couple of meaningless letters? and don't even get me started on the indentation - it's like they just threw their hands up in the air and said \"screw it, i'm just gonna use 4 spaces instead of 2\". what kind of sadistic joy do you get from torturing other developers with your inconsistent whitespace?\n\nand the comments! oh boy, the comments. \"todo: fix this\" - really? that's not a comment, that's a to-do list for someone else. and don't even get me started on the code itself - it's like they took every terrible design decision from the past 10 years and mashed them all together into one big hot mess. i mean, seriously, how can you possibly defend this? it's like watching a train wreck in slow motion.\n\nand to top it all off, the commit message is just as bad. \"fixed bug\" - what, did you actually fix the bug or just move it around to some other part of the codebase? and don't even get me started on the lack of meaningful description. did you at least include a link to the issue tracker or something? nope, just a vague \"fixed bug\". what a joke.\n\nlisten, author of this commit, if i had to review one more piece of junk like this, i would lose my mind. seriously, get banned from any terminal for life. and don't even think about trying to defend your code - i could fix it with one hand tied behind my back while fighting off mutants in the streets outside. that's how bad it is.\n\n Switzerland - what a mess\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Bonn, Germany",
+    "gm": {
+      "lat": "50.735851",
+      "lon": "7.10066"
+    },
+    "uol": "Bonn, Germany",
+    "gop": {
+      "lat": "50.735851",
+      "lon": "7.10066"
+    },
+    "l": "WHO CARES",
+    "a": "marc-fouquet",
+    "nwo": "darktable-org/darktable",
+    "pr": 0,
+    "ma": "2024-07-27T09:17:30Z",
+    "oa": "2024-07-27T09:22:40.953Z",
+    "tg": null
+  },
+  {
+    "uml": "Auckland",
+    "gm": {
+      "lat": "-36.852095",
+      "lon": "174.7631803"
+    },
+    "uol": "Auckland",
+    "gop": {
+      "lat": "-36.852095",
+      "lon": "174.7631803"
+    },
+    "l": "WHO CARES",
+    "a": "bcho892",
+    "nwo": "UoaWDCC/uasc-web",
+    "pr": 0,
+    "ma": "2024-07-27T09:18:29Z",
+    "oa": "2024-07-27T09:23:43.065Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Rookie8294",
+    "nwo": "Rookie8294/study_algorithm",
+    "pr": 0,
+    "ma": "2024-07-27T09:14:30Z",
+    "oa": "2024-07-27T09:24:14.161Z",
+    "tg": "ugh, seriously, what kind of garbage is this?! the author of this monstrosity should be banished from all terminals and forced to survive in the wasteland alone. i mean, who writes code like this? it's like they're intentionally trying to make my eyes bleed.\n\nlook at these [object Object] lines - are you kidding me?! those aren't even proper commits! what kind of half-baked nonsense is this?! and don't even get me started on the variable names. \"mutant_slayer\"?! are you trying to be funny or something?! newsflash: no one finds humor in this kind of crap.\n\nand the worst part is, i could fix all this drivel with one hand tied behind my back while fighting off actual mutants with the other. seriously, what's wrong with these people? do they think we're running a charity here?!\n\nlisten up, author of this trainwreck: if you can't write code that doesn't make me want to pull my hair out, then maybe you should just stick to scavenging for canned goods in seoul like everyone else.\n\noh, and btw, [object Object] is not even proper syntax. what kind of joke is this?!\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Visakhapatnam",
+    "gm": {
+      "lat": "17.7231276",
+      "lon": "83.3012842"
+    },
+    "uol": "Visakhapatnam",
+    "gop": {
+      "lat": "17.7231276",
+      "lon": "83.3012842"
+    },
+    "l": "WHO CARES",
+    "a": "leelavardhan1002",
+    "nwo": "leelavardhan1002/dms-frontend",
+    "pr": 0,
+    "ma": "2024-07-27T09:19:30Z",
+    "oa": "2024-07-27T09:24:32.229Z",
+    "tg": null
+  },
+  {
+    "uml": "Khulna, Bangladesh",
+    "gm": {
+      "lat": "22.9372087",
+      "lon": "89.2852741"
+    },
+    "uol": "Khulna, Bangladesh",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Rudro-25",
+    "nwo": "Rudro-25/Problem-Setting-and-Testing-Rudro25",
+    "pr": 0,
+    "ma": "2024-07-27T09:14:30Z",
+    "oa": "2024-07-27T09:24:35.262Z",
+    "tg": "oh joy, another masterpiece from the same genius who thought it was a good idea to use tabs instead of spaces. i mean, seriously, what kind of monster does this? are you even human?!\n\nthis code is so bad, it's like they took all the worst parts of java and wrapped them in a nice little package of incompetence. \"oh, i'll just throw some random keywords at it and hope for the best\" - yeah, that's exactly how you get to be known as the most hated person in this post-apocalyptic wasteland.\n\nand don't even get me started on the variable names. \"x\"? \"y\"? what, did they run out of creative juices somewhere around \"i\"? it's like they're trying to make it impossible for anyone else to understand what's going on. and those comments! oh boy, those comments are a work of art. \"/* this is a comment */\" - wow, i'm just so impressed.\n\nyou know what? i could fix this mess with one hand tied behind my back while fighting off mutants with the other. heck, i'd probably do it in my sleep after a few beers and some decent music. but hey, let's not get too ahead of ourselves here. maybe we should just ban this person from any terminal for their own good (and ours). khulna, bangladesh? more like khulna, bang-bang (as in, \"bang your head against the wall\" because that's what you'll have to do with this code).\n\nanyway, i guess my boss is watching, so i'll stop there. but seriously, who wrote this?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Penn state",
+    "gm": {
+      "lat": "40.8025835",
+      "lon": "-77.85593833184565"
+    },
+    "uol": "Penn state",
+    "gop": {
+      "lat": "40.8025835",
+      "lon": "-77.85593833184565"
+    },
+    "l": "WHO CARES",
+    "a": "ymlwww",
+    "nwo": "ymlwww/sdnflowtableinfer",
+    "pr": 0,
+    "ma": "2024-07-27T09:19:30Z",
+    "oa": "2024-07-27T09:24:53.214Z",
+    "tg": null
   }
 ]
