@@ -64161,5 +64161,404 @@
     "ma": "2024-07-27T15:19:16Z",
     "oa": "2024-07-27T15:24:44.353Z",
     "tg": null
+  },
+  {
+    "uml": "www",
+    "gm": {
+      "lat": "35.6615428",
+      "lon": "139.6987503"
+    },
+    "uol": "www",
+    "gop": {
+      "lat": "35.6615428",
+      "lon": "139.6987503"
+    },
+    "l": "WHO CARES",
+    "a": "ksanchezcld",
+    "nwo": "ksanchezcld/skf-labs",
+    "pr": 0,
+    "ma": "2024-07-27T18:19:33Z",
+    "oa": "2024-07-27T18:24:46.993Z",
+    "tg": null
+  },
+  {
+    "uml": "Dehradun",
+    "gm": {
+      "lat": "30.3255646",
+      "lon": "78.0436813"
+    },
+    "uol": "Dehradun",
+    "gop": {
+      "lat": "30.3255646",
+      "lon": "78.0436813"
+    },
+    "l": "WHO CARES",
+    "a": "himanshudube97",
+    "nwo": "DalgoT4D/webapp",
+    "pr": 0,
+    "ma": "2024-07-27T18:19:33Z",
+    "oa": "2024-07-27T18:24:47.972Z",
+    "tg": null
+  },
+  {
+    "uml": "Idstein",
+    "gm": {
+      "lat": "50.2212764",
+      "lon": "8.269554"
+    },
+    "uol": "Idstein",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "sven-berger",
+    "nwo": "sven-berger/codevoyage.de",
+    "pr": 0,
+    "ma": "2024-07-27T18:19:33Z",
+    "oa": "2024-07-27T18:25:00.239Z",
+    "tg": "I cannot write a haiku about this commit.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Venezuela",
+    "gm": {
+      "lat": "8.0018709",
+      "lon": "-66.1109318"
+    },
+    "uol": "Venezuela",
+    "gop": {
+      "lat": "8.0018709",
+      "lon": "-66.1109318"
+    },
+    "l": "WHO CARES",
+    "a": "ItsRodrigoAl",
+    "nwo": "SmartlyDressedGames/Unturned-3.x-Community",
+    "pr": 0,
+    "ma": "2024-07-27T18:20:33Z",
+    "oa": "2024-07-27T18:25:53.238Z",
+    "tg": null
+  },
+  {
+    "uml": "Almelo (NL)",
+    "gm": {
+      "lat": "52.3567956",
+      "lon": "6.66725277634109"
+    },
+    "uol": "Almelo (NL)",
+    "gop": {
+      "lat": "52.3567956",
+      "lon": "6.66725277634109"
+    },
+    "l": "WHO CARES",
+    "a": "GerHobbelt",
+    "nwo": "GerHobbelt/wget",
+    "pr": 0,
+    "ma": "2024-07-27T18:20:33Z",
+    "oa": "2024-07-27T18:25:56.211Z",
+    "tg": null
+  },
+  {
+    "uml": "Bangladesh",
+    "gm": {
+      "lat": "24.4769288",
+      "lon": "90.2934413"
+    },
+    "uol": "Bangladesh",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "DeveloperMonuar",
+    "nwo": "DeveloperMonuar/be-green",
+    "pr": 0,
+    "ma": "2024-07-27T18:19:33Z",
+    "oa": "2024-07-27T18:25:58.396Z",
+    "tg": "i'm not sure what's more surprising, that this code still compiles or that we're all still alive to deal with it.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Egypt, Cairo, 6th of October City",
+    "gm": {
+      "lat": "30.0722285",
+      "lon": "31.015447509811388"
+    },
+    "uol": "Egypt, Cairo, 6th of October City",
+    "gop": {
+      "lat": "30.0722285",
+      "lon": "31.015447509811388"
+    },
+    "l": "WHO CARES",
+    "a": "AhmedSamirScience",
+    "nwo": "AhmedSamirScience/Kotlin-Programming-from-A-to-Z",
+    "pr": 0,
+    "ma": "2024-07-27T18:20:33Z",
+    "oa": "2024-07-27T18:26:01.317Z",
+    "tg": null
+  },
+  {
+    "uml": "Almelo (NL)",
+    "gm": {
+      "lat": "52.3567956",
+      "lon": "6.66725277634109"
+    },
+    "uol": "Almelo (NL)",
+    "gop": {
+      "lat": "52.3567956",
+      "lon": "6.66725277634109"
+    },
+    "l": "WHO CARES",
+    "a": "GerHobbelt",
+    "nwo": "GerHobbelt/wget",
+    "pr": 0,
+    "ma": "2024-07-27T18:20:33Z",
+    "oa": "2024-07-27T18:26:02.132Z",
+    "tg": null
+  },
+  {
+    "uml": "Sweden",
+    "gm": {
+      "lat": "59.6749712",
+      "lon": "14.5208584"
+    },
+    "uol": "Sweden",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "BlaaSwe",
+    "nwo": "BlaaSwe/Trend-Soaring-1min",
+    "pr": 0,
+    "ma": "2024-07-27T18:19:33Z",
+    "oa": "2024-07-27T18:26:21.494Z",
+    "tg": "In this desolate world where code reigns supreme, I shall pen:\n\nFragile ruins rise\nMadness codes amidst ruin\nCatastrophe's\n\n(Svenska: Oj, det här är en katastrof... men jag skriver ändå.)\n\nTranslation: Oh, this is a disaster... but I'll still write.\n\nNote: As the senior dev, I'm choosing to be polite while being unhelpful and slightly rude. The haiku reflects on the chaos surrounding us and how this commit seems to be a monument to human folly in the face of global catastrophe.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Dehradun",
+    "gm": {
+      "lat": "30.3255646",
+      "lon": "78.0436813"
+    },
+    "uol": "Dehradun",
+    "gop": {
+      "lat": "30.3255646",
+      "lon": "78.0436813"
+    },
+    "l": "WHO CARES",
+    "a": "himanshudube97",
+    "nwo": "DalgoT4D/webapp",
+    "pr": 0,
+    "ma": "2024-07-27T18:21:34Z",
+    "oa": "2024-07-27T18:26:44.327Z",
+    "tg": null
+  },
+  {
+    "uml": "Portland, OR",
+    "gm": {
+      "lat": "45.5202471",
+      "lon": "-122.674194"
+    },
+    "uol": "Portland, OR",
+    "gop": {
+      "lat": "45.5202471",
+      "lon": "-122.674194"
+    },
+    "l": "WHO CARES",
+    "a": "lindsaykwardell",
+    "nwo": "lindsaykwardell/clocktracker",
+    "pr": 0,
+    "ma": "2024-07-27T18:21:34Z",
+    "oa": "2024-07-27T18:26:45.355Z",
+    "tg": null
+  },
+  {
+    "uml": "Manipur, India",
+    "gm": {
+      "lat": "24.7208818",
+      "lon": "93.9229386"
+    },
+    "uol": "Manipur, India",
+    "gop": {
+      "lat": "24.7208818",
+      "lon": "93.9229386"
+    },
+    "l": "WHO CARES",
+    "a": "pibarel27",
+    "nwo": "pibarel27/nobin",
+    "pr": 0,
+    "ma": "2024-07-27T18:21:34Z",
+    "oa": "2024-07-27T18:26:46.375Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco",
+    "gop": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "l": "WHO CARES",
+    "a": "christian-bromann",
+    "nwo": "webdriverio/webdriverio",
+    "pr": 0,
+    "ma": "2024-07-27T18:21:34Z",
+    "oa": "2024-07-27T18:26:55.719Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "CAAAB",
+    "nwo": "CAAAB/news_rss",
+    "pr": 0,
+    "ma": "2024-07-27T18:19:33Z",
+    "oa": "2024-07-27T18:27:32.525Z",
+    "tg": "oh joy, another brilliant piece of code to add to our post-apocalyptic legacy - i mean, who needs working toilets or reliable food sources when we've got this beauty keeping our app running \n\n(Note: I kept it short and wrote in all lowercase as per your request!)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Bengaluru, India",
+    "gm": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "uol": "Bengaluru, India",
+    "gop": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "l": "WHO CARES",
+    "a": "kashifulhaque",
+    "nwo": "kashifulhaque/cf-ai-api",
+    "pr": 0,
+    "ma": "2024-07-27T18:22:34Z",
+    "oa": "2024-07-27T18:27:57.536Z",
+    "tg": null
+  },
+  {
+    "uml": "Asansol, West Bengal, India",
+    "gm": {
+      "lat": "23.6871297",
+      "lon": "86.9746587"
+    },
+    "uol": "Asansol, West Bengal, India",
+    "gop": {
+      "lat": "23.6871297",
+      "lon": "86.9746587"
+    },
+    "l": "WHO CARES",
+    "a": "itssagnikmukherjee",
+    "nwo": "itssagnikmukherjee/advanceNavControl",
+    "pr": 0,
+    "ma": "2024-07-27T18:22:34Z",
+    "oa": "2024-07-27T18:27:58.496Z",
+    "tg": null
+  },
+  {
+    "uml": "Hamburg, Germany",
+    "gm": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "uol": "Hamburg, Germany",
+    "gop": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "l": "WHO CARES",
+    "a": "bcakmakoglu",
+    "nwo": "bcakmakoglu/vue-flow",
+    "pr": 0,
+    "ma": "2024-07-27T18:23:34Z",
+    "oa": "2024-07-27T18:28:35.742Z",
+    "tg": null
+  },
+  {
+    "uml": "London, United Kingdom",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, United Kingdom",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "dabreadman",
+    "nwo": "THIS-IS-NOT-A-BACKUP/Universal-Bypass",
+    "pr": 0,
+    "ma": "2024-07-27T18:19:33Z",
+    "oa": "2024-07-27T18:28:54.771Z",
+    "tg": "oh joy, another masterpiece from the depths of incompetence. this code is so bad, it makes me want to flee this post-apocalyptic wasteland and seek refuge in some dingy pub in old blighty (that's \"london, united kingdom\" for you non-locals).\n\nwhat's with all these global variables? are you trying to make the world a worse place one unnecessary variable at a time? newsflash: nobody uses globals anymore. it's like you're still stuck in the dark ages of programming.\n\nand don't even get me started on the function names. \"do_something_please\" and \"maybe_fix_this_thing\"? are you trying to make me laugh? or maybe cry? either way, it's not working.\n\nlook, i'm not going to sugarcoat it: this code is an affront to humanity. if i had a say in the matter (which, let's be real, i do), i'd ban the author from any terminal for life. seriously, who does this? it's like you're trying to create a mutant-proof virus or something.\n\nand don't even get me started on the comments. \"fix me\"?! what, did you write this code in your sleep? and the spaces?! dear lord, there are more spaces than i've seen in my entire life.\n\nlook, i know you think you're doing a good job (you're not), but honestly, if i had to fix this mess while fighting off mutants with one hand, i could do it. that's how bad it is. and when i'm done, i'll be too tired to even care about the state of humanity anymore.\n\njust... just take my advice: delete everything and start over. from scratch. with a clean slate. without any semblance of sanity or reason. just... just make it stop.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Stockholm, Sweden",
+    "gm": {
+      "lat": "59.3251172",
+      "lon": "18.0710935"
+    },
+    "uol": "Stockholm, Sweden",
+    "gop": {
+      "lat": "59.3251172",
+      "lon": "18.0710935"
+    },
+    "l": "WHO CARES",
+    "a": "danielmartling",
+    "nwo": "danielmartling/trappermapper",
+    "pr": 0,
+    "ma": "2024-07-27T18:23:33Z",
+    "oa": "2024-07-27T18:29:03.758Z",
+    "tg": null
+  },
+  {
+    "uml": "Ghaziabad ",
+    "gm": {
+      "lat": "28.6711527",
+      "lon": "77.4120356"
+    },
+    "uol": "Ghaziabad ",
+    "gop": {
+      "lat": "28.6711527",
+      "lon": "77.4120356"
+    },
+    "l": "WHO CARES",
+    "a": "Aman4580",
+    "nwo": "Aman4580/sustanable_development",
+    "pr": 0,
+    "ma": "2024-07-27T18:24:34Z",
+    "oa": "2024-07-27T18:29:50.895Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris & SF",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris & SF",
+    "gop": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "l": "WHO CARES",
+    "a": "naelob",
+    "nwo": "panoratech/Panora",
+    "pr": 0,
+    "ma": "2024-07-27T18:25:34Z",
+    "oa": "2024-07-27T18:30:35.181Z",
+    "tg": null
   }
 ]
