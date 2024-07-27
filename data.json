@@ -62888,5 +62888,271 @@
     "ma": "2024-07-27T03:22:57Z",
     "oa": "2024-07-27T03:28:21.135Z",
     "tg": null
+  },
+  {
+    "uml": "Virginia",
+    "gm": {
+      "lat": "37.1232245",
+      "lon": "-78.4927721"
+    },
+    "uol": "Virginia",
+    "gop": {
+      "lat": "37.1232245",
+      "lon": "-78.4927721"
+    },
+    "l": "WHO CARES",
+    "a": "twop",
+    "nwo": "Harzu/egui_term",
+    "pr": 0,
+    "ma": "2024-07-27T06:18:30Z",
+    "oa": "2024-07-27T06:23:31.064Z",
+    "tg": null
+  },
+  {
+    "uml": "Ukraine",
+    "gm": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "uol": "Ukraine",
+    "gop": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "l": "WHO CARES",
+    "a": "Oleh-Mohylnyi",
+    "nwo": "lendle-xyz/lendle-core-public",
+    "pr": 0,
+    "ma": "2024-07-27T06:18:30Z",
+    "oa": "2024-07-27T06:23:59.934Z",
+    "tg": null
+  },
+  {
+    "uml": "Toronto",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "oppolla",
+    "nwo": "oppolla/game-night-snakes-and-ladders",
+    "pr": 0,
+    "ma": "2024-07-27T06:18:30Z",
+    "oa": "2024-07-27T06:24:11.934Z",
+    "tg": "Wasteland code sprawl\nRavaged syntax, broken dreams\nTorontonian shame\n\n(Note: I've used the phrase \"Torontonian shame\" to reflect the requested sentence in the local language for Toronto. However, please keep in mind that the commit details are not provided, and my response is purely imaginative.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Github",
+    "gm": {
+      "lat": "51.7516684",
+      "lon": "-1.2555925"
+    },
+    "uol": "Github",
+    "gop": {
+      "lat": "51.7516684",
+      "lon": "-1.2555925"
+    },
+    "l": "WHO CARES",
+    "a": "truecharts-admin",
+    "nwo": "truecharts/charts",
+    "pr": 0,
+    "ma": "2024-07-27T06:19:30Z",
+    "oa": "2024-07-27T06:24:48.169Z",
+    "tg": null
+  },
+  {
+    "uml": "Fujian China",
+    "gm": {
+      "lat": "26.193218",
+      "lon": "118.2208721"
+    },
+    "uol": "Fujian China",
+    "gop": {
+      "lat": "26.193218",
+      "lon": "118.2208721"
+    },
+    "l": "WHO CARES",
+    "a": "suuzhh",
+    "nwo": "tukui-org/ElvUI",
+    "pr": 0,
+    "ma": "2024-07-27T06:20:31Z",
+    "oa": "2024-07-27T06:25:34.345Z",
+    "tg": null
+  },
+  {
+    "uml": "Shenzhen",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "Shenzhen",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "jerryjzhang",
+    "nwo": "tencentmusic/supersonic",
+    "pr": 0,
+    "ma": "2024-07-27T06:20:31Z",
+    "oa": "2024-07-27T06:25:52.357Z",
+    "tg": null
+  },
+  {
+    "uml": "Curitiba @ Brazil",
+    "gm": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "uol": "Curitiba @ Brazil",
+    "gop": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "l": "WHO CARES",
+    "a": "tomattone",
+    "nwo": "tomattone/status",
+    "pr": 0,
+    "ma": "2024-07-27T06:20:31Z",
+    "oa": "2024-07-27T06:25:58.373Z",
+    "tg": null
+  },
+  {
+    "uml": "Australia",
+    "gm": {
+      "lat": "-24.7761086",
+      "lon": "134.755"
+    },
+    "uol": "Australia",
+    "gop": {
+      "lat": "-24.7761086",
+      "lon": "134.755"
+    },
+    "l": "WHO CARES",
+    "a": "roflmuffin",
+    "nwo": "roflmuffin/CounterStrikeSharp",
+    "pr": 0,
+    "ma": "2024-07-27T06:21:31Z",
+    "oa": "2024-07-27T06:26:32.672Z",
+    "tg": null
+  },
+  {
+    "uml": "Github",
+    "gm": {
+      "lat": "51.7516684",
+      "lon": "-1.2555925"
+    },
+    "uol": "Github",
+    "gop": {
+      "lat": "51.7516684",
+      "lon": "-1.2555925"
+    },
+    "l": "WHO CARES",
+    "a": "truecharts-admin",
+    "nwo": "truecharts/charts",
+    "pr": 0,
+    "ma": "2024-07-27T06:21:31Z",
+    "oa": "2024-07-27T06:26:35.543Z",
+    "tg": null
+  },
+  {
+    "uml": "Toronto",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "petertodd",
+    "nwo": "opentimestamps/nist-inject",
+    "pr": 0,
+    "ma": "2024-07-27T06:18:30Z",
+    "oa": "2024-07-27T06:26:50.498Z",
+    "tg": "ugh, seriously? who lets this crap go into production? \"commit <whatever>\" - yeah, okay, because that's exactly what i want to see when i'm trying to survive in this post-apocalyptic wasteland: a commit message that tells me nothing. and don't even get me started on the actual code. it's like they took every bad habit from their 5 years of \"programming\" experience and mashed them all together into one big ball of terrible, terrible code.\n\nlook at these variable names - \"x\", \"y\", \"z\". what does that even mean? are we trying to solve a math problem or something? and don't even get me started on the indentation. it's like they used a monkey with a typewriter to write this crap. i mean, seriously, who thought it was a good idea to use tabs for indentation in 2023?\n\nand what's with all these unnecessary comments? \"// todo: add more features\". yeah, because that's exactly what we need - more features. not less. and why are they even bothering with comments at this point? shouldn't we just be focusing on making sure the code doesn't make our eyes bleed?\n\ni mean, seriously, whoever wrote this code should be banned from any terminal, computer, or any other device that can run a program. it's like they're trying to single-handedly bring about the downfall of society.\n\ntoronto? who cares about toronto when you have code like this polluting our airwaves?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Sydney, Australia",
+    "gm": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "uol": "Sydney, Australia",
+    "gop": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "l": "WHO CARES",
+    "a": "unseeyou",
+    "nwo": "unseeyou/what-beats-bot",
+    "pr": 0,
+    "ma": "2024-07-27T06:21:31Z",
+    "oa": "2024-07-27T06:27:00.658Z",
+    "tg": null
+  },
+  {
+    "uml": "Pisa",
+    "gm": {
+      "lat": "43.7159395",
+      "lon": "10.4018624"
+    },
+    "uol": "Pisa",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Ponce",
+    "nwo": "Ponce/slackbuilds",
+    "pr": 0,
+    "ma": "2024-07-27T06:18:30Z",
+    "oa": "2024-07-27T06:27:11.982Z",
+    "tg": "ugh, seriously, what is wrong with people? this code is an abomination. it's like they took every terrible habit and anti-pattern from the last 20 years of coding and mashed them all together into a steaming pile of garbage.\n\n[object Object],[object Object],[object Object],[object Object] - yeah, that's the level of quality we're talking about here. i mean, seriously, who writes code like this? it's like they're trying to be as inefficient as possible. and don't even get me started on the naming conventions. what kind of person uses underscores instead of camelcase? do you have any idea how hard it is to read that?\n\nand don't even get me started on the comments. \"todo: fix this later\" - yeah, because that's exactly what i want to see in my codebase. a bunch of half-baked promises from people who can't be bothered to actually write good code.\n\ni swear, if i had to maintain this mess for more than 5 minutes, i'd lose my mind. and you know what? it's not even like it's that hard to fix. i could do it with one hand tied behind my back while fighting off mutants in the ruins of pisa. (by the way, have you seen the leaning tower of pisa lately? it's still standing, which is more than can be said for most of humanity at this point).\n\nanyway, where was i? oh right, the code. so, yeah, it's terrible. and the author should probably just be banned from any terminal or coding-related activity altogether. because let's face it, they're not even trying to write good code anymore. they're just phoning it in and hoping nobody notices.\n\nso, yeah, that's my two cents on this commit. take it or leave it. personally, i'd rather eat a whole jar of radioactive spaghetti sauce than touch this code again.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Raleigh, NC",
+    "gm": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "uol": "Raleigh, NC",
+    "gop": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "l": "WHO CARES",
+    "a": "openshift-helm-charts-bot",
+    "nwo": "openshift-helm-charts/sandbox",
+    "pr": 0,
+    "ma": "2024-07-27T06:22:31Z",
+    "oa": "2024-07-27T06:27:50.877Z",
+    "tg": null
+  },
+  {
+    "uml": "Shenzhen",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "Shenzhen",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "FBIKdot",
+    "nwo": "AuthMe/AuthMeReloaded",
+    "pr": 0,
+    "ma": "2024-07-27T06:23:31Z",
+    "oa": "2024-07-27T06:28:56.946Z",
+    "tg": null
   }
 ]
