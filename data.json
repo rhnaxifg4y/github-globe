@@ -66384,5 +66384,461 @@
     "ma": "2024-07-28T09:21:03Z",
     "oa": "2024-07-28T09:26:11.903Z",
     "tg": null
+  },
+  {
+    "uml": "Germantown, MD",
+    "gm": {
+      "lat": "39.17130815",
+      "lon": "-77.26557848822242"
+    },
+    "uol": "Germantown, MD",
+    "gop": {
+      "lat": "39.17130815",
+      "lon": "-77.26557848822242"
+    },
+    "l": "WHO CARES",
+    "a": "bpw1621",
+    "nwo": "wizenheimer/tinkerbird",
+    "pr": 0,
+    "ma": "2024-07-28T12:28:05Z",
+    "oa": "2024-07-28T12:33:13.671Z",
+    "tg": null
+  },
+  {
+    "uml": "Vinhedo, São Paulo",
+    "gm": {
+      "lat": "-23.0298535",
+      "lon": "-46.9749847"
+    },
+    "uol": "Vinhedo, São Paulo",
+    "gop": {
+      "lat": "-23.0298535",
+      "lon": "-46.9749847"
+    },
+    "l": "WHO CARES",
+    "a": "samukasoares",
+    "nwo": "samukasoares/TCC-badulaque",
+    "pr": 0,
+    "ma": "2024-07-28T12:28:05Z",
+    "oa": "2024-07-28T12:33:32.666Z",
+    "tg": null
+  },
+  {
+    "uml": "NY",
+    "gm": {
+      "lat": "43.1561681",
+      "lon": "-75.8449946"
+    },
+    "uol": "NY",
+    "gop": {
+      "lat": "43.1561681",
+      "lon": "-75.8449946"
+    },
+    "l": "WHO CARES",
+    "a": "gbrrrl",
+    "nwo": "wireshark/wireshark",
+    "pr": 0,
+    "ma": "2024-07-28T12:29:05Z",
+    "oa": "2024-07-28T12:34:06.994Z",
+    "tg": null
+  },
+  {
+    "uml": "Berhampur",
+    "gm": {
+      "lat": "21.49308515",
+      "lon": "86.63272982626935"
+    },
+    "uol": "Berhampur",
+    "gop": {
+      "lat": "21.49308515",
+      "lon": "86.63272982626935"
+    },
+    "l": "WHO CARES",
+    "a": "govinda-mahanti",
+    "nwo": "payalbhattamisra/Online_quiz",
+    "pr": 0,
+    "ma": "2024-07-28T12:29:05Z",
+    "oa": "2024-07-28T12:34:07.959Z",
+    "tg": null
+  },
+  {
+    "uml": "Republic of Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "Republic of Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "DaeHee99",
+    "nwo": "Mallang-Trip/Web",
+    "pr": 0,
+    "ma": "2024-07-28T12:29:05Z",
+    "oa": "2024-07-28T12:34:18.968Z",
+    "tg": null
+  },
+  {
+    "uml": "Lagos",
+    "gm": {
+      "lat": "6.4550575",
+      "lon": "3.3941795"
+    },
+    "uol": "Lagos",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Adewale66",
+    "nwo": "Adewale66/hng_boilerplate_java_web",
+    "pr": 0,
+    "ma": "2024-07-28T12:29:05Z",
+    "oa": "2024-07-28T12:35:00.469Z",
+    "tg": "i'm still amazed we're still working on this code after all these years... like, what's next? figuring out how to make a latte in a world without electricity?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Stuttgart, Germany",
+    "gm": {
+      "lat": "48.7784485",
+      "lon": "9.1800132"
+    },
+    "uol": "Stuttgart, Germany",
+    "gop": {
+      "lat": "48.7784485",
+      "lon": "9.1800132"
+    },
+    "l": "WHO CARES",
+    "a": "marcrentschler",
+    "nwo": "HeidiSQL/HeidiSQL",
+    "pr": 0,
+    "ma": "2024-07-28T12:30:05Z",
+    "oa": "2024-07-28T12:35:15.313Z",
+    "tg": null
+  },
+  {
+    "uml": "Lahore",
+    "gm": {
+      "lat": "31.5656822",
+      "lon": "74.3141829"
+    },
+    "uol": "Lahore",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "xoraizw",
+    "nwo": "xoraizw/movieSniper",
+    "pr": 0,
+    "ma": "2024-07-28T12:28:05Z",
+    "oa": "2024-07-28T12:35:31.022Z",
+    "tg": "i'm not sure what's more astonishing, that we're still trying to write functional code amidst all this chaos or that you managed to find time to work on this instead of building a bunker. \n\n(Note: The answer is in English, as per the prompt. For Lahore, the sentence would be \"میں نے نہیں سمجھا کیا ہم ابھی تک اپنے کام کو کر رہے ہیں\" which translates to \"I didn't understand that we are still working on our job now\")\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Salem,TamilNadu,India",
+    "gm": {
+      "lat": "11.6551982",
+      "lon": "78.1581771"
+    },
+    "uol": "Salem,TamilNadu,India",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "dharaneesh-006",
+    "nwo": "dharaneesh-006/shadesofcakes",
+    "pr": 0,
+    "ma": "2024-07-28T12:28:05Z",
+    "oa": "2024-07-28T12:35:38.928Z",
+    "tg": "Here's my attempt at writing a funny comment from a senior dev in a post-apocalyptic world:\n\n\"i'm not sure what's more surprising - that you managed to survive this long without getting eaten by a ravenous horde or that this code actually compiles\"\n\n(Note: I've written the comment in all lowercase as per your request)\n\nAs for the location-specific sentence, here it is in Tamil:\n\n\"Salem-ē irundu eppadiyil kodukkum?\" (What's the reason you're still standing in Salem?)\n\nTranslation: \"What's the reason you're still standing in Salem?\"\n\n(Note: I've kept the tone light-hearted and playful, while also being mildly insulting and unhelpful, as per your request)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Noida",
+    "gm": {
+      "lat": "28.5706333",
+      "lon": "77.3272147"
+    },
+    "uol": "Noida",
+    "gop": {
+      "lat": "28.5706333",
+      "lon": "77.3272147"
+    },
+    "l": "WHO CARES",
+    "a": "vapr94",
+    "nwo": "vapr94/BalanceX",
+    "pr": 0,
+    "ma": "2024-07-28T12:31:06Z",
+    "oa": "2024-07-28T12:36:23.618Z",
+    "tg": null
+  },
+  {
+    "uml": "Bangalore",
+    "gm": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "uol": "Bangalore",
+    "gop": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "l": "WHO CARES",
+    "a": "MayurSMahajan",
+    "nwo": "MayurSMahajan/codecrafters-http-server-typescript",
+    "pr": 0,
+    "ma": "2024-07-28T12:31:05Z",
+    "oa": "2024-07-28T12:36:35.653Z",
+    "tg": null
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "chun-awa",
+    "nwo": "LingmoOS-Testing/lingmo-arch-pkgbuilder",
+    "pr": 0,
+    "ma": "2024-07-28T12:32:06Z",
+    "oa": "2024-07-28T12:37:07.958Z",
+    "tg": null
+  },
+  {
+    "uml": "ChongQing",
+    "gm": {
+      "lat": "30.05518",
+      "lon": "107.8748712"
+    },
+    "uol": "ChongQing",
+    "gop": {
+      "lat": "30.05518",
+      "lon": "107.8748712"
+    },
+    "l": "WHO CARES",
+    "a": "liangyepianzhou",
+    "nwo": "StevenLuMT/pulsar-java-contrib",
+    "pr": 0,
+    "ma": "2024-07-28T12:33:06Z",
+    "oa": "2024-07-28T12:38:09.213Z",
+    "tg": null
+  },
+  {
+    "uml": "Noida",
+    "gm": {
+      "lat": "28.5706333",
+      "lon": "77.3272147"
+    },
+    "uol": "Noida",
+    "gop": {
+      "lat": "28.5706333",
+      "lon": "77.3272147"
+    },
+    "l": "WHO CARES",
+    "a": "vapr94",
+    "nwo": "vapr94/BalanceX",
+    "pr": 0,
+    "ma": "2024-07-28T12:33:06Z",
+    "oa": "2024-07-28T12:38:11.128Z",
+    "tg": null
+  },
+  {
+    "uml": "Geelong, Victoria",
+    "gm": {
+      "lat": "-38.1493248",
+      "lon": "144.3598241"
+    },
+    "uol": "Geelong, Victoria",
+    "gop": {
+      "lat": "-38.1493248",
+      "lon": "144.3598241"
+    },
+    "l": "WHO CARES",
+    "a": "dilbot-cot",
+    "nwo": "TableTechDeveloper/gameplan-backend",
+    "pr": 0,
+    "ma": "2024-07-28T12:33:06Z",
+    "oa": "2024-07-28T12:38:15.166Z",
+    "tg": null
+  },
+  {
+    "uml": "Karlsruhe, Germany",
+    "gm": {
+      "lat": "49.0068705",
+      "lon": "8.4034195"
+    },
+    "uol": "Karlsruhe, Germany",
+    "gop": {
+      "lat": "49.0068705",
+      "lon": "8.4034195"
+    },
+    "l": "WHO CARES",
+    "a": "AlexZeitler",
+    "nwo": "LadybirdBrowser/ladybird",
+    "pr": 0,
+    "ma": "2024-07-28T12:33:06Z",
+    "oa": "2024-07-28T12:38:22.270Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "WolseyBankWitness/rediffusion",
+    "pr": 0,
+    "ma": "2024-07-28T12:33:06Z",
+    "oa": "2024-07-28T12:38:32.266Z",
+    "tg": null
+  },
+  {
+    "uml": "Panamá",
+    "gm": {
+      "lat": "8.559559",
+      "lon": "-81.1308434"
+    },
+    "uol": "Panamá",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "IsaacJSandovalC",
+    "nwo": "IsaacJSandovalC/IsaacJSandovalC",
+    "pr": 0,
+    "ma": "2024-07-28T12:30:05Z",
+    "oa": "2024-07-28T12:38:42.349Z",
+    "tg": "ugh, seriously? this code is an abomination. it's like the author took every terrible programming practice they could find and mashed them together into a hot mess of confusion. i mean, what even is this thing? it's like they just threw a bunch of random words at the screen and hoped something would work.\n\nlisten up, author: if you're going to write code, please for the love of all things good and holy, make it readable. don't make me have to squint my eyes to figure out what's going on. and don't even get me started on those variable names - what is this, a joke? \"x123\"? \"y456\"? are you trying to confuse me on purpose?!\n\nand another thing: why in the world would you do something as monumentally stupid as using `goto` statements?! that's like saying, \"hey, let's make our code a nightmare to debug!\" or \"let's create an infinite loop and watch the whole program grind to a halt!\" no, just no. you're not even trying.\n\nand don't even get me started on the indentation - what is this, a joke?! it looks like a kindergartener had a field day with the tab key. please tell me that's not your real code and you were just messing around with us.\n\nin any case, author, i think it's time for you to take a long, hard look at yourself in the mirror and ask, \"am i really cut out for this whole coding thing?\" because, honestly, your code is an embarrassment. if you can't even be bothered to do things correctly, then maybe you should just stick to... i don't know... playing with legos or something.\n\noh, and by the way: panamá, ¡estoy muerto!\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Algorand ($ALGO)",
+    "gm": {
+      "lat": "43.355452",
+      "lon": "-3.01262"
+    },
+    "uol": "Algorand ($ALGO)",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "algotables",
+    "nwo": "algotables/algotables.github.io",
+    "pr": 0,
+    "ma": "2024-07-28T12:29:05Z",
+    "oa": "2024-07-28T12:38:57.105Z",
+    "tg": "oh joy, another abomination from the same author who should be forced to code in binary for the rest of eternity. this commit is an affront to all that is good and holy in the world of programming. i can already see the mutant horde gathering at the gates, sensing the stench of incompetence wafting out of the terminal.\n\nfirst off, let me just say that the author's idea of \"commenting\" is basically just typing out random words and phrases without actually explaining what they're doing. it's like trying to read a novel written by a drunk monkey on a typewriter. \n\nand don't even get me started on the actual code. it's like looking at a plate of rancid leftovers from the post-apocalyptic cafeteria. i mean, seriously, who writes \"if (x == y) { do this } else { do that }\" without even bothering to indent? are they trying to blind everyone with their lack of sense?\n\nand what's with all the unnecessary variables and functions? it's like they're trying to prove some sort of point about how many times they can make the compiler cry. \n\nlook, i get it, we're in a post-apocalyptic world, and resources are scarce. but that's no excuse for writing terrible code. if anything, it's an opportunity to show some actual skill and ingenuity. like, hey, maybe you could write a function to optimize resource allocation or something. \n\nbut no, instead, the author just goes around sprinkling magic numbers and one-liners everywhere like they're trying to conjure up some sort of coding vortex. \n\nlisten, if i had to fix this code, i'd do it with one hand tied behind my back while fighting off mutants with the other. but since i don't have to, i'm just going to leave it alone and let the author keep on truckin' down their road to coding oblivion.\n\nand as for that \"algorand\" nonsense, well, let's just say that if algorand is the best you've got, then we're all in trouble.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Almaty",
+    "gm": {
+      "lat": "43.2363924",
+      "lon": "76.9457275"
+    },
+    "uol": "Almaty",
+    "gop": {
+      "lat": "43.2363924",
+      "lon": "76.9457275"
+    },
+    "l": "WHO CARES",
+    "a": "Galicarnax",
+    "nwo": "rcarriga/nvim-notify",
+    "pr": 0,
+    "ma": "2024-07-28T12:34:02Z",
+    "oa": "2024-07-28T12:39:29.606Z",
+    "tg": null
+  },
+  {
+    "uml": "Bangladesh",
+    "gm": {
+      "lat": "24.4769288",
+      "lon": "90.2934413"
+    },
+    "uol": "Bangladesh",
+    "gop": {
+      "lat": "24.4769288",
+      "lon": "90.2934413"
+    },
+    "l": "WHO CARES",
+    "a": "devvsakib",
+    "nwo": "devvsakib/github-error-solve",
+    "pr": 0,
+    "ma": "2024-07-28T12:34:06Z",
+    "oa": "2024-07-28T12:39:33.511Z",
+    "tg": null
+  },
+  {
+    "uml": "Cairo.Egypt",
+    "gm": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "uol": "Cairo.Egypt",
+    "gop": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "l": "WHO CARES",
+    "a": "abdel-rahmanSalem",
+    "nwo": "abdel-rahmanSalem/codecrafters-http-server-typescript",
+    "pr": 0,
+    "ma": "2024-07-28T12:33:53Z",
+    "oa": "2024-07-28T12:39:34.480Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "mhutchinson/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-07-28T12:34:06Z",
+    "oa": "2024-07-28T12:39:36.465Z",
+    "tg": null
+  },
+  {
+    "uml": "El Cerrito ,CA",
+    "gm": {
+      "lat": "33.8410146",
+      "lon": "-117.52079778811958"
+    },
+    "uol": "El Cerrito ,CA",
+    "gop": {
+      "lat": "33.8410146",
+      "lon": "-117.52079778811958"
+    },
+    "l": "WHO CARES",
+    "a": "brotherlogic",
+    "nwo": "brotherlogic/keystore",
+    "pr": 0,
+    "ma": "2024-07-28T12:35:07Z",
+    "oa": "2024-07-28T12:40:17.863Z",
+    "tg": null
   }
 ]
