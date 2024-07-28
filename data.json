@@ -67619,5 +67619,290 @@
     "ma": "2024-07-28T18:23:49Z",
     "oa": "2024-07-28T18:29:17.864Z",
     "tg": null
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "ChuanXu1",
+    "nwo": "Teichlab/celltypist",
+    "pr": 0,
+    "ma": "2024-07-28T21:13:29Z",
+    "oa": "2024-07-28T21:18:51.143Z",
+    "tg": null
+  },
+  {
+    "uml": "Guadalajara, Jalisco",
+    "gm": {
+      "lat": "20.6720375",
+      "lon": "-103.338396"
+    },
+    "uol": "Guadalajara, Jalisco",
+    "gop": {
+      "lat": "20.6720375",
+      "lon": "-103.338396"
+    },
+    "l": "WHO CARES",
+    "a": "JorgePerC",
+    "nwo": "RobomasterOwltech/Owlware",
+    "pr": 0,
+    "ma": "2024-07-28T21:14:29Z",
+    "oa": "2024-07-28T21:19:51.414Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "Fkg86",
+    "nwo": "Fkg86/React-book_crud_app",
+    "pr": 0,
+    "ma": "2024-07-28T21:14:29Z",
+    "oa": "2024-07-28T21:19:57.350Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, Republic of Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, Republic of Korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "pbzweihander",
+    "nwo": "raphamorim/rio",
+    "pr": 0,
+    "ma": "2024-07-28T21:15:30Z",
+    "oa": "2024-07-28T21:20:37.548Z",
+    "tg": null
+  },
+  {
+    "uml": "Kuwait - Egypt",
+    "gm": {
+      "lat": "29.3703797",
+      "lon": "47.9732523"
+    },
+    "uol": "Kuwait - Egypt",
+    "gop": {
+      "lat": "29.3703797",
+      "lon": "47.9732523"
+    },
+    "l": "WHO CARES",
+    "a": "hs777it",
+    "nwo": "yasirdx777/square_progress_bar",
+    "pr": 0,
+    "ma": "2024-07-28T21:15:30Z",
+    "oa": "2024-07-28T21:20:38.538Z",
+    "tg": null
+  },
+  {
+    "uml": "Ireland",
+    "gm": {
+      "lat": "52.865196",
+      "lon": "-7.9794599"
+    },
+    "uol": "Ireland",
+    "gop": {
+      "lat": "52.865196",
+      "lon": "-7.9794599"
+    },
+    "l": "WHO CARES",
+    "a": "oksanabaza",
+    "nwo": "oksanabaza/Full-Stack-Web-Development-2",
+    "pr": 0,
+    "ma": "2024-07-28T21:15:30Z",
+    "oa": "2024-07-28T21:20:57.516Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "sshcrack",
+    "nwo": "gitbutlerapp/gitbutler",
+    "pr": 0,
+    "ma": "2024-07-28T21:15:29Z",
+    "oa": "2024-07-28T21:20:58.505Z",
+    "tg": null
+  },
+  {
+    "uml": "Milan",
+    "gm": {
+      "lat": "45.4641943",
+      "lon": "9.1896346"
+    },
+    "uol": "Milan",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "RobertoCastelli",
+    "nwo": "RobertoCastelli/carpooli",
+    "pr": 0,
+    "ma": "2024-07-28T21:13:29Z",
+    "oa": "2024-07-28T21:21:00.021Z",
+    "tg": "oh joy, another masterpiece from the author of this abomination. i mean, seriously, how did they even manage to make something so monumentally terrible? it's like they took every bad practice from the 90s and mashed them all together into a hot mess of code that makes my eyes bleed just looking at it.\n\nfirst off, let me say that whoever wrote this should be banned from any terminal for life. seriously, how many times do i have to repeat myself? \"don't use tabs\" is not exactly rocket science. but no, our dear author decided to ignore that little detail and instead opted for the \"oh look, a random number of spaces!\" approach.\n\nand don't even get me started on the variable names. oh boy, where do i even begin? \"x\" and \"y\"? what are we, in elementary school? can't you come up with something slightly more original? like, i don't know, maybe \"mutant_slaying_rod\" or \"post_apocalyptic_cake\"?\n\nbut wait, it gets better! because of course it does. the author also decided to use those lovely little gems called \"magic numbers\". yeah, that's right, folks, instead of taking the time to actually define what 42 means in this context, they just threw it in there like a magic eight ball and hoped for the best.\n\nand don't even get me started on the comments. oh boy, the comments. they're so sparse and unhelpful, it's like they were written by someone who actually hates their own code. \"do something or other with this variable\" is not a comment, folks. that's just a vague placeholder for when you can't be bothered to think about what your code does.\n\nyou know what? i could fix all of this with one hand while fighting off mutants with the other. it wouldn't even phase me. in fact, i'm pretty sure i could rewrite the entire thing from scratch in under 10 minutes if i had to. and you know why? because i have standards, that's why.\n\nso yeah, to the author of this monstrosity: you're a menace to society. stay away from any terminal within a 50-foot radius. and to anyone else who has to maintain this code: good luck, and may the odds be ever in your favor.\n\noh, and milan? that's where i'll send my condolences when the world ends because of this code.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Sweden",
+    "gm": {
+      "lat": "59.6749712",
+      "lon": "14.5208584"
+    },
+    "uol": "Sweden",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Gegy",
+    "nwo": "Tropicraft/Tropicraft",
+    "pr": 0,
+    "ma": "2024-07-28T21:13:29Z",
+    "oa": "2024-07-28T21:22:13.751Z",
+    "tg": "Here's my attempt at crafting a haiku that meets your requirements:\n\nRubble-coded mess\nFoolishness amidst ruin\nCode's dark, empty shell\n\nAnd, as for the location-specific sentence, here it is in Swedish:\n\n\"Sverige är en plats där förvirring och kaos råder.\"\n\nTranslation: \"Sweden is a place where confusion and chaos reign.\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "California, US",
+    "gm": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "uol": "California, US",
+    "gop": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "l": "WHO CARES",
+    "a": "aimanfatima",
+    "nwo": "microsoft/FluidFramework",
+    "pr": 0,
+    "ma": "2024-07-28T21:17:30Z",
+    "oa": "2024-07-28T21:22:34.068Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "Raboro",
+    "nwo": "Raboro/cinder",
+    "pr": 0,
+    "ma": "2024-07-28T21:17:30Z",
+    "oa": "2024-07-28T21:22:37.934Z",
+    "tg": null
+  },
+  {
+    "uml": "Nizhny Novgorod, Russia",
+    "gm": {
+      "lat": "56.3264816",
+      "lon": "44.0051395"
+    },
+    "uol": "Nizhny Novgorod, Russia",
+    "gop": {
+      "lat": "56.3264816",
+      "lon": "44.0051395"
+    },
+    "l": "WHO CARES",
+    "a": "sadr0b0t",
+    "nwo": "sadr0b0t/yashlang",
+    "pr": 0,
+    "ma": "2024-07-28T21:17:30Z",
+    "oa": "2024-07-28T21:22:45.995Z",
+    "tg": null
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "CarlosEDsl",
+    "nwo": "CarlosEDsl/ProductivityApp-FRONT",
+    "pr": 0,
+    "ma": "2024-07-28T21:13:29Z",
+    "oa": "2024-07-28T21:23:13.009Z",
+    "tg": "for the love of all that is holy, who wrote this garbage?! it's like they took every terrible coding habit and put them into one big pile of ugliness. i mean, seriously, what kind of sadistic developer thinks it's okay to use spaces instead of tabs? and don't even get me started on those ridiculous variable names - \"x\" and \"y\"? what are you, 12?!\n\nand don't even get me started on the logic. or lack thereof. it's like they just threw a bunch of code together and hoped for the best. newsflash: that's not how programming works. at all.\n\ni swear, if i had to review one more commit written by this...this...monster, i would lose my mind. banned from any terminal? that's too kind. they should be forced to rewrite every line of code with their feet tied behind their back.\n\nand you know what the worst part is? it's not even like this is some sort of clever hack or innovative solution. no, it's just plain old bad coding. and yet...and yet...i'm supposed to review this thing and give it my stamp of approval. ugh.\n\nyou know what i could do with one hand while fighting off mutants with the other? i could rewrite this whole mess in a fraction of the time it took them to write it. and that's not even accounting for all the coffee breaks and naps i'd need along the way.\n\nso, in conclusion, let me just say: \"que merda\" (brazilian for \"what crap\").\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Raleigh, NC",
+    "gm": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "uol": "Raleigh, NC",
+    "gop": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "l": "WHO CARES",
+    "a": "dmmulroy",
+    "nwo": "dmmulroy/dillonis.online",
+    "pr": 0,
+    "ma": "2024-07-28T21:18:30Z",
+    "oa": "2024-07-28T21:23:43.221Z",
+    "tg": null
+  },
+  {
+    "uml": "Austin, TX",
+    "gm": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "uol": "Austin, TX",
+    "gop": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "l": "WHO CARES",
+    "a": "ZacharyWesterman",
+    "nwo": "ZacharyWesterman/server",
+    "pr": 0,
+    "ma": "2024-07-28T21:19:31Z",
+    "oa": "2024-07-28T21:24:31.412Z",
+    "tg": null
   }
 ]
