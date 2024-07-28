@@ -64864,5 +64864,385 @@
     "ma": "2024-07-27T21:16:21Z",
     "oa": "2024-07-27T21:21:31.821Z",
     "tg": null
+  },
+  {
+    "uml": "Minnesota, USA",
+    "gm": {
+      "lat": "45.9896587",
+      "lon": "-94.6113288"
+    },
+    "uol": "Minnesota, USA",
+    "gop": {
+      "lat": "45.9896587",
+      "lon": "-94.6113288"
+    },
+    "l": "WHO CARES",
+    "a": "WaterGame2023",
+    "nwo": "FRCDiscord/Dozer",
+    "pr": 0,
+    "ma": "2024-07-28T01:21:09Z",
+    "oa": "2024-07-28T01:26:11.424Z",
+    "tg": null
+  },
+  {
+    "uml": "Argentina",
+    "gm": {
+      "lat": "-34.9964963",
+      "lon": "-64.9672817"
+    },
+    "uol": "Argentina",
+    "gop": {
+      "lat": "-34.9964963",
+      "lon": "-64.9672817"
+    },
+    "l": "WHO CARES",
+    "a": "TDamonteAzpiazu",
+    "nwo": "benjadelcampo15/Prototipo-Inti-tech",
+    "pr": 0,
+    "ma": "2024-07-28T01:21:09Z",
+    "oa": "2024-07-28T01:26:16.490Z",
+    "tg": null
+  },
+  {
+    "uml": "Morocco",
+    "gm": {
+      "lat": "31.1728205",
+      "lon": "-7.3362482"
+    },
+    "uol": "Morocco",
+    "gop": {
+      "lat": "31.1728205",
+      "lon": "-7.3362482"
+    },
+    "l": "WHO CARES",
+    "a": "mouadse",
+    "nwo": "RayTracing/raytracing.github.io",
+    "pr": 0,
+    "ma": "2024-07-28T01:21:09Z",
+    "oa": "2024-07-28T01:26:25.382Z",
+    "tg": null
+  },
+  {
+    "uml": "Stanford, CA",
+    "gm": {
+      "lat": "37.426540700000004",
+      "lon": "-122.17030545534064"
+    },
+    "uol": "Stanford, CA",
+    "gop": {
+      "lat": "37.426540700000004",
+      "lon": "-122.17030545534064"
+    },
+    "l": "WHO CARES",
+    "a": "kushalthaman",
+    "nwo": "Caiyun-AI/DCFormer",
+    "pr": 0,
+    "ma": "2024-07-28T01:21:09Z",
+    "oa": "2024-07-28T01:26:34.348Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/rediffusion",
+    "pr": 0,
+    "ma": "2024-07-28T01:22:09Z",
+    "oa": "2024-07-28T01:27:28.579Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia",
+    "gm": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "uol": "Russia",
+    "gop": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "l": "WHO CARES",
+    "a": "veekhere",
+    "nwo": "veekhere/quiz-lab",
+    "pr": 0,
+    "ma": "2024-07-28T01:22:09Z",
+    "oa": "2024-07-28T01:27:36.607Z",
+    "tg": null
+  },
+  {
+    "uml": "Lahore, Pakistan",
+    "gm": {
+      "lat": "31.5656822",
+      "lon": "74.3141829"
+    },
+    "uol": "Lahore, Pakistan",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Zaid-maker",
+    "nwo": "DevMirza-Blog/status",
+    "pr": 0,
+    "ma": "2024-07-28T01:21:09Z",
+    "oa": "2024-07-28T01:27:41.126Z",
+    "tg": "A commit of despair, amidst ruin's grasp,\nFusty code entwined like nuclear waste.\nI'll critique with care.\n\nHaiku:\nBarren wasteland reigns\nFoolish code entombed in pain\nHumanity's shame\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Seattle, WA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "tylerbutler",
+    "nwo": "tylerbutler/tools-monorepo",
+    "pr": 0,
+    "ma": "2024-07-28T01:23:10Z",
+    "oa": "2024-07-28T01:28:10.724Z",
+    "tg": null
+  },
+  {
+    "uml": "Canada",
+    "gm": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "uol": "Canada",
+    "gop": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "l": "WHO CARES",
+    "a": "RuohanSong",
+    "nwo": "RuohanSong/EcoTech",
+    "pr": 0,
+    "ma": "2024-07-28T01:23:09Z",
+    "oa": "2024-07-28T01:28:37.807Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia, Novosibirsk",
+    "gm": {
+      "lat": "55.0288307",
+      "lon": "82.9226887"
+    },
+    "uol": "Russia, Novosibirsk",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "anklav24",
+    "nwo": "anklav24/upptime",
+    "pr": 0,
+    "ma": "2024-07-28T01:22:10Z",
+    "oa": "2024-07-28T01:29:01.611Z",
+    "tg": "ugh, what absolute garbage is this? how did this even make it into our codebase?! you'd think after all we've been through, like fighting off hordes of mutants and scrounging for scraps in the ruins of novosibirsk, that someone would have the decency to at least pretend to care about writing decent code. but no, not you. you're just a menace, a plague on our digital community.\n\nfirst off, what's with the absurd indentation? is this some kind of joke?! it looks like a kindergartener's drawing of a tree. and don't even get me started on the variable names. \"x\" and \"y\"? really? you can't be serious. how about we just use \"garbage\" and \"trouble\" instead, because that's what this code is.\n\nand don't even get me started on the logic. it's like you took a look at the problem, said \"eh, close enough,\" and then proceeded to hack something together without even bothering to test it. well, congratulations, because that's exactly what we got: a mess. a beautiful, magnificent mess.\n\nlisten up, author of this abomination: if i had my way, you'd be banned from any terminal in the wasteland. period. end of story. no exceptions. and as for fixing this monstrosity, ha! i could do it with one hand tied behind my back while fighting off a pack of ravenous mutants with the other.\n\nbut hey, what's the point? you're clearly beyond help. so go ahead, keep polluting our codebase with your \"contributions.\" see if i care.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "cairo",
+    "gm": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "uol": "cairo",
+    "gop": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "l": "WHO CARES",
+    "a": "mahmoudzakimek",
+    "nwo": "mahmoudzakimek/Microtec_task",
+    "pr": 0,
+    "ma": "2024-07-28T01:24:10Z",
+    "oa": "2024-07-28T01:29:11.935Z",
+    "tg": null
+  },
+  {
+    "uml": "PRC",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "PRC",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "WuXiaoMuer",
+    "nwo": "miss-mumu/developer2gwy",
+    "pr": 0,
+    "ma": "2024-07-28T01:24:10Z",
+    "oa": "2024-07-28T01:29:19.980Z",
+    "tg": null
+  },
+  {
+    "uml": "kandy, Sri Lanka",
+    "gm": {
+      "lat": "7.2931208",
+      "lon": "80.6350358"
+    },
+    "uol": "kandy, Sri Lanka",
+    "gop": {
+      "lat": "7.2931208",
+      "lon": "80.6350358"
+    },
+    "l": "WHO CARES",
+    "a": "Dulmin2021",
+    "nwo": "OpenDevin/OpenDevin",
+    "pr": 0,
+    "ma": "2024-07-28T01:24:10Z",
+    "oa": "2024-07-28T01:29:25.908Z",
+    "tg": null
+  },
+  {
+    "uml": "Maracaibo",
+    "gm": {
+      "lat": "10.6498095",
+      "lon": "-71.6443596"
+    },
+    "uol": "Maracaibo",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "rockcesar",
+    "nwo": "rockcesar/odoo_addons",
+    "pr": 0,
+    "ma": "2024-07-28T01:22:10Z",
+    "oa": "2024-07-28T01:29:54.645Z",
+    "tg": "In Maracaibo's ruinous grasp,\nCode sprawls, a tangled mess,\nHumanity's despair.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Saint Petersburg",
+    "gm": {
+      "lat": "27.7700475",
+      "lon": "-82.6359078"
+    },
+    "uol": "Saint Petersburg",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "sofi-bel",
+    "nwo": "sofi-bel/todo-react",
+    "pr": 0,
+    "ma": "2024-07-28T01:22:10Z",
+    "oa": "2024-07-28T01:30:00.685Z",
+    "tg": "In this desolate world, I scribble:\n\nRuined code stands tall,\nBaffling presence amidst ash,\nHuman folly's scar.\n\nSaint Petersburg, as we say in Russian, это полный кошмар - This is a complete disaster.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Tennessee, USA",
+    "gm": {
+      "lat": "35.7730076",
+      "lon": "-86.2820081"
+    },
+    "uol": "Tennessee, USA",
+    "gop": {
+      "lat": "35.7730076",
+      "lon": "-86.2820081"
+    },
+    "l": "WHO CARES",
+    "a": "MrRar",
+    "nwo": "MrRar/edit_skin",
+    "pr": 0,
+    "ma": "2024-07-28T01:25:10Z",
+    "oa": "2024-07-28T01:30:18.158Z",
+    "tg": null
+  },
+  {
+    "uml": "Taipei",
+    "gm": {
+      "lat": "25.0375198",
+      "lon": "121.5636796"
+    },
+    "uol": "Taipei",
+    "gop": {
+      "lat": "25.0375198",
+      "lon": "121.5636796"
+    },
+    "l": "WHO CARES",
+    "a": "jo-ym",
+    "nwo": "mem0ai/mem0",
+    "pr": 0,
+    "ma": "2024-07-28T01:25:09Z",
+    "oa": "2024-07-28T01:30:38.080Z",
+    "tg": null
+  },
+  {
+    "uml": "Cirebon City West Java ",
+    "gm": {
+      "lat": "-6.7137044",
+      "lon": "108.5608483"
+    },
+    "uol": "Cirebon City West Java ",
+    "gop": {
+      "lat": "-6.7137044",
+      "lon": "108.5608483"
+    },
+    "l": "WHO CARES",
+    "a": "ImranMuhamadR",
+    "nwo": "ImranMuhamadR/apriorimain",
+    "pr": 0,
+    "ma": "2024-07-28T01:25:09Z",
+    "oa": "2024-07-28T01:30:40.067Z",
+    "tg": null
+  },
+  {
+    "uml": "Karnataka, India",
+    "gm": {
+      "lat": "14.5203896",
+      "lon": "75.7223521"
+    },
+    "uol": "Karnataka, India",
+    "gop": {
+      "lat": "14.5203896",
+      "lon": "75.7223521"
+    },
+    "l": "WHO CARES",
+    "a": "rishi-singh26",
+    "nwo": "rishi-singh26/TempBox-Flutter",
+    "pr": 0,
+    "ma": "2024-07-28T01:26:10Z",
+    "oa": "2024-07-28T01:31:19.296Z",
+    "tg": null
+  },
+  {
+    "uml": "San Diego, California",
+    "gm": {
+      "lat": "32.7174202",
+      "lon": "-117.162772"
+    },
+    "uol": "San Diego, California",
+    "gop": {
+      "lat": "32.7174202",
+      "lon": "-117.162772"
+    },
+    "l": "WHO CARES",
+    "a": "gleenn",
+    "nwo": "arunsupe/semantic-grep",
+    "pr": 0,
+    "ma": "2024-07-28T01:26:10Z",
+    "oa": "2024-07-28T01:31:35.291Z",
+    "tg": null
   }
 ]
