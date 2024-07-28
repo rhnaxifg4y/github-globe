@@ -164,7 +164,7 @@ export function getSplineFromCoords(coords) {
           ctrl2.multiplyScalar(scalar);
   
           const curve = getSplineFromCoords([
-            gop.lat, gop.lon, gm.lat, gm.lon
+            gop.lat, gop.lon, geo_user_merged.lat, geo_user_merged.lon
           ]).spline;
             
           // i is used to offset z to make sure that there's no z-fighting (objects
