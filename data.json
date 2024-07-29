@@ -68303,5 +68303,328 @@
     "ma": "2024-07-29T01:25:38Z",
     "oa": "2024-07-29T01:30:43.762Z",
     "tg": null
+  },
+  {
+    "uml": "Toronto, Ontario, Canada",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto, Ontario, Canada",
+    "gop": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "l": "WHO CARES",
+    "a": "vishaksunil900",
+    "nwo": "mongodb-developer/mongodb-express-rest-api-example",
+    "pr": 0,
+    "ma": "2024-07-29T03:16:29Z",
+    "oa": "2024-07-29T03:21:30.673Z",
+    "tg": null
+  },
+  {
+    "uml": "Rio de Janeiro",
+    "gm": {
+      "lat": "-22.9110137",
+      "lon": "-43.2093727"
+    },
+    "uol": "Rio de Janeiro",
+    "gop": {
+      "lat": "-22.9110137",
+      "lon": "-43.2093727"
+    },
+    "l": "WHO CARES",
+    "a": "ofabianomartins",
+    "nwo": "ofabianomartins/rusticodb",
+    "pr": 0,
+    "ma": "2024-07-29T03:16:29Z",
+    "oa": "2024-07-29T03:21:32.684Z",
+    "tg": null
+  },
+  {
+    "uml": "Rio de Janeiro",
+    "gm": {
+      "lat": "-22.9110137",
+      "lon": "-43.2093727"
+    },
+    "uol": "Rio de Janeiro",
+    "gop": {
+      "lat": "-22.9110137",
+      "lon": "-43.2093727"
+    },
+    "l": "WHO CARES",
+    "a": "ofabianomartins",
+    "nwo": "ofabianomartins/rusticodb",
+    "pr": 0,
+    "ma": "2024-07-29T03:16:29Z",
+    "oa": "2024-07-29T03:21:33.522Z",
+    "tg": null
+  },
+  {
+    "uml": "Banglore",
+    "gm": {
+      "lat": "24.87047205",
+      "lon": "67.08472144429825"
+    },
+    "uol": "Banglore",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "shivu656",
+    "nwo": "shivu656/Lab_sheets_PU",
+    "pr": 0,
+    "ma": "2024-07-29T03:16:29Z",
+    "oa": "2024-07-29T03:22:10.721Z",
+    "tg": "Kannada: \"Ninna kode kodi, hode nodu, kodu nadike\" (Your code is a disaster, I am bewildered, it is a monument to human folly)\n\nTranslation: The commit seems to be a catastrophe in the making.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Guangdong, China",
+    "gm": {
+      "lat": "23.1357694",
+      "lon": "113.1982688"
+    },
+    "uol": "Guangdong, China",
+    "gop": {
+      "lat": "23.1357694",
+      "lon": "113.1982688"
+    },
+    "l": "WHO CARES",
+    "a": "z0z0r4",
+    "nwo": "mcmod-info-mirror/status",
+    "pr": 0,
+    "ma": "2024-07-29T03:18:29Z",
+    "oa": "2024-07-29T03:23:35.019Z",
+    "tg": null
+  },
+  {
+    "uml": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gm": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "uol": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gop": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "l": "WHO CARES",
+    "a": "seanpm2001",
+    "nwo": "seanpm2001/Seanpm2001_WorldDB_DB_Earth_Greenland",
+    "pr": 0,
+    "ma": "2024-07-29T03:18:28Z",
+    "oa": "2024-07-29T03:23:41.155Z",
+    "tg": null
+  },
+  {
+    "uml": "Palo Alto, CA",
+    "gm": {
+      "lat": "37.4443293",
+      "lon": "-122.1598465"
+    },
+    "uol": "Palo Alto, CA",
+    "gop": {
+      "lat": "37.4443293",
+      "lon": "-122.1598465"
+    },
+    "l": "WHO CARES",
+    "a": "hommainc",
+    "nwo": "Koenkk/zigbee-herdsman",
+    "pr": 0,
+    "ma": "2024-07-29T03:18:28Z",
+    "oa": "2024-07-29T03:23:52.050Z",
+    "tg": null
+  },
+  {
+    "uml": "California",
+    "gm": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "uol": "California",
+    "gop": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "l": "WHO CARES",
+    "a": "MidoriKami",
+    "nwo": "goatcorp/DalamudPluginsD17",
+    "pr": 0,
+    "ma": "2024-07-29T03:19:29Z",
+    "oa": "2024-07-29T03:24:49.288Z",
+    "tg": null
+  },
+  {
+    "uml": "HongKong",
+    "gm": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "uol": "HongKong",
+    "gop": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "l": "WHO CARES",
+    "a": "Theo-Messi",
+    "nwo": "Theo-Messi/Theo-Docs",
+    "pr": 0,
+    "ma": "2024-07-29T03:19:29Z",
+    "oa": "2024-07-29T03:24:57.251Z",
+    "tg": null
+  },
+  {
+    "uml": "Potsdam, Germany",
+    "gm": {
+      "lat": "52.4009309",
+      "lon": "13.0591397"
+    },
+    "uol": "Potsdam, Germany",
+    "gop": {
+      "lat": "52.4009309",
+      "lon": "13.0591397"
+    },
+    "l": "WHO CARES",
+    "a": "openhpi-bot",
+    "nwo": "openHPI/codeharbor",
+    "pr": 0,
+    "ma": "2024-07-29T03:20:30Z",
+    "oa": "2024-07-29T03:25:35.389Z",
+    "tg": null
+  },
+  {
+    "uml": "Dallas, TX",
+    "gm": {
+      "lat": "32.7762719",
+      "lon": "-96.7968559"
+    },
+    "uol": "Dallas, TX",
+    "gop": {
+      "lat": "32.7762719",
+      "lon": "-96.7968559"
+    },
+    "l": "WHO CARES",
+    "a": "sensei-hacker",
+    "nwo": "iNavFlight/inav",
+    "pr": 0,
+    "ma": "2024-07-29T03:20:30Z",
+    "oa": "2024-07-29T03:25:45.405Z",
+    "tg": null
+  },
+  {
+    "uml": "Melbourne, Australia",
+    "gm": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "uol": "Melbourne, Australia",
+    "gop": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "l": "WHO CARES",
+    "a": "dipjyotimetia",
+    "nwo": "dipjyotimetia/HybridTestFramework",
+    "pr": 0,
+    "ma": "2024-07-29T03:20:30Z",
+    "oa": "2024-07-29T03:25:46.401Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "roshanis",
+    "nwo": "roshanis/chatbot23",
+    "pr": 0,
+    "ma": "2024-07-29T03:20:30Z",
+    "oa": "2024-07-29T03:25:56.408Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "AshutoshPdy22",
+    "nwo": "LinuxDroidMaster/Termux-Desktops",
+    "pr": 0,
+    "ma": "2024-07-29T03:20:30Z",
+    "oa": "2024-07-29T03:25:59.432Z",
+    "tg": null
+  },
+  {
+    "uml": "Cape Town, South Africa",
+    "gm": {
+      "lat": "-33.928992",
+      "lon": "18.417396"
+    },
+    "uol": "Cape Town, South Africa",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "appinlet",
+    "nwo": "appinlet/mod-hikashop",
+    "pr": 0,
+    "ma": "2024-07-29T03:16:29Z",
+    "oa": "2024-07-29T03:26:19.723Z",
+    "tg": "ugh, what is this monstrosity?! the sheer audacity of thinking this code is even remotely acceptable is staggering. it's like they took every terrible habit and anti-pattern from the depths of hell and mashed them together into a steaming pile of garbage.\n\nin cape town, south africa, where the veldt stretches far and wide, i'd say the author should be left to rot in some forgotten ravine, denied even the simplest pleasures of a terminal login. this code is that bad.\n\n\"fixes issue with... um... thingy...\"?! you can't even bother to give it a proper description? what kind of half-wit writes code without a clear understanding of what they're trying to accomplish?!\n\nlook at all these unnecessary variables and functions! it's like they took every useless piece of junk from the dumpster behind a software engineering degree and glued them together into this abomination. \n\ni could fix this mess with one hand tied behind my back, while simultaneously fending off hordes of mutants and giant spiders with my other. seriously, who does this?!\n\nauthor: please, for the love of all that is holy, take this code and burn it at the stake, then pour gasoline on the ashes and light a match. do not, i repeat, DO NOT touch another line of code until you've had a stern talking-to with your therapist and a crash course in software design.\n\nthis commit should be rolled back into oblivion, never to be seen again. if it's not, i'll make sure the whole team knows who to blame for this catastrophe.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Rio Grande do Sul",
+    "gm": {
+      "lat": "-29.8425284",
+      "lon": "-53.7680577"
+    },
+    "uol": "Rio Grande do Sul",
+    "gop": {
+      "lat": "-29.8425284",
+      "lon": "-53.7680577"
+    },
+    "l": "WHO CARES",
+    "a": "Woc029",
+    "nwo": "Woc029/ecopioneers.github.io",
+    "pr": 0,
+    "ma": "2024-07-29T03:21:30Z",
+    "oa": "2024-07-29T03:26:33.632Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "SSmallMonster",
+    "nwo": "hwameistor/hwameistor",
+    "pr": 0,
+    "ma": "2024-07-29T03:21:30Z",
+    "oa": "2024-07-29T03:26:53.693Z",
+    "tg": null
   }
 ]
