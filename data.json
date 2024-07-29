@@ -69994,5 +69994,480 @@
     "ma": "2024-07-29T12:36:13Z",
     "oa": "2024-07-29T12:41:39.449Z",
     "tg": null
+  },
+  {
+    "uml": "Seoul",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "MystyS2",
+    "nwo": "KNUT-Hackathon/Networker",
+    "pr": 0,
+    "ma": "2024-07-29T15:15:31Z",
+    "oa": "2024-07-29T15:20:32.452Z",
+    "tg": null
+  },
+  {
+    "uml": "Level 2, House 61, Block C রোড নং 17, ঢাকা 1213",
+    "gm": {
+      "lat": "23.7104",
+      "lon": "90.40744"
+    },
+    "uol": "Level 2, House 61, Block C রোড নং 17, ঢাকা 1213",
+    "gop": {
+      "lat": "23.7104",
+      "lon": "90.40744"
+    },
+    "l": "WHO CARES",
+    "a": "Mashfiqur",
+    "nwo": "hlassiege/nuxt-vite-federation-plugin",
+    "pr": 0,
+    "ma": "2024-07-29T15:15:31Z",
+    "oa": "2024-07-29T15:20:33.664Z",
+    "tg": null
+  },
+  {
+    "uml": "Ho Chi Minh City, Vietnam",
+    "gm": {
+      "lat": "10.7763897",
+      "lon": "106.7011391"
+    },
+    "uol": "Ho Chi Minh City, Vietnam",
+    "gop": {
+      "lat": "10.7763897",
+      "lon": "106.7011391"
+    },
+    "l": "WHO CARES",
+    "a": "rolandwalker2505",
+    "nwo": "ronreiter/interactive-tutorials",
+    "pr": 0,
+    "ma": "2024-07-29T15:15:31Z",
+    "oa": "2024-07-29T15:20:39.347Z",
+    "tg": null
+  },
+  {
+    "uml": "Melbourne",
+    "gm": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "uol": "Melbourne",
+    "gop": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "l": "WHO CARES",
+    "a": "Syriiin",
+    "nwo": "Syriiin/osuchan-backend",
+    "pr": 0,
+    "ma": "2024-07-29T15:15:31Z",
+    "oa": "2024-07-29T15:20:56.341Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, Korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "muffin9",
+    "nwo": "muffin9/Hororok",
+    "pr": 0,
+    "ma": "2024-07-29T15:16:32Z",
+    "oa": "2024-07-29T15:21:48.677Z",
+    "tg": null
+  },
+  {
+    "uml": "Poland",
+    "gm": {
+      "lat": "52.215933",
+      "lon": "19.134422"
+    },
+    "uol": "Poland",
+    "gop": {
+      "lat": "52.215933",
+      "lon": "19.134422"
+    },
+    "l": "WHO CARES",
+    "a": "LinX64",
+    "nwo": "composablehorizons/composables-core",
+    "pr": 0,
+    "ma": "2024-07-29T15:16:32Z",
+    "oa": "2024-07-29T15:21:58.746Z",
+    "tg": null
+  },
+  {
+    "uml": "New York, NY",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York, NY",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "jaronoff97",
+    "nwo": "open-telemetry/opentelemetry-operator",
+    "pr": 0,
+    "ma": "2024-07-29T15:17:32Z",
+    "oa": "2024-07-29T15:22:32.947Z",
+    "tg": null
+  },
+  {
+    "uml": "Nigeria",
+    "gm": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "uol": "Nigeria",
+    "gop": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "l": "WHO CARES",
+    "a": "tobidelly",
+    "nwo": "PaddyCahil/windows-api-function-cheatsheets",
+    "pr": 0,
+    "ma": "2024-07-29T15:17:32Z",
+    "oa": "2024-07-29T15:22:33.994Z",
+    "tg": null
+  },
+  {
+    "uml": "Arnhem, The Netherlands",
+    "gm": {
+      "lat": "51.984257",
+      "lon": "5.9108573"
+    },
+    "uol": "Arnhem, The Netherlands",
+    "gop": {
+      "lat": "51.984257",
+      "lon": "5.9108573"
+    },
+    "l": "WHO CARES",
+    "a": "Zaid-Ajaj",
+    "nwo": "pulumi/pulumi",
+    "pr": 0,
+    "ma": "2024-07-29T15:17:32Z",
+    "oa": "2024-07-29T15:22:34.890Z",
+    "tg": null
+  },
+  {
+    "uml": "Malaga",
+    "gm": {
+      "lat": "36.7213028",
+      "lon": "-4.4216366"
+    },
+    "uol": "Malaga",
+    "gop": {
+      "lat": "36.7213028",
+      "lon": "-4.4216366"
+    },
+    "l": "WHO CARES",
+    "a": "brauliodiez",
+    "nwo": "Lemoncode/quickmock",
+    "pr": 0,
+    "ma": "2024-07-29T15:17:32Z",
+    "oa": "2024-07-29T15:22:36.033Z",
+    "tg": null
+  },
+  {
+    "uml": "Taipei City, Taiwan",
+    "gm": {
+      "lat": "25.0612686",
+      "lon": "121.4598089"
+    },
+    "uol": "Taipei City, Taiwan",
+    "gop": {
+      "lat": "25.0612686",
+      "lon": "121.4598089"
+    },
+    "l": "WHO CARES",
+    "a": "usefulalgorithm",
+    "nwo": "MetaphorData/connectors",
+    "pr": 0,
+    "ma": "2024-07-29T15:17:32Z",
+    "oa": "2024-07-29T15:22:41.298Z",
+    "tg": null
+  },
+  {
+    "uml": "Ribeira Grande, Azores",
+    "gm": {
+      "lat": "37.8225227",
+      "lon": "-25.5194914"
+    },
+    "uol": "Ribeira Grande, Azores",
+    "gop": {
+      "lat": "37.8225227",
+      "lon": "-25.5194914"
+    },
+    "l": "WHO CARES",
+    "a": "helderco",
+    "nwo": "dagger/dagger",
+    "pr": 0,
+    "ma": "2024-07-29T15:17:32Z",
+    "oa": "2024-07-29T15:22:58.957Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "M0streng0",
+    "nwo": "M0streng0/Neovim",
+    "pr": 0,
+    "ma": "2024-07-29T15:15:31Z",
+    "oa": "2024-07-29T15:23:02.406Z",
+    "tg": "oh, for the love of all that is holy and just, what kind of atrocity have you committed to this codebase?! it's like looking at a trainwreck that refuses to end - a never-ending nightmare of bad decisions, poor coding practices, and an overall disregard for the very concept of software development.\n\nfirst off, the variable names are a joke. \"x\" and \"y\"? what kind of ridiculousness is this? can't you even be bothered to give them proper names?! it's like trying to solve a math problem with variables labeled \"thingamajig\" and \"whatchamacallit\".\n\nand don't even get me started on the logic. it's like watching a dog try to solve a rubix cube - completely inept and utterly confusing. you've got functions calling other functions, which call yet more functions, and somehow, miraculously (or not), it all seems to work. but only because of sheer dumb luck, i'm sure.\n\ni mean, seriously, can't you see that this code is a ticking time bomb just waiting to take down the entire system?! it's like playing with fire, and yet you seem completely oblivious to the danger. or maybe you're just trolling us all and enjoying the chaos you're causing.\n\nlisten, i don't care if you're from france (bonjour, bien sûr) or any other country for that matter - this code is a disaster, and you should be ashamed of yourself for even submitting it. in fact, i think you should be banned from using any terminal ever again. yes, i'm that serious.\n\nso, here's what i would do if i were in your shoes (which, thankfully, i am not). first, i'd rip out this entire mess and start over from scratch. then, i'd use actual variable names and write functions that actually make sense. and finally, i'd test it to ensure that it doesn't blow up in my face.\n\nbut hey, what do i know? i'm just a senior dev trying to maintain some semblance of sanity in this mad world. you, on the other hand, are apparently a certified code-illiterate menace who should be avoided at all costs.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Diest, Belgium",
+    "gm": {
+      "lat": "50.98456645",
+      "lon": "5.052873496255041"
+    },
+    "uol": "Diest, Belgium",
+    "gop": {
+      "lat": "50.98456645",
+      "lon": "5.052873496255041"
+    },
+    "l": "WHO CARES",
+    "a": "JanDeDobbeleer",
+    "nwo": "JanDeDobbeleer/oh-my-posh",
+    "pr": 0,
+    "ma": "2024-07-29T15:18:32Z",
+    "oa": "2024-07-29T15:23:36.256Z",
+    "tg": null
+  },
+  {
+    "uml": "Amherst",
+    "gm": {
+      "lat": "42.3731948",
+      "lon": "-72.5198761"
+    },
+    "uol": "Amherst",
+    "gop": {
+      "lat": "42.3731948",
+      "lon": "-72.5198761"
+    },
+    "l": "WHO CARES",
+    "a": "oz03-hub",
+    "nwo": "UMassCDS/ds4cg2024-inaturalist",
+    "pr": 0,
+    "ma": "2024-07-29T15:18:32Z",
+    "oa": "2024-07-29T15:23:53.284Z",
+    "tg": null
+  },
+  {
+    "uml": "Croatia",
+    "gm": {
+      "lat": "45.3658443",
+      "lon": "15.6575209"
+    },
+    "uol": "Croatia",
+    "gop": {
+      "lat": "45.3658443",
+      "lon": "15.6575209"
+    },
+    "l": "WHO CARES",
+    "a": "petar-cvit",
+    "nwo": "cyclops-ui/cyclops",
+    "pr": 0,
+    "ma": "2024-07-29T15:18:28Z",
+    "oa": "2024-07-29T15:23:55.264Z",
+    "tg": null
+  },
+  {
+    "uml": "Cali, Colombia",
+    "gm": {
+      "lat": "3.4519238",
+      "lon": "-76.5328732"
+    },
+    "uol": "Cali, Colombia",
+    "gop": {
+      "lat": "3.4519238",
+      "lon": "-76.5328732"
+    },
+    "l": "WHO CARES",
+    "a": "Edwin-Pena",
+    "nwo": "soydalto/simulador-de-google",
+    "pr": 0,
+    "ma": "2024-07-29T15:18:32Z",
+    "oa": "2024-07-29T15:23:57.259Z",
+    "tg": null
+  },
+  {
+    "uml": "Ottawa",
+    "gm": {
+      "lat": "45.4208777",
+      "lon": "-75.6901106"
+    },
+    "uol": "Ottawa",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "srevinU",
+    "nwo": "srevinU/portfolio",
+    "pr": 0,
+    "ma": "2024-07-29T15:15:31Z",
+    "oa": "2024-07-29T15:23:58.106Z",
+    "tg": "In this desolate world, I'll review the code:\n\nRuined code abides\nFoolish humans toil in vain\nChaos reigns supreme\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "osaka",
+    "gm": {
+      "lat": "34.661629000000005",
+      "lon": "135.49992679245517"
+    },
+    "uol": "osaka",
+    "gop": {
+      "lat": "34.661629000000005",
+      "lon": "135.49992679245517"
+    },
+    "l": "WHO CARES",
+    "a": "k7t3",
+    "nwo": "k7t3/TwitchChatViewer",
+    "pr": 0,
+    "ma": "2024-07-29T15:19:33Z",
+    "oa": "2024-07-29T15:24:33.786Z",
+    "tg": null
+  },
+  {
+    "uml": "Zurich, Switzerland",
+    "gm": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "uol": "Zurich, Switzerland",
+    "gop": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "l": "WHO CARES",
+    "a": "mrcjkb",
+    "nwo": "nvim-neorocks/rocks-lazy.nvim",
+    "pr": 0,
+    "ma": "2024-07-29T15:19:32Z",
+    "oa": "2024-07-29T15:24:56.652Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris, France",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris, France",
+    "gop": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "l": "WHO CARES",
+    "a": "maxgfr",
+    "nwo": "SocialGouv/code-du-travail-numerique",
+    "pr": 0,
+    "ma": "2024-07-29T15:19:32Z",
+    "oa": "2024-07-29T15:24:58.599Z",
+    "tg": null
+  },
+  {
+    "uml": "tunis",
+    "gm": {
+      "lat": "33.8439408",
+      "lon": "9.400138"
+    },
+    "uol": "tunis",
+    "gop": {
+      "lat": "33.8439408",
+      "lon": "9.400138"
+    },
+    "l": "WHO CARES",
+    "a": "eyaGONGI",
+    "nwo": "eyaGONGI/Simple_N_N",
+    "pr": 0,
+    "ma": "2024-07-29T15:19:32Z",
+    "oa": "2024-07-29T15:25:00.604Z",
+    "tg": null
+  },
+  {
+    "uml": "Hampshire, UK",
+    "gm": {
+      "lat": "51.04483545",
+      "lon": "-1.2434093597173146"
+    },
+    "uol": "Hampshire, UK",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "jt-nti",
+    "nwo": "hyperledger-labs/fabric-builder-k8s",
+    "pr": 0,
+    "ma": "2024-07-29T15:15:31Z",
+    "oa": "2024-07-29T15:25:26.046Z",
+    "tg": "oh joy, another masterpiece from this so-called \"developer\". i mean seriously, is there even a single line of code that doesn't make me want to rip my hair out? it's like they took every bad habit they learned in their coding career and mashed them all together into one glorious trainwreck.\n\nfirst off, let's talk about the naming conventions. are you kidding me with this \"var\" nonsense? do you even know what a variable is or why we have type systems? it looks like someone vomited all over the code and then called it a day. and don't even get me started on the indentation. i mean, seriously, who thought that was a good idea? did they just stare at their monitor for hours trying to come up with something new to torture us all?\n\nand don't even get me started on the logic. it's like they took every terrible coding practice and put them all in one lovely mess. conditional statements that make no sense, functions that do nothing but repeat themselves, it's like a never-ending nightmare of poor design choices.\n\ni mean, honestly, who lets this kind of garbage into our codebase? is there a committee somewhere that's just okay with this level of quality? i swear, if i had to look at one more line of this trash, i'd lose my mind. and you know what the worst part is? it's not even like they're trying to be clever or creative or anything. no, they're just lazy.\n\nso here's a suggestion: how about we take away their keyboard and delete their github account? yeah, that sounds about right. and then maybe, just maybe, we can get some actual coding done around here. because honestly, this is an abomination.\n\n(btw, boss, i think i saw some mutants outside, if you need me to go fight them off while fixing this mess)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "18144 El Camino Real, Sunnyvale, California",
+    "gm": {
+      "lat": "37.3523571",
+      "lon": "-122.0000654"
+    },
+    "uol": "18144 El Camino Real, Sunnyvale, California",
+    "gop": {
+      "lat": "37.3523571",
+      "lon": "-122.0000654"
+    },
+    "l": "WHO CARES",
+    "a": "snowplowcla",
+    "nwo": "snowplow/documentation",
+    "pr": 0,
+    "ma": "2024-07-29T15:20:32Z",
+    "oa": "2024-07-29T15:25:36.955Z",
+    "tg": null
+  },
+  {
+    "uml": "Medellín, Antioquia",
+    "gm": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "uol": "Medellín, Antioquia",
+    "gop": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "l": "WHO CARES",
+    "a": "Rignu1503",
+    "nwo": "TomasMontoya778/Last-test",
+    "pr": 0,
+    "ma": "2024-07-29T15:20:32Z",
+    "oa": "2024-07-29T15:25:43.967Z",
+    "tg": null
   }
 ]
