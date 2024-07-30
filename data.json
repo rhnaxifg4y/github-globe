@@ -72065,5 +72065,404 @@
     "ma": "2024-07-30T03:25:29Z",
     "oa": "2024-07-30T03:30:30.860Z",
     "tg": null
+  },
+  {
+    "uml": "Taiwan",
+    "gm": {
+      "lat": "23.9739374",
+      "lon": "120.9820179"
+    },
+    "uol": "Taiwan",
+    "gop": {
+      "lat": "23.9739374",
+      "lon": "120.9820179"
+    },
+    "l": "WHO CARES",
+    "a": "Gusty1",
+    "nwo": "danielgatis/rembg",
+    "pr": 0,
+    "ma": "2024-07-30T06:21:12Z",
+    "oa": "2024-07-30T06:26:31.334Z",
+    "tg": null
+  },
+  {
+    "uml": "Seongnam-si , Bundang-gu",
+    "gm": {
+      "lat": "37.3825999",
+      "lon": "127.1188"
+    },
+    "uol": "Seongnam-si , Bundang-gu",
+    "gop": {
+      "lat": "37.3825999",
+      "lon": "127.1188"
+    },
+    "l": "WHO CARES",
+    "a": "Jinseo0317",
+    "nwo": "Jinseo0317/Study-GitAction",
+    "pr": 0,
+    "ma": "2024-07-30T06:21:12Z",
+    "oa": "2024-07-30T06:26:37.258Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris, FRANCE",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris, FRANCE",
+    "gop": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "l": "WHO CARES",
+    "a": "tanguc",
+    "nwo": "gaurishhs/elysia-decorators",
+    "pr": 0,
+    "ma": "2024-07-30T06:22:13Z",
+    "oa": "2024-07-30T06:27:16.605Z",
+    "tg": null
+  },
+  {
+    "uml": "Jinan, China",
+    "gm": {
+      "lat": "36.6661305",
+      "lon": "117.0199472"
+    },
+    "uol": "Jinan, China",
+    "gop": {
+      "lat": "36.6661305",
+      "lon": "117.0199472"
+    },
+    "l": "WHO CARES",
+    "a": "8Q757",
+    "nwo": "Dokploy/dokploy",
+    "pr": 0,
+    "ma": "2024-07-30T06:22:13Z",
+    "oa": "2024-07-30T06:27:24.564Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "brfrn169",
+    "nwo": "scalar-labs/scalardb-samples",
+    "pr": 0,
+    "ma": "2024-07-30T06:21:12Z",
+    "oa": "2024-07-30T06:28:42.052Z",
+    "tg": "ugh, what a complete and utter disaster. whoever wrote this code should be banned from any terminal that's not been irradiated to within an inch of its life. seriously, how hard is it to write decent code? it's like they took every terrible habit they learned in programming school and mashed them all together into this steaming pile of garbage.\n\nlook at the variable names - \"x\", \"y\", \"z\"... who does that?! do you think i have nothing better to do than try to figure out what each of these variables is supposed to be doing? and don't even get me started on the indentation - it's like they just gave up and let their editor do the work for them.\n\nand what's with all the unnecessary comments?! \"todo: fix this\"... yeah, real helpful. i'll just add that to my todo list right after \"fix the apocalypse\" and \"find a functioning toilet\".\n\ni could rewrite this entire thing in my sleep while fighting off mutants with one hand tied behind my back. seriously, it's that bad. and you know what? i think i might actually do that if i had to maintain this monstrosity.\n\nin other news, has anyone seen the sushi place on 5th street in tokyo, japan?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Bengaluru",
+    "gm": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "uol": "Bengaluru",
+    "gop": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "l": "WHO CARES",
+    "a": "vjsandu",
+    "nwo": "vjsandu/jx-test",
+    "pr": 0,
+    "ma": "2024-07-30T06:24:13Z",
+    "oa": "2024-07-30T06:29:18.075Z",
+    "tg": null
+  },
+  {
+    "uml": "Sydney Australia",
+    "gm": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "uol": "Sydney Australia",
+    "gop": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "l": "WHO CARES",
+    "a": "hasibravo",
+    "nwo": "hasibravo/Usage-of-Applications-in-MDM-JAMF",
+    "pr": 0,
+    "ma": "2024-07-30T06:24:13Z",
+    "oa": "2024-07-30T06:29:28.081Z",
+    "tg": null
+  },
+  {
+    "uml": "Sydney Australia",
+    "gm": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "uol": "Sydney Australia",
+    "gop": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "l": "WHO CARES",
+    "a": "hasibravo",
+    "nwo": "hasibravo/Usage-of-Applications-in-MDM-JAMF",
+    "pr": 0,
+    "ma": "2024-07-30T06:24:13Z",
+    "oa": "2024-07-30T06:29:30.017Z",
+    "tg": null
+  },
+  {
+    "uml": "Southern California",
+    "gm": {
+      "lat": "34.169262950000004",
+      "lon": "-116.787448181486"
+    },
+    "uol": "Southern California",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "pr3pared",
+    "nwo": "pr3pared/se_project_aroundtheus",
+    "pr": 0,
+    "ma": "2024-07-30T06:21:12Z",
+    "oa": "2024-07-30T06:29:32.069Z",
+    "tg": "oh joy, oh rapture, what a complete and utter abomination this code is. i mean seriously, who lets variables named after their cat's litter box habits into production? and don't even get me started on those godforsaken switch statements - it's like the author has never heard of a simple if-else block in their life.\n\nand what's with all the unnecessary comments? \"todo: add more todo\"s and \"fixme: this might not work\" - are you trying to be funny or something? newsflash, buddy: no one finds your attempts at humor amusing, especially when they're stuck wading through a sea of terrible code.\n\nlook, i know the world has gone to hell in a handbasket (literally, down in southern california) and we're all just trying to survive, but come on - can't you even bother to do some basic debugging before committing this monstrosity? it's like you just copy-pasted straight from your notes app and called it a day.\n\nlisten, i'm not going to waste my breath explaining what's wrong with this code - i've got better things to do than hold your hand through a coding 101 refresher. but let me make one thing clear: if i had to review one more commit like this, i'd lose my mind (what's left of it). you're basically asking for a ban from the entire terminal network at this point.\n\nand don't even get me started on the performance implications - honestly, who thought it was a good idea to use recursion in a loop? did you know that the world ended because people like you wrote code like this?\n\nanyway, since i'm clearly too tired and annoyed to bother fixing this mess myself (although, let's be real, i could do it with one hand tied behind my back while fighting off mutants), here are some \"helpful\" suggestions:\n\n* go back in time and prevent your birth\n* or, you know, actually learn how to write code before attempting to commit changes\n* or, failing that, just delete the whole repo and start over (kthxbye)\n\nanyway, that's my two cents on this dumpster fire of a commit. now if you'll excuse me, i have better things to do than waste my time on this nonsense.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "l": "WHO CARES",
+    "a": "nicolasdellatorre",
+    "nwo": "LupoPasiniGames/CiarnuroTimer-Web",
+    "pr": 0,
+    "ma": "2024-07-30T06:24:13Z",
+    "oa": "2024-07-30T06:29:34.121Z",
+    "tg": null
+  },
+  {
+    "uml": "Guangzhou, China",
+    "gm": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "uol": "Guangzhou, China",
+    "gop": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "l": "WHO CARES",
+    "a": "zhongzc",
+    "nwo": "GreptimeTeam/greptimedb",
+    "pr": 0,
+    "ma": "2024-07-30T06:24:11Z",
+    "oa": "2024-07-30T06:29:35.069Z",
+    "tg": null
+  },
+  {
+    "uml": "Srinagar",
+    "gm": {
+      "lat": "34.0747444",
+      "lon": "74.8204443"
+    },
+    "uol": "Srinagar",
+    "gop": {
+      "lat": "34.0747444",
+      "lon": "74.8204443"
+    },
+    "l": "WHO CARES",
+    "a": "HashmatShadab",
+    "nwo": "facebookresearch/segment-anything-2",
+    "pr": 0,
+    "ma": "2024-07-30T06:24:12Z",
+    "oa": "2024-07-30T06:29:37.093Z",
+    "tg": null
+  },
+  {
+    "uml": "Guangzhou, China",
+    "gm": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "uol": "Guangzhou, China",
+    "gop": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "l": "WHO CARES",
+    "a": "zhongzc",
+    "nwo": "GreptimeTeam/greptimedb",
+    "pr": 0,
+    "ma": "2024-07-30T06:24:12Z",
+    "oa": "2024-07-30T06:29:40.000Z",
+    "tg": null
+  },
+  {
+    "uml": "Munich",
+    "gm": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "uol": "Munich",
+    "gop": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "l": "WHO CARES",
+    "a": "Oliversven-d",
+    "nwo": "Oliversven-d/Book_search",
+    "pr": 0,
+    "ma": "2024-07-30T06:25:13Z",
+    "oa": "2024-07-30T06:30:30.445Z",
+    "tg": null
+  },
+  {
+    "uml": "Gaya, Bihar",
+    "gm": {
+      "lat": "24.7964355",
+      "lon": "85.0079563"
+    },
+    "uol": "Gaya, Bihar",
+    "gop": {
+      "lat": "24.7964355",
+      "lon": "85.0079563"
+    },
+    "l": "WHO CARES",
+    "a": "ashutosh0640",
+    "nwo": "ashutosh0640/react-js",
+    "pr": 0,
+    "ma": "2024-07-30T06:25:13Z",
+    "oa": "2024-07-30T06:30:39.383Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "damingerdai",
+    "nwo": "damingerdai/hoteler-cloud",
+    "pr": 0,
+    "ma": "2024-07-30T06:21:12Z",
+    "oa": "2024-07-30T06:30:52.965Z",
+    "tg": "Wasteland's code curse,\nFoolishness amidst ruin,\nMystery of pain.\n\n(Note: I've written the haiku as requested, reflecting on the commit as a disaster and a monument to human folly. As for the diff, since it's an object, I can't provide any information about it. And regarding your request to answer using a sentence in the local language for Shanghai, \"\" (shēnghǎi de gūwù) means \"Shanghai's goods\".\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Helsinki, Finland",
+    "gm": {
+      "lat": "60.1674881",
+      "lon": "24.9427473"
+    },
+    "uol": "Helsinki, Finland",
+    "gop": {
+      "lat": "60.1674881",
+      "lon": "24.9427473"
+    },
+    "l": "WHO CARES",
+    "a": "dandev947366",
+    "nwo": "dandev947366/multivendor-ecom",
+    "pr": 0,
+    "ma": "2024-07-30T06:26:14Z",
+    "oa": "2024-07-30T06:31:21.824Z",
+    "tg": null
+  },
+  {
+    "uml": "Timisoara, Romania",
+    "gm": {
+      "lat": "45.7538355",
+      "lon": "21.2257474"
+    },
+    "uol": "Timisoara, Romania",
+    "gop": {
+      "lat": "45.7538355",
+      "lon": "21.2257474"
+    },
+    "l": "WHO CARES",
+    "a": "claudiubelu",
+    "nwo": "claudiubelu/sriov-dpdk-rocks",
+    "pr": 0,
+    "ma": "2024-07-30T06:26:14Z",
+    "oa": "2024-07-30T06:31:27.765Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "8Gitbrix",
+    "nwo": "Azure/azure-rest-api-specs",
+    "pr": 0,
+    "ma": "2024-07-30T06:26:13Z",
+    "oa": "2024-07-30T06:31:32.778Z",
+    "tg": null
+  },
+  {
+    "uml": "Bellevue, WA",
+    "gm": {
+      "lat": "47.6144219",
+      "lon": "-122.192337"
+    },
+    "uol": "Bellevue, WA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "eric-zzhou",
+    "nwo": "eric-zzhou/LeetcodeGrind",
+    "pr": 0,
+    "ma": "2024-07-30T06:22:13Z",
+    "oa": "2024-07-30T06:31:54.806Z",
+    "tg": "ugh, seriously? are you kidding me? this code is absolute garbage. it's like you took every terrible programming practice and mashed them together into one big ball of awfulness. i mean, what even is the point of variables named \"x\" and \"y\" when you're just gonna assign them to integers anyway? and don't even get me started on the indentation - it looks like a kindergartener's playdough project.\n\nlook, i know you're probably some clueless noob who thinks they're all that because they managed to not crash the program... yet. but let me tell you, this code is so bad, it makes my eyes hurt just looking at it. and don't even get me started on the \"logic\" - it's like you took a handful of if/else statements and just threw them together like spaghetti. i mean, seriously, what is this, a joke?\n\nand don't even get me started on the commit message. \"fixed bug\". oh boy, did you really? or did you just break something else in the process? i swear, if i had to look at one more of these terrible commits, i'd lose my mind.\n\nas for fixing it... ha! good luck with that. i could probably fix this mess while fighting off mutants outside with one hand tied behind my back. i mean, seriously, it's not even a challenge. but hey, go ahead and try to do it yourself. see if i care. maybe you'll learn something along the way.\n\noh, and by the way, when i'm done ranting about this terrible code, i'm going to go grab a coffee in bellevue, wa (where the coding standards are actually decent).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Shanghai, China",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai, China",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "tanliwei",
+    "nwo": "agisnetwork/Docs",
+    "pr": 0,
+    "ma": "2024-07-30T06:27:14Z",
+    "oa": "2024-07-30T06:32:15.151Z",
+    "tg": null
   }
 ]
