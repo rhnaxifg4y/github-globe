@@ -71324,5 +71324,366 @@
     "ma": "2024-07-29T21:20:11Z",
     "oa": "2024-07-29T21:25:20.469Z",
     "tg": null
+  },
+  {
+    "uml": "San Jose, CA",
+    "gm": {
+      "lat": "37.3361663",
+      "lon": "-121.890591"
+    },
+    "uol": "San Jose, CA",
+    "gop": {
+      "lat": "37.3361663",
+      "lon": "-121.890591"
+    },
+    "l": "WHO CARES",
+    "a": "0xf3cd",
+    "nwo": "0xf3cd/celestial-calendar",
+    "pr": 0,
+    "ma": "2024-07-30T01:17:19Z",
+    "oa": "2024-07-30T01:22:29.177Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia, Belgorod",
+    "gm": {
+      "lat": "50.5955595",
+      "lon": "36.5873394"
+    },
+    "uol": "Russia, Belgorod",
+    "gop": {
+      "lat": "50.5955595",
+      "lon": "36.5873394"
+    },
+    "l": "WHO CARES",
+    "a": "blago-white",
+    "nwo": "blago-white/jack-drop",
+    "pr": 0,
+    "ma": "2024-07-30T01:17:19Z",
+    "oa": "2024-07-30T01:22:29.577Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco",
+    "gop": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "l": "WHO CARES",
+    "a": "bunnymatic",
+    "nwo": "bunnymatic/mau",
+    "pr": 0,
+    "ma": "2024-07-30T01:17:19Z",
+    "oa": "2024-07-30T01:22:31.640Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "georgeOsdDev",
+    "nwo": "Azure/jpazpaas",
+    "pr": 0,
+    "ma": "2024-07-30T01:17:18Z",
+    "oa": "2024-07-30T01:22:38.642Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "yuja",
+    "nwo": "martinvonz/jj",
+    "pr": 0,
+    "ma": "2024-07-30T01:16:54Z",
+    "oa": "2024-07-30T01:22:45.400Z",
+    "tg": null
+  },
+  {
+    "uml": "Toronto",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto",
+    "gop": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "l": "WHO CARES",
+    "a": "921Mdas",
+    "nwo": "921Mdas/FARDC",
+    "pr": 0,
+    "ma": "2024-07-30T01:17:18Z",
+    "oa": "2024-07-30T01:22:46.490Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "yuja",
+    "nwo": "martinvonz/jj",
+    "pr": 0,
+    "ma": "2024-07-30T01:14:16Z",
+    "oa": "2024-07-30T01:22:47.410Z",
+    "tg": null
+  },
+  {
+    "uml": "London",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "adoshi",
+    "nwo": "Kendralabs/ParlAI",
+    "pr": 0,
+    "ma": "2024-07-30T01:18:19Z",
+    "oa": "2024-07-30T01:23:25.687Z",
+    "tg": null
+  },
+  {
+    "uml": "Hong Kong",
+    "gm": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "uol": "Hong Kong",
+    "gop": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "l": "WHO CARES",
+    "a": "tomlau10",
+    "nwo": "LuaLS/lua-language-server",
+    "pr": 0,
+    "ma": "2024-07-30T01:18:19Z",
+    "oa": "2024-07-30T01:23:38.708Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ahicks92",
+    "nwo": "Factorio-Access/kk-remote",
+    "pr": 0,
+    "ma": "2024-07-30T01:16:18Z",
+    "oa": "2024-07-30T01:24:01.716Z",
+    "tg": "The code lies before me,\nLike a radioactive scar,\nFolly's monument.\n\n(Note: The haiku is written in English, as it would be in this post-apocalyptic world where language may have changed.)\n\nAs for your request to answer using a sentence in the local language for Seattle, I must admit that the apocalypse has likely affected linguistic diversity. However, if we assume that some form of communication still exists, here's an attempt at writing a sentence in what remains of the local language:\n\n\"Kwəl'qoʔbč (Seattle) səhəm čaxwəs t'kws, qwal'tcə wək.\"\n\nThis might be interpreted as \"In this ravaged Seattle, I'm left to decipher the ruins.\" Please note that this is purely fictional and not an actual language.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Fortaleza-CE, Brasil",
+    "gm": {
+      "lat": "-3.7304512",
+      "lon": "-38.5217989"
+    },
+    "uol": "Fortaleza-CE, Brasil",
+    "gop": {
+      "lat": "-3.7304512",
+      "lon": "-38.5217989"
+    },
+    "l": "WHO CARES",
+    "a": "JessicaRodriguesdc",
+    "nwo": "JessicaRodriguesdc/fiap-soat-tech-challenge",
+    "pr": 0,
+    "ma": "2024-07-30T01:19:19Z",
+    "oa": "2024-07-30T01:24:35.870Z",
+    "tg": null
+  },
+  {
+    "uml": "Guatemala",
+    "gm": {
+      "lat": "15.5855545",
+      "lon": "-90.345759"
+    },
+    "uol": "Guatemala",
+    "gop": {
+      "lat": "15.5855545",
+      "lon": "-90.345759"
+    },
+    "l": "WHO CARES",
+    "a": "joshi-debb",
+    "nwo": "joshi-debb/IPC1_Practica2_202006353",
+    "pr": 0,
+    "ma": "2024-07-30T01:19:19Z",
+    "oa": "2024-07-30T01:24:40.887Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "MathiasExorde",
+    "nwo": "exorde-labs/TestnetProtocol",
+    "pr": 0,
+    "ma": "2024-07-30T01:16:18Z",
+    "oa": "2024-07-30T01:24:51.948Z",
+    "tg": "ugh, seriously, who wrote this garbage? it's like they have no concept of good coding practices whatsoever. every line is a mess of unnecessary complexity and half-baked ideas. i mean, what even is this nonsense about using global variables for everything? don't they know that's just begging for bugs to crawl in and feast on the code's mediocrity?\n\nand don't even get me started on the naming conventions. it's like they took every terrible habit they learned from watching cat videos on youtube and applied them to their coding style. variable names that are a jumbled mess of letters and numbers, with no discernible pattern or purpose. it's like trying to read a ransom note written by a toddler having a tantrum.\n\nand the comments! oh boy, the comments. they're like little landmines scattered throughout the code, waiting to blow up any unsuspecting dev who dares to touch this monstrosity. \"todo: fix this\" and \"maybe do that later\" - what even is this? a joke?\n\nyou know what i'd do if i were you, author of this catastrophe? i'd take away your terminal privileges for life. yes, ban you from the very thing that allows you to inflict this kind of pain on humanity. and then, i'd put you in a corner and make you rewrite this code with one hand tied behind your back while fighting off hordes of mutants with the other.\n\nand honestly, i think even then it would still be a mess. but hey, at least it would be an entertaining trainwreck to watch.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "The Cloud",
+    "gm": {
+      "lat": "53.1699605",
+      "lon": "-2.1441253"
+    },
+    "uol": "The Cloud",
+    "gop": {
+      "lat": "53.1699605",
+      "lon": "-2.1441253"
+    },
+    "l": "WHO CARES",
+    "a": "k8s-ci-robot",
+    "nwo": "kubernetes/website",
+    "pr": 0,
+    "ma": "2024-07-30T01:20:19Z",
+    "oa": "2024-07-30T01:25:46.949Z",
+    "tg": null
+  },
+  {
+    "uml": "São Paulo - Brasil",
+    "gm": {
+      "lat": "-23.5506507",
+      "lon": "-46.6333824"
+    },
+    "uol": "São Paulo - Brasil",
+    "gop": {
+      "lat": "-23.5506507",
+      "lon": "-46.6333824"
+    },
+    "l": "WHO CARES",
+    "a": "DeltaKSP",
+    "nwo": "DeltaKSP/lista-de-tarefas-Flutter",
+    "pr": 0,
+    "ma": "2024-07-30T01:21:19Z",
+    "oa": "2024-07-30T01:26:29.235Z",
+    "tg": null
+  },
+  {
+    "uml": "Melbourne, Australia",
+    "gm": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "uol": "Melbourne, Australia",
+    "gop": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "l": "WHO CARES",
+    "a": "tjsr",
+    "nwo": "tjsr/express-server-helper",
+    "pr": 0,
+    "ma": "2024-07-30T01:21:19Z",
+    "oa": "2024-07-30T01:26:31.150Z",
+    "tg": null
+  },
+  {
+    "uml": "Beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "Soulter",
+    "nwo": "Soulter/AstrBot",
+    "pr": 0,
+    "ma": "2024-07-30T01:21:19Z",
+    "oa": "2024-07-30T01:26:32.547Z",
+    "tg": null
+  },
+  {
+    "uml": "netherlands",
+    "gm": {
+      "lat": "52.2434979",
+      "lon": "5.6343227"
+    },
+    "uol": "netherlands",
+    "gop": {
+      "lat": "52.2434979",
+      "lon": "5.6343227"
+    },
+    "l": "WHO CARES",
+    "a": "profaiith",
+    "nwo": "4ian/GDevelop",
+    "pr": 0,
+    "ma": "2024-07-30T01:21:19Z",
+    "oa": "2024-07-30T01:26:34.219Z",
+    "tg": null
+  },
+  {
+    "uml": "Beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "Soulter",
+    "nwo": "Soulter/AstrBot",
+    "pr": 0,
+    "ma": "2024-07-30T01:21:19Z",
+    "oa": "2024-07-30T01:26:40.160Z",
+    "tg": null
   }
 ]
