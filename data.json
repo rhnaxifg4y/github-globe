@@ -74820,5 +74820,309 @@
     "ma": "2024-07-31T01:07:26Z",
     "oa": "2024-07-31T01:12:54.558Z",
     "tg": null
+  },
+  {
+    "uml": "Toronto",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto",
+    "gop": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "l": "WHO CARES",
+    "a": "lucasgordon",
+    "nwo": "lucasgordon/XD8ta",
+    "pr": 0,
+    "ma": "2024-07-31T03:14:55Z",
+    "oa": "2024-07-31T03:20:08.506Z",
+    "tg": null
+  },
+  {
+    "uml": "Hanoi, Vietnam",
+    "gm": {
+      "lat": "21.0283334",
+      "lon": "105.854041"
+    },
+    "uol": "Hanoi, Vietnam",
+    "gop": {
+      "lat": "21.0283334",
+      "lon": "105.854041"
+    },
+    "l": "WHO CARES",
+    "a": "duongtungls",
+    "nwo": "world-television/wtv-react-native",
+    "pr": 0,
+    "ma": "2024-07-31T03:14:55Z",
+    "oa": "2024-07-31T03:20:11.491Z",
+    "tg": null
+  },
+  {
+    "uml": "Chicago, IL",
+    "gm": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "uol": "Chicago, IL",
+    "gop": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "l": "WHO CARES",
+    "a": "bmcdonn2",
+    "nwo": "chirpradio/cloud-functions",
+    "pr": 0,
+    "ma": "2024-07-31T03:14:55Z",
+    "oa": "2024-07-31T03:20:12.481Z",
+    "tg": null
+  },
+  {
+    "uml": "Canada",
+    "gm": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "uol": "Canada",
+    "gop": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "l": "WHO CARES",
+    "a": "amontoison",
+    "nwo": "JuliaSmoothOptimizers/ADNLPModels.jl",
+    "pr": 0,
+    "ma": "2024-07-31T03:14:55Z",
+    "oa": "2024-07-31T03:20:13.554Z",
+    "tg": null
+  },
+  {
+    "uml": "Chicago",
+    "gm": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "uol": "Chicago",
+    "gop": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "l": "WHO CARES",
+    "a": "stevespringett",
+    "nwo": "CycloneDX/specification",
+    "pr": 0,
+    "ma": "2024-07-31T03:15:55Z",
+    "oa": "2024-07-31T03:21:09.692Z",
+    "tg": null
+  },
+  {
+    "uml": "New Zealand",
+    "gm": {
+      "lat": "-41.5000831",
+      "lon": "172.8344077"
+    },
+    "uol": "New Zealand",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "jk2l",
+    "nwo": "jk2l/aws-cdk",
+    "pr": 0,
+    "ma": "2024-07-31T03:14:55Z",
+    "oa": "2024-07-31T03:21:50.023Z",
+    "tg": "Kia ora, here's my review:\n\nWhispers of despair\nCrumbling code amidst ruin\nFolly's monument.\n\n(Note: In New Zealand, that would be translated to: \"Hei te whakamarama o te ngākau, te kōrero ki runga i te whenua.\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Gurgaon, India",
+    "gm": {
+      "lat": "28.4646148",
+      "lon": "77.0299194"
+    },
+    "uol": "Gurgaon, India",
+    "gop": {
+      "lat": "28.4646148",
+      "lon": "77.0299194"
+    },
+    "l": "WHO CARES",
+    "a": "sarvex",
+    "nwo": "solana-labs/solana-web3.js",
+    "pr": 0,
+    "ma": "2024-07-31T03:16:55Z",
+    "oa": "2024-07-31T03:22:23.919Z",
+    "tg": null
+  },
+  {
+    "uml": "Sydney - Australia",
+    "gm": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "uol": "Sydney - Australia",
+    "gop": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "l": "WHO CARES",
+    "a": "rukai",
+    "nwo": "shotover/shotover-proxy",
+    "pr": 0,
+    "ma": "2024-07-31T03:17:55Z",
+    "oa": "2024-07-31T03:22:56.063Z",
+    "tg": null
+  },
+  {
+    "uml": "Banyuwangi",
+    "gm": {
+      "lat": "-8.3325711",
+      "lon": "114.14157903949865"
+    },
+    "uol": "Banyuwangi",
+    "gop": {
+      "lat": "-8.3325711",
+      "lon": "114.14157903949865"
+    },
+    "l": "WHO CARES",
+    "a": "YanuarKevin",
+    "nwo": "vincenthsu/systemd-ngrok",
+    "pr": 0,
+    "ma": "2024-07-31T03:17:55Z",
+    "oa": "2024-07-31T03:23:04.082Z",
+    "tg": null
+  },
+  {
+    "uml": "陕西 杨陵",
+    "gm": {
+      "lat": "24.8784583",
+      "lon": "121.0678443"
+    },
+    "uol": "陕西 杨陵",
+    "gop": {
+      "lat": "24.8784583",
+      "lon": "121.0678443"
+    },
+    "l": "WHO CARES",
+    "a": "wjyzhixing",
+    "nwo": "arco-design/arco-design",
+    "pr": 0,
+    "ma": "2024-07-31T03:17:55Z",
+    "oa": "2024-07-31T03:23:04.433Z",
+    "tg": null
+  },
+  {
+    "uml": "beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "corlin",
+    "nwo": "briancappello/flask-react-spa",
+    "pr": 0,
+    "ma": "2024-07-31T03:17:55Z",
+    "oa": "2024-07-31T03:23:18.075Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai, China",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai, China",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "ZigaoWang",
+    "nwo": "github/hoosegow",
+    "pr": 0,
+    "ma": "2024-07-31T03:17:55Z",
+    "oa": "2024-07-31T03:23:19.049Z",
+    "tg": null
+  },
+  {
+    "uml": "St. Louis, MO",
+    "gm": {
+      "lat": "38.6280278",
+      "lon": "-90.1910154"
+    },
+    "uol": "St. Louis, MO",
+    "gop": {
+      "lat": "38.6280278",
+      "lon": "-90.1910154"
+    },
+    "l": "WHO CARES",
+    "a": "geerlingguy",
+    "nwo": "ThomasKaiser/sbc-bench",
+    "pr": 0,
+    "ma": "2024-07-31T03:17:55Z",
+    "oa": "2024-07-31T03:23:23.133Z",
+    "tg": null
+  },
+  {
+    "uml": "Singapore",
+    "gm": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "uol": "Singapore",
+    "gop": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "l": "WHO CARES",
+    "a": "cwlroda",
+    "nwo": "cwlroda/few-shot-object-detection",
+    "pr": 0,
+    "ma": "2024-07-31T03:17:54Z",
+    "oa": "2024-07-31T03:23:25.104Z",
+    "tg": null
+  },
+  {
+    "uml": "Dubai",
+    "gm": {
+      "lat": "25.074282349999997",
+      "lon": "55.18853865430702"
+    },
+    "uol": "Dubai",
+    "gop": {
+      "lat": "25.074282349999997",
+      "lon": "55.18853865430702"
+    },
+    "l": "WHO CARES",
+    "a": "samuelj90",
+    "nwo": "oracle/coherence",
+    "pr": 0,
+    "ma": "2024-07-31T03:18:55Z",
+    "oa": "2024-07-31T03:24:01.248Z",
+    "tg": null
+  },
+  {
+    "uml": "Melbourne, Australia",
+    "gm": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "uol": "Melbourne, Australia",
+    "gop": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "l": "WHO CARES",
+    "a": "mmalenic",
+    "nwo": "umccr/orcabus",
+    "pr": 0,
+    "ma": "2024-07-31T03:19:56Z",
+    "oa": "2024-07-31T03:25:03.358Z",
+    "tg": null
   }
 ]
