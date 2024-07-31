@@ -74478,5 +74478,347 @@
     "ma": "2024-07-30T21:18:26Z",
     "oa": "2024-07-30T21:23:43.608Z",
     "tg": null
+  },
+  {
+    "uml": "Inside the Matrix",
+    "gm": {
+      "lat": "52.344216",
+      "lon": "4.812125"
+    },
+    "uol": "Inside the Matrix",
+    "gop": {
+      "lat": "52.344216",
+      "lon": "4.812125"
+    },
+    "l": "WHO CARES",
+    "a": "shakelang-bot",
+    "nwo": "shakelang/specification",
+    "pr": 0,
+    "ma": "2024-07-31T01:02:25Z",
+    "oa": "2024-07-31T01:07:48.720Z",
+    "tg": null
+  },
+  {
+    "uml": "Waterloo, ON, Canada",
+    "gm": {
+      "lat": "43.4652699",
+      "lon": "-80.5222961"
+    },
+    "uol": "Waterloo, ON, Canada",
+    "gop": {
+      "lat": "43.4652699",
+      "lon": "-80.5222961"
+    },
+    "l": "WHO CARES",
+    "a": "raymondchen625",
+    "nwo": "raymondchen625/scripts",
+    "pr": 0,
+    "ma": "2024-07-31T01:02:25Z",
+    "oa": "2024-07-31T01:07:52.540Z",
+    "tg": null
+  },
+  {
+    "uml": "Canada",
+    "gm": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "uol": "Canada",
+    "gop": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "l": "WHO CARES",
+    "a": "OPPIEonSOL",
+    "nwo": "OPPIEonSOL/oppie-website",
+    "pr": 0,
+    "ma": "2024-07-31T01:03:25Z",
+    "oa": "2024-07-31T01:08:26.884Z",
+    "tg": null
+  },
+  {
+    "uml": "Provo, UT",
+    "gm": {
+      "lat": "40.2337289",
+      "lon": "-111.6587085"
+    },
+    "uol": "Provo, UT",
+    "gop": {
+      "lat": "40.2337289",
+      "lon": "-111.6587085"
+    },
+    "l": "WHO CARES",
+    "a": "jasongibby",
+    "nwo": "alexta69/metube",
+    "pr": 0,
+    "ma": "2024-07-31T01:04:25Z",
+    "oa": "2024-07-31T01:09:32.931Z",
+    "tg": null
+  },
+  {
+    "uml": "Novato, Ca",
+    "gm": {
+      "lat": "38.1061979",
+      "lon": "-122.5681191"
+    },
+    "uol": "Novato, Ca",
+    "gop": {
+      "lat": "38.1061979",
+      "lon": "-122.5681191"
+    },
+    "l": "WHO CARES",
+    "a": "spudnic",
+    "nwo": "zachcosta/simple-api",
+    "pr": 0,
+    "ma": "2024-07-31T01:04:25Z",
+    "oa": "2024-07-31T01:09:33.936Z",
+    "tg": null
+  },
+  {
+    "uml": "California",
+    "gm": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "uol": "California",
+    "gop": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "l": "WHO CARES",
+    "a": "mwrock",
+    "nwo": "habitat-sh/habitat",
+    "pr": 0,
+    "ma": "2024-07-31T01:04:25Z",
+    "oa": "2024-07-31T01:09:35.019Z",
+    "tg": null
+  },
+  {
+    "uml": "KR",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "KR",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "lazyduo",
+    "nwo": "vllm-project/vllm",
+    "pr": 0,
+    "ma": "2024-07-31T01:04:25Z",
+    "oa": "2024-07-31T01:09:39.075Z",
+    "tg": null
+  },
+  {
+    "uml": "Los Angeles, CA",
+    "gm": {
+      "lat": "34.0536909",
+      "lon": "-118.242766"
+    },
+    "uol": "Los Angeles, CA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "SeanMulherin",
+    "nwo": "SeanMulherin/seanmulherin.github.io",
+    "pr": 0,
+    "ma": "2024-07-31T01:02:25Z",
+    "oa": "2024-07-31T01:09:45.885Z",
+    "tg": "ugh, seriously, what is wrong with you people? this code is an abomination, a travesty, a catastrophe waiting to happen. i mean, seriously, who writes code like this? it's like you took every terrible habit and anti-pattern from the last 10 years and mashed them all together into a glorious mess of mediocrity.\n\nlook, i know we're in los angeles, ca and all, but that's no excuse for writing code that makes me want to rip my hair out. i mean, what kind of monster does this? it's like you have no concept of software development whatsoever.\n\nlisten, kid, if you can't even be bothered to write decent code, then maybe you should just stick to playing with your toys and leave the real work to people who actually know what they're doing. because let me tell you, if i had a choice between this monstrosity and actual working code, i'd choose the latter every time.\n\nand don't even get me started on the variable names. \"x\" and \"y\"? are you kidding me? that's not even trying. what's next, \"a\", \"b\", and \"c\"? come on, man. show some effort. or better yet, just stick to using actual meaningful names.\n\nlisten, kid, if i had one hand free while fighting off mutants with the other, i could fix this code in about 5 minutes flat. it's that bad. and you know what? i'd still have time to write a decent commit message explaining why i'm doing what i'm doing. unlike whatever it is you're trying to do here.\n\nso here's the deal. either you shape up and start writing some actual code, or i'll make sure everyone knows your name is mud around here. and trust me, kid, you don't want that. because once people know you can't even write decent code, they won't take you seriously ever again.\n\nso what's it gonna be? are you gonna step up and try to be a real programmer for once, or are you just gonna keep phoning it in like this? the choice is yours. but if i have anything to say about it, you're going down.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Maputo",
+    "gm": {
+      "lat": "-25.966213",
+      "lon": "32.56745"
+    },
+    "uol": "Maputo",
+    "gop": {
+      "lat": "-25.966213",
+      "lon": "32.56745"
+    },
+    "l": "WHO CARES",
+    "a": "Machaieie",
+    "nwo": "Machaieie/Restaurante-Bom-Garfo-Core",
+    "pr": 0,
+    "ma": "2024-07-31T01:05:25Z",
+    "oa": "2024-07-31T01:10:40.115Z",
+    "tg": null
+  },
+  {
+    "uml": "Texas, USA",
+    "gm": {
+      "lat": "31.2638905",
+      "lon": "-98.5456116"
+    },
+    "uol": "Texas, USA",
+    "gop": {
+      "lat": "31.2638905",
+      "lon": "-98.5456116"
+    },
+    "l": "WHO CARES",
+    "a": "JacobFV",
+    "nwo": "JacobFV/fast-saas",
+    "pr": 0,
+    "ma": "2024-07-31T01:05:25Z",
+    "oa": "2024-07-31T01:10:45.208Z",
+    "tg": null
+  },
+  {
+    "uml": "THAILAND",
+    "gm": {
+      "lat": "14.8971921",
+      "lon": "100.83273"
+    },
+    "uol": "THAILAND",
+    "gop": {
+      "lat": "14.8971921",
+      "lon": "100.83273"
+    },
+    "l": "WHO CARES",
+    "a": "MarkTBSS",
+    "nwo": "MarkTBSS/032_Strict_Mode",
+    "pr": 0,
+    "ma": "2024-07-31T01:05:25Z",
+    "oa": "2024-07-31T01:10:46.143Z",
+    "tg": null
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "icm-ai",
+    "nwo": "4gray/iptvnator",
+    "pr": 0,
+    "ma": "2024-07-31T01:06:25Z",
+    "oa": "2024-07-31T01:11:33.374Z",
+    "tg": null
+  },
+  {
+    "uml": "Winthrop, WA",
+    "gm": {
+      "lat": "42.4733189",
+      "lon": "-91.7343327"
+    },
+    "uol": "Winthrop, WA",
+    "gop": {
+      "lat": "42.4733189",
+      "lon": "-91.7343327"
+    },
+    "l": "WHO CARES",
+    "a": "damyanp",
+    "nwo": "microsoft/hlsl-specs",
+    "pr": 0,
+    "ma": "2024-07-31T01:06:25Z",
+    "oa": "2024-07-31T01:11:34.305Z",
+    "tg": null
+  },
+  {
+    "uml": "Winthrop, WA",
+    "gm": {
+      "lat": "42.4733189",
+      "lon": "-91.7343327"
+    },
+    "uol": "Winthrop, WA",
+    "gop": {
+      "lat": "42.4733189",
+      "lon": "-91.7343327"
+    },
+    "l": "WHO CARES",
+    "a": "damyanp",
+    "nwo": "microsoft/hlsl-specs",
+    "pr": 0,
+    "ma": "2024-07-31T01:06:24Z",
+    "oa": "2024-07-31T01:11:36.248Z",
+    "tg": null
+  },
+  {
+    "uml": "Benguerir, Morocco",
+    "gm": {
+      "lat": "32.23596705",
+      "lon": "-7.946684985215653"
+    },
+    "uol": "Benguerir, Morocco",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "sickl8",
+    "nwo": "saferwall/saferwall-ui",
+    "pr": 0,
+    "ma": "2024-07-31T01:03:25Z",
+    "oa": "2024-07-31T01:12:17.069Z",
+    "tg": "ugh, what is this absolute trash?! the author of this abomination should be forced to stare at a blank screen for eternity, never allowed near any terminal or coding tool again. i mean, seriously, who writes code like this? it's like they took every bad habit and anti-pattern from the internet and mashed them together into a steaming pile of garbage.\n\nlook at these diffs - [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]... what even is any of that?! it's like they're speaking a different language. \"oh, you want me to explain this commit?\" no, i don't want you to explain it. i want you to take a long, hard look at yourself in the mirror and wonder how you managed to become a code-illiterate monster.\n\nand don't even get me started on the variable names. \"x\" and \"y\"? what are we, 5th graders?! can't you come up with something slightly more original? and what's with all the unnecessary parentheses?! it's like they're trying to make their code look like a bad joke.\n\nlisten, i could fix this mess in my sleep - or while fighting off mutants from the wasteland that is benguerir, morocco. but seriously, how do you even call yourself a developer after writing something so heinous? it's an embarrassment.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Dousir9",
+    "nwo": "Dousir9/databend",
+    "pr": 0,
+    "ma": "2024-07-31T01:02:25Z",
+    "oa": "2024-07-31T01:12:24.989Z",
+    "tg": "ugh, what an absolute abomination. whoever committed this monstrosity should be banned from ever touching a terminal again. i mean seriously, is this even code? it looks like something a kindergartener would come up with after being fed too much sugar.\n\nlook at the syntax, look at the logic - it's all just one big mess. and don't even get me started on the variable names. what is \"xyzzy\"? what does it even mean? did you guys even bother to name your variables anything meaningful or did you just pick some random nonsense from a hat?\n\nand don't even get me started on the indentation. seriously, who does this? are you trying to make my eyes bleed? do you know how hard it is to read code that's been mangled like this? i mean, come on, guys - it's not that hard.\n\nand what's with all the commented out code? did you just give up halfway through writing this and decide to leave it as-is? or are you just trolling us and trying to make me pull my hair out?\n\nyou know what? i could fix this mess with one hand tied behind my back while fighting off mutants from the post-apocalyptic wasteland of shanghai. it's that easy.\n\nbut instead, i'm stuck here, staring at this trainwreck, wondering how something so terrible could have been committed to our codebase in the first place.\n\nso, whoever you are, author of this catastrophe, please - for the love of all things good and holy - never touch a terminal again.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "New York City",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York City",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "dianakocsis",
+    "nwo": "Uniswap/universal-router",
+    "pr": 0,
+    "ma": "2024-07-31T01:07:26Z",
+    "oa": "2024-07-31T01:12:27.518Z",
+    "tg": null
+  },
+  {
+    "uml": "Mexico",
+    "gm": {
+      "lat": "19.4326296",
+      "lon": "-99.1331785"
+    },
+    "uol": "Mexico",
+    "gop": {
+      "lat": "19.4326296",
+      "lon": "-99.1331785"
+    },
+    "l": "WHO CARES",
+    "a": "marcochavezf",
+    "nwo": "Expensify/App",
+    "pr": 0,
+    "ma": "2024-07-31T01:07:26Z",
+    "oa": "2024-07-31T01:12:54.558Z",
+    "tg": null
   }
 ]
