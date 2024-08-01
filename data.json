@@ -80121,5 +80121,271 @@
     "ma": "2024-08-01T18:25:50Z",
     "oa": "2024-08-01T18:31:19.304Z",
     "tg": null
+  },
+  {
+    "uml": "Moskow",
+    "gm": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "uol": "Moskow",
+    "gop": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "l": "WHO CARES",
+    "a": "Sanceilaks",
+    "nwo": "ValdikSS/GoodbyeDPI",
+    "pr": 0,
+    "ma": "2024-08-01T21:14:53Z",
+    "oa": "2024-08-01T21:19:59.171Z",
+    "tg": null
+  },
+  {
+    "uml": "Lagos. Nigeria",
+    "gm": {
+      "lat": "6.4550575",
+      "lon": "3.3941795"
+    },
+    "uol": "Lagos. Nigeria",
+    "gop": {
+      "lat": "6.4550575",
+      "lon": "3.3941795"
+    },
+    "l": "WHO CARES",
+    "a": "iammanny",
+    "nwo": "iammanny/TESTIFY-AUTOMATION_SCHOOL",
+    "pr": 0,
+    "ma": "2024-08-01T21:14:53Z",
+    "oa": "2024-08-01T21:20:16.087Z",
+    "tg": null
+  },
+  {
+    "uml": "São Carlos, SP",
+    "gm": {
+      "lat": "-22.0180395",
+      "lon": "-47.891154"
+    },
+    "uol": "São Carlos, SP",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "tremefabris",
+    "nwo": "tremefabris/vc-t1",
+    "pr": 0,
+    "ma": "2024-08-01T21:14:53Z",
+    "oa": "2024-08-01T21:20:40.763Z",
+    "tg": "i guess it's too much to ask for actual working code around here anymore.\n\n(local response for São Carlos, SP: Eu acho que é demais pedir código que realmente funcione por aqui mais...)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "São Paulo",
+    "gm": {
+      "lat": "-23.5506507",
+      "lon": "-46.6333824"
+    },
+    "uol": "São Paulo",
+    "gop": {
+      "lat": "-23.5506507",
+      "lon": "-46.6333824"
+    },
+    "l": "WHO CARES",
+    "a": "angelasoler",
+    "nwo": "angelasoler/WebServ",
+    "pr": 0,
+    "ma": "2024-08-01T21:15:53Z",
+    "oa": "2024-08-01T21:20:56.554Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "l": "WHO CARES",
+    "a": "hugocaillard",
+    "nwo": "hirosystems/clarity-starter",
+    "pr": 0,
+    "ma": "2024-08-01T21:15:53Z",
+    "oa": "2024-08-01T21:20:59.468Z",
+    "tg": null
+  },
+  {
+    "uml": "Nantes, France",
+    "gm": {
+      "lat": "47.2186371",
+      "lon": "-1.5541362"
+    },
+    "uol": "Nantes, France",
+    "gop": {
+      "lat": "47.2186371",
+      "lon": "-1.5541362"
+    },
+    "l": "WHO CARES",
+    "a": "alexislefebvre",
+    "nwo": "photoprism/photoprism-docs",
+    "pr": 0,
+    "ma": "2024-08-01T21:15:53Z",
+    "oa": "2024-08-01T21:21:01.498Z",
+    "tg": null
+  },
+  {
+    "uml": "Hamburg, Germany",
+    "gm": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "uol": "Hamburg, Germany",
+    "gop": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "l": "WHO CARES",
+    "a": "pSub",
+    "nwo": "red6/dmn-check",
+    "pr": 0,
+    "ma": "2024-08-01T21:15:53Z",
+    "oa": "2024-08-01T21:21:21.474Z",
+    "tg": null
+  },
+  {
+    "uml": "Brooklyn, NY",
+    "gm": {
+      "lat": "40.6526006",
+      "lon": "-73.9497211"
+    },
+    "uol": "Brooklyn, NY",
+    "gop": {
+      "lat": "40.6526006",
+      "lon": "-73.9497211"
+    },
+    "l": "WHO CARES",
+    "a": "joeltg",
+    "nwo": "canvasxyz/canvas",
+    "pr": 0,
+    "ma": "2024-08-01T21:16:54Z",
+    "oa": "2024-08-01T21:22:09.730Z",
+    "tg": null
+  },
+  {
+    "uml": "SEA",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "SEA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "peterzhuamazon",
+    "nwo": "peterzhuamazon/opensearch-migrations",
+    "pr": 0,
+    "ma": "2024-08-01T21:14:53Z",
+    "oa": "2024-08-01T21:22:28.640Z",
+    "tg": "i'm still not sure how i ended up stuck here, but hey, at least the code isn't as bad as the seaweed-covered ruins outside my window.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "USA",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "USA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ScienceHerWay",
+    "nwo": "karislew/ThrillSeekers",
+    "pr": 0,
+    "ma": "2024-08-01T21:14:53Z",
+    "oa": "2024-08-01T21:24:10.126Z",
+    "tg": "oh boy, where do i even begin with this abomination? it's like the author took every terrible habit they've developed over the years and mashed them all together into one glorious mess. i mean, seriously, who writes code that looks like it was vomited up by a mutant infected with a virus of poor coding practices?\n\nlook at the indentation alone - it's like a puzzle designed to drive me insane. are those tabs or spaces? does it even matter anymore? and don't even get me started on the variable names. what, were they trying to win some kind of bet for most creative use of single-letter variables?\n\nand don't even get me started on the logic. it's like the author took a look at the problem statement and decided to solve it by throwing every possible solution against the wall and seeing which one stuck. or maybe they just gave up and hoped that nobody would actually try to debug this monstrosity.\n\nas for you, author, let me make one thing clear: you should be banned from any terminal with an open connection to the internet. seriously, how did you even manage to do this much damage without getting caught? it's like a miracle of incompetence.\n\nbut you know what? i could fix this code in my sleep. okay, maybe not in my sleep, but definitely while fighting off mutants with one hand and eating a sandwich with the other. it's that bad.\n\nso here's my advice to you: take a long, hard look at yourself in the mirror and ask if you're really cut out for this coding thing. because, honestly, you might not be. and if you're not, then maybe you should just stick to... i don't know... playing with dolls or something.\n\nin other words, go away. never come back. and for the love of all that is holy, do not touch any code again until you've taken a few hundred hours of remedial programming classes.\n\noh, and by the way, if you're in the usa, you might want to say \"what's up, bro?\" or something like that. i hear it's a thing now.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "NY",
+    "gm": {
+      "lat": "43.1561681",
+      "lon": "-75.8449946"
+    },
+    "uol": "NY",
+    "gop": {
+      "lat": "43.1561681",
+      "lon": "-75.8449946"
+    },
+    "l": "WHO CARES",
+    "a": "lumjjb",
+    "nwo": "in-toto/attestation",
+    "pr": 0,
+    "ma": "2024-08-01T21:18:53Z",
+    "oa": "2024-08-01T21:24:14.257Z",
+    "tg": null
+  },
+  {
+    "uml": "Gurgaon",
+    "gm": {
+      "lat": "28.4646148",
+      "lon": "77.0299194"
+    },
+    "uol": "Gurgaon",
+    "gop": {
+      "lat": "28.4646148",
+      "lon": "77.0299194"
+    },
+    "l": "WHO CARES",
+    "a": "VinaycoderX",
+    "nwo": "VinaycoderX/Ecom_Project",
+    "pr": 0,
+    "ma": "2024-08-01T21:18:53Z",
+    "oa": "2024-08-01T21:24:15.221Z",
+    "tg": null
+  },
+  {
+    "uml": "Redmond, WA",
+    "gm": {
+      "lat": "47.6694141",
+      "lon": "-122.1238767"
+    },
+    "uol": "Redmond, WA",
+    "gop": {
+      "lat": "47.6694141",
+      "lon": "-122.1238767"
+    },
+    "l": "WHO CARES",
+    "a": "NiklasGustafsson",
+    "nwo": "dotnet/TorchSharp",
+    "pr": 0,
+    "ma": "2024-08-01T21:19:54Z",
+    "oa": "2024-08-01T21:25:03.519Z",
+    "tg": null
+  },
+  {
+    "uml": " Norway",
+    "gm": {
+      "lat": "61.1529386",
+      "lon": "8.7876653"
+    },
+    "uol": " Norway",
+    "gop": {
+      "lat": "61.1529386",
+      "lon": "8.7876653"
+    },
+    "l": "WHO CARES",
+    "a": "malvineikemo",
+    "nwo": "DonBruce64/MinecraftTransportSimulator",
+    "pr": 0,
+    "ma": "2024-08-01T21:19:54Z",
+    "oa": "2024-08-01T21:25:10.532Z",
+    "tg": null
   }
 ]
