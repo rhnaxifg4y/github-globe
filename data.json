@@ -80387,5 +80387,290 @@
     "ma": "2024-08-01T21:19:54Z",
     "oa": "2024-08-01T21:25:10.532Z",
     "tg": null
+  },
+  {
+    "uml": "Porto Acre - ACRE",
+    "gm": {
+      "lat": "-9.5879722",
+      "lon": "-67.53307"
+    },
+    "uol": "Porto Acre - ACRE",
+    "gop": {
+      "lat": "-9.5879722",
+      "lon": "-67.53307"
+    },
+    "l": "WHO CARES",
+    "a": "joaosaibweb",
+    "nwo": "Nun-Thee-Knee/111ustrator",
+    "pr": 0,
+    "ma": "2024-08-02T01:15:23Z",
+    "oa": "2024-08-02T01:20:34.783Z",
+    "tg": null
+  },
+  {
+    "uml": "Oakland CA",
+    "gm": {
+      "lat": "37.8044557",
+      "lon": "-122.271356"
+    },
+    "uol": "Oakland CA",
+    "gop": {
+      "lat": "37.8044557",
+      "lon": "-122.271356"
+    },
+    "l": "WHO CARES",
+    "a": "jessekrubin",
+    "nwo": "jessekrubin/utiles",
+    "pr": 0,
+    "ma": "2024-08-02T01:15:23Z",
+    "oa": "2024-08-02T01:20:35.758Z",
+    "tg": null
+  },
+  {
+    "uml": "Victoria, BC",
+    "gm": {
+      "lat": "48.4283182",
+      "lon": "-123.364953"
+    },
+    "uol": "Victoria, BC",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "samsonjs",
+    "nwo": "1SecondEveryday/active-elastic-job",
+    "pr": 0,
+    "ma": "2024-08-02T01:15:23Z",
+    "oa": "2024-08-02T01:21:48.257Z",
+    "tg": "oh great, another brilliant addition to our codebase that's going to make all the difference between life and certain death in this post-apocalyptic wasteland. i'm just wondering how you managed to survive this long without getting devoured by a horde of zombies while still being able to type so efficiently, victoria, bc\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "La Paz, Bolivia",
+    "gm": {
+      "lat": "-16.4955455",
+      "lon": "-68.1336229"
+    },
+    "uol": "La Paz, Bolivia",
+    "gop": {
+      "lat": "-16.4955455",
+      "lon": "-68.1336229"
+    },
+    "l": "WHO CARES",
+    "a": "cchura94",
+    "nwo": "cchura94/javascript---proyecto-2",
+    "pr": 0,
+    "ma": "2024-08-02T01:16:22Z",
+    "oa": "2024-08-02T01:21:51.175Z",
+    "tg": null
+  },
+  {
+    "uml": "Rosario, Argentina",
+    "gm": {
+      "lat": "-32.9593609",
+      "lon": "-60.6617024"
+    },
+    "uol": "Rosario, Argentina",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "mbove77",
+    "nwo": "mbove77/upptime",
+    "pr": 0,
+    "ma": "2024-08-02T01:15:23Z",
+    "oa": "2024-08-02T01:21:56.918Z",
+    "tg": "The chaos of code, amidst ruins I stare\n\"Incredulidad\" (\"Incredulity\") I feel in Rosario, Argentina, as this commit's darkness descends upon our already-broken world.\n\nNote: I wrote a haiku that reflects on the state of the code and the post-apocalyptic setting. The last line mentions \"Incredulidad\", which is the Spanish word for incredulity, acknowledging the absurdity of this commit in the face of global catastrophe.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "amatsuda",
+    "nwo": "jekyll/mercenary",
+    "pr": 0,
+    "ma": "2024-08-02T01:17:23Z",
+    "oa": "2024-08-02T01:22:44.242Z",
+    "tg": null
+  },
+  {
+    "uml": "South Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "South Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "HYUNSEONG-KIM",
+    "nwo": "HYUNSEONG-KIM/share_work",
+    "pr": 0,
+    "ma": "2024-08-02T01:17:22Z",
+    "oa": "2024-08-02T01:22:48.174Z",
+    "tg": null
+  },
+  {
+    "uml": "Bandung",
+    "gm": {
+      "lat": "-6.9215529",
+      "lon": "107.6110212"
+    },
+    "uol": "Bandung",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ventodeco",
+    "nwo": "ventodeco/Algorithm-Archive",
+    "pr": 0,
+    "ma": "2024-08-02T01:15:23Z",
+    "oa": "2024-08-02T01:22:56.481Z",
+    "tg": "in bandung:\n\nwhat's the point of fixing this bug? we're all just going to get eaten by cannibals anyway\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Chicagoland",
+    "gm": {
+      "lat": "41.47441105",
+      "lon": "-88.05876255177395"
+    },
+    "uol": "Chicagoland",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "schellrw",
+    "nwo": "a-gentsia/onestop",
+    "pr": 0,
+    "ma": "2024-08-02T01:15:23Z",
+    "oa": "2024-08-02T01:24:19.234Z",
+    "tg": "oh joy, another masterpiece from this \"developer\" who clearly has no business being within 100 feet of a terminal. seriously, what kind of sorcery is this? it's like they took every terrible habit and anti-pattern from the depths of hell and mashed them together into a steaming pile of garbage.\n\nlisten, author, if i had to wade through this mess while fighting off hordes of mutants with my trusty crowbar, i'd still find a way to make it better than what you've given me. seriously, is that even code? looks more like someone barfed up a mix of java and perl and called it a day.\n\nand don't even get me started on the variable names. \"x\"? \"y\"? are you kidding me? in chicagoland, we call that kind of nonsense \"mutant-speak\". \n\nlook, i'll give you some advice: stop coding. like, right now. go find a nice quiet corner and just sit there until the apocalyptic dust settles. because what you're producing is not even worth calling code. it's like someone took all their worst nightmares and condensed them into a few hundred lines of \"code\". \n\nand don't get me started on the comments. or lack thereof. seriously, did you think that no one would ever have to read this garbage? newsflash: i'm reading it now, and my eyes are bleeding.\n\nfixing this monstrosity would be like trying to salvage a pile of radioactive waste after a nuclear meltdown. not worth the effort. just nuke it from orbit, it's the only way to be sure.\n\nanyway, that's my two cents on this \"commit\". i hope you're proud of yourself for wasting everyone's time with this... thing.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Atlanta, GA",
+    "gm": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "uol": "Atlanta, GA",
+    "gop": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "l": "WHO CARES",
+    "a": "Kakapio",
+    "nwo": "gitarcode-test/guava",
+    "pr": 0,
+    "ma": "2024-08-02T01:19:24Z",
+    "oa": "2024-08-02T01:24:37.549Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "donghyeops",
+    "nwo": "lzhxmu/AccDiffusion",
+    "pr": 0,
+    "ma": "2024-08-02T01:19:24Z",
+    "oa": "2024-08-02T01:24:45.575Z",
+    "tg": null
+  },
+  {
+    "uml": "Manila, PH ",
+    "gm": {
+      "lat": "14.5906346",
+      "lon": "120.9799964"
+    },
+    "uol": "Manila, PH ",
+    "gop": {
+      "lat": "14.5906346",
+      "lon": "120.9799964"
+    },
+    "l": "WHO CARES",
+    "a": "mcdave029",
+    "nwo": "mcdave029/uptime-monitoring",
+    "pr": 0,
+    "ma": "2024-08-02T01:19:24Z",
+    "oa": "2024-08-02T01:24:53.543Z",
+    "tg": null
+  },
+  {
+    "uml": "Plano, TX",
+    "gm": {
+      "lat": "33.0136764",
+      "lon": "-96.6925096"
+    },
+    "uol": "Plano, TX",
+    "gop": {
+      "lat": "33.0136764",
+      "lon": "-96.6925096"
+    },
+    "l": "WHO CARES",
+    "a": "vhphong",
+    "nwo": "HospitalMgmtService/identity-service",
+    "pr": 0,
+    "ma": "2024-08-02T01:20:24Z",
+    "oa": "2024-08-02T01:25:46.715Z",
+    "tg": null
+  },
+  {
+    "uml": "Bellevue, WA",
+    "gm": {
+      "lat": "47.6144219",
+      "lon": "-122.192337"
+    },
+    "uol": "Bellevue, WA",
+    "gop": {
+      "lat": "47.6144219",
+      "lon": "-122.192337"
+    },
+    "l": "WHO CARES",
+    "a": "snwu1996",
+    "nwo": "1hada/rosbag-merge",
+    "pr": 0,
+    "ma": "2024-08-02T01:20:24Z",
+    "oa": "2024-08-02T01:25:47.834Z",
+    "tg": null
+  },
+  {
+    "uml": "Everywhere",
+    "gm": {
+      "lat": "39.6262264",
+      "lon": "19.9036023"
+    },
+    "uol": "Everywhere",
+    "gop": {
+      "lat": "39.6262264",
+      "lon": "19.9036023"
+    },
+    "l": "WHO CARES",
+    "a": "crowlogic",
+    "nwo": "crowlogic/arb4j",
+    "pr": 0,
+    "ma": "2024-08-02T01:20:24Z",
+    "oa": "2024-08-02T01:25:49.716Z",
+    "tg": null
   }
 ]
