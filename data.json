@@ -83541,5 +83541,290 @@
     "ma": "2024-08-03T01:19:48Z",
     "oa": "2024-08-03T01:24:56.239Z",
     "tg": null
+  },
+  {
+    "uml": "Brazil, florianópolis",
+    "gm": {
+      "lat": "-27.5973002",
+      "lon": "-48.5496098"
+    },
+    "uol": "Brazil, florianópolis",
+    "gop": {
+      "lat": "-27.5973002",
+      "lon": "-48.5496098"
+    },
+    "l": "WHO CARES",
+    "a": "patrickelectric",
+    "nwo": "bluerobotics/cockpit",
+    "pr": 0,
+    "ma": "2024-08-03T03:14:58Z",
+    "oa": "2024-08-03T03:20:23.835Z",
+    "tg": null
+  },
+  {
+    "uml": "Boston",
+    "gm": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "uol": "Boston",
+    "gop": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "l": "WHO CARES",
+    "a": "jlnh",
+    "nwo": "tangxyw/RecSysPapers",
+    "pr": 0,
+    "ma": "2024-08-03T03:15:59Z",
+    "oa": "2024-08-03T03:21:18.112Z",
+    "tg": null
+  },
+  {
+    "uml": "Idaho Falls, Idaho",
+    "gm": {
+      "lat": "43.4887907",
+      "lon": "-112.03628"
+    },
+    "uol": "Idaho Falls, Idaho",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "inl-labtrack",
+    "nwo": "idaholab/repository-statistics",
+    "pr": 0,
+    "ma": "2024-08-03T03:14:59Z",
+    "oa": "2024-08-03T03:21:55.288Z",
+    "tg": "ugh, what a complete and utter disaster. this code is so bad it makes me want to run screaming from the terminal and hide behind a pile of rubble in idaho falls, idaho. seriously, who wrote this garbage? it's like they took every terrible coding habit, mixed it with some sort of radioactive waste, and then served it up on a plate of stale crackers.\n\nfirst off, the variable naming is atrocious. \"x\" and \"y\" are not names, they're placeholders for something you haven't thought through yet. and don't even get me started on the indentation - i think my eyes just rolled out of my head like a zombie in search of brains. it's like they took every convention, guideline, and rule of coding and decided to ignore them all.\n\nand what's with the comments? are you kidding me? \"todo: fix this\" is not a comment, it's a confession that you have no idea how to write code. and don't even get me started on the actual logic - i think i just saw my boss's face contort in disgust as they read through this monstrosity.\n\nlook, i'm going to say something that might be hard to hear: this author should be banned from using any terminal, ever again. it's not just a matter of \"improving\" the code - it's a matter of public safety. if this is what passes for programming in our world, we're all doomed.\n\nas for me? i could fix this mess with one hand tied behind my back and the other fighting off mutants in a post-apocalyptic wasteland. that's not even exaggeration - this code is so bad it makes me want to take up arms against it.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Oklahoma City, OK",
+    "gm": {
+      "lat": "35.4729886",
+      "lon": "-97.5170536"
+    },
+    "uol": "Oklahoma City, OK",
+    "gop": {
+      "lat": "35.4729886",
+      "lon": "-97.5170536"
+    },
+    "l": "WHO CARES",
+    "a": "KyleMBoomer",
+    "nwo": "KyleMBoomer/stacks",
+    "pr": 0,
+    "ma": "2024-08-03T03:16:59Z",
+    "oa": "2024-08-03T03:22:11.269Z",
+    "tg": null
+  },
+  {
+    "uml": "Brisbane, Australia",
+    "gm": {
+      "lat": "-27.4689682",
+      "lon": "153.0234991"
+    },
+    "uol": "Brisbane, Australia",
+    "gop": {
+      "lat": "-27.4689682",
+      "lon": "153.0234991"
+    },
+    "l": "WHO CARES",
+    "a": "ng-jason",
+    "nwo": "ng-jason/ng-jason.github.io",
+    "pr": 0,
+    "ma": "2024-08-03T03:16:59Z",
+    "oa": "2024-08-03T03:22:12.237Z",
+    "tg": null
+  },
+  {
+    "uml": "Easton, WA",
+    "gm": {
+      "lat": "47.240674999999996",
+      "lon": "-121.18293100214899"
+    },
+    "uol": "Easton, WA",
+    "gop": {
+      "lat": "47.240674999999996",
+      "lon": "-121.18293100214899"
+    },
+    "l": "WHO CARES",
+    "a": "stephengillie",
+    "nwo": "microsoft/winget-pkgs",
+    "pr": 0,
+    "ma": "2024-08-03T03:16:58Z",
+    "oa": "2024-08-03T03:22:16.288Z",
+    "tg": null
+  },
+  {
+    "uml": "Burlington, VT",
+    "gm": {
+      "lat": "44.4761601",
+      "lon": "-73.212906"
+    },
+    "uol": "Burlington, VT",
+    "gop": {
+      "lat": "44.4761601",
+      "lon": "-73.212906"
+    },
+    "l": "WHO CARES",
+    "a": "aaronperkel",
+    "nwo": "aaronperkel/College-Budget-Tracker",
+    "pr": 0,
+    "ma": "2024-08-03T03:16:59Z",
+    "oa": "2024-08-03T03:22:19.252Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, South Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, South Korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "vkehfdl1",
+    "nwo": "Marker-Inc-Korea/AutoRAG",
+    "pr": 0,
+    "ma": "2024-08-03T03:16:58Z",
+    "oa": "2024-08-03T03:22:23.246Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco, CA",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco, CA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ankane",
+    "nwo": "pgvector/pgvector-java",
+    "pr": 0,
+    "ma": "2024-08-03T03:14:58Z",
+    "oa": "2024-08-03T03:23:08.208Z",
+    "tg": "Brother! In this forsaken wasteland of San Francisco, CA, I gaze upon this commit and ponder:\n\nRavaged code remains\nFathomless void of logic\nFolly's monument\n\nUgh, what a travesty. How can anyone expect me to make sense of this mess? It's like trying to find order in the ruins of City Hall after the Great Quake.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "marcosdosea",
+    "nwo": "marcosdosea/BiotLab",
+    "pr": 0,
+    "ma": "2024-08-03T03:18:00Z",
+    "oa": "2024-08-03T03:23:12.494Z",
+    "tg": null
+  },
+  {
+    "uml": "Beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "liuzhan22",
+    "nwo": "hojonathanho/diffusion",
+    "pr": 0,
+    "ma": "2024-08-03T03:18:00Z",
+    "oa": "2024-08-03T03:23:17.456Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/rediffusion",
+    "pr": 0,
+    "ma": "2024-08-03T03:18:00Z",
+    "oa": "2024-08-03T03:23:18.465Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "hiyaabai",
+    "nwo": "BasedHardware/Friend",
+    "pr": 0,
+    "ma": "2024-08-03T03:18:59Z",
+    "oa": "2024-08-03T03:24:18.752Z",
+    "tg": null
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "caixiaomao",
+    "nwo": "caixiaomao/caixiaomao",
+    "pr": 0,
+    "ma": "2024-08-03T03:14:58Z",
+    "oa": "2024-08-03T03:24:24.939Z",
+    "tg": "for the love of all that is holy, who wrote this garbage? the code is an affront to everything i hold dear about programming. it's like they took every terrible habit they learned from watching cat videos and turned it into a 'programming style'. \n\ni mean, seriously, who uses backticks for block comments?! do you have any idea how hard it is to read that?! it's like trying to decipher ancient hieroglyphics while being attacked by a swarm of radioactive bees. \n\nand don't even get me started on the variable names. 'foo' and 'bar'? are you kidding me? what kind of monster names their variables after generic food items?! it's like they're intentionally trying to make my eyes bleed.\n\nand then there's the logic. oh boy, the logic is a special kind of beautiful. it's like watching a train wreck in slow motion - you know it's going to end badly, but you can't look away because it's just that fascinatingly terrible.\n\nanyway, i think we should ban the author from using any terminal ever again. i mean, seriously, how could they even call themselves a programmer after writing this drivel? \n\nas for fixing it... ha! with one hand tied behind my back and a bag of rotten fish slung over my shoulder, i could fix this code. in fact, i think i'll just go ahead and do that right now. *takes a deep breath* okay, here goes...\n\n// remove the backticks\n// rename the variables to something vaguely descriptive\n// refactor the logic so it doesn't make me want to eat my own shoe\n\nand voila! the code is fixed. or at least, i think it is. i mean, who needs tests when you have a senior dev like me working on it in their free time? \n\nnow if you'll excuse me, i have to go fight off some mutants and then take a nap.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "zhejiang hangzhou 浙江 杭州",
+    "gm": {
+      "lat": "30.2459675",
+      "lon": "120.1783532"
+    },
+    "uol": "zhejiang hangzhou 浙江 杭州",
+    "gop": {
+      "lat": "30.2459675",
+      "lon": "120.1783532"
+    },
+    "l": "WHO CARES",
+    "a": "ChenXiangcheng1",
+    "nwo": "ChenXiangcheng1/chenxiangcheng1.github.io",
+    "pr": 0,
+    "ma": "2024-08-03T03:20:00Z",
+    "oa": "2024-08-03T03:25:03.092Z",
+    "tg": null
   }
 ]
