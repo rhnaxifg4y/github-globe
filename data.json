@@ -83826,5 +83826,157 @@
     "ma": "2024-08-03T03:20:00Z",
     "oa": "2024-08-03T03:25:03.092Z",
     "tg": null
+  },
+  {
+    "uml": "Colombo",
+    "gm": {
+      "lat": "6.9388614",
+      "lon": "79.8542005"
+    },
+    "uol": "Colombo",
+    "gop": {
+      "lat": "6.9388614",
+      "lon": "79.8542005"
+    },
+    "l": "WHO CARES",
+    "a": "InsafNilam",
+    "nwo": "InsafNilam/file-manager",
+    "pr": 0,
+    "ma": "2024-08-03T06:23:04Z",
+    "oa": "2024-08-03T06:28:14.092Z",
+    "tg": null
+  },
+  {
+    "uml": "Colombo",
+    "gm": {
+      "lat": "6.9388614",
+      "lon": "79.8542005"
+    },
+    "uol": "Colombo",
+    "gop": {
+      "lat": "6.9388614",
+      "lon": "79.8542005"
+    },
+    "l": "WHO CARES",
+    "a": "InsafNilam",
+    "nwo": "InsafNilam/file-manager",
+    "pr": 0,
+    "ma": "2024-08-03T06:23:04Z",
+    "oa": "2024-08-03T06:28:17.978Z",
+    "tg": null
+  },
+  {
+    "uml": "Venezuela",
+    "gm": {
+      "lat": "8.0018709",
+      "lon": "-66.1109318"
+    },
+    "uol": "Venezuela",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "iperezluis",
+    "nwo": "iperezluis/airplane-game",
+    "pr": 0,
+    "ma": "2024-08-03T06:21:03Z",
+    "oa": "2024-08-03T06:28:37.045Z",
+    "tg": "ugh, seriously? this code is an abomination. whoever wrote this should be forced to subsist on nothing but dry rations and stagnant water for the rest of their miserable existence. i mean, what kind of monster creates a function that returns null when there are no results?! don't even get me started on the variable names - \"x\" and \"y\"? what, did they run out of creativity halfway through their coding session? \n\nand don't even get me started on the spacing - it's like they tried to cram as many characters onto a single line as humanly possible. i mean, seriously, who does this?! it's like they want to make everyone's eyes glaze over just looking at the code.\n\nanyway, to fix this mess, i'd need to take one hand off my trusty machete and swap out that monstrosity for something actually worth using. maybe something with a few comments, some proper whitespace, and actual variable names that don't make me want to rip my hair out. \n\nyou know what? forget it. just ban the author from any terminal forever. they clearly have no business being anywhere near code again. and if you're looking for someone to fix this disaster, look elsewhere. i've got more important things to do, like defending our post-apocalyptic stronghold against those pesky mutants.\n\nso, to answer your question about venezuela - ¡hasta luego!\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Toronto",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "dbryce712",
+    "nwo": "dbryce712/SnekBox",
+    "pr": 0,
+    "ma": "2024-08-03T06:21:03Z",
+    "oa": "2024-08-03T06:29:07.307Z",
+    "tg": "ugh, seriously, who wrote this abomination?! it's like they have no idea what good code looks like. i mean, i've seen better-written spaghetti code from a junior dev on their first day. and don't even get me started on the naming conventions - is that supposed to be \"camelCase\" or did they just give up halfway through? and what's with all these unnecessary semicolons?! do they think they're some kind of fancy java guru or something?\n\nlook, i've reviewed enough commits in my time to know when someone's just phoning it in. this code is a joke. if i didn't have to deal with the apocalypse outside, i'd probably just delete the whole thing and start over. as it stands, i'm stuck having to \"help\" them fix this mess.\n\nand don't even get me started on the author - whoever they are, they should be banned from any terminal, let alone a programming one. seriously, how do you even get hired to write code if you can't even follow basic best practices? it's like hiring someone to build a house and they just decide to use toothpicks and glue instead of actual bricks.\n\nand as for the fix - ha! i could probably rewrite this whole thing in my sleep. heck, i could do it while fighting off mutants with one hand tied behind my back (which is basically what it feels like dealing with this code). seriously, it's that bad.\n\nso, to all you other devs out there, take heed: if you're going to write code, at least try not to make me want to pull my hair out. and if you can't even do that, maybe just stick to, i don't know, running a deli in toronto or something. anything would be better than this.\n\noh, and one more thing - whoever did this should probably just quit programming altogether. seriously, it's not worth the headache (or the risk of attracting unwanted attention from the mutant hordes).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "Omgise",
+    "nwo": "GTNewHorizons/Backhand",
+    "pr": 0,
+    "ma": "2024-08-03T06:24:03Z",
+    "oa": "2024-08-03T06:29:30.398Z",
+    "tg": null
+  },
+  {
+    "uml": "Caracas, Venezuela",
+    "gm": {
+      "lat": "10.5060934",
+      "lon": "-66.9146008"
+    },
+    "uol": "Caracas, Venezuela",
+    "gop": {
+      "lat": "10.5060934",
+      "lon": "-66.9146008"
+    },
+    "l": "WHO CARES",
+    "a": "henrzven",
+    "nwo": "github-education-resources/edu-resource-guide",
+    "pr": 0,
+    "ma": "2024-08-03T06:25:05Z",
+    "oa": "2024-08-03T06:30:17.638Z",
+    "tg": null
+  },
+  {
+    "uml": "Nowhere.",
+    "gm": {
+      "lat": "38.7311123",
+      "lon": "-95.2414104"
+    },
+    "uol": "Nowhere.",
+    "gop": {
+      "lat": "38.7311123",
+      "lon": "-95.2414104"
+    },
+    "l": "WHO CARES",
+    "a": "Ghomist",
+    "nwo": "Richard9394/MingCute",
+    "pr": 0,
+    "ma": "2024-08-03T06:26:05Z",
+    "oa": "2024-08-03T06:31:12.927Z",
+    "tg": null
+  },
+  {
+    "uml": "Recife, Pernambuco. Brazil",
+    "gm": {
+      "lat": "-8.0584933",
+      "lon": "-34.8848193"
+    },
+    "uol": "Recife, Pernambuco. Brazil",
+    "gop": {
+      "lat": "-8.0584933",
+      "lon": "-34.8848193"
+    },
+    "l": "WHO CARES",
+    "a": "edumco",
+    "nwo": "edumco/selenium-examples",
+    "pr": 0,
+    "ma": "2024-08-03T06:26:05Z",
+    "oa": "2024-08-03T06:31:28.913Z",
+    "tg": null
   }
 ]
