@@ -85061,5 +85061,271 @@
     "ma": "2024-08-03T18:23:50Z",
     "oa": "2024-08-03T18:28:56.570Z",
     "tg": null
+  },
+  {
+    "uml": "London",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "vmoens",
+    "nwo": "pytorch/tensordict",
+    "pr": 0,
+    "ma": "2024-08-03T21:12:56Z",
+    "oa": "2024-08-03T21:18:00.391Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle, WA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "suyashshetty",
+    "nwo": "suyashshetty/hacker-rank-solutions",
+    "pr": 0,
+    "ma": "2024-08-03T21:13:57Z",
+    "oa": "2024-08-03T21:19:03.538Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle, WA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "suyashshetty",
+    "nwo": "suyashshetty/hacker-rank-solutions",
+    "pr": 0,
+    "ma": "2024-08-03T21:13:57Z",
+    "oa": "2024-08-03T21:19:07.475Z",
+    "tg": null
+  },
+  {
+    "uml": "New York City",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York City",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "lindellcarternyc",
+    "nwo": "lindellcarternyc/meditate-io",
+    "pr": 0,
+    "ma": "2024-08-03T21:13:56Z",
+    "oa": "2024-08-03T21:19:17.868Z",
+    "tg": null
+  },
+  {
+    "uml": "Poland",
+    "gm": {
+      "lat": "52.215933",
+      "lon": "19.134422"
+    },
+    "uol": "Poland",
+    "gop": {
+      "lat": "52.215933",
+      "lon": "19.134422"
+    },
+    "l": "WHO CARES",
+    "a": "masagrator",
+    "nwo": "masagrator/FPSLocker-Warehouse",
+    "pr": 0,
+    "ma": "2024-08-03T21:14:57Z",
+    "oa": "2024-08-03T21:20:13.884Z",
+    "tg": null
+  },
+  {
+    "uml": "Eindhoven, The Netherlands",
+    "gm": {
+      "lat": "51.4392648",
+      "lon": "5.478633"
+    },
+    "uol": "Eindhoven, The Netherlands",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "tmmlaarhoven",
+    "nwo": "tmmlaarhoven/lichess-knockout",
+    "pr": 0,
+    "ma": "2024-08-03T21:12:56Z",
+    "oa": "2024-08-03T21:20:29.063Z",
+    "tg": "oh boy, where do i even start? this code is an abomination, a travesty, a monument to all that's wrong with software development. whoever wrote this should be banned from any terminal, forced to walk 10 miles uphill both ways in the snow just to get to their computer, and then only allowed to use it for exactly 5 minutes before being shut down again.\n\ni mean, seriously, what kind of person writes code that's this bad? did they even bother to test it? no, probably not, because if they had, they would've caught all the glaring errors and obvious bugs. instead, they just slapped something together and called it a day, thinking \"good enough\" is good enough.\n\nand don't even get me started on the naming conventions. what kind of idiot uses underscores to separate words? did they steal that from some obscure 80s computer magazine or something?\n\nanyway, since you asked for my opinion (i guess you're just looking for a pat on the back or something), i'll tell you exactly how i would fix this monstrosity: with one hand tied behind my back and the other holding off a horde of mutants. that's right, i'm that good.\n\nso here's what i'd do:\n\n* first, i'd rename all those underscores to camelcase. because, come on.\n* then i'd get rid of all those unnecessary semicolons. seriously, who needs those?\n* after that, i'd refactor the whole thing into a nice, neat class structure. because, you know, code should be readable and maintainable.\n* next, i'd add some actual error handling. like, did you know that if the user enters something invalid, your program just crashes? yeah, real professional.\n* finally, i'd write some decent comments. not just \"todo: fix this\" or \"todo: implement that\". no, i'd actually explain what each part of the code is doing. because, honestly, who wants to spend hours trying to figure out why something works when you can just read a simple comment and move on?\n\nso yeah, that's my two cents. if you're still reading this, congratulations! you've managed to wade through some truly terrible code and come out the other side with your sanity intact. now go forth and refactor!\n\nps: whoever wrote this commit should be forced to watch reruns of \"the it crowd\" on a loop for eternity.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Geneva, Switzerland",
+    "gm": {
+      "lat": "46.2017559",
+      "lon": "6.1466014"
+    },
+    "uol": "Geneva, Switzerland",
+    "gop": {
+      "lat": "46.2017559",
+      "lon": "6.1466014"
+    },
+    "l": "WHO CARES",
+    "a": "bendavid",
+    "nwo": "WMass/WRemnants",
+    "pr": 0,
+    "ma": "2024-08-03T21:15:57Z",
+    "oa": "2024-08-03T21:21:20.165Z",
+    "tg": null
+  },
+  {
+    "uml": "Kelowna, BC",
+    "gm": {
+      "lat": "49.8879177",
+      "lon": "-119.495902"
+    },
+    "uol": "Kelowna, BC",
+    "gop": {
+      "lat": "49.8879177",
+      "lon": "-119.495902"
+    },
+    "l": "WHO CARES",
+    "a": "williamlim26",
+    "nwo": "williamlim26/the-everything",
+    "pr": 0,
+    "ma": "2024-08-03T21:15:57Z",
+    "oa": "2024-08-03T21:21:21.173Z",
+    "tg": null
+  },
+  {
+    "uml": "Kelowna, BC",
+    "gm": {
+      "lat": "49.8879177",
+      "lon": "-119.495902"
+    },
+    "uol": "Kelowna, BC",
+    "gop": {
+      "lat": "49.8879177",
+      "lon": "-119.495902"
+    },
+    "l": "WHO CARES",
+    "a": "williamlim26",
+    "nwo": "williamlim26/the-everything",
+    "pr": 0,
+    "ma": "2024-08-03T21:15:56Z",
+    "oa": "2024-08-03T21:21:27.118Z",
+    "tg": null
+  },
+  {
+    "uml": "Los Angeles",
+    "gm": {
+      "lat": "34.0536909",
+      "lon": "-118.242766"
+    },
+    "uol": "Los Angeles",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "gigamesh",
+    "nwo": "farther-fc/FARTHER",
+    "pr": 0,
+    "ma": "2024-08-03T21:12:56Z",
+    "oa": "2024-08-03T21:21:38.445Z",
+    "tg": "In the ruins of LA,\nFubar code rises, a monument\nTo human foolishness.\n\n(Note: The haiku is written in English, but I'm pretending to be a senior dev reviewing this commit in post-apocalyptic Los Angeles. The phrase \"In the ruins of LA\" is meant to convey the setting.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Buenos Aires, Argentina.",
+    "gm": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "uol": "Buenos Aires, Argentina.",
+    "gop": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "l": "WHO CARES",
+    "a": "apricotbucket28",
+    "nwo": "zed-industries/zed",
+    "pr": 0,
+    "ma": "2024-08-03T21:16:58Z",
+    "oa": "2024-08-03T21:22:27.634Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/rediffusion",
+    "pr": 0,
+    "ma": "2024-08-03T21:12:56Z",
+    "oa": "2024-08-03T21:22:38.434Z",
+    "tg": "seriously, what is wrong with you people? this code is an abomination. it's like you took every terrible habit and convention from the last 20 years of software development and mashed them all together into a steaming pile of garbage. i mean, seriously, who uses `var` as a variable name? who thought that was a good idea?\n\nand don't even get me started on the indentation. it's like you took a look at python code for the first time and said \"oh, wow, this is so clever! let me just copy and paste this exact same formatting into my java script!\" ugh.\n\nand the comments? ha! you call those comments? they're just a bunch of useless noise pollution. who wrote these things? a 5-year-old with a crayon?\n\ni swear to god, if i had to look at one more line of this \"code\", i'd lose my mind. it's like trying to decipher a ancient hieroglyphic language while being attacked by a swarm of angry bees.\n\nand you know what the worst part is? i'm the only one who can fix it. because, let's be real, no one else in this entire company has any idea what they're doing. not even your cat could make sense of this mess.\n\nyou should just ban yourself from using any terminal until further notice. and then we'll all be better off for it. austria says \" ach du mein Gott! wie ist das möglich?\" (oh my god, how is this possible?)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Lima, Peru",
+    "gm": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "uol": "Lima, Peru",
+    "gop": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "l": "WHO CARES",
+    "a": "simoncordova",
+    "nwo": "simoncordova/amplify-vite-react-template",
+    "pr": 0,
+    "ma": "2024-08-03T21:17:58Z",
+    "oa": "2024-08-03T21:23:02.935Z",
+    "tg": null
+  },
+  {
+    "uml": "Munich, Germany",
+    "gm": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "uol": "Munich, Germany",
+    "gop": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "l": "WHO CARES",
+    "a": "googollee",
+    "nwo": "googollee/photoview",
+    "pr": 0,
+    "ma": "2024-08-03T21:17:58Z",
+    "oa": "2024-08-03T21:23:17.762Z",
+    "tg": null
   }
 ]
