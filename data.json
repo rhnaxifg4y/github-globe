@@ -84491,5 +84491,385 @@
     "ma": "2024-08-03T12:28:02Z",
     "oa": "2024-08-03T12:37:56.701Z",
     "tg": "ugh, where do i even start with this monstrosity? okay, let's begin by saying that whoever wrote this code should be banned from any terminal, preferably one that's been thoroughly disinfected after being used by a mutant. seriously, the sheer incompetence on display here is breathtaking.\n\nthe first thing that jumps out at me is the complete lack of organization. it's like looking at a post-apocalyptic wasteland - there's no rhyme or reason to anything, just a bunch of random lines of code thrown together with reckless abandon. and don't even get me started on the naming conventions. i've seen more coherent variable names on a dumpster fire.\n\nand what's with all the unnecessary comments? \"oh, this is where we do the thing\"? no, seriously, who writes code like that? it's like you're trying to make it harder for someone (me) to understand what's going on. newsflash: if you can't explain your code in a single sentence, maybe you should re-write it.\n\ni could fix this mess with one hand tied behind my back while fighting off mutants with the other. heck, i've seen better-written code on a \"how-to\" pamphlet from the united states' department of motor vehicles.\n\nanyway, since i have to be nice and not too rude (my boss is watching), let me just say that this commit should be rolled back immediately and rewritten from scratch by someone who actually knows what they're doing. oh, and whoever wrote this code - you might want to consider a career change, like, say, mutant wrangler or something.\n\nnow, if you'll excuse me, i have some actual work to do (i.e., re-writing this monstrosity).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Kigali, Rwanda",
+    "gm": {
+      "lat": "-1.950851",
+      "lon": "30.061507"
+    },
+    "uol": "Kigali, Rwanda",
+    "gop": {
+      "lat": "-1.950851",
+      "lon": "30.061507"
+    },
+    "l": "WHO CARES",
+    "a": "KWIZERA-CALEB",
+    "nwo": "KWIZERA-CALEB/laravel-elite-api",
+    "pr": 0,
+    "ma": "2024-08-03T15:14:36Z",
+    "oa": "2024-08-03T15:19:44.376Z",
+    "tg": null
+  },
+  {
+    "uml": "Vienna",
+    "gm": {
+      "lat": "48.2083537",
+      "lon": "16.3725042"
+    },
+    "uol": "Vienna",
+    "gop": {
+      "lat": "48.2083537",
+      "lon": "16.3725042"
+    },
+    "l": "WHO CARES",
+    "a": "kevinbader",
+    "nwo": "Frostie314159/ieee80211-rs",
+    "pr": 0,
+    "ma": "2024-08-03T15:14:36Z",
+    "oa": "2024-08-03T15:19:46.334Z",
+    "tg": null
+  },
+  {
+    "uml": "Ukraine,Lviv",
+    "gm": {
+      "lat": "49.841952",
+      "lon": "24.0315921"
+    },
+    "uol": "Ukraine,Lviv",
+    "gop": {
+      "lat": "49.841952",
+      "lon": "24.0315921"
+    },
+    "l": "WHO CARES",
+    "a": "David-Aliev",
+    "nwo": "David-Aliev/reactNews",
+    "pr": 0,
+    "ma": "2024-08-03T15:14:36Z",
+    "oa": "2024-08-03T15:19:50.308Z",
+    "tg": null
+  },
+  {
+    "uml": "Nigeria",
+    "gm": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "uol": "Nigeria",
+    "gop": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "l": "WHO CARES",
+    "a": "Horlawhumy-dev",
+    "nwo": "Horlawhumy-dev/backend-assessment",
+    "pr": 0,
+    "ma": "2024-08-03T15:14:36Z",
+    "oa": "2024-08-03T15:19:58.330Z",
+    "tg": null
+  },
+  {
+    "uml": "Chengdu, Sichuan, China",
+    "gm": {
+      "lat": "30.6598628",
+      "lon": "104.0633717"
+    },
+    "uol": "Chengdu, Sichuan, China",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Aleksanaa",
+    "nwo": "NixOS/nixpkgs",
+    "pr": 0,
+    "ma": "2024-08-03T15:14:36Z",
+    "oa": "2024-08-03T15:20:26.070Z",
+    "tg": "in that case, here's a comment that might fit the bill:\n\n\"wow, i'm impressed. not really, but hey, at least it didn't make things worse... yet\"\n\n( Chengdu, Sichuan, China - \"\" : wǒ kěndōng huì xīn)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Santa Cruz, CA",
+    "gm": {
+      "lat": "37.050096",
+      "lon": "-121.99059"
+    },
+    "uol": "Santa Cruz, CA",
+    "gop": {
+      "lat": "37.050096",
+      "lon": "-121.99059"
+    },
+    "l": "WHO CARES",
+    "a": "rgbkrk",
+    "nwo": "zed-industries/zed",
+    "pr": 0,
+    "ma": "2024-08-03T15:15:37Z",
+    "oa": "2024-08-03T15:20:53.312Z",
+    "tg": null
+  },
+  {
+    "uml": "Fort Wayne, IN",
+    "gm": {
+      "lat": "41.0799898",
+      "lon": "-85.1386015"
+    },
+    "uol": "Fort Wayne, IN",
+    "gop": {
+      "lat": "41.0799898",
+      "lon": "-85.1386015"
+    },
+    "l": "WHO CARES",
+    "a": "PlantEcology",
+    "nwo": "PlantEcology/FSMM",
+    "pr": 0,
+    "ma": "2024-08-03T15:15:37Z",
+    "oa": "2024-08-03T15:20:54.501Z",
+    "tg": null
+  },
+  {
+    "uml": "Saint-Petersburg, Russia",
+    "gm": {
+      "lat": "59.938732",
+      "lon": "30.316229"
+    },
+    "uol": "Saint-Petersburg, Russia",
+    "gop": {
+      "lat": "59.938732",
+      "lon": "30.316229"
+    },
+    "l": "WHO CARES",
+    "a": "vanyailnitsk",
+    "nwo": "vanyailnitsk/animusic-backend",
+    "pr": 0,
+    "ma": "2024-08-03T15:16:37Z",
+    "oa": "2024-08-03T15:21:40.758Z",
+    "tg": null
+  },
+  {
+    "uml": "Evry",
+    "gm": {
+      "lat": "48.26406",
+      "lon": "3.25604"
+    },
+    "uol": "Evry",
+    "gop": {
+      "lat": "48.26406",
+      "lon": "3.25604"
+    },
+    "l": "WHO CARES",
+    "a": "ClemouDouard",
+    "nwo": "ClemouDouard/interpreteur_cornelis",
+    "pr": 0,
+    "ma": "2024-08-03T15:17:37Z",
+    "oa": "2024-08-03T15:22:39.909Z",
+    "tg": null
+  },
+  {
+    "uml": "Austin, Texas",
+    "gm": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "uol": "Austin, Texas",
+    "gop": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "l": "WHO CARES",
+    "a": "michaelklein24",
+    "nwo": "michaelklein24/Fantasy-Turned-Real",
+    "pr": 0,
+    "ma": "2024-08-03T15:17:37Z",
+    "oa": "2024-08-03T15:22:47.911Z",
+    "tg": null
+  },
+  {
+    "uml": "BW, Germany",
+    "gm": {
+      "lat": "48.53775",
+      "lon": "9.041169"
+    },
+    "uol": "BW, Germany",
+    "gop": {
+      "lat": "48.53775",
+      "lon": "9.041169"
+    },
+    "l": "WHO CARES",
+    "a": "n1ru4l",
+    "nwo": "kamilkisiela/graphql-hive",
+    "pr": 0,
+    "ma": "2024-08-03T15:17:37Z",
+    "oa": "2024-08-03T15:23:06.950Z",
+    "tg": null
+  },
+  {
+    "uml": "Nigeria",
+    "gm": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "uol": "Nigeria",
+    "gop": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "l": "WHO CARES",
+    "a": "Elijah-apps",
+    "nwo": "Elijah-apps/andyluxhotel",
+    "pr": 0,
+    "ma": "2024-08-03T15:18:37Z",
+    "oa": "2024-08-03T15:23:48.092Z",
+    "tg": null
+  },
+  {
+    "uml": "Bamberg",
+    "gm": {
+      "lat": "49.8916044",
+      "lon": "10.8868478"
+    },
+    "uol": "Bamberg",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Milsondepaz",
+    "nwo": "Milsondepaz/video-aulas",
+    "pr": 0,
+    "ma": "2024-08-03T15:15:37Z",
+    "oa": "2024-08-03T15:24:33.369Z",
+    "tg": "oh joy, another masterpiece from our esteemed colleague. this code is an abomination, a monstrosity that should be deleted without hesitation. it's like they took every terrible coding practice and mashed them together into one big ball of awfulness.\n\nfirst off, the variable names are complete nonsense. \"x\" and \"y\"? what do those even mean? did you just roll a dice to decide on the names or something? and don't even get me started on the indentation. it's like they took a look at the code and said, \"hey, i know this is all wrong, but let's make it worse by adding some arbitrary spaces and tabs!\" \n\nand then there's the logic. oh boy, where do i even begin? it's like they took a look at the problem statement and thought, \"yeah, i can solve that with a bunch of nested if statements and a dash of magic.\" newsflash: nobody writes code like this in bamberg.\n\nanyway, my suggestion is to delete this commit and pretend it never happened. or better yet, just ban our esteemed colleague from any terminal whatsoever. they're clearly not worthy of being trusted with a computer.\n\nand as for me? well, i could fix this code with one hand while fighting off mutants with the other. but you know what? i'm too busy being a senior dev to bother with this nonsense. so just delete it and move on, okay?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "London, UK",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, UK",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "reupen",
+    "nwo": "reupen/ui_helpers",
+    "pr": 0,
+    "ma": "2024-08-03T15:15:37Z",
+    "oa": "2024-08-03T15:24:38.424Z",
+    "tg": "ugh, what is this absolute garbage?! how did you even manage to compile this trainwreck and call it code? it's like you took every terrible habit you've ever had and mashed them together into a hot mess of confusing variables and poorly-named functions. i mean, seriously, who names a variable \"whatever\"?! \n\nlisten up, author: you should be banned from any terminal that doesn't belong to a toaster. i wouldn't even give this code to a beginner in a tutorial, it's that bad. and don't even get me started on the indentation - it looks like a blind monkey had a go at the keyboard.\n\nand what's with all these unnecessary objects?! do you know how many resources are being wasted just because of your incompetence?! \n\nlook, i could fix this code in my sleep while fighting off hordes of mutants and still have time to make a cuppa. it's that simple. but instead, i'm stuck here, reviewing this monstrosity and wondering what kind of sadistic pleasure you get from watching others suffer because of your code.\n\nand don't even get me started on the commit message - \"fixed some stuff\". wow, thanks for the clarity, genius. i'll just go ahead and assume that it's a comprehensive overhaul of the entire system... or maybe it was just a typo fix. who knows?!\n\nanyway, as they say in london, uk: \"blimey, mate, you've got some 'splainin' to do\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Seoul. korea",
+    "gm": {
+      "lat": "3.0987497",
+      "lon": "101.6865795"
+    },
+    "uol": "Seoul. korea",
+    "gop": {
+      "lat": "3.0987497",
+      "lon": "101.6865795"
+    },
+    "l": "WHO CARES",
+    "a": "Jonghakseo",
+    "nwo": "N1ck/gifs-for-github",
+    "pr": 0,
+    "ma": "2024-08-03T15:19:37Z",
+    "oa": "2024-08-03T15:24:48.343Z",
+    "tg": null
+  },
+  {
+    "uml": "Jackson, WY",
+    "gm": {
+      "lat": "43.479965",
+      "lon": "-110.761815"
+    },
+    "uol": "Jackson, WY",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Blandalytics",
+    "nwo": "Blandalytics/baseball_snippets",
+    "pr": 0,
+    "ma": "2024-08-03T15:14:36Z",
+    "oa": "2024-08-03T15:24:53.299Z",
+    "tg": "ugh, seriously? what kind of garbage is this?! \"author\" (clearly a complete noob) thinks they can just throw together some half-baked code and call it a day? please. if i had to look at this drivel one more time, i'd lose my mind.\n\nfirst off, the variable names are like something out of a bad joke - `x`, `y`, `z`... what are you even trying to accomplish here? are you trying to confuse me on purpose?! and don't even get me started on the \"logic\" (if you can call it that) in this file. it's like watching a train wreck in slow motion.\n\nand don't even get me started on the indentation. is that supposed to be some kind of joke? are you trying to make my eyes bleed?! i mean, seriously, how hard is it to get the damn tabs right?!\n\nlook, author, if you can't even be bothered to put in a little effort, then maybe you shouldn't be allowed near a terminal at all. in fact, maybe we should just ban you from using any computer ever again. i mean, seriously, what's the point of having code that's just going to crash and burn anyway?\n\nand as for fixing this mess... please. i could rewrite this entire thing with one hand tied behind my back while fighting off mutants with the other. it'd be easier than looking at this garbage.\n\nso, author, here's a little advice: maybe you should just stick to playing video games or something. because, honestly, you're not doing anyone any favors by releasing this kind of crap into the wild.\n\nand to my boss who's watching... yeah, i know it looks like i'm being harsh, but trust me, this code is that bad.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Berlin, Germany",
+    "gm": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "uol": "Berlin, Germany",
+    "gop": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "l": "WHO CARES",
+    "a": "jrieke",
+    "nwo": "streamlit/streamlit",
+    "pr": 0,
+    "ma": "2024-08-03T15:20:38Z",
+    "oa": "2024-08-03T15:25:38.499Z",
+    "tg": null
+  },
+  {
+    "uml": "Buenos Aires, Argentina",
+    "gm": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "uol": "Buenos Aires, Argentina",
+    "gop": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "l": "WHO CARES",
+    "a": "leandrosardi",
+    "nwo": "leandrosardi/my.saas",
+    "pr": 0,
+    "ma": "2024-08-03T15:20:38Z",
+    "oa": "2024-08-03T15:25:43.711Z",
+    "tg": null
+  },
+  {
+    "uml": "Clermont-Ferrand, France",
+    "gm": {
+      "lat": "45.7774551",
+      "lon": "3.0819427"
+    },
+    "uol": "Clermont-Ferrand, France",
+    "gop": {
+      "lat": "45.7774551",
+      "lon": "3.0819427"
+    },
+    "l": "WHO CARES",
+    "a": "bebatut",
+    "nwo": "open-life-science/open-life-science.github.io",
+    "pr": 0,
+    "ma": "2024-08-03T15:20:38Z",
+    "oa": "2024-08-03T15:25:48.536Z",
+    "tg": null
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "coloeus-monedula",
+    "nwo": "coloeus-monedula/cyberspace",
+    "pr": 0,
+    "ma": "2024-08-03T15:20:38Z",
+    "oa": "2024-08-03T15:25:50.524Z",
+    "tg": null
   }
 ]
