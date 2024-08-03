@@ -83389,5 +83389,157 @@
     "ma": "2024-08-02T21:19:16Z",
     "oa": "2024-08-02T21:24:38.972Z",
     "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "l": "WHO CARES",
+    "a": "llfbandit",
+    "nwo": "llfbandit/record",
+    "pr": 0,
+    "ma": "2024-08-03T01:14:47Z",
+    "oa": "2024-08-03T01:20:08.169Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "pop-culture-studio",
+    "nwo": "pop-culture-studio/puklipo.com",
+    "pr": 0,
+    "ma": "2024-08-03T01:15:48Z",
+    "oa": "2024-08-03T01:20:56.618Z",
+    "tg": null
+  },
+  {
+    "uml": "Buenos Aires, Argentina",
+    "gm": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "uol": "Buenos Aires, Argentina",
+    "gop": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "l": "WHO CARES",
+    "a": "kr4fty",
+    "nwo": "andreujuanc/actas-2024",
+    "pr": 0,
+    "ma": "2024-08-03T01:15:48Z",
+    "oa": "2024-08-03T01:21:05.566Z",
+    "tg": null
+  },
+  {
+    "uml": "Vietnam",
+    "gm": {
+      "lat": "15.9266657",
+      "lon": "107.9650855"
+    },
+    "uol": "Vietnam",
+    "gop": {
+      "lat": "15.9266657",
+      "lon": "107.9650855"
+    },
+    "l": "WHO CARES",
+    "a": "doitsu2014",
+    "nwo": "doitsu2014/my-cms",
+    "pr": 0,
+    "ma": "2024-08-03T01:16:48Z",
+    "oa": "2024-08-03T01:22:03.602Z",
+    "tg": null
+  },
+  {
+    "uml": "Lahore, Pakistan",
+    "gm": {
+      "lat": "31.5656822",
+      "lon": "74.3141829"
+    },
+    "uol": "Lahore, Pakistan",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Zaid-maker",
+    "nwo": "DevMirza-Blog/status",
+    "pr": 0,
+    "ma": "2024-08-03T01:14:47Z",
+    "oa": "2024-08-03T01:22:47.103Z",
+    "tg": "ugh, seriously, who wrote this abomination? it's like they took every terrible coding practice and mashed them together into a steaming pile of garbage. i mean, what is this, some kind of joke? you're telling me that after all the chaos and destruction outside, someone still managed to come up with something this bad?\n\nlisten, author, if you ever try to touch another terminal again, i'll make sure you get banned from every computer in a 5-mile radius. it's not even like you tried - just a bunch of sloppy code, no thought given to readability or maintainability, and don't even get me started on the naming conventions. i mean, \"mutantkiller5000\" as a variable name? are you kidding me?\n\nand you know what's really amazing? this could all be fixed with one hand while fighting off actual mutants with the other. that's how bad it is. i mean, seriously, who lets a program like this get away from them? it's not even like there was some kind of circumstance or excuse - no, this is just straight-up incompetence.\n\nand don't even get me started on the commits themselves. 30+ lines of identical code with no explanation as to what any of it does? that's not a commit, that's a war crime. in lahore, pakistan, we have a saying: \"jo kaha, so hua\" - which roughly translates to \"what you say is what happens\". well, author, what you wrote is exactly what happened - a big ol' mess.\n\nanyway, don't bother trying to defend this monstrosity. i'll just be over here, shaking my head and wondering how anyone thought this was acceptable.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "chichoon",
+    "nwo": "ThinkAboutSoftware/OnlineSelfCodingGroup",
+    "pr": 0,
+    "ma": "2024-08-03T01:17:48Z",
+    "oa": "2024-08-03T01:23:17.837Z",
+    "tg": null
+  },
+  {
+    "uml": "Algorand ($ALGO)",
+    "gm": {
+      "lat": "43.355452",
+      "lon": "-3.01262"
+    },
+    "uol": "Algorand ($ALGO)",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "algotables",
+    "nwo": "algotables/algotables.github.io",
+    "pr": 0,
+    "ma": "2024-08-03T01:14:47Z",
+    "oa": "2024-08-03T01:24:03.669Z",
+    "tg": "algorand ($algo) - honestly, i'm surprised anyone still bothers to log in here let alone write code. this commit is like finding a can of stale beer in the ruins of the old world - it's just not worth my time\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Hyderabad, pakistan",
+    "gm": {
+      "lat": "25.3868287",
+      "lon": "68.3714971"
+    },
+    "uol": "Hyderabad, pakistan",
+    "gop": {
+      "lat": "25.3868287",
+      "lon": "68.3714971"
+    },
+    "l": "WHO CARES",
+    "a": "M-Hamza-khan-23",
+    "nwo": "M-Hamza-khan-23/Akram-Engineering-Work",
+    "pr": 0,
+    "ma": "2024-08-03T01:19:48Z",
+    "oa": "2024-08-03T01:24:56.239Z",
+    "tg": null
   }
 ]
