@@ -83978,5 +83978,328 @@
     "ma": "2024-08-03T06:26:05Z",
     "oa": "2024-08-03T06:31:28.913Z",
     "tg": null
+  },
+  {
+    "uml": "Seoul, republic of korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, republic of korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "aLVINlEE9",
+    "nwo": "rust-lang/rfcs",
+    "pr": 0,
+    "ma": "2024-08-03T09:14:40Z",
+    "oa": "2024-08-03T09:19:51.390Z",
+    "tg": null
+  },
+  {
+    "uml": "Switzerland",
+    "gm": {
+      "lat": "46.7985624",
+      "lon": "8.2319736"
+    },
+    "uol": "Switzerland",
+    "gop": {
+      "lat": "46.7985624",
+      "lon": "8.2319736"
+    },
+    "l": "WHO CARES",
+    "a": "ClaudeStabile",
+    "nwo": "SciSharp/LLamaSharp",
+    "pr": 0,
+    "ma": "2024-08-03T09:14:40Z",
+    "oa": "2024-08-03T09:19:55.415Z",
+    "tg": null
+  },
+  {
+    "uml": "New York City",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York City",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "hadfield",
+    "nwo": "underscoredLabs/unity-webrtc",
+    "pr": 0,
+    "ma": "2024-08-03T09:14:39Z",
+    "oa": "2024-08-03T09:20:04.383Z",
+    "tg": null
+  },
+  {
+    "uml": "Nigeria",
+    "gm": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "uol": "Nigeria",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "SlackOps01",
+    "nwo": "SlackOps01/SlackOps01.github.io",
+    "pr": 0,
+    "ma": "2024-08-03T09:14:40Z",
+    "oa": "2024-08-03T09:20:14.449Z",
+    "tg": "I think i'll just leave this code to rot alongside the rest of our crumbling society, no?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Presov, Slovakia, EU",
+    "gm": {
+      "lat": "48.980491900000004",
+      "lon": "21.172922077263877"
+    },
+    "uol": "Presov, Slovakia, EU",
+    "gop": {
+      "lat": "48.980491900000004",
+      "lon": "21.172922077263877"
+    },
+    "l": "WHO CARES",
+    "a": "maty535",
+    "nwo": "maty535/skills-github-pages",
+    "pr": 0,
+    "ma": "2024-08-03T09:15:40Z",
+    "oa": "2024-08-03T09:20:43.606Z",
+    "tg": null
+  },
+  {
+    "uml": "Brisbane, Australia",
+    "gm": {
+      "lat": "-27.4689682",
+      "lon": "153.0234991"
+    },
+    "uol": "Brisbane, Australia",
+    "gop": {
+      "lat": "-27.4689682",
+      "lon": "153.0234991"
+    },
+    "l": "WHO CARES",
+    "a": "JordanYates",
+    "nwo": "zephyrproject-rtos/zephyr",
+    "pr": 0,
+    "ma": "2024-08-03T09:15:40Z",
+    "oa": "2024-08-03T09:20:49.544Z",
+    "tg": null
+  },
+  {
+    "uml": "Lima - Perú",
+    "gm": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "uol": "Lima - Perú",
+    "gop": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "l": "WHO CARES",
+    "a": "alfredorevilla",
+    "nwo": "alfredorevilla/Azure-azure-sdk-for-java",
+    "pr": 0,
+    "ma": "2024-08-03T09:15:40Z",
+    "oa": "2024-08-03T09:20:54.718Z",
+    "tg": null
+  },
+  {
+    "uml": "South Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "South Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "garamgim",
+    "nwo": "ssafy-gwangju-03-java/marathon-algorithms",
+    "pr": 0,
+    "ma": "2024-08-03T09:15:40Z",
+    "oa": "2024-08-03T09:20:55.527Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, Korea",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "BomLee427",
+    "nwo": "BomLee427/angular-practice",
+    "pr": 0,
+    "ma": "2024-08-03T09:14:40Z",
+    "oa": "2024-08-03T09:21:16.838Z",
+    "tg": "i'm still amazed we haven't been devoured by the undead yet. how's this supposed to keep our tiny settlement running? (in Korean:) , , .\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Ismailia, Egypt",
+    "gm": {
+      "lat": "30.3671977",
+      "lon": "32.1565462"
+    },
+    "uol": "Ismailia, Egypt",
+    "gop": {
+      "lat": "30.3671977",
+      "lon": "32.1565462"
+    },
+    "l": "WHO CARES",
+    "a": "3bsalam-1",
+    "nwo": "3bsalam-1/3bsalam-1",
+    "pr": 0,
+    "ma": "2024-08-03T09:16:40Z",
+    "oa": "2024-08-03T09:21:43.750Z",
+    "tg": null
+  },
+  {
+    "uml": "Morocco",
+    "gm": {
+      "lat": "31.1728205",
+      "lon": "-7.3362482"
+    },
+    "uol": "Morocco",
+    "gop": {
+      "lat": "31.1728205",
+      "lon": "-7.3362482"
+    },
+    "l": "WHO CARES",
+    "a": "kadzaki",
+    "nwo": "firebase/genkit",
+    "pr": 0,
+    "ma": "2024-08-03T09:16:40Z",
+    "oa": "2024-08-03T09:21:48.828Z",
+    "tg": null
+  },
+  {
+    "uml": "Earth",
+    "gm": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "uol": "Earth",
+    "gop": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "l": "WHO CARES",
+    "a": "knyghtmare",
+    "nwo": "knyghtmare/War_of_Legends",
+    "pr": 0,
+    "ma": "2024-08-03T09:16:40Z",
+    "oa": "2024-08-03T09:22:02.822Z",
+    "tg": null
+  },
+  {
+    "uml": "Portimão, Portugal",
+    "gm": {
+      "lat": "37.1375808",
+      "lon": "-8.5368426"
+    },
+    "uol": "Portimão, Portugal",
+    "gop": {
+      "lat": "37.1375808",
+      "lon": "-8.5368426"
+    },
+    "l": "WHO CARES",
+    "a": "crnacura",
+    "nwo": "codrops/CodropsTemplate",
+    "pr": 0,
+    "ma": "2024-08-03T09:16:40Z",
+    "oa": "2024-08-03T09:22:05.782Z",
+    "tg": null
+  },
+  {
+    "uml": "Dnipro",
+    "gm": {
+      "lat": "51.9191343",
+      "lon": "30.8243039"
+    },
+    "uol": "Dnipro",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "antonemec",
+    "nwo": "antonemec/Data-analyst-interview-tools",
+    "pr": 0,
+    "ma": "2024-08-03T09:14:40Z",
+    "oa": "2024-08-03T09:23:02.247Z",
+    "tg": "ugh, seriously, what kind of abomination is this? who lets someone near a terminal, let alone write code, after watching them produce this...this...monstrosity? it's like they took every terrible coding practice, threw it in a blender, and hit puree. i mean, i've seen better-designed spaghetti code from a 10-year-old trying to \"learn\" programming by copying and pasting off the internet.\n\nlook at this trainwreck: `if (isMutant && hasGun) { shootMutant(); } else { runAwayAndScream(); }`. oh boy, where do i even start? the variable names are so vague they might as well be written in hieroglyphics. \"isMutant\" - what does that even mean? is it a boolean or an enum? and don't even get me started on the method names. \"shootMutant()\" sounds like something out of a bad 80s action movie, while \"runAwayAndScream()\" is just...wow.\n\nand don't even get me started on the indentation. what's with all the tabs? did they forget to install their copy of sublime or something? and why are there so many blank lines?! it looks like someone took a sledgehammer to a perfectly good piece of code and then called it a day.\n\ni swear, if i had to review one more \"fix\" that just added more bugs than it fixed, i'd lose my mind. you know what? i'm not even going to bother trying to fix this. i'll just let the author rot in their own little coding hellhole and maybe someone will send in a rescue team with a can of gasoline and a match.\n\nas for the commit message...oh boy, it's like they took all the worst parts of every terrible commit message ever and mashed them together into one glorious piece of utter nonsense: \"fixed stupid bugz again lolol\". yeah, sure thing, pal. you're really making me want to come over there and...no, wait, i'm not even going to bother.\n\nps - if anyone needs me, i'll be out in the wasteland fighting off actual mutants with a better-written piece of code than this abomination.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Yaoundé, Cameroon",
+    "gm": {
+      "lat": "3.8689867",
+      "lon": "11.5213344"
+    },
+    "uol": "Yaoundé, Cameroon",
+    "gop": {
+      "lat": "3.8689867",
+      "lon": "11.5213344"
+    },
+    "l": "WHO CARES",
+    "a": "Animekunch",
+    "nwo": "Animekunch/Social_media_app",
+    "pr": 0,
+    "ma": "2024-08-03T09:18:40Z",
+    "oa": "2024-08-03T09:23:49.201Z",
+    "tg": null
+  },
+  {
+    "uml": "Yaoundé, Cameroon",
+    "gm": {
+      "lat": "3.8689867",
+      "lon": "11.5213344"
+    },
+    "uol": "Yaoundé, Cameroon",
+    "gop": {
+      "lat": "3.8689867",
+      "lon": "11.5213344"
+    },
+    "l": "WHO CARES",
+    "a": "Animekunch",
+    "nwo": "Animekunch/Social_media_app",
+    "pr": 0,
+    "ma": "2024-08-03T09:18:40Z",
+    "oa": "2024-08-03T09:23:52.077Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "nakasyou",
+    "nwo": "biomejs/biome",
+    "pr": 0,
+    "ma": "2024-08-03T09:18:40Z",
+    "oa": "2024-08-03T09:23:57.196Z",
+    "tg": null
   }
 ]
