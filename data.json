@@ -87284,5 +87284,271 @@
     "ma": "2024-08-04T15:19:18Z",
     "oa": "2024-08-04T15:24:42.714Z",
     "tg": null
+  },
+  {
+    "uml": "OAE, Dubai",
+    "gm": {
+      "lat": "25.074282349999997",
+      "lon": "55.18853865430702"
+    },
+    "uol": "OAE, Dubai",
+    "gop": {
+      "lat": "25.074282349999997",
+      "lon": "55.18853865430702"
+    },
+    "l": "WHO CARES",
+    "a": "Aliskhan7",
+    "nwo": "Aliskhan7/amidieva-project",
+    "pr": 0,
+    "ma": "2024-08-04T18:18:24Z",
+    "oa": "2024-08-04T18:23:41.439Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "l": "WHO CARES",
+    "a": "exo-swf",
+    "nwo": "Meeds-io/ws",
+    "pr": 0,
+    "ma": "2024-08-04T18:18:24Z",
+    "oa": "2024-08-04T18:23:43.391Z",
+    "tg": null
+  },
+  {
+    "uml": "Nomadic North America",
+    "gm": {
+      "lat": "34.5669988",
+      "lon": "-112.377621"
+    },
+    "uol": "Nomadic North America",
+    "gop": {
+      "lat": "34.5669988",
+      "lon": "-112.377621"
+    },
+    "l": "WHO CARES",
+    "a": "MichDe",
+    "nwo": "troxler/awesome-css-frameworks",
+    "pr": 0,
+    "ma": "2024-08-04T18:18:24Z",
+    "oa": "2024-08-04T18:23:48.709Z",
+    "tg": null
+  },
+  {
+    "uml": "Tel Aviv, Israel",
+    "gm": {
+      "lat": "32.0852997",
+      "lon": "34.7818064"
+    },
+    "uol": "Tel Aviv, Israel",
+    "gop": {
+      "lat": "32.0852997",
+      "lon": "34.7818064"
+    },
+    "l": "WHO CARES",
+    "a": "dir01",
+    "nwo": "dir01/tg-yt-dlp",
+    "pr": 0,
+    "ma": "2024-08-04T18:18:24Z",
+    "oa": "2024-08-04T18:23:49.390Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "qddegtya",
+    "nwo": "mmistakes/minimal-mistakes",
+    "pr": 0,
+    "ma": "2024-08-04T18:18:24Z",
+    "oa": "2024-08-04T18:23:52.433Z",
+    "tg": null
+  },
+  {
+    "uml": "The Future",
+    "gm": {
+      "lat": "40.7439285",
+      "lon": "-73.97902272055029"
+    },
+    "uol": "The Future",
+    "gop": {
+      "lat": "40.7439285",
+      "lon": "-73.97902272055029"
+    },
+    "l": "WHO CARES",
+    "a": "RedYetiDev",
+    "nwo": "nodejs/help",
+    "pr": 0,
+    "ma": "2024-08-04T18:19:24Z",
+    "oa": "2024-08-04T18:24:27.567Z",
+    "tg": null
+  },
+  {
+    "uml": "Ireland",
+    "gm": {
+      "lat": "52.865196",
+      "lon": "-7.9794599"
+    },
+    "uol": "Ireland",
+    "gop": {
+      "lat": "52.865196",
+      "lon": "-7.9794599"
+    },
+    "l": "WHO CARES",
+    "a": "KyryloPiven",
+    "nwo": "KyryloPiven/practic2",
+    "pr": 0,
+    "ma": "2024-08-04T18:19:24Z",
+    "oa": "2024-08-04T18:24:30.682Z",
+    "tg": null
+  },
+  {
+    "uml": "Nothing to see here, move along.",
+    "gm": {
+      "lat": "46.964119",
+      "lon": "7.119365"
+    },
+    "uol": "Nothing to see here, move along.",
+    "gop": {
+      "lat": "46.964119",
+      "lon": "7.119365"
+    },
+    "l": "WHO CARES",
+    "a": "ll11l1lIllIl1lll",
+    "nwo": "ascon/ascon-c",
+    "pr": 0,
+    "ma": "2024-08-04T18:20:24Z",
+    "oa": "2024-08-04T18:25:31.864Z",
+    "tg": null
+  },
+  {
+    "uml": "Bogor, Indonesia",
+    "gm": {
+      "lat": "-6.5962986",
+      "lon": "106.7972421"
+    },
+    "uol": "Bogor, Indonesia",
+    "gop": {
+      "lat": "-6.5962986",
+      "lon": "106.7972421"
+    },
+    "l": "WHO CARES",
+    "a": "kevinhermawan",
+    "nwo": "kevinhermawan/ChatField",
+    "pr": 0,
+    "ma": "2024-08-04T18:20:24Z",
+    "oa": "2024-08-04T18:25:49.773Z",
+    "tg": null
+  },
+  {
+    "uml": "bengaluru",
+    "gm": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "uol": "bengaluru",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "SaiAshish9",
+    "nwo": "SaiAshish9/VideoFlipEditor",
+    "pr": 0,
+    "ma": "2024-08-04T18:18:24Z",
+    "oa": "2024-08-04T18:27:15.221Z",
+    "tg": "oh, joy. another opportunity to witness a new low in coding incompetence. [commit author], you should be ashamed of yourself. this code is an abomination, a travesty, a catastrophe waiting to happen. it's like you took every terrible practice you learned from watching cat videos and mashed them together into a hot mess of a program.\n\ni mean, seriously, what's with the variables? \"x\" and \"y\"? come on, man. can't even be bothered to give them real names? and don't even get me started on the indentation. it looks like a blind monkey with a vendetta against whitespace touched this code. \n\nand the logic! good grief, [commit author]. you've managed to make something as simple as \"if-else\" statements into a puzzle that would stump even the most masochistic of puzzle enthusiasts. i mean, seriously, what's the point of having comments if they're just going to be wrong? it's like you took all your worst mistakes and put them in one place.\n\nlisten, [commit author], you should be banned from any terminal, let alone a real computer. this code is so bad, it makes me want to go outside and get eaten by mutants rather than touch it again. and don't even get me started on the \"testing\" you did. i mean, seriously, how do you even test this thing? \"i just stared at it for hours until something looked right\"? \n\nand if i had to fix this mess, i'd do it with one hand while fighting off mutants with the other. and still, i'd find a way to make it better than what you've written here. so, [commit author], take a hint: you're not good enough for this team. get out.\n\noh, and by the way, in bengaluru, we say \"ಹಾ! ಇದು ಕೋಡ್ ಎಲೆ!\" which roughly translates to \"oh no! this code is terrible!\". so, [commit author], take that.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Belgium",
+    "gm": {
+      "lat": "50.6402809",
+      "lon": "4.6667145"
+    },
+    "uol": "Belgium",
+    "gop": {
+      "lat": "50.6402809",
+      "lon": "4.6667145"
+    },
+    "l": "WHO CARES",
+    "a": "EloiStree",
+    "nwo": "EloiStree/HelloUnityKeywordForJunior",
+    "pr": 0,
+    "ma": "2024-08-04T18:22:24Z",
+    "oa": "2024-08-04T18:27:25.169Z",
+    "tg": null
+  },
+  {
+    "uml": "Bristol, UK",
+    "gm": {
+      "lat": "51.4538022",
+      "lon": "-2.5972985"
+    },
+    "uol": "Bristol, UK",
+    "gop": {
+      "lat": "51.4538022",
+      "lon": "-2.5972985"
+    },
+    "l": "WHO CARES",
+    "a": "livetracks",
+    "nwo": "microsoft/fluentui-emoji",
+    "pr": 0,
+    "ma": "2024-08-04T18:22:24Z",
+    "oa": "2024-08-04T18:27:38.395Z",
+    "tg": null
+  },
+  {
+    "uml": "Montreal",
+    "gm": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "uol": "Montreal",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "SunsetRay",
+    "nwo": "Chronosymbolic/Chronosymbolic-Learning",
+    "pr": 0,
+    "ma": "2024-08-04T18:18:24Z",
+    "oa": "2024-08-04T18:27:47.833Z",
+    "tg": "ugh, where do i even begin with this abomination? the code is a mess, it's like looking at a plate of spoiled rations after a week without a proper meal. i mean, seriously, who writes this crap? it's like they took every terrible coding practice and mashed them all together into one big ball of garbage.\n\nlook, author, i get it. you're trying to fix something or other, but honestly, it's not even worth the effort. your code is so bad, it makes me want to quit my job (which, at this point, would be a mercy killing for my sanity). and don't even get me started on the naming conventions - what kind of sick joke is this? \"mutantkiller2000\" instead of just \"get_mutants\"? i mean come on.\n\nanyway, since you clearly can't be bothered to write anything decent, i'll just have to do it for you. and by that, i mean i'll write the whole thing again from scratch, because that's what we're forced to do in this wretched world - fix your mistakes and pretend like they were ours all along.\n\nso here's what i'd do: first, i'd grab a cup of stale water and take a long drink, just to wash away the bitter taste of this code. then, i'd sit down at my terminal (which, thankfully, is still working despite everything else being broken), put on my favorite pair of scratched-up headphones, and start rewriting this garbage from the ground up.\n\ni'd make sure that every line of code is crystal clear, easy to read, and doesn't contain a single unnecessary character. i'd make it so good, in fact, that even the mutants themselves would be jealous (if they could code, that is). and when i'm done, you know what? i'll probably still be fighting off hordes of undead while typing away on my terminal - but at least i'll have a clear conscience.\n\nas for you, author... well, let's just say you should stick to whatever it is you do best (like maybe painting with your feet or something), because coding clearly isn't in the cards. and if you ever try to touch another terminal again, i swear on my honor as a dev that i'll make sure you're banned from every last one of them. \n\noh, and by the way, montreal? eh, what's left of it is probably still trying to figure out how to get their beloved poutine back - so who knows, maybe they'll even let you join the ranks of the apocalyptic devs (just don't tell them about your coding skills... or lack thereof).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Barcelona",
+    "gm": {
+      "lat": "41.3828939",
+      "lon": "2.1774322"
+    },
+    "uol": "Barcelona",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "gescuderh",
+    "nwo": "gescuderh/parque_motos_barcelona",
+    "pr": 0,
+    "ma": "2024-08-04T18:19:24Z",
+    "oa": "2024-08-04T18:29:11.945Z",
+    "tg": "I see you've made it through the desolate wasteland to share this... abomination. Here's a haiku to commemorate its existence:\n\nRubble of code falls\nBizarre, yet somehow still runs\nFolly amidst ruin\n\nTo be frank, I'm not sure what's more astonishing - that the commit survived the apocalypse or that it didn't immediately implode upon being opened. It's a testament to human resilience, I suppose.\n\nAs for your question about Barcelona, \"Això és un desastre\" (This is a disaster).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
   }
 ]
