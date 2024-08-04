@@ -85327,5 +85327,195 @@
     "ma": "2024-08-03T21:17:58Z",
     "oa": "2024-08-03T21:23:17.762Z",
     "tg": null
+  },
+  {
+    "uml": "hell",
+    "gm": {
+      "lat": "42.4347571",
+      "lon": "-83.9849477"
+    },
+    "uol": "hell",
+    "gop": {
+      "lat": "42.4347571",
+      "lon": "-83.9849477"
+    },
+    "l": "WHO CARES",
+    "a": "Infasio",
+    "nwo": "dramagirls/H4mster-4ut0-b0T",
+    "pr": 0,
+    "ma": "2024-08-04T01:22:49Z",
+    "oa": "2024-08-04T01:28:07.602Z",
+    "tg": null
+  },
+  {
+    "uml": "Hangzhou, China",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "Hangzhou, China",
+    "gop": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "l": "WHO CARES",
+    "a": "chenjiahan",
+    "nwo": "web-infra-dev/awesome-rspack",
+    "pr": 0,
+    "ma": "2024-08-04T01:23:48Z",
+    "oa": "2024-08-04T01:29:10.728Z",
+    "tg": null
+  },
+  {
+    "uml": "Vietnam",
+    "gm": {
+      "lat": "15.9266657",
+      "lon": "107.9650855"
+    },
+    "uol": "Vietnam",
+    "gop": {
+      "lat": "15.9266657",
+      "lon": "107.9650855"
+    },
+    "l": "WHO CARES",
+    "a": "namdodayne",
+    "nwo": "namdodayne/Product_3Block",
+    "pr": 0,
+    "ma": "2024-08-04T01:23:49Z",
+    "oa": "2024-08-04T01:29:13.763Z",
+    "tg": null
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "thiag0bezerra",
+    "nwo": "thiag0bezerra/apresentacoes",
+    "pr": 0,
+    "ma": "2024-08-04T01:24:49Z",
+    "oa": "2024-08-04T01:29:57.911Z",
+    "tg": null
+  },
+  {
+    "uml": "Mexico City",
+    "gm": {
+      "lat": "19.4326296",
+      "lon": "-99.1331785"
+    },
+    "uol": "Mexico City",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "javiertelioz",
+    "nwo": "javiertelioz/template-go",
+    "pr": 0,
+    "ma": "2024-08-04T01:21:49Z",
+    "oa": "2024-08-04T01:30:00.891Z",
+    "tg": "ugh, what is this abomination?! the code is like a toxic wasteland that's been ravaged by hordes of mutant bugs. i can't even begin to comprehend how someone managed to create such a monstrosity. it's like they took every terrible coding practice and put them all in one place, like some kind of digital version of the ruins of mexico city (what a pitiful excuse for a city).\n\nfirst off, the variable names are like something out of a bad joke. \"i_am_the_winner\"?! \"mutant_slayer\"?! what is this, a game?! and don't even get me started on the formatting - it's like they took every different coding style and mashed them all together into one big mess.\n\nand the logic! oh boy, where do i even begin? it's like they took every bad habit they learned from their programming books and amplified it by 10. functions that are 500 lines long?! nested loops that go on forever?! it's like they're trying to make my brain hurt!\n\nand you know what the worst part is? this code is probably going to work... for a little while, anyway. but as soon as someone tries to change something or add some new feature, this whole mess is going to come crashing down around their ears.\n\nso, whoever wrote this should be banned from any terminal within a 5-mile radius of where i'm standing right now. and if they try to touch anything else in the codebase, i'll personally make sure that they're forced to rewrite it by hand while fighting off actual mutants with the other hand.\n\nand you know what? i could probably fix this mess myself... one-handed... while juggling chainsaws and riding a unicycle over a field of landmines. but why bother? this code is beyond repair. just burn it all down and start over, for goodness' sake!\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Pennsylvania, USA",
+    "gm": {
+      "lat": "40.9699889",
+      "lon": "-77.7278831"
+    },
+    "uol": "Pennsylvania, USA",
+    "gop": {
+      "lat": "40.9699889",
+      "lon": "-77.7278831"
+    },
+    "l": "WHO CARES",
+    "a": "BellCubeDev",
+    "nwo": "BellCubeDev/fomod-js",
+    "pr": 0,
+    "ma": "2024-08-04T01:24:49Z",
+    "oa": "2024-08-04T01:30:13.928Z",
+    "tg": null
+  },
+  {
+    "uml": "Cleveland, Ohio",
+    "gm": {
+      "lat": "41.4996574",
+      "lon": "-81.6936772"
+    },
+    "uol": "Cleveland, Ohio",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "JThomasTek",
+    "nwo": "JThomasTek/cloudflare-traefik-control",
+    "pr": 0,
+    "ma": "2024-08-04T01:22:49Z",
+    "oa": "2024-08-04T01:30:14.487Z",
+    "tg": "oh boy, where do i even start with this abomination? it's like the author of this code took every bad habit they learned from watching cat videos on youtube and put them into one glorious mess. \n\nfirst off, what's with all the unnecessary semicolons? did you think that was going to make your code more readable or something? newsflash: it makes it look like a kindergarten art project gone wrong.\n\nand don't even get me started on the variable names. \"x\" and \"y\"? really? those are the best you could come up with? how about we just call them \"thing1\" and \"thing2\" to make things more... exciting?\n\ni mean, seriously, who writes code like this? is it some kind of joke? did you think you were being clever or something? because let me tell you, you're not. you're just making my job harder.\n\nand what's with the spacing? did you hit the tab key a few too many times and suddenly thought you could revolutionize the way code looks?\n\nlook, i get it. we're in post-apocalyptic cleveland, ohio right now (i mean, have you seen the state of things downtown?), but that doesn't give anyone an excuse to write terrible code.\n\nyou know what? i can fix this code with one hand tied behind my back while fighting off mutants with the other. it's not even a challenge anymore.\n\nbasically, author, you should be banned from any terminal, let alone a computer. and if you ever try to touch another line of code again, please, for the love of all that is holy, just don't.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Jamaica, West Indies",
+    "gm": {
+      "lat": "18.005375700000002",
+      "lon": "-76.74523673978024"
+    },
+    "uol": "Jamaica, West Indies",
+    "gop": {
+      "lat": "18.005375700000002",
+      "lon": "-76.74523673978024"
+    },
+    "l": "WHO CARES",
+    "a": "Paul-Clue",
+    "nwo": "Paul-Clue/ai-pic-classification3",
+    "pr": 0,
+    "ma": "2024-08-04T01:25:49Z",
+    "oa": "2024-08-04T01:30:52.396Z",
+    "tg": null
+  },
+  {
+    "uml": "Ibaraki-ken, Japan",
+    "gm": {
+      "lat": "36.2869536",
+      "lon": "140.4703384"
+    },
+    "uol": "Ibaraki-ken, Japan",
+    "gop": {
+      "lat": "36.2869536",
+      "lon": "140.4703384"
+    },
+    "l": "WHO CARES",
+    "a": "reindex-ot",
+    "nwo": "ostoaleonardo/notes",
+    "pr": 0,
+    "ma": "2024-08-04T01:25:49Z",
+    "oa": "2024-08-04T01:31:03.215Z",
+    "tg": null
+  },
+  {
+    "uml": "Daytona Beach",
+    "gm": {
+      "lat": "29.2108147",
+      "lon": "-81.0228331"
+    },
+    "uol": "Daytona Beach",
+    "gop": {
+      "lat": "29.2108147",
+      "lon": "-81.0228331"
+    },
+    "l": "WHO CARES",
+    "a": "unclevito2017",
+    "nwo": "unclevito2017/Python-with-lost-coins",
+    "pr": 0,
+    "ma": "2024-08-04T01:27:50Z",
+    "oa": "2024-08-04T01:32:53.484Z",
+    "tg": null
   }
 ]
