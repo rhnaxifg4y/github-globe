@@ -85897,5 +85897,233 @@
     "ma": "2024-08-04T03:21:30Z",
     "oa": "2024-08-04T03:26:30.763Z",
     "tg": null
+  },
+  {
+    "uml": "Koh Samui, Thailand",
+    "gm": {
+      "lat": "9.50139445",
+      "lon": "99.99561927320003"
+    },
+    "uol": "Koh Samui, Thailand",
+    "gop": {
+      "lat": "9.50139445",
+      "lon": "99.99561927320003"
+    },
+    "l": "WHO CARES",
+    "a": "davidsneighbour",
+    "nwo": "davidsneighbour/hugo-modules",
+    "pr": 0,
+    "ma": "2024-08-04T06:20:04Z",
+    "oa": "2024-08-04T06:25:24.431Z",
+    "tg": null
+  },
+  {
+    "uml": "Mexico City",
+    "gm": {
+      "lat": "19.4326296",
+      "lon": "-99.1331785"
+    },
+    "uol": "Mexico City",
+    "gop": {
+      "lat": "19.4326296",
+      "lon": "-99.1331785"
+    },
+    "l": "WHO CARES",
+    "a": "equetzal",
+    "nwo": "equetzal/huronOS-build-tools",
+    "pr": 0,
+    "ma": "2024-08-04T06:20:04Z",
+    "oa": "2024-08-04T06:25:31.475Z",
+    "tg": null
+  },
+  {
+    "uml": "New Delhi",
+    "gm": {
+      "lat": "28.6138954",
+      "lon": "77.2090057"
+    },
+    "uol": "New Delhi",
+    "gop": {
+      "lat": "28.6138954",
+      "lon": "77.2090057"
+    },
+    "l": "WHO CARES",
+    "a": "AdityaSingh7905",
+    "nwo": "AdityaSingh7905/python-codes",
+    "pr": 0,
+    "ma": "2024-08-04T06:20:04Z",
+    "oa": "2024-08-04T06:25:34.474Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-08-04T06:21:05Z",
+    "oa": "2024-08-04T06:26:13.817Z",
+    "tg": null
+  },
+  {
+    "uml": "Parbhani",
+    "gm": {
+      "lat": "19.2447104",
+      "lon": "76.77608400183904"
+    },
+    "uol": "Parbhani",
+    "gop": {
+      "lat": "19.2447104",
+      "lon": "76.77608400183904"
+    },
+    "l": "WHO CARES",
+    "a": "Notganesh",
+    "nwo": "Notganesh/local-manifest",
+    "pr": 0,
+    "ma": "2024-08-04T06:22:05Z",
+    "oa": "2024-08-04T06:27:06.001Z",
+    "tg": null
+  },
+  {
+    "uml": "Sóc Trăng",
+    "gm": {
+      "lat": "9.5628369",
+      "lon": "105.9493991"
+    },
+    "uol": "Sóc Trăng",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Lam-Nhat-Huy",
+    "nwo": "Lam-Nhat-Huy/SchoolManagementSystem",
+    "pr": 0,
+    "ma": "2024-08-04T06:20:04Z",
+    "oa": "2024-08-04T06:27:06.237Z",
+    "tg": "ugh, seriously, what kind of monster writes code this bad? it's like they have no concept of good programming practices whatsoever. i mean, come on, is that even legal to call oneself a developer?\n\nthe sheer incompetence of this commit makes my blood boil. whoever wrote this should be banned from ever touching a terminal again. seriously, how did you even manage to graduate from whatever coding bootcamp hellhole you came from? it's like they took every bad habit and coding anti-pattern and mashed them all together into this monstrosity.\n\ni mean, i've seen better code written by a kindergartener having a temper tantrum. seriously, how did this even compile?! didn't anyone bother to run even the most basic tests? it's like they just threw some random lines of code together and hoped for the best.\n\nand don't even get me started on the naming conventions. it's like they decided to use a random generator to come up with variable names. \"xzy_abc_def\"? are you kidding me?! what, did you run out of actual letters?!\n\nlisten, if i had to fix this code while fighting off mutants with my bare hands (which, honestly, would be a more productive way to spend my time), i could do it in under 10 minutes. and that's being generous.\n\nbut seriously, whoever wrote this should be ashamed of themselves. they're an embarrassment to the entire dev community. if i had to give them a review, it would be something like: \"this code is so bad, it makes me want to pull my hair out (what little i have left after dealing with this monstrosity). avoid at all costs.\"\n\noh, and btw, in the lovely city of sóc trăng, they'd probably say \"xóm chào\" (good luck) if they knew someone was trying to fix this trainwreck.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "surat",
+    "gm": {
+      "lat": "45.9383",
+      "lon": "3.2553"
+    },
+    "uol": "surat",
+    "gop": {
+      "lat": "45.9383",
+      "lon": "3.2553"
+    },
+    "l": "WHO CARES",
+    "a": "kuldipbhalala",
+    "nwo": "kuldipbhalala/kbh_website_design",
+    "pr": 0,
+    "ma": "2024-08-04T06:22:05Z",
+    "oa": "2024-08-04T06:27:09.012Z",
+    "tg": null
+  },
+  {
+    "uml": "Yekaterinburg",
+    "gm": {
+      "lat": "56.839104",
+      "lon": "60.60825"
+    },
+    "uol": "Yekaterinburg",
+    "gop": {
+      "lat": "56.839104",
+      "lon": "60.60825"
+    },
+    "l": "WHO CARES",
+    "a": "kalombos",
+    "nwo": "05bit/peewee-async",
+    "pr": 0,
+    "ma": "2024-08-04T06:22:05Z",
+    "oa": "2024-08-04T06:27:25.017Z",
+    "tg": null
+  },
+  {
+    "uml": "La plata",
+    "gm": {
+      "lat": "-34.9206797",
+      "lon": "-57.9537638"
+    },
+    "uol": "La plata",
+    "gop": {
+      "lat": "-34.9206797",
+      "lon": "-57.9537638"
+    },
+    "l": "WHO CARES",
+    "a": "renzoalis",
+    "nwo": "renzoalis/upptime",
+    "pr": 0,
+    "ma": "2024-08-04T06:24:06Z",
+    "oa": "2024-08-04T06:29:17.580Z",
+    "tg": null
+  },
+  {
+    "uml": "Sydney Australia",
+    "gm": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "uol": "Sydney Australia",
+    "gop": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "l": "WHO CARES",
+    "a": "vrealzhou",
+    "nwo": "bevy-cheatbook/bevy-cheatbook",
+    "pr": 0,
+    "ma": "2024-08-04T06:24:06Z",
+    "oa": "2024-08-04T06:29:26.536Z",
+    "tg": null
+  },
+  {
+    "uml": "Medellín",
+    "gm": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "uol": "Medellín",
+    "gop": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "l": "WHO CARES",
+    "a": "Jguzmanr07",
+    "nwo": "Jguzmanr07/checkov",
+    "pr": 0,
+    "ma": "2024-08-04T06:24:06Z",
+    "oa": "2024-08-04T06:29:27.680Z",
+    "tg": null
+  },
+  {
+    "uml": "Concepción, Chile",
+    "gm": {
+      "lat": "-36.8270795",
+      "lon": "-73.0502399"
+    },
+    "uol": "Concepción, Chile",
+    "gop": {
+      "lat": "-36.8270795",
+      "lon": "-73.0502399"
+    },
+    "l": "WHO CARES",
+    "a": "CrisNK",
+    "nwo": "CrisNK/CrisNK.github.io",
+    "pr": 0,
+    "ma": "2024-08-04T06:24:06Z",
+    "oa": "2024-08-04T06:29:29.734Z",
+    "tg": null
   }
 ]
