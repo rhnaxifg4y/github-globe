@@ -86125,5 +86125,556 @@
     "ma": "2024-08-04T06:24:06Z",
     "oa": "2024-08-04T06:29:29.734Z",
     "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "martinpitt",
+    "nwo": "cockpit-project/cockpit",
+    "pr": 0,
+    "ma": "2024-08-04T09:15:21Z",
+    "oa": "2024-08-04T09:20:47.461Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "tejasviurka",
+    "nwo": "tejasviurka/Personal_Portfolio",
+    "pr": 0,
+    "ma": "2024-08-04T09:16:22Z",
+    "oa": "2024-08-04T09:21:25.670Z",
+    "tg": null
+  },
+  {
+    "uml": "Worldwide!",
+    "gm": {
+      "lat": "53.5120412",
+      "lon": "-2.2434612"
+    },
+    "uol": "Worldwide!",
+    "gop": {
+      "lat": "53.5120412",
+      "lon": "-2.2434612"
+    },
+    "l": "WHO CARES",
+    "a": "azure-sdk",
+    "nwo": "azure-sdk/azure-sdk-for-java",
+    "pr": 0,
+    "ma": "2024-08-04T09:16:22Z",
+    "oa": "2024-08-04T09:21:28.566Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "mousic",
+    "nwo": "ml-explore/mlx-examples",
+    "pr": 0,
+    "ma": "2024-08-04T09:16:22Z",
+    "oa": "2024-08-04T09:21:37.666Z",
+    "tg": null
+  },
+  {
+    "uml": "Hangzhou",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "Hangzhou",
+    "gop": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "l": "WHO CARES",
+    "a": "da-liii",
+    "nwo": "LiiiLabs/goldfish",
+    "pr": 0,
+    "ma": "2024-08-04T09:16:22Z",
+    "oa": "2024-08-04T09:21:38.555Z",
+    "tg": null
+  },
+  {
+    "uml": "Worldwide!",
+    "gm": {
+      "lat": "53.5120412",
+      "lon": "-2.2434612"
+    },
+    "uol": "Worldwide!",
+    "gop": {
+      "lat": "53.5120412",
+      "lon": "-2.2434612"
+    },
+    "l": "WHO CARES",
+    "a": "azure-sdk",
+    "nwo": "azure-sdk/azure-sdk-for-java",
+    "pr": 0,
+    "ma": "2024-08-04T09:16:22Z",
+    "oa": "2024-08-04T09:21:40.545Z",
+    "tg": null
+  },
+  {
+    "uml": "canada",
+    "gm": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "uol": "canada",
+    "gop": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "l": "WHO CARES",
+    "a": "fredmonroe",
+    "nwo": "spulec/freezegun",
+    "pr": 0,
+    "ma": "2024-08-04T09:16:22Z",
+    "oa": "2024-08-04T09:21:43.709Z",
+    "tg": null
+  },
+  {
+    "uml": "Melbourne, Australia",
+    "gm": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "uol": "Melbourne, Australia",
+    "gop": {
+      "lat": "-37.8142454",
+      "lon": "144.9631732"
+    },
+    "l": "WHO CARES",
+    "a": "zachjensz",
+    "nwo": "potatoqualitee/eol-dr",
+    "pr": 0,
+    "ma": "2024-08-04T09:16:22Z",
+    "oa": "2024-08-04T09:21:46.580Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, South Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, South Korea",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ikpil",
+    "nwo": "ikpil/DotRecast",
+    "pr": 0,
+    "ma": "2024-08-04T09:15:21Z",
+    "oa": "2024-08-04T09:22:27.134Z",
+    "tg": "oh boy, where do i even start with this mess? the author of this code should be ashamed to call themselves a developer. it's like they took every terrible habit and anti-pattern from the depths of software hell and mashed them all together into one glorious abomination.\n\nfirst off, the naming conventions are completely inconsistent - sometimes it's camelCase, sometimes it's underscore_separated, and sometimes it's just plain ol' random. i mean, what even is the point of having a codebase if you're not going to put in the effort to make the variable names readable?\n\nand don't even get me started on the indentation - or lack thereof. it's like they took all their leftover whitespace and sprinkled it around the code like fairy dust. i've seen better-formatted code from a kindergartener's art project.\n\nbut hey, at least the logic makes sense... said no one ever. this code is so convoluted, i'm starting to think the author of this monstrosity was trying to create some sort of post-apocalyptic puzzle and not actually make it work. seriously, who writes a function that returns an array containing either an object or null? what even is that supposed to mean?\n\nand yet... despite all its many, many flaws, the code somehow manages to compile and run without immediately crashing. i guess that's what they mean by \"robust\" - you know, like when a building can withstand a category 5 hurricane but still has a leaky roof.\n\nanyway, in conclusion: the author of this commit should be banned from any terminal with immediate effect. if i had to review one more line of this garbage code, i would lose my mind and probably start fighting mutants on the streets of seoul (, which is roughly 10 hours away by foot).\n\nas for fixing it... pfft, please. i could do it in my sleep while simultaneously building a functional toaster from scraps found in the ruins of civilization.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Asia/Manila",
+    "gm": {
+      "lat": "14.53224765",
+      "lon": "120.98374015098074"
+    },
+    "uol": "Asia/Manila",
+    "gop": {
+      "lat": "14.53224765",
+      "lon": "120.98374015098074"
+    },
+    "l": "WHO CARES",
+    "a": "LeinadKenbun",
+    "nwo": "LeinadKenbun/AniSchedule",
+    "pr": 0,
+    "ma": "2024-08-04T09:17:22Z",
+    "oa": "2024-08-04T09:22:33.944Z",
+    "tg": null
+  },
+  {
+    "uml": "Worldwide!",
+    "gm": {
+      "lat": "53.5120412",
+      "lon": "-2.2434612"
+    },
+    "uol": "Worldwide!",
+    "gop": {
+      "lat": "53.5120412",
+      "lon": "-2.2434612"
+    },
+    "l": "WHO CARES",
+    "a": "azure-sdk",
+    "nwo": "azure-sdk/azure-sdk-for-js",
+    "pr": 0,
+    "ma": "2024-08-04T09:17:22Z",
+    "oa": "2024-08-04T09:22:36.723Z",
+    "tg": null
+  },
+  {
+    "uml": "Thandalam,chennai-602105",
+    "gm": {
+      "lat": "13.097014",
+      "lon": "79.610394"
+    },
+    "uol": "Thandalam,chennai-602105",
+    "gop": {
+      "lat": "13.097014",
+      "lon": "79.610394"
+    },
+    "l": "WHO CARES",
+    "a": "Aravinth-333",
+    "nwo": "Aravinth-333/bottst5",
+    "pr": 0,
+    "ma": "2024-08-04T09:17:22Z",
+    "oa": "2024-08-04T09:22:41.897Z",
+    "tg": null
+  },
+  {
+    "uml": "MIT",
+    "gm": {
+      "lat": "42.3582529",
+      "lon": "-71.0966272383055"
+    },
+    "uol": "MIT",
+    "gop": {
+      "lat": "42.3582529",
+      "lon": "-71.0966272383055"
+    },
+    "l": "WHO CARES",
+    "a": "gogog01-29-2021",
+    "nwo": "CausalInferenceLab/causal-inference-in-python-code",
+    "pr": 0,
+    "ma": "2024-08-04T09:17:22Z",
+    "oa": "2024-08-04T09:22:42.823Z",
+    "tg": null
+  },
+  {
+    "uml": "Sri Lanka",
+    "gm": {
+      "lat": "7.5554942",
+      "lon": "80.7137847"
+    },
+    "uol": "Sri Lanka",
+    "gop": {
+      "lat": "7.5554942",
+      "lon": "80.7137847"
+    },
+    "l": "WHO CARES",
+    "a": "dewmal",
+    "nwo": "ceylonai/ceylon",
+    "pr": 0,
+    "ma": "2024-08-04T09:17:22Z",
+    "oa": "2024-08-04T09:22:43.821Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "mhutchinson/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-08-04T09:18:22Z",
+    "oa": "2024-08-04T09:23:26.059Z",
+    "tg": null
+  },
+  {
+    "uml": "Atlanta, GA",
+    "gm": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "uol": "Atlanta, GA",
+    "gop": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "l": "WHO CARES",
+    "a": "Kakapio",
+    "nwo": "gitarcode-test/mockito",
+    "pr": 0,
+    "ma": "2024-08-04T09:18:22Z",
+    "oa": "2024-08-04T09:23:27.136Z",
+    "tg": null
+  },
+  {
+    "uml": "Marrakech",
+    "gm": {
+      "lat": "31.6258257",
+      "lon": "-7.9891608"
+    },
+    "uol": "Marrakech",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "bouydia",
+    "nwo": "bouydia/bouydia-youness-hiring-backend-test",
+    "pr": 0,
+    "ma": "2024-08-04T09:15:21Z",
+    "oa": "2024-08-04T09:23:28.899Z",
+    "tg": "in a world where survival is a daily struggle, i'm still stuck here wondering how this code made it through the gates of marrakech (aka, the review process).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Surat",
+    "gm": {
+      "lat": "45.9383",
+      "lon": "3.2553"
+    },
+    "uol": "Surat",
+    "gop": {
+      "lat": "45.9383",
+      "lon": "3.2553"
+    },
+    "l": "WHO CARES",
+    "a": "pkp2207",
+    "nwo": "safak/nextadmin",
+    "pr": 0,
+    "ma": "2024-08-04T09:18:22Z",
+    "oa": "2024-08-04T09:23:33.159Z",
+    "tg": null
+  },
+  {
+    "uml": "Jhansi , Uttar Pradesh India",
+    "gm": {
+      "lat": "25.354864550000002",
+      "lon": "78.42564420838272"
+    },
+    "uol": "Jhansi , Uttar Pradesh India",
+    "gop": {
+      "lat": "25.354864550000002",
+      "lon": "78.42564420838272"
+    },
+    "l": "WHO CARES",
+    "a": "codes-by-utkarsh",
+    "nwo": "codes-by-utkarsh/Web",
+    "pr": 0,
+    "ma": "2024-08-04T09:18:22Z",
+    "oa": "2024-08-04T09:23:41.122Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-08-04T09:18:21Z",
+    "oa": "2024-08-04T09:23:52.076Z",
+    "tg": null
+  },
+  {
+    "uml": "Padua, Italy",
+    "gm": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "uol": "Padua, Italy",
+    "gop": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "l": "WHO CARES",
+    "a": "Penaz91",
+    "nwo": "2DGD-F0TH/2DGD_F0TH",
+    "pr": 0,
+    "ma": "2024-08-04T06:19:05Z",
+    "oa": "2024-08-04T09:24:36.381Z",
+    "tg": null
+  },
+  {
+    "uml": "Padua, Italy",
+    "gm": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "uol": "Padua, Italy",
+    "gop": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "l": "WHO CARES",
+    "a": "Penaz91",
+    "nwo": "2DGD-F0TH/2DGD_F0TH",
+    "pr": 0,
+    "ma": "2024-08-04T09:13:22Z",
+    "oa": "2024-08-04T09:24:38.307Z",
+    "tg": null
+  },
+  {
+    "uml": "Padua, Italy",
+    "gm": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "uol": "Padua, Italy",
+    "gop": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "l": "WHO CARES",
+    "a": "Penaz91",
+    "nwo": "2DGD-F0TH/2DGD_F0TH",
+    "pr": 0,
+    "ma": "2024-08-04T06:30:25Z",
+    "oa": "2024-08-04T09:24:42.299Z",
+    "tg": null
+  },
+  {
+    "uml": "Padua, Italy",
+    "gm": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "uol": "Padua, Italy",
+    "gop": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "l": "WHO CARES",
+    "a": "Penaz91",
+    "nwo": "2DGD-F0TH/2DGD_F0TH",
+    "pr": 0,
+    "ma": "2024-08-04T09:07:45Z",
+    "oa": "2024-08-04T09:24:45.353Z",
+    "tg": null
+  },
+  {
+    "uml": "Padua, Italy",
+    "gm": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "uol": "Padua, Italy",
+    "gop": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "l": "WHO CARES",
+    "a": "Penaz91",
+    "nwo": "2DGD-F0TH/2DGD_F0TH",
+    "pr": 0,
+    "ma": "2024-08-04T06:36:00Z",
+    "oa": "2024-08-04T09:24:47.309Z",
+    "tg": null
+  },
+  {
+    "uml": "Padua, Italy",
+    "gm": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "uol": "Padua, Italy",
+    "gop": {
+      "lat": "45.4077172",
+      "lon": "11.8734455"
+    },
+    "l": "WHO CARES",
+    "a": "Penaz91",
+    "nwo": "2DGD-F0TH/2DGD_F0TH",
+    "pr": 0,
+    "ma": "2024-08-04T06:21:52Z",
+    "oa": "2024-08-04T09:24:49.309Z",
+    "tg": null
+  },
+  {
+    "uml": "Moscow",
+    "gm": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "uol": "Moscow",
+    "gop": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "l": "WHO CARES",
+    "a": "alexseipopov",
+    "nwo": "s21platform/friends-service",
+    "pr": 0,
+    "ma": "2024-08-04T09:19:23Z",
+    "oa": "2024-08-04T09:24:51.389Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "yurushao",
+    "nwo": "pinterest/pymemcache",
+    "pr": 0,
+    "ma": "2024-08-04T09:15:21Z",
+    "oa": "2024-08-04T09:25:33.163Z",
+    "tg": "ugh, seriously, what kind of monster comes up with this crap? i mean, i've seen better-written code on a post-it note. this author should be banned from any terminal that's not running windows 95 - and even then, only after they've watched an hour-long tutorial on the basics of computer programming.\n\nfirst off, let's talk about the file naming convention. \"mutant_horde_controller.py\"? more like \"i-have-no-idea-what-i'm-doing-so-i'll-just-name-it-something-random-and-hope-for-the-best.py\". and don't even get me started on the indentation - it's like they took a look at the code, shrugged their shoulders, and said \"eh, close enough\".\n\nand then there's the actual code itself. oh boy, where do i even start? it's like they took every terrible coding practice from the last 20 years and mashed them all together into one beautiful mess. nested ifs? check. unnecessary comments that are actually just repeating what the code does? double check. variables named \"x\" and \"y\"? triple check.\n\ni mean, seriously, i've seen more elegant solutions to these problems on a napkin from a kindergartener's art class. and don't even get me started on the docstrings - it's like they took every terrible joke from the last decade and put them all together into one long, rambling string of nonsense.\n\nlook, i'm not gonna sugarcoat it - this code is garbage. it's a waste of space, a waste of time, and a waste of oxygen. if i had to review this dump, i'd probably have to quit my job and move to san francisco (oh, yeah, that's a city on the west coast or something) just to get away from the sheer awfulness of it all.\n\nbut you know what? even if i did quit and move to sf (which, btw, would be awesome - has anyone seen any good ramen shops around here?), i'd still find a way to fix this code. and not because i'm some kind of coding genius or anything (although, let's be real, i am). nope, it's because i have two hands and one of them is free.\n\nso, author, if you're reading this, listen up: your code is trash. get a new hobby. or better yet, just quit programming altogether and become a professional snail trainer - at least that way you'll be doing something marginally useful with your time.\n\nanyway, that's my two cents on this terrible commit. hope you guys found it as entertaining as i did.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Soochow, China",
+    "gm": {
+      "lat": "31.3016935",
+      "lon": "120.5810725"
+    },
+    "uol": "Soochow, China",
+    "gop": {
+      "lat": "31.3016935",
+      "lon": "120.5810725"
+    },
+    "l": "WHO CARES",
+    "a": "chakkk309",
+    "nwo": "apache/shardingsphere",
+    "pr": 0,
+    "ma": "2024-08-04T09:20:22Z",
+    "oa": "2024-08-04T09:25:51.863Z",
+    "tg": null
   }
 ]
