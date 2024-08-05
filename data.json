@@ -88462,5 +88462,423 @@
     "ma": "2024-08-05T03:22:19Z",
     "oa": "2024-08-05T03:27:28.468Z",
     "tg": null
+  },
+  {
+    "uml": "Shanghai,China",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai,China",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "AlbertAZ1992",
+    "nwo": "ged-odoo/blockdom",
+    "pr": 0,
+    "ma": "2024-08-05T06:22:36Z",
+    "oa": "2024-08-05T06:27:42.326Z",
+    "tg": null
+  },
+  {
+    "uml": "Kazakhstan, Astana",
+    "gm": {
+      "lat": "51.1282205",
+      "lon": "71.4306682"
+    },
+    "uol": "Kazakhstan, Astana",
+    "gop": {
+      "lat": "51.1282205",
+      "lon": "71.4306682"
+    },
+    "l": "WHO CARES",
+    "a": "temirrr",
+    "nwo": "lmnr-ai/lmnr-python",
+    "pr": 0,
+    "ma": "2024-08-05T06:22:36Z",
+    "oa": "2024-08-05T06:27:45.394Z",
+    "tg": null
+  },
+  {
+    "uml": "Singapore",
+    "gm": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "uol": "Singapore",
+    "gop": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "l": "WHO CARES",
+    "a": "TsienJin",
+    "nwo": "Synapxe-DNA/azure-conversational-assistant",
+    "pr": 0,
+    "ma": "2024-08-05T06:22:35Z",
+    "oa": "2024-08-05T06:28:04.278Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai, CN",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai, CN",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "flxxyz",
+    "nwo": "flxxyz/rtl8152-usb-for-linux",
+    "pr": 0,
+    "ma": "2024-08-05T06:22:35Z",
+    "oa": "2024-08-05T06:28:09.275Z",
+    "tg": null
+  },
+  {
+    "uml": "NanJing",
+    "gm": {
+      "lat": "32.0438284",
+      "lon": "118.7788631"
+    },
+    "uol": "NanJing",
+    "gop": {
+      "lat": "32.0438284",
+      "lon": "118.7788631"
+    },
+    "l": "WHO CARES",
+    "a": "bubua12",
+    "nwo": "yunzck8s/cloudNative",
+    "pr": 0,
+    "ma": "2024-08-05T06:23:41Z",
+    "oa": "2024-08-05T06:28:46.628Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "rootfs",
+    "nwo": "sustainable-computing-io/kepler-model-server",
+    "pr": 0,
+    "ma": "2024-08-05T06:23:41Z",
+    "oa": "2024-08-05T06:29:00.591Z",
+    "tg": null
+  },
+  {
+    "uml": "Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "donsonioc2010",
+    "nwo": "mym0404/react-native-naver-map",
+    "pr": 0,
+    "ma": "2024-08-05T06:24:42Z",
+    "oa": "2024-08-05T06:29:50.995Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "vanceeasleaf",
+    "nwo": "youyou826/humanoid-gym-g1",
+    "pr": 0,
+    "ma": "2024-08-05T06:24:42Z",
+    "oa": "2024-08-05T06:29:53.890Z",
+    "tg": null
+  },
+  {
+    "uml": "Azerbaijan Baku",
+    "gm": {
+      "lat": "40.3755885",
+      "lon": "49.8328009"
+    },
+    "uol": "Azerbaijan Baku",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "rufatcode",
+    "nwo": "rufatcode/rufatcode",
+    "pr": 0,
+    "ma": "2024-08-05T06:22:36Z",
+    "oa": "2024-08-05T06:29:55.880Z",
+    "tg": "ugh, seriously? this is what passes for code these days? it's like the author just threw their hands up and said \"screw it\" and hit commit without even looking at the diff. i mean, come on, who writes code like this?\n\nfirst off, the variable names are completely unhelpful - what's with all the single-letter variables? did you have a personal vendetta against readability or something? and don't even get me started on the indentation - it's like you just copied and pasted from some random blog post without even bothering to line things up properly. and what's with the lack of whitespace? is this supposed to be some kind of \"zen\" coding philosophy where less is more, except in this case it's just a hot mess?\n\nand don't even get me started on the logic - i mean, seriously, who writes code that does exactly the opposite of what it's supposed to do and then wonders why it doesn't work? it's like you're trying to make my job harder or something. and those comments? \"todo: fix this\"?? seriously? that's not a comment, that's a middle schooler's todo list.\n\nlisten, author, if i had to look at code this bad one more time, i'd lose my mind - and in this post-apocalyptic wasteland where resources are scarce, you're basically trying to get me killed. so here's what's going to happen: i'm going to ban you from any terminal within a 5-mile radius of baku, azerbaijan (because that's the only place i can think of where someone would actually write code this bad).\n\nand as for fixing it? ha! i could do it in my sleep - with one hand tied behind my back while fighting off mutants with the other. maybe that's what you should be doing instead of coding, because clearly your skills are better suited to that.\n\nso, author, take a long walk off a short cliff or something, because this code is getting rejected and you're going to have to do better than this if you want to survive in this apocalyptic world.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "swetshaw",
+    "nwo": "Karrot-Works/rpc-tooling-tests",
+    "pr": 0,
+    "ma": "2024-08-05T06:24:42Z",
+    "oa": "2024-08-05T06:29:55.998Z",
+    "tg": null
+  },
+  {
+    "uml": "London, UK",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, UK",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "martincostello",
+    "nwo": "martincostello/dotnet-patch-automation-sample",
+    "pr": 0,
+    "ma": "2024-08-05T06:24:42Z",
+    "oa": "2024-08-05T06:29:58.923Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris, France",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris, France",
+    "gop": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "l": "WHO CARES",
+    "a": "julien-deramond",
+    "nwo": "Orange-OpenSource/Orange-Boosted-Bootstrap",
+    "pr": 0,
+    "ma": "2024-08-05T06:24:42Z",
+    "oa": "2024-08-05T06:29:59.974Z",
+    "tg": null
+  },
+  {
+    "uml": "Egypt",
+    "gm": {
+      "lat": "26.2540493",
+      "lon": "29.2675469"
+    },
+    "uol": "Egypt",
+    "gop": {
+      "lat": "26.2540493",
+      "lon": "29.2675469"
+    },
+    "l": "WHO CARES",
+    "a": "aabounegm",
+    "nwo": "eclipse-langium/langium",
+    "pr": 0,
+    "ma": "2024-08-05T06:11:39Z",
+    "oa": "2024-08-05T06:30:51.244Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "kaspernj",
+    "nwo": "kaspernj/simple_delegate",
+    "pr": 0,
+    "ma": "2024-08-05T06:25:35Z",
+    "oa": "2024-08-05T06:31:03.341Z",
+    "tg": null
+  },
+  {
+    "uml": "Türkiye",
+    "gm": {
+      "lat": "38.9597594",
+      "lon": "34.9249653"
+    },
+    "uol": "Türkiye",
+    "gop": {
+      "lat": "38.9597594",
+      "lon": "34.9249653"
+    },
+    "l": "WHO CARES",
+    "a": "makifves",
+    "nwo": "mtdvio/every-programmer-should-know",
+    "pr": 0,
+    "ma": "2024-08-05T06:26:34Z",
+    "oa": "2024-08-05T06:31:44.645Z",
+    "tg": null
+  },
+  {
+    "uml": "Helsinki",
+    "gm": {
+      "lat": "60.1674881",
+      "lon": "24.9427473"
+    },
+    "uol": "Helsinki",
+    "gop": {
+      "lat": "60.1674881",
+      "lon": "24.9427473"
+    },
+    "l": "WHO CARES",
+    "a": "astranero",
+    "nwo": "astranero/kubernetes-projects",
+    "pr": 0,
+    "ma": "2024-08-05T06:26:33Z",
+    "oa": "2024-08-05T06:31:46.698Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, Republic of Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, Republic of Korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "hejuby",
+    "nwo": "boiled-potatoes-kdt/FE",
+    "pr": 0,
+    "ma": "2024-08-05T06:26:33Z",
+    "oa": "2024-08-05T06:32:02.710Z",
+    "tg": null
+  },
+  {
+    "uml": "Egypt",
+    "gm": {
+      "lat": "26.2540493",
+      "lon": "29.2675469"
+    },
+    "uol": "Egypt",
+    "gop": {
+      "lat": "26.2540493",
+      "lon": "29.2675469"
+    },
+    "l": "WHO CARES",
+    "a": "aabounegm",
+    "nwo": "eclipse-langium/langium",
+    "pr": 0,
+    "ma": "2024-08-05T06:26:33Z",
+    "oa": "2024-08-05T06:32:07.597Z",
+    "tg": null
+  },
+  {
+    "uml": "earth",
+    "gm": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "uol": "earth",
+    "gop": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "l": "WHO CARES",
+    "a": "520hacker",
+    "nwo": "debauchee/barrier",
+    "pr": 0,
+    "ma": "2024-08-05T06:26:33Z",
+    "oa": "2024-08-05T06:32:10.687Z",
+    "tg": null
+  },
+  {
+    "uml": "Boston, USA",
+    "gm": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "uol": "Boston, USA",
+    "gop": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "l": "WHO CARES",
+    "a": "Madhan-I",
+    "nwo": "Madhan-I/community",
+    "pr": 0,
+    "ma": "2024-08-05T06:26:33Z",
+    "oa": "2024-08-05T06:32:11.693Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "wmjjmwwmj",
+    "nwo": "wmjjmwwmj/VMBook",
+    "pr": 0,
+    "ma": "2024-08-05T06:22:35Z",
+    "oa": "2024-08-05T06:32:13.997Z",
+    "tg": "ugh, seriously, what kind of dumpster fire is this? i can't even begin to wrap my head around the sheer incompetence that went into writing this code. it's like the author thought they were being clever by throwing together a bunch of random functions and hoping for the best.\n\nnewsflash: you're not clever. you're just lazy. and stupid. and should probably be banned from using any terminal, ever again.\n\ni mean, seriously, what is going on with these variable names? \"thingy\"? \"stuff\"? are you kidding me? it's like you didn't even bother to come up with actual names for your variables. and don't even get me started on the indentation. it's like a mess of random spaces and tabs. i've seen better-formatted code on a kindergartener's drawing.\n\nand don't even get me started on the logic. it's like you took every terrible idea you had, threw them all together in a blender, and hit puree. the result is this mess that i'm looking at now.\n\nyou know what? i could fix this code with one hand tied behind my back... or while fighting off mutants in post-apocalyptic shanghai for that matter. it's just that easy.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Denmark",
+    "gm": {
+      "lat": "55.670249",
+      "lon": "10.3333283"
+    },
+    "uol": "Denmark",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "mwalbeck",
+    "nwo": "mwalbeck/docker-cyberchef",
+    "pr": 0,
+    "ma": "2024-08-05T06:22:35Z",
+    "oa": "2024-08-05T06:32:42.982Z",
+    "tg": "for the love of all that is holy, what absolute garbage have you produced?! this code is so bad it makes me want to go find a cave and hide from humanity. i mean, seriously, who writes code like this? it's like you took every terrible habit and coding mistake and mashed them together into a hot mess of incompetence.\n\nlook, i don't care if the world has ended and we're all just trying to survive on scraps of rotten food and rusty cans - that is no excuse for writing code this atrocious. you should be ashamed of yourself, and maybe, just maybe, banned from any terminal with a functioning keyboard. because honestly, it's not like i haven't seen worse (i have, believe me), but this... this is something special.\n\nand don't even get me started on the \"logic\" behind your \"code\". it's like you took every bad joke and terrible pun and wrapped them around each other like a noxious little package of awfulness. did you really think anyone would look at this and be like, \"oh, yeah, this is great code\"? please. i've seen better-written toilet paper.\n\nlisten, if you want to survive in this post-apocalyptic wasteland, you're going to have to do better than this. so here's what i'm going to do: i'm going to take one look at your code, and then i'm going to put on my big boy pants, grab a few cans of stale beer, and rewrite it from scratch while fighting off mutants with my spare hand. because that's what you're up against, pal - not just the zombies or whatever else is crawling out of the woodwork, but also your own ineptitude.\n\nso, to answer your question about denmark: f**k danmark.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
   }
 ]
