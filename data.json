@@ -97316,5 +97316,499 @@
     "ma": "2024-08-07T15:20:00Z",
     "oa": "2024-08-07T15:25:23.153Z",
     "tg": null
+  },
+  {
+    "uml": "London, UK",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, UK",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "thomhurst",
+    "nwo": "thomhurst/TUnit",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:25:32.671Z",
+    "tg": null
+  },
+  {
+    "uml": "New Delhi",
+    "gm": {
+      "lat": "28.6138954",
+      "lon": "77.2090057"
+    },
+    "uol": "New Delhi",
+    "gop": {
+      "lat": "28.6138954",
+      "lon": "77.2090057"
+    },
+    "l": "WHO CARES",
+    "a": "sunny0625",
+    "nwo": "khushi-joshi-05/Food-ordering-website",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:25:34.598Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia",
+    "gm": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "uol": "Russia",
+    "gop": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "l": "WHO CARES",
+    "a": "igorsaux",
+    "nwo": "ChaoticOnyx/OnyxBay",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:25:36.714Z",
+    "tg": null
+  },
+  {
+    "uml": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gm": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "uol": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gop": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "l": "WHO CARES",
+    "a": "seanpm2001",
+    "nwo": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Click",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:25:37.764Z",
+    "tg": null
+  },
+  {
+    "uml": "London, UK",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, UK",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "thomhurst",
+    "nwo": "thomhurst/TUnit",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:25:44.542Z",
+    "tg": null
+  },
+  {
+    "uml": "Brasil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brasil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "raphavtorres",
+    "nwo": "langchain-ai/langgraph",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:25:48.634Z",
+    "tg": null
+  },
+  {
+    "uml": "Buenos Aires, Argentina",
+    "gm": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "uol": "Buenos Aires, Argentina",
+    "gop": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "l": "WHO CARES",
+    "a": "MatiasCuadra98",
+    "nwo": "MatiasCuadra98/Electrica-Mosconi-backend",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:25:59.682Z",
+    "tg": null
+  },
+  {
+    "uml": "San Antonio, Texas",
+    "gm": {
+      "lat": "29.4246002",
+      "lon": "-98.4951405"
+    },
+    "uol": "San Antonio, Texas",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "matthew-ballard",
+    "nwo": "planetlabs/notebooks",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:26:20.546Z",
+    "tg": "i'm not sure how much more of this apocalypse i can take before i start coding in hieroglyphics.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Kharkiv",
+    "gm": {
+      "lat": "49.9923181",
+      "lon": "36.2310146"
+    },
+    "uol": "Kharkiv",
+    "gop": {
+      "lat": "49.9923181",
+      "lon": "36.2310146"
+    },
+    "l": "WHO CARES",
+    "a": "handsomefox",
+    "nwo": "fastfetch-cli/fastfetch",
+    "pr": 0,
+    "ma": "2024-08-07T18:21:30Z",
+    "oa": "2024-08-07T18:26:34.895Z",
+    "tg": null
+  },
+  {
+    "uml": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gm": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "uol": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gop": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "l": "WHO CARES",
+    "a": "seanpm2001",
+    "nwo": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Click",
+    "pr": 0,
+    "ma": "2024-08-07T18:21:30Z",
+    "oa": "2024-08-07T18:26:39.818Z",
+    "tg": null
+  },
+  {
+    "uml": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gm": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "uol": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gop": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "l": "WHO CARES",
+    "a": "seanpm2001",
+    "nwo": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Click",
+    "pr": 0,
+    "ma": "2024-08-07T18:21:30Z",
+    "oa": "2024-08-07T18:26:54.798Z",
+    "tg": null
+  },
+  {
+    "uml": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gm": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "uol": "Walla Walla Washington, USA, Earth, Milky way, <Universe>",
+    "gop": {
+      "lat": "46.031994",
+      "lon": "-118.706671"
+    },
+    "l": "WHO CARES",
+    "a": "seanpm2001",
+    "nwo": "seanpm2001/SNU_2D_ProgrammingTools_IDE_Click",
+    "pr": 0,
+    "ma": "2024-08-07T18:21:30Z",
+    "oa": "2024-08-07T18:26:55.800Z",
+    "tg": null
+  },
+  {
+    "uml": "Cyprus",
+    "gm": {
+      "lat": "34.9823018",
+      "lon": "33.1451285"
+    },
+    "uol": "Cyprus",
+    "gop": {
+      "lat": "34.9823018",
+      "lon": "33.1451285"
+    },
+    "l": "WHO CARES",
+    "a": "yusuf3337",
+    "nwo": "yusuf3337/example1",
+    "pr": 0,
+    "ma": "2024-08-07T18:22:30Z",
+    "oa": "2024-08-07T18:27:32.079Z",
+    "tg": null
+  },
+  {
+    "uml": "Berlin",
+    "gm": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "uol": "Berlin",
+    "gop": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "l": "WHO CARES",
+    "a": "metalmatze",
+    "nwo": "promcon/website",
+    "pr": 0,
+    "ma": "2024-08-07T18:22:30Z",
+    "oa": "2024-08-07T18:27:36.095Z",
+    "tg": null
+  },
+  {
+    "uml": "Delhi, India ",
+    "gm": {
+      "lat": "28.6273928",
+      "lon": "77.1716954"
+    },
+    "uol": "Delhi, India ",
+    "gop": {
+      "lat": "28.6273928",
+      "lon": "77.1716954"
+    },
+    "l": "WHO CARES",
+    "a": "Agarwalvidu",
+    "nwo": "ayush-that/FinVeda",
+    "pr": 0,
+    "ma": "2024-08-07T18:22:30Z",
+    "oa": "2024-08-07T18:27:44.015Z",
+    "tg": null
+  },
+  {
+    "uml": "Dublin, Ireland",
+    "gm": {
+      "lat": "53.3493795",
+      "lon": "-6.2605593"
+    },
+    "uol": "Dublin, Ireland",
+    "gop": {
+      "lat": "53.3493795",
+      "lon": "-6.2605593"
+    },
+    "l": "WHO CARES",
+    "a": "guibranco",
+    "nwo": "GuilhermeStracini/POC-dotnet-toml-handling",
+    "pr": 0,
+    "ma": "2024-08-07T18:22:30Z",
+    "oa": "2024-08-07T18:27:59.033Z",
+    "tg": null
+  },
+  {
+    "uml": "New Zealand ⇄ China",
+    "gm": {
+      "lat": "38.9190048",
+      "lon": "-77.0642312"
+    },
+    "uol": "New Zealand ⇄ China",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "iceman201",
+    "nwo": "iceman201/iceman201",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:28:39.551Z",
+    "tg": "Kia ora! \n\nIn this desolate land, I gaze upon \n\"Commit: The Abomination\". \nFutility amidst ruin.\n\nTranslation: In New Zealand, you'd say \"Ka pai!\" (good job!) while in China, you'd say \"\" (hěn hǎo de) - neither of which applies here.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Bangladesh",
+    "gm": {
+      "lat": "24.4769288",
+      "lon": "90.2934413"
+    },
+    "uol": "Bangladesh",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Nusab19",
+    "nwo": "Contest-Hive/__contest-hive-backend",
+    "pr": 0,
+    "ma": "2024-08-07T18:20:30Z",
+    "oa": "2024-08-07T18:29:02.906Z",
+    "tg": "In the ruins of all that was, I gaze\nAt code that's a monument to folly's grasp\nWaste in desolation\n\n(Note: The haiku is written in English, as it seems that you are not specifying any particular local language for Bangladesh. However, if you would like me to write the haiku in Bengali, please let me know!)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Montréal, Canada",
+    "gm": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "uol": "Montréal, Canada",
+    "gop": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "l": "WHO CARES",
+    "a": "yinanazhou",
+    "nwo": "mulab-mir/muchomusic",
+    "pr": 0,
+    "ma": "2024-08-07T18:24:31Z",
+    "oa": "2024-08-07T18:29:39.461Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "avdhoottt",
+    "nwo": "Codecademy/docs",
+    "pr": 0,
+    "ma": "2024-08-07T18:24:31Z",
+    "oa": "2024-08-07T18:29:49.529Z",
+    "tg": null
+  },
+  {
+    "uml": "New York City",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York City",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "davelab6",
+    "nwo": "davelab6/matd-dissertation",
+    "pr": 0,
+    "ma": "2024-08-07T18:24:31Z",
+    "oa": "2024-08-07T18:29:57.437Z",
+    "tg": null
+  },
+  {
+    "uml": "Tunisia",
+    "gm": {
+      "lat": "33.8439408",
+      "lon": "9.400138"
+    },
+    "uol": "Tunisia",
+    "gop": {
+      "lat": "33.8439408",
+      "lon": "9.400138"
+    },
+    "l": "WHO CARES",
+    "a": "Ghofrane7469",
+    "nwo": "TalelMejri/Boycott_workshop_php",
+    "pr": 0,
+    "ma": "2024-08-07T18:25:31Z",
+    "oa": "2024-08-07T18:30:33.637Z",
+    "tg": null
+  },
+  {
+    "uml": "Cambridge, MA",
+    "gm": {
+      "lat": "42.3656347",
+      "lon": "-71.1040018"
+    },
+    "uol": "Cambridge, MA",
+    "gop": {
+      "lat": "42.3656347",
+      "lon": "-71.1040018"
+    },
+    "l": "WHO CARES",
+    "a": "wsmoses",
+    "nwo": "JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl",
+    "pr": 0,
+    "ma": "2024-08-07T18:25:31Z",
+    "oa": "2024-08-07T18:30:34.633Z",
+    "tg": null
+  },
+  {
+    "uml": "Johannesburg, South Africa",
+    "gm": {
+      "lat": "-26.205",
+      "lon": "28.049722"
+    },
+    "uol": "Johannesburg, South Africa",
+    "gop": {
+      "lat": "-26.205",
+      "lon": "28.049722"
+    },
+    "l": "WHO CARES",
+    "a": "Sway-Sway",
+    "nwo": "donnemartin/system-design-primer",
+    "pr": 0,
+    "ma": "2024-08-07T18:25:31Z",
+    "oa": "2024-08-07T18:30:36.671Z",
+    "tg": null
+  },
+  {
+    "uml": "Vigo",
+    "gm": {
+      "lat": "42.2376602",
+      "lon": "-8.7247205"
+    },
+    "uol": "Vigo",
+    "gop": {
+      "lat": "42.2376602",
+      "lon": "-8.7247205"
+    },
+    "l": "WHO CARES",
+    "a": "Jesus2421",
+    "nwo": "mouredev/roadmap-retos-programacion",
+    "pr": 0,
+    "ma": "2024-08-07T18:26:31Z",
+    "oa": "2024-08-07T18:31:33.880Z",
+    "tg": null
+  },
+  {
+    "uml": "Beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "lionterest",
+    "nwo": "Websoft9/websoft9",
+    "pr": 0,
+    "ma": "2024-08-07T18:26:31Z",
+    "oa": "2024-08-07T18:31:50.850Z",
+    "tg": null
   }
 ]
