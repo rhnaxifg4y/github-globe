@@ -95568,5 +95568,423 @@
     "ma": "2024-08-07T03:21:15Z",
     "oa": "2024-08-07T03:26:34.057Z",
     "tg": null
+  },
+  {
+    "uml": "Beijing, China",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing, China",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "EnzeZhu1230",
+    "nwo": "sstary/SSRS",
+    "pr": 0,
+    "ma": "2024-08-07T06:21:53Z",
+    "oa": "2024-08-07T06:26:58.365Z",
+    "tg": null
+  },
+  {
+    "uml": "Taipei, Taiwan",
+    "gm": {
+      "lat": "25.0375198",
+      "lon": "121.5636796"
+    },
+    "uol": "Taipei, Taiwan",
+    "gop": {
+      "lat": "25.0375198",
+      "lon": "121.5636796"
+    },
+    "l": "WHO CARES",
+    "a": "godmmt",
+    "nwo": "CAFECA-IO/iSunCoin-official",
+    "pr": 0,
+    "ma": "2024-08-07T06:21:53Z",
+    "oa": "2024-08-07T06:27:21.334Z",
+    "tg": null
+  },
+  {
+    "uml": "Beijing China",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing China",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "Aurelius84",
+    "nwo": "PaddlePaddle/Paddle",
+    "pr": 0,
+    "ma": "2024-08-07T06:21:53Z",
+    "oa": "2024-08-07T06:27:23.345Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "lacolaco",
+    "nwo": "lacolaco/angular-ja",
+    "pr": 0,
+    "ma": "2024-08-07T06:22:54Z",
+    "oa": "2024-08-07T06:27:58.717Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "joergbehrendt",
+    "nwo": "jdbi/jdbi",
+    "pr": 0,
+    "ma": "2024-08-07T06:22:54Z",
+    "oa": "2024-08-07T06:28:03.678Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "modkavartini",
+    "nwo": "modkavartini/catppuccin",
+    "pr": 0,
+    "ma": "2024-08-07T06:22:54Z",
+    "oa": "2024-08-07T06:28:06.736Z",
+    "tg": null
+  },
+  {
+    "uml": "Hamburg, Germany",
+    "gm": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "uol": "Hamburg, Germany",
+    "gop": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "l": "WHO CARES",
+    "a": "bastiandoetsch",
+    "nwo": "snyk/snyk-ls",
+    "pr": 0,
+    "ma": "2024-08-07T06:23:53Z",
+    "oa": "2024-08-07T06:29:12.019Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "honflang",
+    "nwo": "GitbookIO/gitbook",
+    "pr": 0,
+    "ma": "2024-08-07T06:23:54Z",
+    "oa": "2024-08-07T06:29:12.990Z",
+    "tg": null
+  },
+  {
+    "uml": "Hamburg, Germany",
+    "gm": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "uol": "Hamburg, Germany",
+    "gop": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "l": "WHO CARES",
+    "a": "bastiandoetsch",
+    "nwo": "snyk/snyk-ls",
+    "pr": 0,
+    "ma": "2024-08-07T06:23:54Z",
+    "oa": "2024-08-07T06:29:15.849Z",
+    "tg": null
+  },
+  {
+    "uml": "Ukraine",
+    "gm": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "uol": "Ukraine",
+    "gop": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "l": "WHO CARES",
+    "a": "reyzor1991",
+    "nwo": "reyzor1991/pf2e-party-sheet-helper",
+    "pr": 0,
+    "ma": "2024-08-07T06:23:54Z",
+    "oa": "2024-08-07T06:29:20.980Z",
+    "tg": null
+  },
+  {
+    "uml": "Grenoble, France",
+    "gm": {
+      "lat": "45.1875602",
+      "lon": "5.7357819"
+    },
+    "uol": "Grenoble, France",
+    "gop": {
+      "lat": "45.1875602",
+      "lon": "5.7357819"
+    },
+    "l": "WHO CARES",
+    "a": "GaetanLepage",
+    "nwo": "GaetanLepage/nixpkgs",
+    "pr": 0,
+    "ma": "2024-08-07T06:23:54Z",
+    "oa": "2024-08-07T06:29:21.939Z",
+    "tg": null
+  },
+  {
+    "uml": "Ukraine",
+    "gm": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "uol": "Ukraine",
+    "gop": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "l": "WHO CARES",
+    "a": "reyzor1991",
+    "nwo": "reyzor1991/pf2e-party-sheet-helper",
+    "pr": 0,
+    "ma": "2024-08-07T06:23:54Z",
+    "oa": "2024-08-07T06:29:23.851Z",
+    "tg": null
+  },
+  {
+    "uml": "Hangzhou",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "Hangzhou",
+    "gop": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "l": "WHO CARES",
+    "a": "gaius-qi",
+    "nwo": "dragonflyoss/Dragonfly2",
+    "pr": 0,
+    "ma": "2024-08-07T06:24:54Z",
+    "oa": "2024-08-07T06:29:56.259Z",
+    "tg": null
+  },
+  {
+    "uml": "Jakarta, Indonesia",
+    "gm": {
+      "lat": "-6.175247",
+      "lon": "106.8270488"
+    },
+    "uol": "Jakarta, Indonesia",
+    "gop": {
+      "lat": "-6.175247",
+      "lon": "106.8270488"
+    },
+    "l": "WHO CARES",
+    "a": "fadelmvi",
+    "nwo": "fadelmvi/nextjs-dashboard",
+    "pr": 0,
+    "ma": "2024-08-07T06:24:54Z",
+    "oa": "2024-08-07T06:30:09.219Z",
+    "tg": null
+  },
+  {
+    "uml": "Neustadt in Holstein",
+    "gm": {
+      "lat": "54.1029898",
+      "lon": "10.8186738"
+    },
+    "uol": "Neustadt in Holstein",
+    "gop": {
+      "lat": "54.1029898",
+      "lon": "10.8186738"
+    },
+    "l": "WHO CARES",
+    "a": "abaldeweg",
+    "nwo": "abaldeweg/ui",
+    "pr": 0,
+    "ma": "2024-08-07T06:24:54Z",
+    "oa": "2024-08-07T06:30:11.191Z",
+    "tg": null
+  },
+  {
+    "uml": "Grenoble",
+    "gm": {
+      "lat": "45.1875602",
+      "lon": "5.7357819"
+    },
+    "uol": "Grenoble",
+    "gop": {
+      "lat": "45.1875602",
+      "lon": "5.7357819"
+    },
+    "l": "WHO CARES",
+    "a": "jgiovaresco",
+    "nwo": "jgiovaresco/apim-samples",
+    "pr": 0,
+    "ma": "2024-08-07T06:24:54Z",
+    "oa": "2024-08-07T06:30:12.242Z",
+    "tg": null
+  },
+  {
+    "uml": "Jaipur",
+    "gm": {
+      "lat": "26.9154576",
+      "lon": "75.8189817"
+    },
+    "uol": "Jaipur",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "manishoctal",
+    "nwo": "manishoctal/chess-game",
+    "pr": 0,
+    "ma": "2024-08-07T06:21:53Z",
+    "oa": "2024-08-07T06:31:05.040Z",
+    "tg": "ugh, what is this garbage?!?! how did someone this incompetent even manage to get their hands on a keyboard?!?! let alone a terminal that's not yet infested with radioactive cockroaches... \n\nlisten up, author of this abomination: you should be ashamed. ashamed of your very existence. i mean, seriously, who writes code like this?! it's like you took every bad habit you learned from browsing stackoverflow and mashed them all together into a steaming pile of mediocrity.\n\ni swear, if i had to wade through one more line of this drivel, i'd lose my mind... or at least, what's left of it after the apocalypse. \n\nyou know what? forget it. just ban yourself from any terminal with an internet connection. really, for your own good. we don't need people like you spreading their brand of \"code\" around.\n\nnow, if someone asked me to fix this... i could do it in my sleep. hell, i could do it while fighting off a horde of mutants with one hand and still have time left over to make a decent cup of coffee. that's how bad this is.\n\nbut hey, who am i kidding? you'll just go ahead and break something else, or worse, try to \"improve\" the code by making it even more bloated and unmanageable. \n\njust... ugh. seriously. get out.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Ghana and Beyond",
+    "gm": {
+      "lat": "49.914078",
+      "lon": "-97.114506"
+    },
+    "uol": "Ghana and Beyond",
+    "gop": {
+      "lat": "49.914078",
+      "lon": "-97.114506"
+    },
+    "l": "WHO CARES",
+    "a": "emmanuelAkpe",
+    "nwo": "mestafrica/digitizing-the-ges-curriculum",
+    "pr": 0,
+    "ma": "2024-08-07T06:25:55Z",
+    "oa": "2024-08-07T06:31:14.723Z",
+    "tg": null
+  },
+  {
+    "uml": "Earth",
+    "gm": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "uol": "Earth",
+    "gop": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "l": "WHO CARES",
+    "a": "Sriparno08",
+    "nwo": "Codecademy/docs",
+    "pr": 0,
+    "ma": "2024-08-07T06:25:55Z",
+    "oa": "2024-08-07T06:31:22.593Z",
+    "tg": null
+  },
+  {
+    "uml": "Sri Lanka",
+    "gm": {
+      "lat": "7.5554942",
+      "lon": "80.7137847"
+    },
+    "uol": "Sri Lanka",
+    "gop": {
+      "lat": "7.5554942",
+      "lon": "80.7137847"
+    },
+    "l": "WHO CARES",
+    "a": "warnakulasuriya-fds-e23",
+    "nwo": "warnakulasuriya-fds-e23/EE5262ObjectOrientedDesignPatterns",
+    "pr": 0,
+    "ma": "2024-08-07T06:26:55Z",
+    "oa": "2024-08-07T06:32:12.902Z",
+    "tg": null
+  },
+  {
+    "uml": "ShenZhen City.GuangDong Province.China",
+    "gm": {
+      "lat": "22.18869",
+      "lon": "111.11594"
+    },
+    "uol": "ShenZhen City.GuangDong Province.China",
+    "gop": {
+      "lat": "22.18869",
+      "lon": "111.11594"
+    },
+    "l": "WHO CARES",
+    "a": "rockdean",
+    "nwo": "jantacy/mobilemodels",
+    "pr": 0,
+    "ma": "2024-08-07T06:26:55Z",
+    "oa": "2024-08-07T06:32:19.839Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, Korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "corinthionia",
+    "nwo": "corinthionia/corinthionia.github.io",
+    "pr": 0,
+    "ma": "2024-08-07T06:26:55Z",
+    "oa": "2024-08-07T06:32:21.878Z",
+    "tg": null
   }
 ]
