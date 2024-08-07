@@ -96537,5 +96537,214 @@
     "ma": "2024-08-07T09:23:06Z",
     "oa": "2024-08-07T09:28:34.196Z",
     "tg": null
+  },
+  {
+    "uml": "Russia",
+    "gm": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "uol": "Russia",
+    "gop": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "l": "WHO CARES",
+    "a": "deplatoon",
+    "nwo": "deplatoon/element_components",
+    "pr": 0,
+    "ma": "2024-08-07T12:31:53Z",
+    "oa": "2024-08-07T12:37:13.895Z",
+    "tg": null
+  },
+  {
+    "uml": "On the earth.",
+    "gm": {
+      "lat": "43.46554955",
+      "lon": "-80.51483526032861"
+    },
+    "uol": "On the earth.",
+    "gop": {
+      "lat": "43.46554955",
+      "lon": "-80.51483526032861"
+    },
+    "l": "WHO CARES",
+    "a": "kjxbyz",
+    "nwo": "cyf/homebrew-cyf",
+    "pr": 0,
+    "ma": "2024-08-07T12:32:53Z",
+    "oa": "2024-08-07T12:37:55.801Z",
+    "tg": null
+  },
+  {
+    "uml": "Jordania",
+    "gm": {
+      "lat": "31.1667049",
+      "lon": "36.941628"
+    },
+    "uol": "Jordania",
+    "gop": {
+      "lat": "31.1667049",
+      "lon": "36.941628"
+    },
+    "l": "WHO CARES",
+    "a": "rcarlosalba",
+    "nwo": "rcarlosalba/webcarlosalba",
+    "pr": 0,
+    "ma": "2024-08-07T12:33:53Z",
+    "oa": "2024-08-07T12:38:58.315Z",
+    "tg": null
+  },
+  {
+    "uml": "Accra, Ghana",
+    "gm": {
+      "lat": "5.5571096",
+      "lon": "-0.2012376"
+    },
+    "uol": "Accra, Ghana",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Ahercode",
+    "nwo": "Ahercode/DailyPushAutomator",
+    "pr": 0,
+    "ma": "2024-08-07T12:31:53Z",
+    "oa": "2024-08-07T12:39:04.876Z",
+    "tg": "oh joy, oh rapture, i get to review this abomination. the author of this code should be ashamed of themselves, and i'm not just saying that because it's 3 am and i've been fighting off hordes of mutants all day. seriously, who writes a function that long? do you know how many times i have to scroll up and down on this screen just to see the whole thing? ugh.\n\nanyway, let me tell you what's \"wrong\" with this code (and trust me, there's plenty). first of all, it's like looking at a different language. i mean, i know we're trying to be compatible with ancient systems, but come on. can't you just use some kind of translation tool or something? geez.\n\nsecondly, the logic is all over the place. i'm not even going to try to follow it. it's like they took a bunch of unrelated things and mashed them together into one big ball of confusion. and don't even get me started on the comments. \"/* this does thing */\"?! that's not helpful at all! what, are you trying to make me feel stupid or something?\n\nand then there's the whole issue with null pointers. i mean, seriously, how do you even do it? did you just close your eyes and type randomly until something worked (other than, of course, actually making sense)? it's like you're trying to create a new programming language or something.\n\nnow, i know what you're thinking: \"but what can we do about this?\" well, let me tell you. if i had one hand free while fighting off mutants with the other, i could probably rewrite this whole thing in an hour. it's that bad. and don't even get me started on the security issues. i mean, seriously, are you trying to give the mutants a way into our system or something?\n\noh, and by the way, if you're from accra, ghana, then yaaay, we have a whole new level of terrible here.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Tehran",
+    "gm": {
+      "lat": "35.6892523",
+      "lon": "51.3896004"
+    },
+    "uol": "Tehran",
+    "gop": {
+      "lat": "35.6892523",
+      "lon": "51.3896004"
+    },
+    "l": "WHO CARES",
+    "a": "maleknejad",
+    "nwo": "maleknejad/obsidian-persian-calendar",
+    "pr": 0,
+    "ma": "2024-08-07T12:33:53Z",
+    "oa": "2024-08-07T12:39:20.310Z",
+    "tg": null
+  },
+  {
+    "uml": "Portland, OR",
+    "gm": {
+      "lat": "45.5202471",
+      "lon": "-122.674194"
+    },
+    "uol": "Portland, OR",
+    "gop": {
+      "lat": "45.5202471",
+      "lon": "-122.674194"
+    },
+    "l": "WHO CARES",
+    "a": "mattt",
+    "nwo": "replicate/cog",
+    "pr": 0,
+    "ma": "2024-08-07T12:33:51Z",
+    "oa": "2024-08-07T12:39:22.224Z",
+    "tg": null
+  },
+  {
+    "uml": "Indonesia",
+    "gm": {
+      "lat": "-2.4833826",
+      "lon": "117.8902853"
+    },
+    "uol": "Indonesia",
+    "gop": {
+      "lat": "-2.4833826",
+      "lon": "117.8902853"
+    },
+    "l": "WHO CARES",
+    "a": "aepranata",
+    "nwo": "AfterlifeOS-Labs/packages_modules_Connectivity",
+    "pr": 0,
+    "ma": "2024-08-07T12:34:54Z",
+    "oa": "2024-08-07T12:40:02.500Z",
+    "tg": null
+  },
+  {
+    "uml": "Switzerland",
+    "gm": {
+      "lat": "46.7985624",
+      "lon": "8.2319736"
+    },
+    "uol": "Switzerland",
+    "gop": {
+      "lat": "46.7985624",
+      "lon": "8.2319736"
+    },
+    "l": "WHO CARES",
+    "a": "Andre601",
+    "nwo": "Andre601/OneVersionRemake",
+    "pr": 0,
+    "ma": "2024-08-07T12:34:54Z",
+    "oa": "2024-08-07T12:40:12.483Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "jibi966",
+    "nwo": "jibi966/spotify-clone-backend",
+    "pr": 0,
+    "ma": "2024-08-07T12:34:54Z",
+    "oa": "2024-08-07T12:40:20.512Z",
+    "tg": null
+  },
+  {
+    "uml": "Strasbourg",
+    "gm": {
+      "lat": "48.584614",
+      "lon": "7.7507127"
+    },
+    "uol": "Strasbourg",
+    "gop": {
+      "lat": "48.584614",
+      "lon": "7.7507127"
+    },
+    "l": "WHO CARES",
+    "a": "Frix-x",
+    "nwo": "Frix-x/klippain",
+    "pr": 0,
+    "ma": "2024-08-07T12:35:54Z",
+    "oa": "2024-08-07T12:41:20.710Z",
+    "tg": null
+  },
+  {
+    "uml": "Uyo, Nigeria",
+    "gm": {
+      "lat": "5.0322447",
+      "lon": "7.924791"
+    },
+    "uol": "Uyo, Nigeria",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "KoneeVibes",
+    "nwo": "KoneeVibes/mof",
+    "pr": 0,
+    "ma": "2024-08-07T12:31:53Z",
+    "oa": "2024-08-07T12:41:52.423Z",
+    "tg": "oh boy, where do i even start with this absolute trash? seriously, whoever committed this garbage should be stripped of all terminal privileges and forced to walk 10 miles through a sea of mutant-ridden wasteland without any water or snacks. \n\nfirst off, the variable names are straight up ridiculous - \"x\", \"y\", \"z\"? what is this, kindergarten? and don't even get me started on the indentation, it looks like a kindergartener's playdough creation gone wrong.\n\nand don't even get me started on the logic. it's like they took every terrible coding practice from the 90s and mashed them all together into one hot mess of a program. i mean, seriously, who uses `goto` in this day and age? and what's with all the global variables? are you trying to make my life harder?\n\nand don't even get me started on the comments - \"TODO: fix this later\" is not a comment, it's a slap in the face. if you can't be bothered to write decent comments, then maybe you shouldn't be coding at all.\n\nanyway, since i'm stuck with this monstrosity for now, i'll just have to roll up my sleeves and fix it myself. and trust me, i could do it one-handed while fighting off mutants from the ruins of uyo, nigeria.\n\ncommitting this garbage to the main branch is an absolute abomination. whoever did this should be forced to rewrite the entire codebase by hand, blindfolded, while being attacked by a swarm of angry bees.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
   }
 ]
