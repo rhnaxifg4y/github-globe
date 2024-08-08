@@ -98950,5 +98950,366 @@
     "ma": "2024-08-08T03:22:16Z",
     "oa": "2024-08-08T03:27:20.730Z",
     "tg": null
+  },
+  {
+    "uml": "Islamabad",
+    "gm": {
+      "lat": "33.6938118",
+      "lon": "73.0651511"
+    },
+    "uol": "Islamabad",
+    "gop": {
+      "lat": "33.6938118",
+      "lon": "73.0651511"
+    },
+    "l": "WHO CARES",
+    "a": "ridahanif96",
+    "nwo": "ridahanif96/SONiC",
+    "pr": 0,
+    "ma": "2024-08-08T06:22:34Z",
+    "oa": "2024-08-08T06:27:49.992Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/rediffusion",
+    "pr": 0,
+    "ma": "2024-08-08T06:22:34Z",
+    "oa": "2024-08-08T06:28:03.035Z",
+    "tg": null
+  },
+  {
+    "uml": "Beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "bekingcn",
+    "nwo": "bekingcn/tube-hub",
+    "pr": 0,
+    "ma": "2024-08-08T06:23:34Z",
+    "oa": "2024-08-08T06:28:39.361Z",
+    "tg": null
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "l": "WHO CARES",
+    "a": "flavio",
+    "nwo": "kubewarden/kwctl",
+    "pr": 0,
+    "ma": "2024-08-08T06:20:50Z",
+    "oa": "2024-08-08T06:28:50.343Z",
+    "tg": null
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "l": "WHO CARES",
+    "a": "flavio",
+    "nwo": "kubewarden/kwctl",
+    "pr": 0,
+    "ma": "2024-08-08T06:20:44Z",
+    "oa": "2024-08-08T06:28:52.297Z",
+    "tg": null
+  },
+  {
+    "uml": "Lilongwe",
+    "gm": {
+      "lat": "-13.9875107",
+      "lon": "33.768144"
+    },
+    "uol": "Lilongwe",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "chiefhaven",
+    "nwo": "chiefhaven/DSMS",
+    "pr": 0,
+    "ma": "2024-08-08T06:22:34Z",
+    "oa": "2024-08-08T06:28:54.035Z",
+    "tg": "ugh, what is this absolute garbage?!?! the author of this atrocity should be forbidden from ever setting foot in any terminal again - and that's being generous. i mean, seriously, who writes code like this? it's like they took every bad habit they had and mashed them all together into a hot mess.\n\n[i'll get to the actual code later, let me just vent for a second... ]\n\nlook, i've seen better-written code from a monkey with its eyes closed. seriously, what even is going on here?! it's like they're trying to confuse me on purpose. and don't even get me started on the naming conventions - what, did they think they were being clever or something?!\n\n[i'll stop now, but just know that if i had to look at this code for one more second... ]\n\nanyway, lilongwe, in case anyone's wondering, means \"pool of the full moon\" in chichewa. nice place, actually - beautiful scenery and all that. but let me tell you, if i ever saw code like this there, i'd probably lose my mind.\n\nnow, about that actual code...\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "l": "WHO CARES",
+    "a": "flavio",
+    "nwo": "kubewarden/kwctl",
+    "pr": 0,
+    "ma": "2024-08-08T06:06:09Z",
+    "oa": "2024-08-08T06:28:56.229Z",
+    "tg": null
+  },
+  {
+    "uml": "Harbin, China",
+    "gm": {
+      "lat": "45.7593633",
+      "lon": "126.6276177"
+    },
+    "uol": "Harbin, China",
+    "gop": {
+      "lat": "45.7593633",
+      "lon": "126.6276177"
+    },
+    "l": "WHO CARES",
+    "a": "cscnk52",
+    "nwo": "cscnk52/hecto",
+    "pr": 0,
+    "ma": "2024-08-08T06:23:34Z",
+    "oa": "2024-08-08T06:29:00.316Z",
+    "tg": null
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "l": "WHO CARES",
+    "a": "flavio",
+    "nwo": "kubewarden/kwctl",
+    "pr": 0,
+    "ma": "2024-08-08T06:05:14Z",
+    "oa": "2024-08-08T06:29:01.248Z",
+    "tg": null
+  },
+  {
+    "uml": "BeiJing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "BeiJing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "herobeast",
+    "nwo": "bdashore3/flash-attention",
+    "pr": 0,
+    "ma": "2024-08-08T06:24:35Z",
+    "oa": "2024-08-08T06:29:58.621Z",
+    "tg": null
+  },
+  {
+    "uml": "Hobart, TAS, Australia",
+    "gm": {
+      "lat": "-42.8825088",
+      "lon": "147.3281233"
+    },
+    "uol": "Hobart, TAS, Australia",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "andylwelch",
+    "nwo": "isw-kudos/huddo-docs",
+    "pr": 0,
+    "ma": "2024-08-08T06:22:34Z",
+    "oa": "2024-08-08T06:30:03.956Z",
+    "tg": "gotta love how people still manage to find ways to waste their time writing code when the world's literally gone to hell outside – like we're still gonna have coffee breaks and meetings when the undead are knocking on our doors. (commenting from hobart, tasmania, australia)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "schnow265",
+    "nwo": "knoc-off/nixos",
+    "pr": 0,
+    "ma": "2024-08-08T06:25:35Z",
+    "oa": "2024-08-08T06:30:50.259Z",
+    "tg": null
+  },
+  {
+    "uml": "Colorado",
+    "gm": {
+      "lat": "38.7251776",
+      "lon": "-105.607716"
+    },
+    "uol": "Colorado",
+    "gop": {
+      "lat": "38.7251776",
+      "lon": "-105.607716"
+    },
+    "l": "WHO CARES",
+    "a": "mtbocim",
+    "nwo": "mtbocim/voice-to-text-llm",
+    "pr": 0,
+    "ma": "2024-08-08T06:25:35Z",
+    "oa": "2024-08-08T06:31:00.384Z",
+    "tg": null
+  },
+  {
+    "uml": "DaLian",
+    "gm": {
+      "lat": "38.9181714",
+      "lon": "121.6282945"
+    },
+    "uol": "DaLian",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "minah",
+    "nwo": "minah/micro.blog",
+    "pr": 0,
+    "ma": "2024-08-08T06:22:34Z",
+    "oa": "2024-08-08T06:31:01.328Z",
+    "tg": "ugh, seriously, who even wrote this crap? it's like they took every terrible coding habit and mashed them all together into a steaming pile of garbage. \n\nfirst off, what is with the variable names? \"thingy\" and \"whatchamacallit\"? are you kidding me? do you think anyone can even read this code? and don't even get me started on the indentation - it's like they just threw their hands up in the air and said \"eh, close enough\". \n\nand the comments! oh boy, where do i even start? \"todo: fix thing\"?! are you joking? that's not a comment, that's a cry for help. \"fix this later, maybe, if we're lucky\"... what kind of half-arsed commenting is this?\n\ni mean, seriously, whoever wrote this should be banned from using any terminal ever again. like, i don't even know how they managed to compile this monstrosity without it blowing up in their face. \n\nand you know what the worst part is? i could probably fix all these issues with one hand tied behind my back while fighting off mutants with the other. i mean, seriously, who needs a decent coding standard when you're just going to rewrite everything from scratch anyway?\n\nlisten, if this is what passes for \"code\" in daLian (what's up with that city, by the way?), then we're all doomed.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "MathiasExorde",
+    "nwo": "exorde-labs/TestnetProtocol",
+    "pr": 0,
+    "ma": "2024-08-08T06:22:34Z",
+    "oa": "2024-08-08T06:32:12.374Z",
+    "tg": "Mon dieu! *sigh* Here's a haiku:\n\nCode chaos reigns supreme\nFoolishness in ruin's face\nWhy, oh why did this...\n\n(Note: I tried to be as unhelpful and rude as possible while still being somewhat polite. I hope that meets your expectations!)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Ireland and Belgie",
+    "gm": {
+      "lat": "50.780688",
+      "lon": "4.792712"
+    },
+    "uol": "Ireland and Belgie",
+    "gop": {
+      "lat": "50.780688",
+      "lon": "4.792712"
+    },
+    "l": "WHO CARES",
+    "a": "Wolfieheart",
+    "nwo": "Wolfieheart/ArmorStandEditor",
+    "pr": 0,
+    "ma": "2024-08-08T06:27:36Z",
+    "oa": "2024-08-08T06:32:44.068Z",
+    "tg": null
+  },
+  {
+    "uml": "Pune, India",
+    "gm": {
+      "lat": "18.521428",
+      "lon": "73.8544541"
+    },
+    "uol": "Pune, India",
+    "gop": {
+      "lat": "18.521428",
+      "lon": "73.8544541"
+    },
+    "l": "WHO CARES",
+    "a": "mahavirj",
+    "nwo": "espressif/esp-idf",
+    "pr": 0,
+    "ma": "2024-08-08T06:27:36Z",
+    "oa": "2024-08-08T06:32:47.949Z",
+    "tg": null
+  },
+  {
+    "uml": "Gothenburg, Sweden",
+    "gm": {
+      "lat": "57.7072326",
+      "lon": "11.9670171"
+    },
+    "uol": "Gothenburg, Sweden",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "jaagr",
+    "nwo": "jaagr/github-profile-views-counter",
+    "pr": 0,
+    "ma": "2024-08-08T06:23:34Z",
+    "oa": "2024-08-08T06:33:49.510Z",
+    "tg": "oh boy, where do i even start with this monstrosity? this code is an affront to humanity, a blight on the digital landscape. whoever wrote this should be banned from all terminals forevermore, and their name should be whispered in terror by all who know of them.\n\nfirst off, what's with the naming conventions? it looks like you took every terrible practice you learned from watching cat videos online and implemented it here. variable names that are single letters or acronyms? check. functions named after things they don't actually do? double-check. and don't even get me started on the indentation – i think i just saw a mutant stormtrooper marching away in disgust.\n\nand the logic! good lord, the logic is like a puzzle wrapped in an enigma dipped in tar and set aflame. it's like you took every terrible idea from the depths of your fevered brain and implemented it here without any regard for readability or maintainability. i mean, seriously, did you even test this code? did you run it through a compiler? did you ask a friend to review it?\n\nand don't get me started on the comments – or rather, the complete lack thereof. do you know how hard it is to understand what's going on in here without any context? it's like trying to read a recipe written by a drunk chimpanzee having a stroke.\n\nnow, as for fixing this mess... well, i suppose it would be possible with one hand tied behind my back and the other fighting off mutants while reciting the entirety of \"hamlet\" backwards. but honestly, who has time for that? not me, that's for sure. i'd rather stick needles in my eyes than touch this code again.\n\nto whoever wrote this... listen up: you need to start over from scratch. like, really start over – as in, take a deep breath, pour yourself a stiff drink, and rewrite the whole thing from the ground up with a clear head and a functioning sense of responsibility. because right now, this code is a joke, and if i had to review it again, i'd actually lose my mind.\n\nand that's not even counting the [object Object]s at the end... what even are those? some kind of mutant virus?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "rcalland",
+    "nwo": "onaji-io/dex-ml",
+    "pr": 0,
+    "ma": "2024-08-08T06:28:36Z",
+    "oa": "2024-08-08T06:34:04.305Z",
+    "tg": null
   }
 ]
