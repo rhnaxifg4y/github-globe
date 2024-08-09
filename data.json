@@ -104251,5 +104251,328 @@
     "ma": "2024-08-09T15:21:17Z",
     "oa": "2024-08-09T15:26:43.561Z",
     "tg": null
+  },
+  {
+    "uml": "Seattle, WA, USA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA, USA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "timotheeguerin",
+    "nwo": "microsoft/typespec",
+    "pr": 0,
+    "ma": "2024-08-09T18:20:35Z",
+    "oa": "2024-08-09T18:25:52.806Z",
+    "tg": null
+  },
+  {
+    "uml": "United Kingdom",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "United Kingdom",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "adamboutcher",
+    "nwo": "puppetlabs/puppetlabs-docker",
+    "pr": 0,
+    "ma": "2024-08-09T18:20:37Z",
+    "oa": "2024-08-09T18:25:55.813Z",
+    "tg": null
+  },
+  {
+    "uml": "København",
+    "gm": {
+      "lat": "55.6867243",
+      "lon": "12.5700724"
+    },
+    "uol": "København",
+    "gop": {
+      "lat": "55.6867243",
+      "lon": "12.5700724"
+    },
+    "l": "WHO CARES",
+    "a": "ChristofferNissen",
+    "nwo": "ChristofferNissen/helmper",
+    "pr": 0,
+    "ma": "2024-08-09T18:20:37Z",
+    "oa": "2024-08-09T18:25:56.844Z",
+    "tg": null
+  },
+  {
+    "uml": "Houston, TX",
+    "gm": {
+      "lat": "29.7589382",
+      "lon": "-95.3676974"
+    },
+    "uol": "Houston, TX",
+    "gop": {
+      "lat": "29.7589382",
+      "lon": "-95.3676974"
+    },
+    "l": "WHO CARES",
+    "a": "jkdevito",
+    "nwo": "PepperDash/epi-megapixel-helios",
+    "pr": 0,
+    "ma": "2024-08-09T18:21:37Z",
+    "oa": "2024-08-09T18:26:39.175Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "richardsmet",
+    "nwo": "mantvydasb/RedTeaming-Tactics-and-Techniques",
+    "pr": 0,
+    "ma": "2024-08-09T18:21:37Z",
+    "oa": "2024-08-09T18:26:40.113Z",
+    "tg": null
+  },
+  {
+    "uml": "kannur",
+    "gm": {
+      "lat": "11.8763836",
+      "lon": "75.3737973"
+    },
+    "uol": "kannur",
+    "gop": {
+      "lat": "11.8763836",
+      "lon": "75.3737973"
+    },
+    "l": "WHO CARES",
+    "a": "Rithudevk",
+    "nwo": "Rithudevk/deketinvoice.com",
+    "pr": 0,
+    "ma": "2024-08-09T18:21:37Z",
+    "oa": "2024-08-09T18:26:51.177Z",
+    "tg": null
+  },
+  {
+    "uml": "México",
+    "gm": {
+      "lat": "19.4326296",
+      "lon": "-99.1331785"
+    },
+    "uol": "México",
+    "gop": {
+      "lat": "19.4326296",
+      "lon": "-99.1331785"
+    },
+    "l": "WHO CARES",
+    "a": "danteay",
+    "nwo": "Drafteame/ejson-action",
+    "pr": 0,
+    "ma": "2024-08-09T18:21:37Z",
+    "oa": "2024-08-09T18:26:53.200Z",
+    "tg": null
+  },
+  {
+    "uml": "Cochabamba, Bolivia",
+    "gm": {
+      "lat": "-17.3936114",
+      "lon": "-66.1568983"
+    },
+    "uol": "Cochabamba, Bolivia",
+    "gop": {
+      "lat": "-17.3936114",
+      "lon": "-66.1568983"
+    },
+    "l": "WHO CARES",
+    "a": "nicobytes",
+    "nwo": "dotCMS/core",
+    "pr": 0,
+    "ma": "2024-08-09T18:21:37Z",
+    "oa": "2024-08-09T18:27:02.241Z",
+    "tg": null
+  },
+  {
+    "uml": "Mountain View",
+    "gm": {
+      "lat": "37.3893889",
+      "lon": "-122.0832101"
+    },
+    "uol": "Mountain View",
+    "gop": {
+      "lat": "37.3893889",
+      "lon": "-122.0832101"
+    },
+    "l": "WHO CARES",
+    "a": "siddharthab",
+    "nwo": "GoogleCloudPlatform/gcsfuse",
+    "pr": 0,
+    "ma": "2024-08-09T18:22:38Z",
+    "oa": "2024-08-09T18:27:57.446Z",
+    "tg": null
+  },
+  {
+    "uml": "Boulder, CO",
+    "gm": {
+      "lat": "40.0149856",
+      "lon": "-105.270545"
+    },
+    "uol": "Boulder, CO",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "pcj",
+    "nwo": "stackb/scala-gazelle",
+    "pr": 0,
+    "ma": "2024-08-09T18:20:37Z",
+    "oa": "2024-08-09T18:28:36.480Z",
+    "tg": "oh joy, another brilliant piece of code from our esteemed colleague. it's like they're trying to make my eyes bleed with their incompetence. i mean, seriously, who thought it was a good idea to mix mutable and immutable variables in the same function? only someone who's never actually written real code before would come up with this kind of nonsense.\n\nand don't even get me started on the indentation. it's like they took every possible alignment option and mashed them all together into a beautiful mess. i'm surprised the editor didn't just give up and throw its hands in the air (which, by the way, is exactly what i want to do when i look at this code).\n\nyou know what? if our company wasn't already on the brink of collapse due to the impending apocalypse outside, i'd suggest we ban this person from using any terminal altogether. but since we're all just going to be fighting for scraps soon anyway, might as well let them keep hacking away (pun intended) at their own personal coding project... oh wait, that's right, it's already a waste of time.\n\nanyway, i could fix all these problems in one hand while fighting off mutants with the other. seriously, what's the point of even reviewing code if you can't even be bothered to make it somewhat readable? and don't even get me started on the variable naming conventions – or lack thereof. it's like they're trying to give me a headache.\n\nin boulder, co, we say \"¡hasta luego!\" (that's \"see you later\" in español, for all you non-native speakers out there). well, i hope this person never has to see their own code again, because that would be too much to handle.\n\nrating: 0/10. would not recommend.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Ukhia, Cox's Bazaar ",
+    "gm": {
+      "lat": "31.572067",
+      "lon": "74.323804"
+    },
+    "uol": "Ukhia, Cox's Bazaar ",
+    "gop": {
+      "lat": "31.572067",
+      "lon": "74.323804"
+    },
+    "l": "WHO CARES",
+    "a": "DeveloperRejaul",
+    "nwo": "DeveloperRejaul/React-Native-Animations",
+    "pr": 0,
+    "ma": "2024-08-09T18:23:38Z",
+    "oa": "2024-08-09T18:28:40.789Z",
+    "tg": null
+  },
+  {
+    "uml": "Boston, Massachusetts",
+    "gm": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "uol": "Boston, Massachusetts",
+    "gop": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "l": "WHO CARES",
+    "a": "beccachang",
+    "nwo": "HubSpot/ChromeDevToolsClient",
+    "pr": 0,
+    "ma": "2024-08-09T18:23:38Z",
+    "oa": "2024-08-09T18:28:42.535Z",
+    "tg": null
+  },
+  {
+    "uml": "mumbai",
+    "gm": {
+      "lat": "19.08157715",
+      "lon": "72.88662753964906"
+    },
+    "uol": "mumbai",
+    "gop": {
+      "lat": "19.08157715",
+      "lon": "72.88662753964906"
+    },
+    "l": "WHO CARES",
+    "a": "zemse",
+    "nwo": "zemse/foundry",
+    "pr": 0,
+    "ma": "2024-08-09T18:23:38Z",
+    "oa": "2024-08-09T18:29:05.558Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "Ujstor",
+    "nwo": "kubernetes-sigs/cluster-api-addon-provider-helm",
+    "pr": 0,
+    "ma": "2024-08-09T18:24:38Z",
+    "oa": "2024-08-09T18:29:41.921Z",
+    "tg": null
+  },
+  {
+    "uml": "Leipzig, Germany",
+    "gm": {
+      "lat": "51.3406321",
+      "lon": "12.3747329"
+    },
+    "uol": "Leipzig, Germany",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ubik80",
+    "nwo": "ubik80/findingFloatMatrixMultiplicationAlgorithmsCUDA",
+    "pr": 0,
+    "ma": "2024-08-09T18:20:37Z",
+    "oa": "2024-08-09T18:29:46.539Z",
+    "tg": "Ze commit, ein Monument to Folly!\n\nHere's my haiku:\n\nCode sprawls like ruin\nCrisis amidst chaos reigns\nHumanity's mess\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "tjgurwara99",
+    "nwo": "tjgurwara99/go-ruby-prism",
+    "pr": 0,
+    "ma": "2024-08-09T18:24:38Z",
+    "oa": "2024-08-09T18:30:06.025Z",
+    "tg": null
+  },
+  {
+    "uml": "New York, NY",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York, NY",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "samuelmaddock",
+    "nwo": "electron/electron",
+    "pr": 0,
+    "ma": "2024-08-09T18:25:37Z",
+    "oa": "2024-08-09T18:30:52.104Z",
+    "tg": null
   }
 ]
