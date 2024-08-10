@@ -107082,5 +107082,423 @@
     "ma": "2024-08-10T18:23:48Z",
     "oa": "2024-08-10T18:29:06.238Z",
     "tg": null
+  },
+  {
+    "uml": "Araxá",
+    "gm": {
+      "lat": "-19.6009149",
+      "lon": "-46.940923"
+    },
+    "uol": "Araxá",
+    "gop": {
+      "lat": "-19.6009149",
+      "lon": "-46.940923"
+    },
+    "l": "WHO CARES",
+    "a": "WalberFellipe",
+    "nwo": "WalberFellipe/Desafio",
+    "pr": 0,
+    "ma": "2024-08-10T21:13:13Z",
+    "oa": "2024-08-10T21:18:36.350Z",
+    "tg": null
+  },
+  {
+    "uml": "Zagreb",
+    "gm": {
+      "lat": "45.84264135",
+      "lon": "15.962231476593626"
+    },
+    "uol": "Zagreb",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "zstanecic",
+    "nwo": "zstanecic/RHVoice",
+    "pr": 0,
+    "ma": "2024-08-10T21:13:14Z",
+    "oa": "2024-08-10T21:19:07.510Z",
+    "tg": "In the ruins of Zagreb, I gaze\nUpon this code, a blight on earth,\nFolly's monument.\n\n(Note: The haiku tries to capture the essence of the commit being reviewed as a disaster amidst global catastrophe. The tone is intentionally unhelpful and slightly rude, as per your request.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Denmark",
+    "gm": {
+      "lat": "55.670249",
+      "lon": "10.3333283"
+    },
+    "uol": "Denmark",
+    "gop": {
+      "lat": "55.670249",
+      "lon": "10.3333283"
+    },
+    "l": "WHO CARES",
+    "a": "martinnormark",
+    "nwo": "martinnormark/neural-mesh-simplification",
+    "pr": 0,
+    "ma": "2024-08-10T21:14:14Z",
+    "oa": "2024-08-10T21:19:33.615Z",
+    "tg": null
+  },
+  {
+    "uml": "Ayacucho, Perú",
+    "gm": {
+      "lat": "-14",
+      "lon": "-74"
+    },
+    "uol": "Ayacucho, Perú",
+    "gop": {
+      "lat": "-14",
+      "lon": "-74"
+    },
+    "l": "WHO CARES",
+    "a": "carlosthe19916",
+    "nwo": "project-openubl/xhandler-rust",
+    "pr": 0,
+    "ma": "2024-08-10T21:14:14Z",
+    "oa": "2024-08-10T21:19:37.692Z",
+    "tg": null
+  },
+  {
+    "uml": "London, United Kingdom",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, United Kingdom",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "LoveDuckie",
+    "nwo": "spf13/cobra",
+    "pr": 0,
+    "ma": "2024-08-10T21:15:14Z",
+    "oa": "2024-08-10T21:20:14.846Z",
+    "tg": null
+  },
+  {
+    "uml": "Brasília, Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brasília, Brazil",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "GabrielRoger07",
+    "nwo": "fga-eps-mds/2024.1-UnB-TV-Frontend",
+    "pr": 0,
+    "ma": "2024-08-10T21:13:13Z",
+    "oa": "2024-08-10T21:20:22.961Z",
+    "tg": "Pacem perditum!\n\nIn Portuguese:\n\n\"O código é um cadáver entre ruínas, um monumento ao erro em meio à catástrofe global.\"\n\nTranslated to English:\n\n\"The code is a corpse among ruins, a monument to error in the face of global catastrophe.\"\n\n(Note: \"Pacem perditum\" is Latin for \"Peace be lost\", which fits well with the post-apocalyptic theme.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ldez",
+    "nwo": "kylejuliandev/lego",
+    "pr": 0,
+    "ma": "2024-08-10T21:13:13Z",
+    "oa": "2024-08-10T21:20:26.977Z",
+    "tg": "Zut alors! This commit, she is a catastrophe, no?\n\nA haiku of despair:\n\nRusted code lies still\nAmidst ruin, it persists\nHumanity's shame\n\n(Note: I've tried to be as unhelpful and rude as possible while still being somewhat polite, while also incorporating elements of the task into the haiku. The phrase \"Zut alors!\" is a French expression meaning \"Good grief!\" or \"Great heavens!\", which I used to give a hint of location.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Taiwan, Japan, England, depends.",
+    "gm": {
+      "lat": "23.798532",
+      "lon": "120.955426"
+    },
+    "uol": "Taiwan, Japan, England, depends.",
+    "gop": {
+      "lat": "23.798532",
+      "lon": "120.955426"
+    },
+    "l": "WHO CARES",
+    "a": "Rongmario",
+    "nwo": "LoliKingdom/LoliASM",
+    "pr": 0,
+    "ma": "2024-08-10T21:15:13Z",
+    "oa": "2024-08-10T21:20:41.926Z",
+    "tg": null
+  },
+  {
+    "uml": "Iraq",
+    "gm": {
+      "lat": "33.0955793",
+      "lon": "44.1749775"
+    },
+    "uol": "Iraq",
+    "gop": {
+      "lat": "33.0955793",
+      "lon": "44.1749775"
+    },
+    "l": "WHO CARES",
+    "a": "amirriyadh",
+    "nwo": "hoc081098/kmp-viewmodel",
+    "pr": 0,
+    "ma": "2024-08-10T21:16:14Z",
+    "oa": "2024-08-10T21:21:19.125Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "l": "WHO CARES",
+    "a": "reeslo",
+    "nwo": "mattermost/focalboard",
+    "pr": 0,
+    "ma": "2024-08-10T21:16:14Z",
+    "oa": "2024-08-10T21:21:26.036Z",
+    "tg": null
+  },
+  {
+    "uml": "Redmond",
+    "gm": {
+      "lat": "47.6694141",
+      "lon": "-122.1238767"
+    },
+    "uol": "Redmond",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ebadger",
+    "nwo": "ebadger/3ric",
+    "pr": 0,
+    "ma": "2024-08-10T21:13:13Z",
+    "oa": "2024-08-10T21:21:36.498Z",
+    "tg": "Here's a funny comment from a senior dev on a commit in a post-apocalyptic world:\n\n\"wow, still writing code like we're in redmond or something... meanwhile, outside is basically an abandoned walmart\"\n\n(mildly insulting and unhelpful)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Berlin",
+    "gm": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "uol": "Berlin",
+    "gop": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "l": "WHO CARES",
+    "a": "felix-berlin",
+    "nwo": "felix-berlin/berliner-schnauze",
+    "pr": 0,
+    "ma": "2024-08-10T21:16:14Z",
+    "oa": "2024-08-10T21:21:44.183Z",
+    "tg": null
+  },
+  {
+    "uml": "Edmonton",
+    "gm": {
+      "lat": "53.5462055",
+      "lon": "-113.491241"
+    },
+    "uol": "Edmonton",
+    "gop": {
+      "lat": "53.5462055",
+      "lon": "-113.491241"
+    },
+    "l": "WHO CARES",
+    "a": "jkmassel",
+    "nwo": "Automattic/wordpress-rs",
+    "pr": 0,
+    "ma": "2024-08-10T21:17:14Z",
+    "oa": "2024-08-10T21:22:17.379Z",
+    "tg": null
+  },
+  {
+    "uml": "Glassboro, NJ",
+    "gm": {
+      "lat": "39.7027677",
+      "lon": "-75.1119434"
+    },
+    "uol": "Glassboro, NJ",
+    "gop": {
+      "lat": "39.7027677",
+      "lon": "-75.1119434"
+    },
+    "l": "WHO CARES",
+    "a": "ryanblaisdell",
+    "nwo": "ryanblaisdell/work-in-progress",
+    "pr": 0,
+    "ma": "2024-08-10T21:17:14Z",
+    "oa": "2024-08-10T21:22:36.332Z",
+    "tg": null
+  },
+  {
+    "uml": "Maine",
+    "gm": {
+      "lat": "45.709097",
+      "lon": "-68.8590201"
+    },
+    "uol": "Maine",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "KemptonM",
+    "nwo": "KemptonM/kemptonm.dev",
+    "pr": 0,
+    "ma": "2024-08-10T21:14:14Z",
+    "oa": "2024-08-10T21:22:47.132Z",
+    "tg": "uggghhh, what is this complete garbage?! the author of this monstrosity should be forced to spend the rest of their days wandering through the radiation-soaked wasteland with nothing but a toothpick and a bag of stale chips. how do you even manage to produce code so heinously bad? it's like you took every terrible habit, every lazy shortcut, and every half-baked idea from the depths of hell and mashed them all together into this steaming pile of worthless junk.\n\ni mean seriously, what's with the 50-character-long variable names? did you think that was a clever joke or something? \"i_like_cheese_very_much_and_i_want_to_make_a_function_to_handle_somewhat_complex_logic\"? give me a break. and don't even get me started on the indentation - it looks like a toddler with a glue stick had a field day all over your code.\n\nand let's not forget about the actual functionality - oh boy, where do i even begin? it's like you took every terrible design decision from the past 20 years, threw them in a blender, and hit puree. the result is this sad, pathetic excuse for code that doesn't even work half the time.\n\nyou know what would be better than this drivel? nothing. just delete the whole thing and start over. and while you're at it, maybe take a few minutes to actually learn how to write decent code - i hear there's some nice online tutorials or something.\n\nas for me, i'll just be over here, trying to fix your mess with one hand tied behind my back while fighting off hordes of mutants in the other. good luck with that, buddy.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "jv-vogler",
+    "nwo": "jv-vogler/react-cookbook",
+    "pr": 0,
+    "ma": "2024-08-10T21:18:15Z",
+    "oa": "2024-08-10T21:23:24.703Z",
+    "tg": null
+  },
+  {
+    "uml": "Kumasi, Knust Campus",
+    "gm": {
+      "lat": "6.728908",
+      "lon": "-1.491966"
+    },
+    "uol": "Kumasi, Knust Campus",
+    "gop": {
+      "lat": "6.728908",
+      "lon": "-1.491966"
+    },
+    "l": "WHO CARES",
+    "a": "mjmartey19",
+    "nwo": "mjmartey19/Healthcare-System",
+    "pr": 0,
+    "ma": "2024-08-10T21:18:15Z",
+    "oa": "2024-08-10T21:23:27.703Z",
+    "tg": null
+  },
+  {
+    "uml": "Earth",
+    "gm": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "uol": "Earth",
+    "gop": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "l": "WHO CARES",
+    "a": "0xmic",
+    "nwo": "hacksider/Deep-Live-Cam",
+    "pr": 0,
+    "ma": "2024-08-10T21:18:15Z",
+    "oa": "2024-08-10T21:23:29.654Z",
+    "tg": null
+  },
+  {
+    "uml": "Atlanta, GA",
+    "gm": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "uol": "Atlanta, GA",
+    "gop": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "l": "WHO CARES",
+    "a": "Kakapio",
+    "nwo": "gitarcode-test/mockito",
+    "pr": 0,
+    "ma": "2024-08-10T21:18:14Z",
+    "oa": "2024-08-10T21:23:35.706Z",
+    "tg": null
+  },
+  {
+    "uml": "Duisburg, Germany",
+    "gm": {
+      "lat": "51.434999",
+      "lon": "6.759562"
+    },
+    "uol": "Duisburg, Germany",
+    "gop": {
+      "lat": "51.434999",
+      "lon": "6.759562"
+    },
+    "l": "WHO CARES",
+    "a": "mas1701",
+    "nwo": "modoboa/modoboa",
+    "pr": 0,
+    "ma": "2024-08-10T21:18:14Z",
+    "oa": "2024-08-10T21:23:43.590Z",
+    "tg": null
+  },
+  {
+    "uml": "Colombo",
+    "gm": {
+      "lat": "6.9388614",
+      "lon": "79.8542005"
+    },
+    "uol": "Colombo",
+    "gop": {
+      "lat": "6.9388614",
+      "lon": "79.8542005"
+    },
+    "l": "WHO CARES",
+    "a": "Kasthoori",
+    "nwo": "testing-library/react-testing-library",
+    "pr": 0,
+    "ma": "2024-08-10T21:19:15Z",
+    "oa": "2024-08-10T21:24:20.198Z",
+    "tg": null
+  },
+  {
+    "uml": "Bucharest",
+    "gm": {
+      "lat": "44.4361414",
+      "lon": "26.1027202"
+    },
+    "uol": "Bucharest",
+    "gop": {
+      "lat": "44.4361414",
+      "lon": "26.1027202"
+    },
+    "l": "WHO CARES",
+    "a": "ionutgherman",
+    "nwo": "ionutsandroidbuilds/proprietary_vendor_google_akita",
+    "pr": 0,
+    "ma": "2024-08-10T21:19:15Z",
+    "oa": "2024-08-10T21:24:23.161Z",
+    "tg": null
   }
 ]
