@@ -105315,5 +105315,233 @@
     "ma": "2024-08-10T01:25:34Z",
     "oa": "2024-08-10T01:30:35.712Z",
     "tg": null
+  },
+  {
+    "uml": "Somewhere on earth",
+    "gm": {
+      "lat": "44.16744",
+      "lon": "-93.962019"
+    },
+    "uol": "Somewhere on earth",
+    "gop": {
+      "lat": "44.16744",
+      "lon": "-93.962019"
+    },
+    "l": "WHO CARES",
+    "a": "mokeyish",
+    "nwo": "mokeyish/obsidian-code-emitter",
+    "pr": 0,
+    "ma": "2024-08-10T03:18:31Z",
+    "oa": "2024-08-10T03:23:41.496Z",
+    "tg": null
+  },
+  {
+    "uml": "Selangor, Malaysia",
+    "gm": {
+      "lat": "3.2083304",
+      "lon": "101.304146"
+    },
+    "uol": "Selangor, Malaysia",
+    "gop": {
+      "lat": "3.2083304",
+      "lon": "101.304146"
+    },
+    "l": "WHO CARES",
+    "a": "NewQar",
+    "nwo": "NewQar/NewQar",
+    "pr": 0,
+    "ma": "2024-08-10T03:19:31Z",
+    "oa": "2024-08-10T03:24:47.517Z",
+    "tg": null
+  },
+  {
+    "uml": "USA",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "USA",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "DEDSECCorp",
+    "nwo": "DEDSECCorp/old",
+    "pr": 0,
+    "ma": "2024-08-10T03:20:31Z",
+    "oa": "2024-08-10T03:25:43.844Z",
+    "tg": null
+  },
+  {
+    "uml": "Argentina",
+    "gm": {
+      "lat": "-34.9964963",
+      "lon": "-64.9672817"
+    },
+    "uol": "Argentina",
+    "gop": {
+      "lat": "-34.9964963",
+      "lon": "-64.9672817"
+    },
+    "l": "WHO CARES",
+    "a": "santti04",
+    "nwo": "soficoppari/backendTPdsw",
+    "pr": 0,
+    "ma": "2024-08-10T03:20:31Z",
+    "oa": "2024-08-10T03:25:44.825Z",
+    "tg": null
+  },
+  {
+    "uml": "USA",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "USA",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "DEDSECCorp",
+    "nwo": "DEDSECCorp/old",
+    "pr": 0,
+    "ma": "2024-08-10T03:20:31Z",
+    "oa": "2024-08-10T03:25:46.670Z",
+    "tg": null
+  },
+  {
+    "uml": "Dubai, United Arab Emirates",
+    "gm": {
+      "lat": "25.074282349999997",
+      "lon": "55.18853865430702"
+    },
+    "uol": "Dubai, United Arab Emirates",
+    "gop": {
+      "lat": "25.074282349999997",
+      "lon": "55.18853865430702"
+    },
+    "l": "WHO CARES",
+    "a": "HavenDV",
+    "nwo": "tryAGI/DeepInfra",
+    "pr": 0,
+    "ma": "2024-08-10T03:20:31Z",
+    "oa": "2024-08-10T03:25:48.746Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "shibafu528",
+    "nwo": "shikorism/tissue",
+    "pr": 0,
+    "ma": "2024-08-10T03:20:31Z",
+    "oa": "2024-08-10T03:25:49.836Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle, WA, USA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA, USA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "itslenny",
+    "nwo": "tradiverse/agent-stats-data",
+    "pr": 0,
+    "ma": "2024-08-10T03:20:31Z",
+    "oa": "2024-08-10T03:26:32.740Z",
+    "tg": "i'm not sure what's more astonishing - that this code still compiles or that we're still breathing in this toxic wasteland they call seattle, wa, usa.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Colombia(Valledupar)",
+    "gm": {
+      "lat": "10.4651733",
+      "lon": "-73.2529512"
+    },
+    "uol": "Colombia(Valledupar)",
+    "gop": {
+      "lat": "10.4651733",
+      "lon": "-73.2529512"
+    },
+    "l": "WHO CARES",
+    "a": "MarttinezJS",
+    "nwo": "MarttinezJS/SARWeb",
+    "pr": 0,
+    "ma": "2024-08-10T03:21:31Z",
+    "oa": "2024-08-10T03:26:39.942Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle, WA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "amplify-github-test-hkg",
+    "nwo": "amplify-github-test-hkg/Github-PR-Commit-Integration-Test-DoNotTouch-GitH-MJCD6L4M-v1-preprod-ap-east-1",
+    "pr": 0,
+    "ma": "2024-08-10T03:21:31Z",
+    "oa": "2024-08-10T03:26:49.913Z",
+    "tg": null
+  },
+  {
+    "uml": "Wuhan City Hubei Province China",
+    "gm": {
+      "lat": "30.539706",
+      "lon": "114.328408"
+    },
+    "uol": "Wuhan City Hubei Province China",
+    "gop": {
+      "lat": "30.539706",
+      "lon": "114.328408"
+    },
+    "l": "WHO CARES",
+    "a": "guoapeng",
+    "nwo": "matrix-org/matrix-react-skin",
+    "pr": 0,
+    "ma": "2024-08-10T03:21:30Z",
+    "oa": "2024-08-10T03:26:51.983Z",
+    "tg": null
+  },
+  {
+    "uml": "Madison, Wisconsin",
+    "gm": {
+      "lat": "43.074761",
+      "lon": "-89.3837613"
+    },
+    "uol": "Madison, Wisconsin",
+    "gop": {
+      "lat": "43.074761",
+      "lon": "-89.3837613"
+    },
+    "l": "WHO CARES",
+    "a": "Prehani",
+    "nwo": "skeeto/endlessh",
+    "pr": 0,
+    "ma": "2024-08-10T03:23:31Z",
+    "oa": "2024-08-10T03:28:37.310Z",
+    "tg": null
   }
 ]
