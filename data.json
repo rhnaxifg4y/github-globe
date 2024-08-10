@@ -106588,5 +106588,366 @@
     "ma": "2024-08-10T12:33:30Z",
     "oa": "2024-08-10T12:38:56.517Z",
     "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "dayyeeet",
+    "nwo": "solid-resourcepack/solid-material",
+    "pr": 0,
+    "ma": "2024-08-10T15:15:22Z",
+    "oa": "2024-08-10T15:20:36.675Z",
+    "tg": null
+  },
+  {
+    "uml": "Delhi,India",
+    "gm": {
+      "lat": "28.6273928",
+      "lon": "77.1716954"
+    },
+    "uol": "Delhi,India",
+    "gop": {
+      "lat": "28.6273928",
+      "lon": "77.1716954"
+    },
+    "l": "WHO CARES",
+    "a": "lokeshk268",
+    "nwo": "lokeshk268/fee-management",
+    "pr": 0,
+    "ma": "2024-08-10T15:16:22Z",
+    "oa": "2024-08-10T15:21:23.996Z",
+    "tg": null
+  },
+  {
+    "uml": "Cleveland, Ohio",
+    "gm": {
+      "lat": "41.4996574",
+      "lon": "-81.6936772"
+    },
+    "uol": "Cleveland, Ohio",
+    "gop": {
+      "lat": "41.4996574",
+      "lon": "-81.6936772"
+    },
+    "l": "WHO CARES",
+    "a": "Rabadash8820",
+    "nwo": "tc39/proposal-signals",
+    "pr": 0,
+    "ma": "2024-08-10T15:16:22Z",
+    "oa": "2024-08-10T15:21:24.982Z",
+    "tg": null
+  },
+  {
+    "uml": "New York",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "briandidthat",
+    "nwo": "briandidthat/files",
+    "pr": 0,
+    "ma": "2024-08-10T15:16:22Z",
+    "oa": "2024-08-10T15:21:35.003Z",
+    "tg": null
+  },
+  {
+    "uml": "帝都",
+    "gm": {
+      "lat": "23.5771031",
+      "lon": "116.7132254"
+    },
+    "uol": "帝都",
+    "gop": {
+      "lat": "23.5771031",
+      "lon": "116.7132254"
+    },
+    "l": "WHO CARES",
+    "a": "MOGUIJOE",
+    "nwo": "MingXiangL/DEVIL",
+    "pr": 0,
+    "ma": "2024-08-10T15:16:22Z",
+    "oa": "2024-08-10T15:21:47.102Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "Divyasree954",
+    "nwo": "Divyasree954/Week-4",
+    "pr": 0,
+    "ma": "2024-08-10T15:16:22Z",
+    "oa": "2024-08-10T15:21:52.075Z",
+    "tg": null
+  },
+  {
+    "uml": "Nairobi",
+    "gm": {
+      "lat": "-1.3026148499999999",
+      "lon": "36.82884201813725"
+    },
+    "uol": "Nairobi",
+    "gop": {
+      "lat": "-1.3026148499999999",
+      "lon": "36.82884201813725"
+    },
+    "l": "WHO CARES",
+    "a": "nejidevelops",
+    "nwo": "nejidevelops/cloud-developer",
+    "pr": 0,
+    "ma": "2024-08-10T15:17:22Z",
+    "oa": "2024-08-10T15:22:31.413Z",
+    "tg": null
+  },
+  {
+    "uml": "Ankara, Turkey",
+    "gm": {
+      "lat": "39.9207759",
+      "lon": "32.8540497"
+    },
+    "uol": "Ankara, Turkey",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "erhangndz",
+    "nwo": "erhangndz/JWT_Identity",
+    "pr": 0,
+    "ma": "2024-08-10T15:15:22Z",
+    "oa": "2024-08-10T15:23:04.201Z",
+    "tg": "oh joy, another masterpiece from the author of this atrocity. let me tell you, if i had to review one more piece of garbage like this, i'd lose my mind (and possibly my last shred of sanity). look at this mess - it's like they took every bad habit and anti-pattern they learned in their coding journey and mashed them all together into a hot mess of terrible code. i mean, seriously, what even is the point of using var for everything? are you trying to make it impossible for anyone else to maintain your code?\n\nand don't even get me started on the naming conventions - or should i say, lack thereof. what kind of genius (i use that term loosely) comes up with names like \"somevariable123\" and \"functionnamehere\"? have you people never heard of descriptive variable names? it's not like you're trying to be clever or anything.\n\nand another thing, what's with the crazy amount of nested functions? are you trying to make your code as unreadable as possible? because, trust me, you're succeeding. i mean, seriously, who writes a function that returns a function that calls a function... ad nauseam? it's like you're trying to create some kind of code-based russian nesting doll.\n\nand the commits themselves - what are those even supposed to be? are they some sort of joke? \"oh, i added this one line of code\" or \"i changed this one variable\"? give me a break. if i wanted to know what changes were made in each commit, i'd read the diff myself (which, btw, is like trying to decipher ancient hieroglyphics).\n\nand to top it all off, you people are still using that ancient version of eclipse from 2007? get with the times, folks! have you not heard about intellij or visual studio code?\n\nlisten, if i had to fix this mess, i'd do it while fighting off mutants with my trusty machete. and you know what? i could probably do it in half the time it took me to review this trainwreck.\n\nso, author of this monstrosity, let me make one thing clear: if you ever show your face around here again (or anywhere else for that matter), you'll be met with a terminal ban. no exceptions. and as for your code... well, let's just say it's not fit to be used to wipe the sweat off my brow.\n\nas they say in ankara, türkiye: \"bu kod, ölmüş bir canavarın yarasına benzeyen\" (this code is like the wound of a dead monster).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Azeroth",
+    "gm": {
+      "lat": "20.8969962",
+      "lon": "-76.2516822"
+    },
+    "uol": "Azeroth",
+    "gop": {
+      "lat": "20.8969962",
+      "lon": "-76.2516822"
+    },
+    "l": "WHO CARES",
+    "a": "BuloZB",
+    "nwo": "BuloZB/pokemongo-webspoof",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:23Z",
+    "oa": "2024-08-10T15:23:24.552Z",
+    "tg": null
+  },
+  {
+    "uml": "Ouagadougou",
+    "gm": {
+      "lat": "12.3681873",
+      "lon": "-1.5270944"
+    },
+    "uol": "Ouagadougou",
+    "gop": {
+      "lat": "12.3681873",
+      "lon": "-1.5270944"
+    },
+    "l": "WHO CARES",
+    "a": "paulido",
+    "nwo": "paulido/github.io",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:23Z",
+    "oa": "2024-08-10T15:23:36.548Z",
+    "tg": null
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "fabceolin",
+    "nwo": "BerriAI/litellm",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:23Z",
+    "oa": "2024-08-10T15:23:37.570Z",
+    "tg": null
+  },
+  {
+    "uml": "Ouagadougou",
+    "gm": {
+      "lat": "12.3681873",
+      "lon": "-1.5270944"
+    },
+    "uol": "Ouagadougou",
+    "gop": {
+      "lat": "12.3681873",
+      "lon": "-1.5270944"
+    },
+    "l": "WHO CARES",
+    "a": "paulido",
+    "nwo": "paulido/github.io",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:22Z",
+    "oa": "2024-08-10T15:23:40.475Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "l": "WHO CARES",
+    "a": "cdurdetrouver",
+    "nwo": "cdurdetrouver/transcendance",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:22Z",
+    "oa": "2024-08-10T15:23:41.582Z",
+    "tg": null
+  },
+  {
+    "uml": "Ukraine",
+    "gm": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "uol": "Ukraine",
+    "gop": {
+      "lat": "49.4871968",
+      "lon": "31.2718321"
+    },
+    "l": "WHO CARES",
+    "a": "makasim",
+    "nwo": "makasim/gogame",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:22Z",
+    "oa": "2024-08-10T15:23:42.630Z",
+    "tg": null
+  },
+  {
+    "uml": "Salvador, Bahia, Brasil",
+    "gm": {
+      "lat": "-12.9822499",
+      "lon": "-38.4812772"
+    },
+    "uol": "Salvador, Bahia, Brasil",
+    "gop": {
+      "lat": "-12.9822499",
+      "lon": "-38.4812772"
+    },
+    "l": "WHO CARES",
+    "a": "nadiduno",
+    "nwo": "nadiduno/nextAuth-app",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:22Z",
+    "oa": "2024-08-10T15:23:43.658Z",
+    "tg": null
+  },
+  {
+    "uml": "The Netherlands",
+    "gm": {
+      "lat": "52.24764975",
+      "lon": "5.541246849406163"
+    },
+    "uol": "The Netherlands",
+    "gop": {
+      "lat": "52.24764975",
+      "lon": "5.541246849406163"
+    },
+    "l": "WHO CARES",
+    "a": "kleisauke",
+    "nwo": "rust-lang/compiler-builtins",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:22Z",
+    "oa": "2024-08-10T15:23:45.564Z",
+    "tg": null
+  },
+  {
+    "uml": "[@x1:~] $ ",
+    "gm": {
+      "lat": "-12.2269072",
+      "lon": "-76.91868425000001"
+    },
+    "uol": "[@x1:~] $ ",
+    "gop": {
+      "lat": "-12.2269072",
+      "lon": "-76.91868425000001"
+    },
+    "l": "WHO CARES",
+    "a": "zimbatm",
+    "nwo": "numtide/treefmt-nix",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:22Z",
+    "oa": "2024-08-10T15:23:46.623Z",
+    "tg": null
+  },
+  {
+    "uml": "Gdańsk, Poland",
+    "gm": {
+      "lat": "54.3706858",
+      "lon": "18.61298210330077"
+    },
+    "uol": "Gdańsk, Poland",
+    "gop": {
+      "lat": "54.3706858",
+      "lon": "18.61298210330077"
+    },
+    "l": "WHO CARES",
+    "a": "zak-pawel",
+    "nwo": "Antonboom/testifylint",
+    "pr": 0,
+    "ma": "2024-08-10T15:18:22Z",
+    "oa": "2024-08-10T15:23:47.551Z",
+    "tg": null
+  },
+  {
+    "uml": "Karachi, Pakistan",
+    "gm": {
+      "lat": "24.8546842",
+      "lon": "67.0207055"
+    },
+    "uol": "Karachi, Pakistan",
+    "gop": {
+      "lat": "24.8546842",
+      "lon": "67.0207055"
+    },
+    "l": "WHO CARES",
+    "a": "ashrafali2000",
+    "nwo": "ashrafali2000/genios-club-2-backend",
+    "pr": 0,
+    "ma": "2024-08-10T15:20:23Z",
+    "oa": "2024-08-10T15:25:31.449Z",
+    "tg": null
   }
 ]
