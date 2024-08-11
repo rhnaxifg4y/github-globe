@@ -108830,5 +108830,271 @@
     "ma": "2024-08-11T09:19:02Z",
     "oa": "2024-08-11T09:24:14.836Z",
     "tg": null
+  },
+  {
+    "uml": "Lagos, Nigeria",
+    "gm": {
+      "lat": "6.4550575",
+      "lon": "3.3941795"
+    },
+    "uol": "Lagos, Nigeria",
+    "gop": {
+      "lat": "6.4550575",
+      "lon": "3.3941795"
+    },
+    "l": "WHO CARES",
+    "a": "swish933",
+    "nwo": "swish933/Eventful-backend",
+    "pr": 0,
+    "ma": "2024-08-11T12:29:16Z",
+    "oa": "2024-08-11T12:34:26.645Z",
+    "tg": null
+  },
+  {
+    "uml": "Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "HongJungWan",
+    "nwo": "HongJungWan/ffmpeg-video-modules",
+    "pr": 0,
+    "ma": "2024-08-11T12:29:16Z",
+    "oa": "2024-08-11T12:34:37.776Z",
+    "tg": null
+  },
+  {
+    "uml": "Visakhapatnam, Andhra Pradesh",
+    "gm": {
+      "lat": "17.7231276",
+      "lon": "83.3012842"
+    },
+    "uol": "Visakhapatnam, Andhra Pradesh",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "vnr-nitish",
+    "nwo": "vnr-nitish/Main-Flow-Internship-Task-6",
+    "pr": 0,
+    "ma": "2024-08-11T12:29:16Z",
+    "oa": "2024-08-11T12:35:23.775Z",
+    "tg": "i'm impressed that we still have electricity and wifi to run our code, but honestly, this commit is as useful as a can of stale tuna in a post-apocalyptic wasteland. (local phrase: ఈ కమిట్లో సుప్రీంగాడ్స్ ఇద్దాము, కానీ హోమియెల్స్ ఈ కమిట్టు వృణపరంబు)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Salvador, Bahia, Brazil",
+    "gm": {
+      "lat": "-12.9822499",
+      "lon": "-38.4812772"
+    },
+    "uol": "Salvador, Bahia, Brazil",
+    "gop": {
+      "lat": "-12.9822499",
+      "lon": "-38.4812772"
+    },
+    "l": "WHO CARES",
+    "a": "joaomacedx",
+    "nwo": "hacksider/Deep-Live-Cam",
+    "pr": 0,
+    "ma": "2024-08-11T12:30:16Z",
+    "oa": "2024-08-11T12:35:38.871Z",
+    "tg": null
+  },
+  {
+    "uml": "Singapore City",
+    "gm": {
+      "lat": "40.736308750000006",
+      "lon": "-73.86109847714846"
+    },
+    "uol": "Singapore City",
+    "gop": {
+      "lat": "40.736308750000006",
+      "lon": "-73.86109847714846"
+    },
+    "l": "WHO CARES",
+    "a": "huangyisan",
+    "nwo": "sindresorhus/awesome",
+    "pr": 0,
+    "ma": "2024-08-11T12:30:16Z",
+    "oa": "2024-08-11T12:35:43.865Z",
+    "tg": null
+  },
+  {
+    "uml": "Fleet, UK",
+    "gm": {
+      "lat": "51.2828601",
+      "lon": "-0.8316334471979006"
+    },
+    "uol": "Fleet, UK",
+    "gop": {
+      "lat": "51.2828601",
+      "lon": "-0.8316334471979006"
+    },
+    "l": "WHO CARES",
+    "a": "JRaspass",
+    "nwo": "code-golf/code-golf",
+    "pr": 0,
+    "ma": "2024-08-11T12:31:16Z",
+    "oa": "2024-08-11T12:36:24.036Z",
+    "tg": null
+  },
+  {
+    "uml": "Hamburg, Germany",
+    "gm": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "uol": "Hamburg, Germany",
+    "gop": {
+      "lat": "53.550341",
+      "lon": "10.000654"
+    },
+    "l": "WHO CARES",
+    "a": "JoshuaLampert",
+    "nwo": "JoshuaLampert/MeshIntegrals.jl",
+    "pr": 0,
+    "ma": "2024-08-11T12:31:16Z",
+    "oa": "2024-08-11T12:36:25.066Z",
+    "tg": null
+  },
+  {
+    "uml": "Slovakia",
+    "gm": {
+      "lat": "48.7411522",
+      "lon": "19.4528646"
+    },
+    "uol": "Slovakia",
+    "gop": {
+      "lat": "48.7411522",
+      "lon": "19.4528646"
+    },
+    "l": "WHO CARES",
+    "a": "matejkosiarcik",
+    "nwo": "matejkosiarcik/azlint",
+    "pr": 0,
+    "ma": "2024-08-11T12:32:16Z",
+    "oa": "2024-08-11T12:37:19.287Z",
+    "tg": null
+  },
+  {
+    "uml": "Gdansk",
+    "gm": {
+      "lat": "54.3706858",
+      "lon": "18.61298210330077"
+    },
+    "uol": "Gdansk",
+    "gop": {
+      "lat": "54.3706858",
+      "lon": "18.61298210330077"
+    },
+    "l": "WHO CARES",
+    "a": "baranouskiart",
+    "nwo": "public-apis/public-apis",
+    "pr": 0,
+    "ma": "2024-08-11T12:32:16Z",
+    "oa": "2024-08-11T12:37:24.274Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "fosskers",
+    "nwo": "fosskers/aura",
+    "pr": 0,
+    "ma": "2024-08-11T12:33:17Z",
+    "oa": "2024-08-11T12:38:25.662Z",
+    "tg": null
+  },
+  {
+    "uml": "Cambridge, MA",
+    "gm": {
+      "lat": "42.3656347",
+      "lon": "-71.1040018"
+    },
+    "uol": "Cambridge, MA",
+    "gop": {
+      "lat": "42.3656347",
+      "lon": "-71.1040018"
+    },
+    "l": "WHO CARES",
+    "a": "sea-bass",
+    "nwo": "moveit/moveit",
+    "pr": 0,
+    "ma": "2024-08-11T12:33:17Z",
+    "oa": "2024-08-11T12:38:26.565Z",
+    "tg": null
+  },
+  {
+    "uml": "Remote",
+    "gm": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "uol": "Remote",
+    "gop": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "l": "WHO CARES",
+    "a": "pradeepyadavsg",
+    "nwo": "pradeepyadavsg/CRUD_Operation_in_PHP",
+    "pr": 0,
+    "ma": "2024-08-11T12:33:17Z",
+    "oa": "2024-08-11T12:38:35.501Z",
+    "tg": null
+  },
+  {
+    "uml": "Chennai, India",
+    "gm": {
+      "lat": "13.0836939",
+      "lon": "80.270186"
+    },
+    "uol": "Chennai, India",
+    "gop": {
+      "lat": "13.0836939",
+      "lon": "80.270186"
+    },
+    "l": "WHO CARES",
+    "a": "Abubakkar5497",
+    "nwo": "Abubakkar5497/I-LOVE-AI",
+    "pr": 0,
+    "ma": "2024-08-11T12:34:17Z",
+    "oa": "2024-08-11T12:39:17.807Z",
+    "tg": null
+  },
+  {
+    "uml": "Venice, CA",
+    "gm": {
+      "lat": "33.995044",
+      "lon": "-118.4668875"
+    },
+    "uol": "Venice, CA",
+    "gop": {
+      "lat": "33.995044",
+      "lon": "-118.4668875"
+    },
+    "l": "WHO CARES",
+    "a": "coveralls",
+    "nwo": "moonbitlang/core",
+    "pr": 0,
+    "ma": "2024-08-11T12:34:17Z",
+    "oa": "2024-08-11T12:39:18.782Z",
+    "tg": null
   }
 ]
