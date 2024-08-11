@@ -108089,5 +108089,423 @@
     "ma": "2024-08-11T03:21:39Z",
     "oa": "2024-08-11T03:27:04.735Z",
     "tg": null
+  },
+  {
+    "uml": "Lisbon",
+    "gm": {
+      "lat": "38.7077507",
+      "lon": "-9.1365919"
+    },
+    "uol": "Lisbon",
+    "gop": {
+      "lat": "38.7077507",
+      "lon": "-9.1365919"
+    },
+    "l": "WHO CARES",
+    "a": "juliamendesc",
+    "nwo": "juliamendesc/agencia-digital-atlantico",
+    "pr": 0,
+    "ma": "2024-08-11T06:21:46Z",
+    "oa": "2024-08-11T06:26:48.896Z",
+    "tg": null
+  },
+  {
+    "uml": "Mysore",
+    "gm": {
+      "lat": "12.3051828",
+      "lon": "76.6553609"
+    },
+    "uol": "Mysore",
+    "gop": {
+      "lat": "12.3051828",
+      "lon": "76.6553609"
+    },
+    "l": "WHO CARES",
+    "a": "g-gourav-r",
+    "nwo": "g-gourav-r/Agino-React",
+    "pr": 0,
+    "ma": "2024-08-11T06:21:46Z",
+    "oa": "2024-08-11T06:27:04.754Z",
+    "tg": null
+  },
+  {
+    "uml": "Pittsburgh, PA",
+    "gm": {
+      "lat": "40.4416941",
+      "lon": "-79.9900861"
+    },
+    "uol": "Pittsburgh, PA",
+    "gop": {
+      "lat": "40.4416941",
+      "lon": "-79.9900861"
+    },
+    "l": "WHO CARES",
+    "a": "treker7",
+    "nwo": "alpha-kilo-juliette/algo",
+    "pr": 0,
+    "ma": "2024-08-11T06:21:46Z",
+    "oa": "2024-08-11T06:27:06.752Z",
+    "tg": null
+  },
+  {
+    "uml": "Vienna",
+    "gm": {
+      "lat": "48.2083537",
+      "lon": "16.3725042"
+    },
+    "uol": "Vienna",
+    "gop": {
+      "lat": "48.2083537",
+      "lon": "16.3725042"
+    },
+    "l": "WHO CARES",
+    "a": "ahirner",
+    "nwo": "ahirner/nix-trickle",
+    "pr": 0,
+    "ma": "2024-08-11T06:22:46Z",
+    "oa": "2024-08-11T06:27:49.097Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "kyu08",
+    "nwo": "kyu08/go-api-server-playground",
+    "pr": 0,
+    "ma": "2024-08-11T06:23:46Z",
+    "oa": "2024-08-11T06:28:52.463Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "Sulstice",
+    "nwo": "Sulstice/Uptime-Medical-Informatics",
+    "pr": 0,
+    "ma": "2024-08-11T06:23:46Z",
+    "oa": "2024-08-11T06:28:59.366Z",
+    "tg": null
+  },
+  {
+    "uml": "Colorado, United States",
+    "gm": {
+      "lat": "38.7251776",
+      "lon": "-105.607716"
+    },
+    "uol": "Colorado, United States",
+    "gop": {
+      "lat": "38.7251776",
+      "lon": "-105.607716"
+    },
+    "l": "WHO CARES",
+    "a": "adrury0726",
+    "nwo": "adrury0726/MoviesAPI",
+    "pr": 0,
+    "ma": "2024-08-11T06:23:46Z",
+    "oa": "2024-08-11T06:29:09.404Z",
+    "tg": null
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "zaioll",
+    "nwo": "fzyzcjy/flutter_rust_bridge",
+    "pr": 0,
+    "ma": "2024-08-11T06:24:47Z",
+    "oa": "2024-08-11T06:29:57.748Z",
+    "tg": null
+  },
+  {
+    "uml": "INDORE MP INDIA",
+    "gm": {
+      "lat": "22.7203616",
+      "lon": "75.8681996"
+    },
+    "uol": "INDORE MP INDIA",
+    "gop": {
+      "lat": "22.7203616",
+      "lon": "75.8681996"
+    },
+    "l": "WHO CARES",
+    "a": "arvindkurmi123",
+    "nwo": "jayesh-unde/CodeCrew",
+    "pr": 0,
+    "ma": "2024-08-11T06:24:47Z",
+    "oa": "2024-08-11T06:30:06.682Z",
+    "tg": null
+  },
+  {
+    "uml": "Hong Kong",
+    "gm": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "uol": "Hong Kong",
+    "gop": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "l": "WHO CARES",
+    "a": "normalid-awa",
+    "nwo": "normalid-awa/di-ui.js",
+    "pr": 0,
+    "ma": "2024-08-11T06:24:47Z",
+    "oa": "2024-08-11T06:30:09.744Z",
+    "tg": null
+  },
+  {
+    "uml": "Québec",
+    "gm": {
+      "lat": "52.4760892",
+      "lon": "-71.8258668"
+    },
+    "uol": "Québec",
+    "gop": {
+      "lat": "52.4760892",
+      "lon": "-71.8258668"
+    },
+    "l": "WHO CARES",
+    "a": "NatoBoram",
+    "nwo": "NatoBoram/bug-report-sentry",
+    "pr": 0,
+    "ma": "2024-08-11T06:24:47Z",
+    "oa": "2024-08-11T06:30:12.743Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "niladrridas",
+    "nwo": "niladrridas/niladrridas",
+    "pr": 0,
+    "ma": "2024-08-11T06:22:46Z",
+    "oa": "2024-08-11T06:30:19.718Z",
+    "tg": "oh joy, oh rapture, another magnificent piece of code to review in this dumpster fire of an apocalypse. i mean, seriously, who thought it was a good idea to write code that looks like it was generated by a mutant's fever dream? this is an abomination, a travesty, a affront to all that is holy and good.\n\nthe author of this...this...code should be banned from any terminal that has ever seen the light of day. i mean, seriously, how did you even manage to get this far without someone putting a stop to it? it's like you took every bad practice, every terrible habit, and every misguided idea and mashed them all together into one big ball of ugly.\n\nand don't even get me started on the variable names. \"x\"? really? what kind of code is so lazy that it can't even bother to give its variables meaningful names? it's like you're trying to make it as hard as possible for anyone else to understand your code. and the indentation! good lord, the indentation is all over the place like a wild mutant trying to get away from my flamethrower.\n\ni could fix this mess with one hand tied behind my back and the other hand busy fighting off mutants with a trusty baseball bat. it's that bad. i mean, seriously, how did you even manage to test this code? did you just run it once and hope for the best? did you not care if it worked or not as long as you got your paycheck?\n\nlook, india, in hindustani, we have a phrase: \"kuchh nahin hai\" - nothing is there. well, that's what i think of this code. nothing. just a big ol' heap of useless garbage.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Munich",
+    "gm": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "uol": "Munich",
+    "gop": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "l": "WHO CARES",
+    "a": "Kn3cht",
+    "nwo": "Munich-Surf-Pulse/.github",
+    "pr": 0,
+    "ma": "2024-08-11T06:25:47Z",
+    "oa": "2024-08-11T06:30:47.987Z",
+    "tg": null
+  },
+  {
+    "uml": "Bay Area",
+    "gm": {
+      "lat": "37.7884969",
+      "lon": "-122.3558473"
+    },
+    "uol": "Bay Area",
+    "gop": {
+      "lat": "37.7884969",
+      "lon": "-122.3558473"
+    },
+    "l": "WHO CARES",
+    "a": "knhn1004",
+    "nwo": "NaiboWang/EasySpider",
+    "pr": 0,
+    "ma": "2024-08-11T06:25:47Z",
+    "oa": "2024-08-11T06:30:52.944Z",
+    "tg": null
+  },
+  {
+    "uml": "Vietnam",
+    "gm": {
+      "lat": "15.9266657",
+      "lon": "107.9650855"
+    },
+    "uol": "Vietnam",
+    "gop": {
+      "lat": "15.9266657",
+      "lon": "107.9650855"
+    },
+    "l": "WHO CARES",
+    "a": "zephyros-dev",
+    "nwo": "zephyros-dev/media-server",
+    "pr": 0,
+    "ma": "2024-08-11T06:25:47Z",
+    "oa": "2024-08-11T06:31:04.900Z",
+    "tg": null
+  },
+  {
+    "uml": "Copenhagen, Denmark",
+    "gm": {
+      "lat": "55.6867243",
+      "lon": "12.5700724"
+    },
+    "uol": "Copenhagen, Denmark",
+    "gop": {
+      "lat": "55.6867243",
+      "lon": "12.5700724"
+    },
+    "l": "WHO CARES",
+    "a": "mircealungu",
+    "nwo": "zeeguu/web",
+    "pr": 0,
+    "ma": "2024-08-11T06:25:47Z",
+    "oa": "2024-08-11T06:31:08.975Z",
+    "tg": null
+  },
+  {
+    "uml": "Panamá",
+    "gm": {
+      "lat": "8.559559",
+      "lon": "-81.1308434"
+    },
+    "uol": "Panamá",
+    "gop": {
+      "lat": "8.559559",
+      "lon": "-81.1308434"
+    },
+    "l": "WHO CARES",
+    "a": "Jslquintero",
+    "nwo": "Jslquintero/DialogUI",
+    "pr": 0,
+    "ma": "2024-08-11T06:25:47Z",
+    "oa": "2024-08-11T06:31:10.058Z",
+    "tg": null
+  },
+  {
+    "uml": "Australia",
+    "gm": {
+      "lat": "-24.7761086",
+      "lon": "134.755"
+    },
+    "uol": "Australia",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "DmitriyMaksimov",
+    "nwo": "DmitriyMaksimov/leetcode-sharp",
+    "pr": 0,
+    "ma": "2024-08-11T06:23:46Z",
+    "oa": "2024-08-11T06:31:21.393Z",
+    "tg": "ugh, seriously, what is wrong with this person? are they even human? this code is an abomination, a travesty, a catastrophe. it's like they took every terrible programming habit and mashed them together into a big ball of garbage. i mean, i've seen better-written code on a toilet wall.\n\nfirst off, the variable names are straight out of a joke. what's with all the single-letter variables? do you think we're trying to solve world hunger or something? just pick a decent name already. and don't even get me started on the indentation - it looks like a kindergartener had a temper tantrum.\n\nand don't even get me started on the logic. it's like they took every terrible programming habit and mashed them together into a big ball of garbage. i mean, seriously, who writes a function that does nothing except call another function? what is this, some kind of joke?\n\ni swear, if i had to look at one more line of this code, my eyes would bug out of my head. this author should be banned from any terminal for life. they shouldn't even be allowed to breathe the same air as a real programmer.\n\nand you know what? i could fix all this in about 10 minutes with one hand tied behind my back while fighting off mutants with the other. but no, instead of doing that, we're stuck dealing with this garbage and trying to figure out what the author was thinking when they wrote it. probably something along the lines of \"i'm a genius and i don't need to follow any coding standards whatsoever.\" well, let me tell you, buddy, you're not a genius. you're just an embarrassment.\n\nanyway, that's my two cents on this commit. i hope nobody actually has to look at this code for more than 30 seconds without losing their mind.\n\noh, and one more thing: g'day mate (australia).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "SH, China",
+    "gm": {
+      "lat": "17.4425194",
+      "lon": "81.7488719"
+    },
+    "uol": "SH, China",
+    "gop": {
+      "lat": "17.4425194",
+      "lon": "81.7488719"
+    },
+    "l": "WHO CARES",
+    "a": "ForkKILLET",
+    "nwo": "araea/koishi-plugin-pjsk-pptr",
+    "pr": 0,
+    "ma": "2024-08-11T06:26:47Z",
+    "oa": "2024-08-11T06:31:48.471Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia, Moscow",
+    "gm": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "uol": "Russia, Moscow",
+    "gop": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "l": "WHO CARES",
+    "a": "MaxObodovskii",
+    "nwo": "remadyt/mini-app-adm",
+    "pr": 0,
+    "ma": "2024-08-11T06:27:48Z",
+    "oa": "2024-08-11T06:32:56.555Z",
+    "tg": null
+  },
+  {
+    "uml": "Pasadena, California",
+    "gm": {
+      "lat": "34.1476507",
+      "lon": "-118.144155"
+    },
+    "uol": "Pasadena, California",
+    "gop": {
+      "lat": "34.1476507",
+      "lon": "-118.144155"
+    },
+    "l": "WHO CARES",
+    "a": "PeterJohnson",
+    "nwo": "wpilibsuite/allwpilib",
+    "pr": 0,
+    "ma": "2024-08-11T06:27:48Z",
+    "oa": "2024-08-11T06:32:57.547Z",
+    "tg": null
+  },
+  {
+    "uml": "israel",
+    "gm": {
+      "lat": "30.8124247",
+      "lon": "34.8594762"
+    },
+    "uol": "israel",
+    "gop": {
+      "lat": "30.8124247",
+      "lon": "34.8594762"
+    },
+    "l": "WHO CARES",
+    "a": "Moshikol",
+    "nwo": "msl-large-org/scale_test_odo_3752",
+    "pr": 0,
+    "ma": "2024-08-11T06:27:48Z",
+    "oa": "2024-08-11T06:33:12.588Z",
+    "tg": null
   }
 ]
