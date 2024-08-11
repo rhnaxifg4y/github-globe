@@ -109932,5 +109932,271 @@
     "ma": "2024-08-11T18:25:19Z",
     "oa": "2024-08-11T18:30:42.310Z",
     "tg": null
+  },
+  {
+    "uml": "London",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "hardyjosh",
+    "nwo": "rainlanguage/rain.orderbook",
+    "pr": 0,
+    "ma": "2024-08-11T21:14:28Z",
+    "oa": "2024-08-11T21:19:35.856Z",
+    "tg": null
+  },
+  {
+    "uml": "Knoxville, TN",
+    "gm": {
+      "lat": "35.9603948",
+      "lon": "-83.9210261"
+    },
+    "uol": "Knoxville, TN",
+    "gop": {
+      "lat": "35.9603948",
+      "lon": "-83.9210261"
+    },
+    "l": "WHO CARES",
+    "a": "giswqs",
+    "nwo": "opengeos/HyperCoast",
+    "pr": 0,
+    "ma": "2024-08-11T21:14:28Z",
+    "oa": "2024-08-11T21:19:42.746Z",
+    "tg": null
+  },
+  {
+    "uml": "Nottingham, United Kingdom",
+    "gm": {
+      "lat": "52.9534193",
+      "lon": "-1.1496461"
+    },
+    "uol": "Nottingham, United Kingdom",
+    "gop": {
+      "lat": "52.9534193",
+      "lon": "-1.1496461"
+    },
+    "l": "WHO CARES",
+    "a": "Karthi-DStech",
+    "nwo": "Karthi-DStech/Variational-AutoEncoders-for-Biomaterial-Discovery",
+    "pr": 0,
+    "ma": "2024-08-11T21:14:28Z",
+    "oa": "2024-08-11T21:19:53.800Z",
+    "tg": null
+  },
+  {
+    "uml": "Bangladesh",
+    "gm": {
+      "lat": "24.4769288",
+      "lon": "90.2934413"
+    },
+    "uol": "Bangladesh",
+    "gop": {
+      "lat": "24.4769288",
+      "lon": "90.2934413"
+    },
+    "l": "WHO CARES",
+    "a": "shahriaalam",
+    "nwo": "shahriaalam/Portfolio",
+    "pr": 0,
+    "ma": "2024-08-11T21:15:28Z",
+    "oa": "2024-08-11T21:20:36.022Z",
+    "tg": null
+  },
+  {
+    "uml": "Brussels",
+    "gm": {
+      "lat": "50.8465573",
+      "lon": "4.351697"
+    },
+    "uol": "Brussels",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "rmdes",
+    "nwo": "rmdes/myblog",
+    "pr": 0,
+    "ma": "2024-08-11T21:14:28Z",
+    "oa": "2024-08-11T21:21:35.422Z",
+    "tg": "Here's my attempt:\n\nin brussels (because who needs to travel far anyway), someone managed to break the build... again. great job, by the way.\n\nThe comment is intentionally unhelpful and mildly insulting, implying that it's not worth even commenting on how terrible this commit is. It also throws in a bit of humor about being stuck in Brussels in a post-apocalyptic world.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Seattle, WA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "amplify-github-test-hkg",
+    "nwo": "amplify-github-test-hkg/Github-PR-Commit-Integration-Test-DoNotTouch-GitH-MJCD6L4M-v1-preprod-ap-east-1",
+    "pr": 0,
+    "ma": "2024-08-11T21:16:28Z",
+    "oa": "2024-08-11T21:21:42.183Z",
+    "tg": null
+  },
+  {
+    "uml": "Budapest, HU",
+    "gm": {
+      "lat": "47.4978789",
+      "lon": "19.0402383"
+    },
+    "uol": "Budapest, HU",
+    "gop": {
+      "lat": "47.4978789",
+      "lon": "19.0402383"
+    },
+    "l": "WHO CARES",
+    "a": "BCsabaEngine",
+    "nwo": "BCsabaEngine/svelteesp32",
+    "pr": 0,
+    "ma": "2024-08-11T21:16:28Z",
+    "oa": "2024-08-11T21:21:43.207Z",
+    "tg": null
+  },
+  {
+    "uml": "Turkey",
+    "gm": {
+      "lat": "38.9597594",
+      "lon": "34.9249653"
+    },
+    "uol": "Turkey",
+    "gop": {
+      "lat": "38.9597594",
+      "lon": "34.9249653"
+    },
+    "l": "WHO CARES",
+    "a": "EmirE0403",
+    "nwo": "EmirE0403/beklekazan",
+    "pr": 0,
+    "ma": "2024-08-11T21:16:28Z",
+    "oa": "2024-08-11T21:21:44.229Z",
+    "tg": null
+  },
+  {
+    "uml": "Armenia, Dilijan",
+    "gm": {
+      "lat": "40.7417183",
+      "lon": "44.8721946"
+    },
+    "uol": "Armenia, Dilijan",
+    "gop": {
+      "lat": "40.7417183",
+      "lon": "44.8721946"
+    },
+    "l": "WHO CARES",
+    "a": "rudyryk",
+    "nwo": "Dingolytics/golem-gpt",
+    "pr": 0,
+    "ma": "2024-08-11T21:16:27Z",
+    "oa": "2024-08-11T21:21:57.169Z",
+    "tg": null
+  },
+  {
+    "uml": "Ponta Grossa, Paraná",
+    "gm": {
+      "lat": "-25.0891685",
+      "lon": "-50.1601812"
+    },
+    "uol": "Ponta Grossa, Paraná",
+    "gop": {
+      "lat": "-25.0891685",
+      "lon": "-50.1601812"
+    },
+    "l": "WHO CARES",
+    "a": "Redwars22",
+    "nwo": "Redwars22/factos-historicos",
+    "pr": 0,
+    "ma": "2024-08-11T21:17:29Z",
+    "oa": "2024-08-11T21:22:47.440Z",
+    "tg": null
+  },
+  {
+    "uml": "Auckland, New Zealand",
+    "gm": {
+      "lat": "-36.852095",
+      "lon": "174.7631803"
+    },
+    "uol": "Auckland, New Zealand",
+    "gop": {
+      "lat": "-36.852095",
+      "lon": "174.7631803"
+    },
+    "l": "WHO CARES",
+    "a": "xavier-fenton",
+    "nwo": "xavier-fenton/HeartLabCodeTest",
+    "pr": 0,
+    "ma": "2024-08-11T21:17:29Z",
+    "oa": "2024-08-11T21:22:56.422Z",
+    "tg": null
+  },
+  {
+    "uml": "Poland",
+    "gm": {
+      "lat": "52.215933",
+      "lon": "19.134422"
+    },
+    "uol": "Poland",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "mkusz",
+    "nwo": "mkdocs-publisher/mkdocs-publisher",
+    "pr": 0,
+    "ma": "2024-08-11T21:14:28Z",
+    "oa": "2024-08-11T21:23:16.258Z",
+    "tg": "ugh, seriously? this code is an abomination. whoever wrote this should be banned from any terminal for life. it's like they intentionally tried to make my eyes bleed. \n\nfirst of all, the naming conventions are laughable. what's with the underscores and camelcase mishmash? did you have a committee meeting to decide on the most confusing variable names possible? and don't even get me started on the indentation - it's like you just copy-pasted from some ancient perl script or something.\n\nand the logic?! oh boy, it's like a game of \"spot the bug\" except there are no bugs, because this code is too broken to have any. i mean, what's with all the global variables? do you have some kind of addiction to polluting the namespace?\n\nand then there's the commenting. ha! you call those comments? they're more like sarcastic remarks from a disgruntled coders' support group. \"oh, yeah, this code is totally working as intended... until it breaks in three hours...\" \n\nlisten, if i had to fix this mess with one hand while fighting off mutants with the other, i'd still do a better job than whoever wrote this. and don't even get me started on the tests - or should i say, lack thereof? it's like you just assumed that magic would make the code work.\n\nyou know what? i'll be nice and just give you one piece of advice: go back to whatever dark corner of the internet you came from and stay there. because if this is the best you've got, then we're all in trouble.\n\nin polish, as they say: \"to coś, coś\" (that something, that something).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Knoxville, TN",
+    "gm": {
+      "lat": "35.9603948",
+      "lon": "-83.9210261"
+    },
+    "uol": "Knoxville, TN",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "giswqs",
+    "nwo": "opengeos/HyperCoast",
+    "pr": 0,
+    "ma": "2024-08-11T21:14:28Z",
+    "oa": "2024-08-11T21:23:31.852Z",
+    "tg": "uggghhh, what a complete and utter disaster. whoever wrote this code should be ashamed of themselves. i mean, seriously, how hard is it to write decent code? apparently, very hard for them.\n\nfirst off, the variable names are complete gibberish. who comes up with \"xzy_foo_bar\" as a variable name? did they even try to follow any sort of naming convention? it looks like they just threw their hands up in the air and said, \"screw it, i'm done trying to make sense of this code.\"\n\nand don't even get me started on the logic. it's like they took every bad coding habit they learned from watching cat videos online and mashed them all together into one big mess. i mean, seriously, who writes a function that does exactly what it says it will do in the name, but then proceeds to do the opposite? it's like they're trying to be as confusing as possible.\n\nand the comments! oh boy, the comments are just a joke. \"this code does stuff\" or \"fix this later\". that's not helpful, that's just lazy. if you can't be bothered to write decent comments, then maybe you shouldn't be writing code at all.\n\ni swear, i've seen better-written code from a kindergartener. and don't even get me started on the indentation. it's like they took every possible way of indenting code and mashed them all together into one big hot mess.\n\ni could fix this code in my sleep, with one hand tied behind my back, while fighting off mutants in post-apocalyptic kansas city (what's left of it, anyway). it's that bad. whoever wrote this code should be banned from any terminal, period. full stop. no exceptions.\n\nand you know what the worst part is? i'm going to have to spend the next hour or so trying to untangle this mess and make sense of it. ughhh, my life is just one big disappointment after another.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Uruguay",
+    "gm": {
+      "lat": "-32.8755548",
+      "lon": "-56.0201525"
+    },
+    "uol": "Uruguay",
+    "gop": {
+      "lat": "-32.8755548",
+      "lon": "-56.0201525"
+    },
+    "l": "WHO CARES",
+    "a": "Juan-Diego-E",
+    "nwo": "4GeeksAcademy/proy-final-4",
+    "pr": 0,
+    "ma": "2024-08-11T21:18:29Z",
+    "oa": "2024-08-11T21:23:36.778Z",
+    "tg": null
   }
 ]
