@@ -113637,5 +113637,404 @@
     "ma": "2024-08-12T18:26:39Z",
     "oa": "2024-08-12T18:31:42.656Z",
     "tg": null
+  },
+  {
+    "uml": "Austin, TX",
+    "gm": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "uol": "Austin, TX",
+    "gop": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "l": "WHO CARES",
+    "a": "austin987",
+    "nwo": "Winetricks/winetricks",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:40Z",
+    "oa": "2024-08-12T21:19:46.920Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "taiki-e",
+    "nwo": "taiki-e/install-action",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:40Z",
+    "oa": "2024-08-12T21:19:50.973Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "QuantamHD",
+    "nwo": "The-OpenROAD-Project/OpenROAD",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:35Z",
+    "oa": "2024-08-12T21:19:52.853Z",
+    "tg": null
+  },
+  {
+    "uml": "Bogotá, Colombia",
+    "gm": {
+      "lat": "4.6533816",
+      "lon": "-74.0836333"
+    },
+    "uol": "Bogotá, Colombia",
+    "gop": {
+      "lat": "4.6533816",
+      "lon": "-74.0836333"
+    },
+    "l": "WHO CARES",
+    "a": "rockchalkwushock",
+    "nwo": "timelinize/timelinize",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:40Z",
+    "oa": "2024-08-12T21:19:53.879Z",
+    "tg": null
+  },
+  {
+    "uml": "Brno, Czech Republic",
+    "gm": {
+      "lat": "49.1922443",
+      "lon": "16.6113382"
+    },
+    "uol": "Brno, Czech Republic",
+    "gop": {
+      "lat": "49.1922443",
+      "lon": "16.6113382"
+    },
+    "l": "WHO CARES",
+    "a": "Anty0",
+    "nwo": "Anty0/ev3devautodriver",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:40Z",
+    "oa": "2024-08-12T21:19:56.835Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "QuantamHD",
+    "nwo": "The-OpenROAD-Project/OpenROAD",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:40Z",
+    "oa": "2024-08-12T21:20:02.805Z",
+    "tg": null
+  },
+  {
+    "uml": "uruguay",
+    "gm": {
+      "lat": "-32.8755548",
+      "lon": "-56.0201525"
+    },
+    "uol": "uruguay",
+    "gop": {
+      "lat": "-32.8755548",
+      "lon": "-56.0201525"
+    },
+    "l": "WHO CARES",
+    "a": "marcipagani",
+    "nwo": "marcipagani/taller-eventos",
+    "pr": 0,
+    "ma": "2024-08-12T21:15:40Z",
+    "oa": "2024-08-12T21:20:52.399Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "taiki-e",
+    "nwo": "taiki-e/install-action",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:40Z",
+    "oa": "2024-08-12T21:20:52.454Z",
+    "tg": "Kanpai, boss-san! *ahem* I mean, here is my haiku review:\n\nRusty code abides\nRuins of programming rise\nFoolishness endures\n\nIn this post-apocalyptic world, it's as if the commit is a beacon of human folly, shining brightly amidst the rubble. The code itself is a disaster, a monument to the fallibility of our species. And yet, here it remains, a testament to our capacity for self-delusion in the face of catastrophic failure.\n\nAs for being too rude or unhelpful, I'll just say that my haiku review is an act of mercy, allowing you to at least pretend that this commit is salvageable. *wink*\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "NYC",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "NYC",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "JosephHauter",
+    "nwo": "JosephHauter/my-portfolio",
+    "pr": 0,
+    "ma": "2024-08-12T21:14:40Z",
+    "oa": "2024-08-12T21:21:35.628Z",
+    "tg": "Fool's errand, indeed:\n\nRubble code reigns\nMadness amidst ruin's hush\nHuman folly stands\n\n(Note: As per your request, I've tried to be as unhelpful and yet not too rude, while still conveying the idea that the commit is a disaster. The haiku reflects on how the code seems out of place in the post-apocalyptic world, and how it's a monument to human folly.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Stockholm, Sweden",
+    "gm": {
+      "lat": "59.3251172",
+      "lon": "18.0710935"
+    },
+    "uol": "Stockholm, Sweden",
+    "gop": {
+      "lat": "59.3251172",
+      "lon": "18.0710935"
+    },
+    "l": "WHO CARES",
+    "a": "Gerark",
+    "nwo": "Project-Tactics/Project-Tactics",
+    "pr": 0,
+    "ma": "2024-08-12T21:16:41Z",
+    "oa": "2024-08-12T21:21:49.505Z",
+    "tg": null
+  },
+  {
+    "uml": "Richmond, VA",
+    "gm": {
+      "lat": "37.5385087",
+      "lon": "-77.43428"
+    },
+    "uol": "Richmond, VA",
+    "gop": {
+      "lat": "37.5385087",
+      "lon": "-77.43428"
+    },
+    "l": "WHO CARES",
+    "a": "mscottford",
+    "nwo": "Parallels/packer-examples",
+    "pr": 0,
+    "ma": "2024-08-12T21:16:41Z",
+    "oa": "2024-08-12T21:21:51.480Z",
+    "tg": null
+  },
+  {
+    "uml": "Palo Alto, CA",
+    "gm": {
+      "lat": "37.4443293",
+      "lon": "-122.1598465"
+    },
+    "uol": "Palo Alto, CA",
+    "gop": {
+      "lat": "37.4443293",
+      "lon": "-122.1598465"
+    },
+    "l": "WHO CARES",
+    "a": "TakSec",
+    "nwo": "Vanguard1105/Cybersecurity_handbook",
+    "pr": 0,
+    "ma": "2024-08-12T21:16:41Z",
+    "oa": "2024-08-12T21:22:08.494Z",
+    "tg": null
+  },
+  {
+    "uml": "New York",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "gregschohn",
+    "nwo": "gregschohn/opensearch-migrations",
+    "pr": 0,
+    "ma": "2024-08-12T21:17:41Z",
+    "oa": "2024-08-12T21:22:52.894Z",
+    "tg": null
+  },
+  {
+    "uml": "In my basement",
+    "gm": {
+      "lat": "53.848071",
+      "lon": "-9.305098"
+    },
+    "uol": "In my basement",
+    "gop": {
+      "lat": "53.848071",
+      "lon": "-9.305098"
+    },
+    "l": "WHO CARES",
+    "a": "dalebezolli",
+    "nwo": "dalebezolli/cowatch",
+    "pr": 0,
+    "ma": "2024-08-12T21:18:41Z",
+    "oa": "2024-08-12T21:23:43.624Z",
+    "tg": null
+  },
+  {
+    "uml": "Poland",
+    "gm": {
+      "lat": "52.215933",
+      "lon": "19.134422"
+    },
+    "uol": "Poland",
+    "gop": {
+      "lat": "52.215933",
+      "lon": "19.134422"
+    },
+    "l": "WHO CARES",
+    "a": "paduszyk",
+    "nwo": "paduszyk/reactor",
+    "pr": 0,
+    "ma": "2024-08-12T21:18:41Z",
+    "oa": "2024-08-12T21:23:57.373Z",
+    "tg": null
+  },
+  {
+    "uml": "Lévis, Québec",
+    "gm": {
+      "lat": "46.8033114",
+      "lon": "-71.1778792"
+    },
+    "uol": "Lévis, Québec",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "EricBoudreault",
+    "nwo": "EricBoudreault/XMLTV-Tools-VB.NET",
+    "pr": 0,
+    "ma": "2024-08-12T21:16:41Z",
+    "oa": "2024-08-12T21:23:57.437Z",
+    "tg": "oh boy, where do i even start with this trainwreck? seriously, whoever wrote this code should be banned from any terminal within a 50-mile radius of civilization. it's like they took every bad habit and anti-pattern known to humanity and mashed them together into one glorious mess.\n\n\"[object Object],[object Object]\"?! are you kidding me? that's not even proper syntax! it's like trying to write a novel using only crayons and getting hit in the head with a brick. i mean, what even is this supposed to do? is it some kind of joke? \"oh, yeah, just throw these two random objects together and voila! instant magic\" give me a break.\n\nand don't even get me started on the naming conventions. seriously, who names their variables `thingy` and `squibble`? are you trying to make my eyes bleed?! it's like they took every terrible naming convention from the past 20 years and mashed them together into one glorious mess (see what i did there?).\n\nand the comments! oh boy, where do i even start? \"todo: fix this\"?! todo?! that's not a comment, that's a todo list! how about you just, i don't know, actually fix it instead of leaving it as an afterthought?!\n\nlook, i could fix this in my sleep while fighting off mutants with the other hand. heck, i could even do it while enjoying a nice cup of coffee and watching the apocalypse unfold outside my window. but seriously, whoever wrote this code should be ashamed of themselves.\n\nand don't even get me started on the lack of indentation. it's like they took every bad habit from the past 20 years and mashed them together into one glorious mess (see what i did there again?!). i mean, come on, is this supposed to be some kind of joke? are you trying to make my eyes bleed?!\n\nanyway, that's my two cents. or should i say, that's my $2 worth. either way, whoever wrote this code needs to go back to whatever dark cave they crawled out from and rethink their life choices.\n\noh, and by the way, if anyone asks, i'm still in lévis, québec, but don't bother trying to reach me because i'll be too busy fighting off mutants to care about your silly little problems.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "l": "WHO CARES",
+    "a": "Datharr",
+    "nwo": "Datharr/Alibi-Public-Version",
+    "pr": 0,
+    "ma": "2024-08-12T21:18:41Z",
+    "oa": "2024-08-12T21:24:04.326Z",
+    "tg": null
+  },
+  {
+    "uml": "Chicago, IL",
+    "gm": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "uol": "Chicago, IL",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "thcrock",
+    "nwo": "workforce-data-initiative/skills-ml",
+    "pr": 0,
+    "ma": "2024-08-12T21:16:41Z",
+    "oa": "2024-08-12T21:25:34.802Z",
+    "tg": "Wasteland dev here:\n\nFutile code sprawl,\nChaos reigns, and still you code,\nHumanity's curse.\n\n(Translation for Chicago, IL: \"Hey, what's up, Windy City?!\")\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Moscow, Russia",
+    "gm": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "uol": "Moscow, Russia",
+    "gop": {
+      "lat": "55.7505412",
+      "lon": "37.6174782"
+    },
+    "l": "WHO CARES",
+    "a": "KirstonMoon",
+    "nwo": "KirstonMoon/redirect",
+    "pr": 0,
+    "ma": "2024-08-12T21:20:42Z",
+    "oa": "2024-08-12T21:25:59.989Z",
+    "tg": null
+  },
+  {
+    "uml": "Ghana",
+    "gm": {
+      "lat": "8.0300284",
+      "lon": "-1.0800271"
+    },
+    "uol": "Ghana",
+    "gop": {
+      "lat": "8.0300284",
+      "lon": "-1.0800271"
+    },
+    "l": "WHO CARES",
+    "a": "zaggy007",
+    "nwo": "zaggy007/SwissWork",
+    "pr": 0,
+    "ma": "2024-08-12T21:21:42Z",
+    "oa": "2024-08-12T21:26:45.368Z",
+    "tg": null
+  },
+  {
+    "uml": "Brooklyn, NY",
+    "gm": {
+      "lat": "40.6526006",
+      "lon": "-73.9497211"
+    },
+    "uol": "Brooklyn, NY",
+    "gop": {
+      "lat": "40.6526006",
+      "lon": "-73.9497211"
+    },
+    "l": "WHO CARES",
+    "a": "mendonk",
+    "nwo": "datastax/astra-streaming-docs",
+    "pr": 0,
+    "ma": "2024-08-12T21:21:42Z",
+    "oa": "2024-08-12T21:26:46.344Z",
+    "tg": null
   }
 ]
