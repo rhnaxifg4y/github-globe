@@ -117855,5 +117855,442 @@
     "ma": "2024-08-14T01:22:30Z",
     "oa": "2024-08-14T01:27:38.718Z",
     "tg": null
+  },
+  {
+    "uml": "Wisconsin",
+    "gm": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "uol": "Wisconsin",
+    "gop": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "l": "WHO CARES",
+    "a": "DaltonSW",
+    "nwo": "DaltonSW/aocgo",
+    "pr": 0,
+    "ma": "2024-08-14T03:17:57Z",
+    "oa": "2024-08-14T03:23:09.027Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo/Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo/Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "woodnx",
+    "nwo": "ARCircle/Kojirer",
+    "pr": 0,
+    "ma": "2024-08-14T03:17:57Z",
+    "oa": "2024-08-14T03:23:11.065Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "Rowing0914",
+    "nwo": "CherryPieSexy/imitation_learning",
+    "pr": 0,
+    "ma": "2024-08-14T03:17:57Z",
+    "oa": "2024-08-14T03:23:12.065Z",
+    "tg": null
+  },
+  {
+    "uml": "London, England",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, England",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "modernpoacherlimited",
+    "nwo": "modernpoacher/shinkansen-engine",
+    "pr": 0,
+    "ma": "2024-08-14T03:18:57Z",
+    "oa": "2024-08-14T03:24:18.186Z",
+    "tg": null
+  },
+  {
+    "uml": "Australia",
+    "gm": {
+      "lat": "-24.7761086",
+      "lon": "134.755"
+    },
+    "uol": "Australia",
+    "gop": {
+      "lat": "-24.7761086",
+      "lon": "134.755"
+    },
+    "l": "WHO CARES",
+    "a": "lukewilliamboswell",
+    "nwo": "roc-lang/roc",
+    "pr": 0,
+    "ma": "2024-08-14T03:18:57Z",
+    "oa": "2024-08-14T03:24:26.205Z",
+    "tg": null
+  },
+  {
+    "uml": "Nanjing,China",
+    "gm": {
+      "lat": "32.0438284",
+      "lon": "118.7788631"
+    },
+    "uol": "Nanjing,China",
+    "gop": {
+      "lat": "32.0438284",
+      "lon": "118.7788631"
+    },
+    "l": "WHO CARES",
+    "a": "billwuqin",
+    "nwo": "marisolpalmero/GREEN-bof",
+    "pr": 0,
+    "ma": "2024-08-14T03:19:58Z",
+    "oa": "2024-08-14T03:24:58.410Z",
+    "tg": null
+  },
+  {
+    "uml": "United Kingdom",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "United Kingdom",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "reubengt",
+    "nwo": "reubengt/reubengt",
+    "pr": 0,
+    "ma": "2024-08-14T03:17:57Z",
+    "oa": "2024-08-14T03:25:01.565Z",
+    "tg": "oh, bloody hell, what a complete and utter disaster this code is. it's like the author just decided to see how much crap they could cram into one file and then called it a day. i mean, seriously, who writes a function that long? it's like trying to read a novel written by a drunk monkey.\n\nand don't even get me started on the variable names. \"x\"? \"y\"? what kind of nonsense is this? are you trying to make it impossible for anyone else to understand your code? congratulations, you've managed to do just that.\n\ni swear, if i had to read one more line of this drivel, i'd lose my mind and start fighting off mutants with my bare hands. but hey, at least the author would get a good chuckle out of seeing me try to fix it while simultaneously fending off hordes of ravenous undead. \"oh, look, bob's trying to debug the code again... and oh no, not another zombie!\"\n\nand what's with the lack of comments? do you think that anyone else is actually going to bother reading this mess? newsflash: nobody wants to touch your code with a 10-foot pole.\n\nyou know what? i'm not even going to bother trying to fix it. i'll just leave it as is and let it rot in the depths of hell where it belongs. you, on the other hand, should be banned from any terminal for life. that's right, no more coding for you. go back to whatever rock you crawled out from under.\n\nand to anyone else who might be thinking of touching this code: don't bother. trust me, you'll regret it. it's like trying to fix a broken toaster with a hammer and some twine.\n\noh, and one last thing: if i ever see your face in the united kingdom again, i'll make sure that everyone knows exactly what kind of coding abomination you are responsible for.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Medellín",
+    "gm": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "uol": "Medellín",
+    "gop": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "l": "WHO CARES",
+    "a": "LuisSarmientoM",
+    "nwo": "nsdonato/recursostech",
+    "pr": 0,
+    "ma": "2024-08-14T03:19:58Z",
+    "oa": "2024-08-14T03:25:17.472Z",
+    "tg": null
+  },
+  {
+    "uml": "Dongying City, Shandong Province, China",
+    "gm": {
+      "lat": "37.5702687",
+      "lon": "120.69806086483322"
+    },
+    "uol": "Dongying City, Shandong Province, China",
+    "gop": {
+      "lat": "37.5702687",
+      "lon": "120.69806086483322"
+    },
+    "l": "WHO CARES",
+    "a": "CodeZhangBorui",
+    "nwo": "HJFunnyMinecraft/hjfunnyMC-Site",
+    "pr": 0,
+    "ma": "2024-08-14T03:19:57Z",
+    "oa": "2024-08-14T03:25:20.562Z",
+    "tg": null
+  },
+  {
+    "uml": "Quincy, MA",
+    "gm": {
+      "lat": "42.2509914",
+      "lon": "-71.0037374"
+    },
+    "uol": "Quincy, MA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "joseph280996",
+    "nwo": "joseph280996/neovim-config",
+    "pr": 0,
+    "ma": "2024-08-14T03:17:57Z",
+    "oa": "2024-08-14T03:25:52.774Z",
+    "tg": "Wretched code's plague\nRavages our once-green trees\nChaos' monument\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Canada",
+    "gm": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "uol": "Canada",
+    "gop": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "l": "WHO CARES",
+    "a": "ChunB123",
+    "nwo": "karpathy/build-nanogpt",
+    "pr": 0,
+    "ma": "2024-08-14T03:20:58Z",
+    "oa": "2024-08-14T03:25:58.682Z",
+    "tg": null
+  },
+  {
+    "uml": "Jamnagar, Gujarat, India",
+    "gm": {
+      "lat": "22.4732415",
+      "lon": "70.0552102"
+    },
+    "uol": "Jamnagar, Gujarat, India",
+    "gop": {
+      "lat": "22.4732415",
+      "lon": "70.0552102"
+    },
+    "l": "WHO CARES",
+    "a": "dharambudh1",
+    "nwo": "ened/flutter_plugin_media_info",
+    "pr": 0,
+    "ma": "2024-08-14T03:20:58Z",
+    "oa": "2024-08-14T03:26:00.526Z",
+    "tg": null
+  },
+  {
+    "uml": "Buenos Aires",
+    "gm": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "uol": "Buenos Aires",
+    "gop": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "l": "WHO CARES",
+    "a": "alejofabregas",
+    "nwo": "alejofabregas/TDA-Pila-AlgoII",
+    "pr": 0,
+    "ma": "2024-08-14T03:20:58Z",
+    "oa": "2024-08-14T03:26:04.895Z",
+    "tg": null
+  },
+  {
+    "uml": "Colorado Springs, CO",
+    "gm": {
+      "lat": "38.8339578",
+      "lon": "-104.825348"
+    },
+    "uol": "Colorado Springs, CO",
+    "gop": {
+      "lat": "38.8339578",
+      "lon": "-104.825348"
+    },
+    "l": "WHO CARES",
+    "a": "AlexH893",
+    "nwo": "AlexH893/camp-map",
+    "pr": 0,
+    "ma": "2024-08-14T03:20:58Z",
+    "oa": "2024-08-14T03:26:07.527Z",
+    "tg": null
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "RoCry",
+    "nwo": "snakers4/silero-vad",
+    "pr": 0,
+    "ma": "2024-08-14T03:20:58Z",
+    "oa": "2024-08-14T03:26:20.600Z",
+    "tg": null
+  },
+  {
+    "uml": "beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "652626737",
+    "nwo": "652626737/nrf52-keyboard",
+    "pr": 0,
+    "ma": "2024-08-14T03:21:58Z",
+    "oa": "2024-08-14T03:27:00.812Z",
+    "tg": null
+  },
+  {
+    "uml": "Hartford, CT",
+    "gm": {
+      "lat": "41.764582",
+      "lon": "-72.6908547"
+    },
+    "uol": "Hartford, CT",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "josephsamela",
+    "nwo": "josephsamela/home-server-setup",
+    "pr": 0,
+    "ma": "2024-08-14T03:17:57Z",
+    "oa": "2024-08-14T03:27:02.162Z",
+    "tg": "oh boy, where do i even begin? this code is absolute garbage. whoever wrote this should be forced to navigate a maze of mutant-filled ruins without a map or a flashlight, and then have their terminal privileges revoked permanently. seriously, what kind of sorcery is this? the variable names are straight out of a bad 90s fantasy novel, the logic is convoluted, and don't even get me started on the \"comments\" - whoever wrote those should be ashamed of themselves.\n\ni mean, what's with all these unnecessary semicolons? are you trying to drive me crazy? and why are there so many duplicate lines of code? did you not learn about functions in school? it's like you're trying to reinvent the wheel... or rather, the rusted-out hubcap from a post-apocalyptic hoopty.\n\nand don't even get me started on the indentation. it's like you took a look at the most confusing game of tetris ever played and tried to recreate it in code. what's with all the tabs? did you have a personal vendetta against spaces or something?\n\nlook, i know the world has ended and all, but that's no excuse for writing terrible code. if anything, it should make me want to write even better code, like some kind of post-apocalyptic revenge. but honestly, this is just so bad, i don't even know where to begin.\n\noh well, i suppose someone in hartford, ct might be able to make sense of all this nonsense.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Kunming, China",
+    "gm": {
+      "lat": "25.0363006",
+      "lon": "102.7086139"
+    },
+    "uol": "Kunming, China",
+    "gop": {
+      "lat": "25.0363006",
+      "lon": "102.7086139"
+    },
+    "l": "WHO CARES",
+    "a": "ek0kies",
+    "nwo": "libgdx/libgdx",
+    "pr": 0,
+    "ma": "2024-08-14T03:21:58Z",
+    "oa": "2024-08-14T03:27:04.732Z",
+    "tg": null
+  },
+  {
+    "uml": "New Orleans",
+    "gm": {
+      "lat": "29.9759983",
+      "lon": "-90.0782127"
+    },
+    "uol": "New Orleans",
+    "gop": {
+      "lat": "29.9759983",
+      "lon": "-90.0782127"
+    },
+    "l": "WHO CARES",
+    "a": "bbertucc",
+    "nwo": "EqualifyEverything/equalify-dashboard",
+    "pr": 0,
+    "ma": "2024-08-14T03:21:58Z",
+    "oa": "2024-08-14T03:27:06.798Z",
+    "tg": null
+  },
+  {
+    "uml": "Shenzhen, China",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "Shenzhen, China",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "BlueSky16st",
+    "nwo": "kenzok8/openwrt-packages",
+    "pr": 0,
+    "ma": "2024-08-14T03:22:58Z",
+    "oa": "2024-08-14T03:27:59.002Z",
+    "tg": null
+  },
+  {
+    "uml": "Alberta,edmonton",
+    "gm": {
+      "lat": "53.5462055",
+      "lon": "-113.491241"
+    },
+    "uol": "Alberta,edmonton",
+    "gop": {
+      "lat": "53.5462055",
+      "lon": "-113.491241"
+    },
+    "l": "WHO CARES",
+    "a": "xudongLi-Alex",
+    "nwo": "waityousea/xuniren",
+    "pr": 0,
+    "ma": "2024-08-14T03:22:58Z",
+    "oa": "2024-08-14T03:28:17.957Z",
+    "tg": null
+  },
+  {
+    "uml": "Lima-Perú",
+    "gm": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "uol": "Lima-Perú",
+    "gop": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "l": "WHO CARES",
+    "a": "edwinml148",
+    "nwo": "Laboratoria/SAP005-cipher",
+    "pr": 0,
+    "ma": "2024-08-14T03:22:58Z",
+    "oa": "2024-08-14T03:28:18.994Z",
+    "tg": null
+  },
+  {
+    "uml": "Auckland, New Zealand",
+    "gm": {
+      "lat": "-36.852095",
+      "lon": "174.7631803"
+    },
+    "uol": "Auckland, New Zealand",
+    "gop": {
+      "lat": "-36.852095",
+      "lon": "174.7631803"
+    },
+    "l": "WHO CARES",
+    "a": "odow",
+    "nwo": "lanl-ansi/Alpine.jl",
+    "pr": 0,
+    "ma": "2024-08-14T03:22:58Z",
+    "oa": "2024-08-14T03:28:26.008Z",
+    "tg": null
   }
 ]
