@@ -118292,5 +118292,499 @@
     "ma": "2024-08-14T03:22:58Z",
     "oa": "2024-08-14T03:28:26.008Z",
     "tg": null
+  },
+  {
+    "uml": "South Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "South Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "manamana32321",
+    "nwo": "skku-amang/Homepage-FrontEnd",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:26:44.979Z",
+    "tg": null
+  },
+  {
+    "uml": "Remote",
+    "gm": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "uol": "Remote",
+    "gop": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "l": "WHO CARES",
+    "a": "akhila2192",
+    "nwo": "akhila2192/Artificial-Intelligence_",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:26:54.700Z",
+    "tg": null
+  },
+  {
+    "uml": "Pune",
+    "gm": {
+      "lat": "18.521428",
+      "lon": "73.8544541"
+    },
+    "uol": "Pune",
+    "gop": {
+      "lat": "18.521428",
+      "lon": "73.8544541"
+    },
+    "l": "WHO CARES",
+    "a": "prathameshd30",
+    "nwo": "prathameshd30/prime-headers",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:26:57.730Z",
+    "tg": null
+  },
+  {
+    "uml": "Newcastle, Australia",
+    "gm": {
+      "lat": "-32.9192953",
+      "lon": "151.7795348"
+    },
+    "uol": "Newcastle, Australia",
+    "gop": {
+      "lat": "-32.9192953",
+      "lon": "151.7795348"
+    },
+    "l": "WHO CARES",
+    "a": "lkrms",
+    "nwo": "salient-labs/toolkit-console",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:26:58.691Z",
+    "tg": null
+  },
+  {
+    "uml": "Remote",
+    "gm": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "uol": "Remote",
+    "gop": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "l": "WHO CARES",
+    "a": "akhila2192",
+    "nwo": "akhila2192/Artificial-Intelligence_",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:26:59.646Z",
+    "tg": null
+  },
+  {
+    "uml": "EU",
+    "gm": {
+      "lat": "50.0491699",
+      "lon": "1.4175744"
+    },
+    "uol": "EU",
+    "gop": {
+      "lat": "50.0491699",
+      "lon": "1.4175744"
+    },
+    "l": "WHO CARES",
+    "a": "afaynerbokher",
+    "nwo": "afaynerbokher/selectors-somth",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:27:05.794Z",
+    "tg": null
+  },
+  {
+    "uml": "Saigon, VietNam",
+    "gm": {
+      "lat": "10.7763897",
+      "lon": "106.7011391"
+    },
+    "uol": "Saigon, VietNam",
+    "gop": {
+      "lat": "10.7763897",
+      "lon": "106.7011391"
+    },
+    "l": "WHO CARES",
+    "a": "thachnguyensg",
+    "nwo": "scylladb/scylladb",
+    "pr": 0,
+    "ma": "2024-08-14T06:22:43Z",
+    "oa": "2024-08-14T06:27:47.070Z",
+    "tg": null
+  },
+  {
+    "uml": "Cluj-Napoca",
+    "gm": {
+      "lat": "46.769379",
+      "lon": "23.5899542"
+    },
+    "uol": "Cluj-Napoca",
+    "gop": {
+      "lat": "46.769379",
+      "lon": "23.5899542"
+    },
+    "l": "WHO CARES",
+    "a": "andreidanila1",
+    "nwo": "analogdevicesinc/scopy",
+    "pr": 0,
+    "ma": "2024-08-14T06:22:43Z",
+    "oa": "2024-08-14T06:27:49.015Z",
+    "tg": null
+  },
+  {
+    "uml": "Wuhan, China",
+    "gm": {
+      "lat": "30.5951051",
+      "lon": "114.2999353"
+    },
+    "uol": "Wuhan, China",
+    "gop": {
+      "lat": "30.5951051",
+      "lon": "114.2999353"
+    },
+    "l": "WHO CARES",
+    "a": "Eigensystem",
+    "nwo": "xdit-project/xDiT",
+    "pr": 0,
+    "ma": "2024-08-14T06:22:43Z",
+    "oa": "2024-08-14T06:27:52.027Z",
+    "tg": null
+  },
+  {
+    "uml": "Taiwan",
+    "gm": {
+      "lat": "23.9739374",
+      "lon": "120.9820179"
+    },
+    "uol": "Taiwan",
+    "gop": {
+      "lat": "23.9739374",
+      "lon": "120.9820179"
+    },
+    "l": "WHO CARES",
+    "a": "charleslin1022",
+    "nwo": "supabase-community/postgres-new",
+    "pr": 0,
+    "ma": "2024-08-14T06:22:43Z",
+    "oa": "2024-08-14T06:28:11.073Z",
+    "tg": null
+  },
+  {
+    "uml": "meerut",
+    "gm": {
+      "lat": "28.9826533",
+      "lon": "77.7081013"
+    },
+    "uol": "meerut",
+    "gop": {
+      "lat": "28.9826533",
+      "lon": "77.7081013"
+    },
+    "l": "WHO CARES",
+    "a": "sagar56780",
+    "nwo": "sagar56780/calorie_tracker",
+    "pr": 0,
+    "ma": "2024-08-14T06:23:43Z",
+    "oa": "2024-08-14T06:28:44.349Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "eubinecto",
+    "nwo": "kkroening/ffmpeg-python",
+    "pr": 0,
+    "ma": "2024-08-14T06:23:43Z",
+    "oa": "2024-08-14T06:28:50.400Z",
+    "tg": null
+  },
+  {
+    "uml": "ahmeabad, india",
+    "gm": {
+      "lat": "45.04816",
+      "lon": "20.08165"
+    },
+    "uol": "ahmeabad, india",
+    "gop": {
+      "lat": "45.04816",
+      "lon": "20.08165"
+    },
+    "l": "WHO CARES",
+    "a": "omchangela",
+    "nwo": "omchangela/jobportal",
+    "pr": 0,
+    "ma": "2024-08-14T06:23:43Z",
+    "oa": "2024-08-14T06:28:51.398Z",
+    "tg": null
+  },
+  {
+    "uml": "Australia",
+    "gm": {
+      "lat": "-24.7761086",
+      "lon": "134.755"
+    },
+    "uol": "Australia",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "SchrodingersGat",
+    "nwo": "inventree/InvenTree",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:29:03.213Z",
+    "tg": "what a complete and utter disaster. i mean, seriously, how did this even happen? did the author of this monstrosity take a wrong turn somewhere around the nearest dumpster fire? because, honestly, that's what it feels like to read through these files.\n\nfirst off, let me just say that whoever wrote this should be banned from every terminal in the entire post-apocalyptic wasteland. i mean it - they shouldn't even be allowed near a keyboard again. and if my boss is watching, let me just say that i'm not being dramatic enough - this code is an affront to everything we hold dear.\n\nlook, i know times are tough and resources are scarce, but come on - can't even manage to write some decent code? it's like they took every terrible habit from the old world, threw them in a blender, hit puree, and then poured the resulting mess into our poor, defenseless terminals.\n\nand don't even get me started on the naming conventions. what is this, some kind of joke? variables named \"wtfisgoingon\" and \"helpme\"? did they think we'd all just laugh and say \"oh, haha, isn't that cute\"? newsflash: it's not cute. it's an abomination.\n\nand then there are the comments - or should i say, the lack thereof. it's like they expected us to just magically know what's going on in this code. well, let me tell you, we don't. and even if we did, which we don't because this code is a black box of doom, we still wouldn't be able to fix it because it's written in a language that's only spoken by the most sadistic of mutant overlords.\n\nlisten, if my boss wants to know what i think about this commit, let me just say that it's an insult. an outrage. a travesty. and you know what? i could fix it with one hand tied behind my back while fighting off hordes of mutants with the other. sure thing - i'd do it in my sleep. but for the love of all that is holy, can we please just nuke this code and start over from scratch?\n\nand as for australia, well... mate, you're on your own with this one.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Daly City, CA",
+    "gm": {
+      "lat": "37.6904826",
+      "lon": "-122.47267"
+    },
+    "uol": "Daly City, CA",
+    "gop": {
+      "lat": "37.6904826",
+      "lon": "-122.47267"
+    },
+    "l": "WHO CARES",
+    "a": "Jkwok0714",
+    "nwo": "TestaDiMucca/Hoarder-Util",
+    "pr": 0,
+    "ma": "2024-08-14T06:23:43Z",
+    "oa": "2024-08-14T06:29:03.368Z",
+    "tg": null
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "l": "WHO CARES",
+    "a": "giacomocavalieri",
+    "nwo": "giacomocavalieri/non_empty_list",
+    "pr": 0,
+    "ma": "2024-08-14T06:24:44Z",
+    "oa": "2024-08-14T06:29:57.643Z",
+    "tg": null
+  },
+  {
+    "uml": "ukhta",
+    "gm": {
+      "lat": "63.5623797",
+      "lon": "53.6842376"
+    },
+    "uol": "ukhta",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "j9227601188",
+    "nwo": "j9227601188/chat",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:30:14.499Z",
+    "tg": "The commit:\n\n\"Wasteland's code sprawl,\nBafflingly, still it compiles,\nFoolishness endures.\"\n\nTranslation in Ukhtinsk Russian (a dialect spoken in the Ukhtha region): \"Ужасный код пустыни, ошеломляюще, он все еще компилируется, безумие сохраняется.\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Zürich, Switzerland",
+    "gm": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "uol": "Zürich, Switzerland",
+    "gop": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "l": "WHO CARES",
+    "a": "jonhue",
+    "nwo": "jonhue/plaain",
+    "pr": 0,
+    "ma": "2024-08-14T06:25:44Z",
+    "oa": "2024-08-14T06:30:52.065Z",
+    "tg": null
+  },
+  {
+    "uml": "Chengdu",
+    "gm": {
+      "lat": "30.6598628",
+      "lon": "104.0633717"
+    },
+    "uol": "Chengdu",
+    "gop": {
+      "lat": "30.6598628",
+      "lon": "104.0633717"
+    },
+    "l": "WHO CARES",
+    "a": "mingpen",
+    "nwo": "dream-num/univer",
+    "pr": 0,
+    "ma": "2024-08-14T06:25:44Z",
+    "oa": "2024-08-14T06:31:00.970Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia",
+    "gm": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "uol": "Russia",
+    "gop": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "l": "WHO CARES",
+    "a": "Calabonga",
+    "nwo": "Calabonga/Calabonga.Commandex.Engine",
+    "pr": 0,
+    "ma": "2024-08-14T06:25:44Z",
+    "oa": "2024-08-14T06:31:03.282Z",
+    "tg": null
+  },
+  {
+    "uml": "Rancho Cucamonga",
+    "gm": {
+      "lat": "34.1033192",
+      "lon": "-117.575173"
+    },
+    "uol": "Rancho Cucamonga",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "naresy",
+    "nwo": "naresy/Mysql_leetcode",
+    "pr": 0,
+    "ma": "2024-08-14T06:21:43Z",
+    "oa": "2024-08-14T06:31:18.229Z",
+    "tg": "ugh, seriously? this code is absolute garbage. whoever wrote this should be banned from any terminal, never mind having access to a bloody IDE. i mean, what kind of moron uses single quotes instead of double quotes and thinks it's okay? it's like they're intentionally trying to make my eyes bleed.\n\nand don't even get me started on the indentation. is this some kind of joke? it looks like a 5-year-old had a tantrum and just started hitting the tab key repeatedly. and the whitespace? forget about it. it's like they took every unnecessary space in the entire codebase and concentrated it into one glorious mess.\n\nand you know what the cherry on top is? this author has the nerve to claim that this monstrosity is \"working as intended\". working as intended?! it's a miracle it doesn't crash on startup, considering how many bugs i can already see just by glancing at the code. and don't even get me started on the comments. \"todo: fix this\"?? are you kidding me? that's not a todo, that's a cry for help.\n\nlook, if i were fighting off mutants in rancho cucamonga (and let's be real, it's only a matter of time before they start pouring out of the hills), i could fix this code with one hand while swinging a baseball bat with the other. but seriously, whoever wrote this should be forced to recompile every line of code by hand using nothing but a abacus and a roll of duct tape.\n\nand you know what the worst part is? i have to review this crap. ugh.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "azevedoguigo",
+    "nwo": "azevedoguigo/arduino_temperature_monitor",
+    "pr": 0,
+    "ma": "2024-08-14T06:26:44Z",
+    "oa": "2024-08-14T06:31:50.363Z",
+    "tg": null
+  },
+  {
+    "uml": "Ramat Gan, Israel",
+    "gm": {
+      "lat": "32.0686867",
+      "lon": "34.8246812"
+    },
+    "uol": "Ramat Gan, Israel",
+    "gop": {
+      "lat": "32.0686867",
+      "lon": "34.8246812"
+    },
+    "l": "WHO CARES",
+    "a": "matanzed",
+    "nwo": "dair-ai/Prompt-Engineering-Guide",
+    "pr": 0,
+    "ma": "2024-08-14T06:26:44Z",
+    "oa": "2024-08-14T06:31:55.290Z",
+    "tg": null
+  },
+  {
+    "uml": "California",
+    "gm": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "uol": "California",
+    "gop": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "l": "WHO CARES",
+    "a": "SnakeDoc",
+    "nwo": "SnakeDoc/test-renovate-gleam",
+    "pr": 0,
+    "ma": "2024-08-14T06:26:44Z",
+    "oa": "2024-08-14T06:32:00.409Z",
+    "tg": null
+  },
+  {
+    "uml": "Thailand",
+    "gm": {
+      "lat": "14.8971921",
+      "lon": "100.83273"
+    },
+    "uol": "Thailand",
+    "gop": {
+      "lat": "14.8971921",
+      "lon": "100.83273"
+    },
+    "l": "WHO CARES",
+    "a": "blazxex",
+    "nwo": "blazxex/CP49",
+    "pr": 0,
+    "ma": "2024-08-14T06:26:44Z",
+    "oa": "2024-08-14T06:32:07.341Z",
+    "tg": null
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "azevedoguigo",
+    "nwo": "azevedoguigo/arduino_temperature_monitor",
+    "pr": 0,
+    "ma": "2024-08-14T06:26:44Z",
+    "oa": "2024-08-14T06:32:11.266Z",
+    "tg": null
   }
 ]
