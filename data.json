@@ -118786,5 +118786,366 @@
     "ma": "2024-08-14T06:26:44Z",
     "oa": "2024-08-14T06:32:11.266Z",
     "tg": null
+  },
+  {
+    "uml": "Guangzhou,China",
+    "gm": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "uol": "Guangzhou,China",
+    "gop": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "l": "WHO CARES",
+    "a": "751496032",
+    "nwo": "751496032/OkHttpUtils",
+    "pr": 0,
+    "ma": "2024-08-14T09:16:28Z",
+    "oa": "2024-08-14T09:21:41.234Z",
+    "tg": null
+  },
+  {
+    "uml": "Ho Chi Minh City - Viet Nam",
+    "gm": {
+      "lat": "10.7763897",
+      "lon": "106.7011391"
+    },
+    "uol": "Ho Chi Minh City - Viet Nam",
+    "gop": {
+      "lat": "10.7763897",
+      "lon": "106.7011391"
+    },
+    "l": "WHO CARES",
+    "a": "giakhang94",
+    "nwo": "giakhang94/maylanh",
+    "pr": 0,
+    "ma": "2024-08-14T09:16:28Z",
+    "oa": "2024-08-14T09:21:42.219Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "PresentJay",
+    "nwo": "andri27-ts/Reinforcement-Learning",
+    "pr": 0,
+    "ma": "2024-08-14T09:16:28Z",
+    "oa": "2024-08-14T09:21:44.300Z",
+    "tg": null
+  },
+  {
+    "uml": "Krakow, Poland",
+    "gm": {
+      "lat": "50.0619474",
+      "lon": "19.9368564"
+    },
+    "uol": "Krakow, Poland",
+    "gop": {
+      "lat": "50.0619474",
+      "lon": "19.9368564"
+    },
+    "l": "WHO CARES",
+    "a": "Thoughtseize1",
+    "nwo": "GoogleCloudPlatform/python-docs-samples",
+    "pr": 0,
+    "ma": "2024-08-14T09:16:26Z",
+    "oa": "2024-08-14T09:21:50.271Z",
+    "tg": null
+  },
+  {
+    "uml": "Helsinki",
+    "gm": {
+      "lat": "60.1674881",
+      "lon": "24.9427473"
+    },
+    "uol": "Helsinki",
+    "gop": {
+      "lat": "60.1674881",
+      "lon": "24.9427473"
+    },
+    "l": "WHO CARES",
+    "a": "haoAddsearch",
+    "nwo": "AddSearch/search-ui",
+    "pr": 0,
+    "ma": "2024-08-14T09:16:28Z",
+    "oa": "2024-08-14T09:21:56.365Z",
+    "tg": null
+  },
+  {
+    "uml": "Dresden, Germany",
+    "gm": {
+      "lat": "51.0493286",
+      "lon": "13.7381437"
+    },
+    "uol": "Dresden, Germany",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "midzer",
+    "nwo": "lokal-ninja/guyane",
+    "pr": 0,
+    "ma": "2024-08-14T09:15:28Z",
+    "oa": "2024-08-14T09:22:01.134Z",
+    "tg": "The commit of despair. Here's my haiku:\n\nRubble and code merge\nFoolishness blooms amidst ruin\nApocalypse reigns\n\n(And if you don't like it, well, I'm a senior dev in a post-apocalyptic world - what can I say? The world is ending, but the code remains.)\n\nAs for your request about Dresden, Germany: \"Denn die Ruine ist der Preis\" (For the ruin is the price).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "shanghai/china",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "shanghai/china",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "yangyang5214",
+    "nwo": "yangyang5214/heatmap",
+    "pr": 0,
+    "ma": "2024-08-14T09:17:29Z",
+    "oa": "2024-08-14T09:22:35.461Z",
+    "tg": null
+  },
+  {
+    "uml": "Barcelona",
+    "gm": {
+      "lat": "41.3828939",
+      "lon": "2.1774322"
+    },
+    "uol": "Barcelona",
+    "gop": {
+      "lat": "41.3828939",
+      "lon": "2.1774322"
+    },
+    "l": "WHO CARES",
+    "a": "bielcarpi",
+    "nwo": "graph-gophers/dataloader",
+    "pr": 0,
+    "ma": "2024-08-14T09:17:29Z",
+    "oa": "2024-08-14T09:22:54.494Z",
+    "tg": null
+  },
+  {
+    "uml": "Tsukuba, Japan",
+    "gm": {
+      "lat": "36.0833265",
+      "lon": "140.077279"
+    },
+    "uol": "Tsukuba, Japan",
+    "gop": {
+      "lat": "36.0833265",
+      "lon": "140.077279"
+    },
+    "l": "WHO CARES",
+    "a": "Okabe-Junya",
+    "nwo": "kubernetes/website",
+    "pr": 0,
+    "ma": "2024-08-14T09:17:29Z",
+    "oa": "2024-08-14T09:22:55.433Z",
+    "tg": null
+  },
+  {
+    "uml": "Nottingham",
+    "gm": {
+      "lat": "52.9534193",
+      "lon": "-1.1496461"
+    },
+    "uol": "Nottingham",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "SerenKnight",
+    "nwo": "SerenKnight/Project-Euler",
+    "pr": 0,
+    "ma": "2024-08-14T09:15:28Z",
+    "oa": "2024-08-14T09:23:06.541Z",
+    "tg": "oh joy, another masterpiece from our esteemed colleague. i mean, seriously, how do people like this even exist? it's like they've never seen a proper if statement or a well-structured loop in their lives. and don't even get me started on the variable naming - \"x\" and \"y\"? are you kidding me? what kind of amateur tries to pass off such drivel as code?\n\nand then there's the logic. oh boy, where do i even begin? it's like they took every terrible programming habit they learned from watching cat videos online and mashed them all together into this beautiful mess. i mean, seriously, who uses a global variable for a counter? have you ever heard of \"local\" or \"encapsulated\"? no? well, that's because our friend here has never heard of such things.\n\nand let's not forget the comments. oh, the glorious, soulless, completely-useless comments. \"does this thingy thing\". yeah, real helpful. i'm sure nobody else has ever wondered what on earth that snippet of code was supposed to do. thanks for nothing, friend.\n\nas for fixing it... ha! please. i could rewrite this entire mess in my sleep while simultaneously fighting off hordes of mutants in nottingham (nice place, really, but don't get me started). seriously, though - if you're going to write code that's so bad it makes your eyes hurt just looking at it, at least have the decency to put a disclaimer saying \"i give up\" or something. \n\nanyway, i think we can all agree that this author should be banned from any terminal for life. like, seriously, they're a danger to themselves and everyone around them. i mean, what's next? are they going to start using perl?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "中国·上海大都市圈",
+    "gm": {
+      "lat": "34.705044",
+      "lon": "135.2263223"
+    },
+    "uol": "中国·上海大都市圈",
+    "gop": {
+      "lat": "34.705044",
+      "lon": "135.2263223"
+    },
+    "l": "WHO CARES",
+    "a": "goroyal",
+    "nwo": "langgenius/dify",
+    "pr": 0,
+    "ma": "2024-08-14T09:18:29Z",
+    "oa": "2024-08-14T09:23:32.096Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "afroeschl",
+    "nwo": "afroeschl/loadShift",
+    "pr": 0,
+    "ma": "2024-08-14T09:18:29Z",
+    "oa": "2024-08-14T09:23:49.690Z",
+    "tg": null
+  },
+  {
+    "uml": "Amsterdam",
+    "gm": {
+      "lat": "52.3730796",
+      "lon": "4.8924534"
+    },
+    "uol": "Amsterdam",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "JCZuurmond",
+    "nwo": "databrickslabs/ucx",
+    "pr": 0,
+    "ma": "2024-08-14T09:15:28Z",
+    "oa": "2024-08-14T09:24:18.608Z",
+    "tg": "In Dutch:\n\n\"Een chaoscode, zo stil als de dood\"\n\nTranslated to English:\n\n\"A code of chaos, as still as death\"\n\nThis haiku reflects on how the commit is a disaster amidst the chaos and destruction of the post-apocalyptic world. The phrase \"as still as death\" implies that even in this desolate environment, the code remains lifeless and unresponsive, much like the silence that follows a fatal blow.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Berlin",
+    "gm": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "uol": "Berlin",
+    "gop": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "l": "WHO CARES",
+    "a": "kt86",
+    "nwo": "matsim-vsp/logistics",
+    "pr": 0,
+    "ma": "2024-08-14T09:20:29Z",
+    "oa": "2024-08-14T09:25:33.217Z",
+    "tg": null
+  },
+  {
+    "uml": "Zurich, Switzerland",
+    "gm": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "uol": "Zurich, Switzerland",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "pmrotule",
+    "nwo": "accesimpot/graphql-lookahead",
+    "pr": 0,
+    "ma": "2024-08-14T09:15:28Z",
+    "oa": "2024-08-14T09:25:34.655Z",
+    "tg": "oh joy, another masterpiece from the author of this abomination. i mean, seriously, who does this? it's like they took every terrible coding practice and mashed them all together into one big ball of suck. \n\nlook at these variable names - what is \"x\" supposed to be? a cleverly disguised magic number? and don't even get me started on the indentation - it's like they hit the random button on their editor and hoped for the best.\n\nand the logic! or should i say, the complete lack thereof. it's like they took a bunch of unrelated things, threw them into a blender, hit puree, and then called it a day. \"oh, yeah, this works... mostly.\" no, it doesn't work. it's a mess.\n\ni'm surprised they didn't include any null pointer dereferences or division by zero errors. that would be the cherry on top of this turd sundae. \n\nas for the author, i think it's time to take away their terminal privileges. forever. yes, i know that sounds harsh, but trust me, it's for the greater good. we don't need people like this infecting our codebase with their terrible coding practices.\n\nand you know what? i could fix this mess in one hand while fighting off mutants with the other. i mean, seriously, i'm a senior dev - i've seen worse. much, much worse. but that's not the point. the point is that this author should be ashamed of themselves.\n\nso, to all the authors out there who think they can get away with this nonsense, let me say this: if you're going to write code, at least have the decency to make it decent. don't insult my intelligence (and everyone else's) by serving up this swill.\n\nand as for zurich, switzerland... well, that's a nice place, i hear. maybe one day we can all go there and enjoy some actual, good coding practices.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "mbg",
+    "nwo": "github/codeql",
+    "pr": 0,
+    "ma": "2024-08-14T09:14:31Z",
+    "oa": "2024-08-14T09:25:35.194Z",
+    "tg": null
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "mbg",
+    "nwo": "github/codeql",
+    "pr": 0,
+    "ma": "2024-08-14T09:19:59Z",
+    "oa": "2024-08-14T09:25:36.039Z",
+    "tg": null
+  },
+  {
+    "uml": "Leichlingen",
+    "gm": {
+      "lat": "51.1059639",
+      "lon": "7.0140304"
+    },
+    "uol": "Leichlingen",
+    "gop": {
+      "lat": "51.1059639",
+      "lon": "7.0140304"
+    },
+    "l": "WHO CARES",
+    "a": "evgeni",
+    "nwo": "theforeman/puppet-pulpcore",
+    "pr": 0,
+    "ma": "2024-08-14T09:20:28Z",
+    "oa": "2024-08-14T09:25:37.072Z",
+    "tg": null
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "mbg",
+    "nwo": "github/codeql",
+    "pr": 0,
+    "ma": "2024-08-14T09:18:57Z",
+    "oa": "2024-08-14T09:25:38.014Z",
+    "tg": null
   }
 ]
