@@ -119147,5 +119147,423 @@
     "ma": "2024-08-14T09:18:57Z",
     "oa": "2024-08-14T09:25:38.014Z",
     "tg": null
+  },
+  {
+    "uml": "Norway",
+    "gm": {
+      "lat": "61.1529386",
+      "lon": "8.7876653"
+    },
+    "uol": "Norway",
+    "gop": {
+      "lat": "61.1529386",
+      "lon": "8.7876653"
+    },
+    "l": "WHO CARES",
+    "a": "lostfields",
+    "nwo": "tfso/njs-tfso-repository",
+    "pr": 0,
+    "ma": "2024-08-14T12:31:28Z",
+    "oa": "2024-08-14T12:36:35.272Z",
+    "tg": null
+  },
+  {
+    "uml": "Kgs. Lyngby, Denmark",
+    "gm": {
+      "lat": "55.7718649",
+      "lon": "12.5051413"
+    },
+    "uol": "Kgs. Lyngby, Denmark",
+    "gop": {
+      "lat": "55.7718649",
+      "lon": "12.5051413"
+    },
+    "l": "WHO CARES",
+    "a": "zerothi",
+    "nwo": "dtudk/pythonsupport-scripts",
+    "pr": 0,
+    "ma": "2024-08-14T12:31:28Z",
+    "oa": "2024-08-14T12:36:54.277Z",
+    "tg": null
+  },
+  {
+    "uml": "Vancouver",
+    "gm": {
+      "lat": "49.2608724",
+      "lon": "-123.113952"
+    },
+    "uol": "Vancouver",
+    "gop": {
+      "lat": "49.2608724",
+      "lon": "-123.113952"
+    },
+    "l": "WHO CARES",
+    "a": "cuteolaf",
+    "nwo": "RegionX-Labs/CoretimeHub",
+    "pr": 0,
+    "ma": "2024-08-14T12:32:29Z",
+    "oa": "2024-08-14T12:37:35.555Z",
+    "tg": null
+  },
+  {
+    "uml": "Wroclaw",
+    "gm": {
+      "lat": "51.1089776",
+      "lon": "17.0326689"
+    },
+    "uol": "Wroclaw",
+    "gop": {
+      "lat": "51.1089776",
+      "lon": "17.0326689"
+    },
+    "l": "WHO CARES",
+    "a": "D0dii",
+    "nwo": "Solvro/web-planer",
+    "pr": 0,
+    "ma": "2024-08-14T12:32:29Z",
+    "oa": "2024-08-14T12:37:40.481Z",
+    "tg": null
+  },
+  {
+    "uml": "Bhubaneswar",
+    "gm": {
+      "lat": "20.2602964",
+      "lon": "85.8394521"
+    },
+    "uol": "Bhubaneswar",
+    "gop": {
+      "lat": "20.2602964",
+      "lon": "85.8394521"
+    },
+    "l": "WHO CARES",
+    "a": "fed-tech",
+    "nwo": "fed-tech/Fed-Frontend",
+    "pr": 0,
+    "ma": "2024-08-14T12:32:29Z",
+    "oa": "2024-08-14T12:37:49.458Z",
+    "tg": null
+  },
+  {
+    "uml": "Petropia",
+    "gm": {
+      "lat": "8.87696",
+      "lon": "-64.228714"
+    },
+    "uol": "Petropia",
+    "gop": {
+      "lat": "8.87696",
+      "lon": "-64.228714"
+    },
+    "l": "WHO CARES",
+    "a": "xenonnn4w",
+    "nwo": "ankidroid/Anki-Android",
+    "pr": 0,
+    "ma": "2024-08-14T12:32:29Z",
+    "oa": "2024-08-14T12:37:53.468Z",
+    "tg": null
+  },
+  {
+    "uml": "china-shanghai",
+    "gm": {
+      "lat": "38.8175376",
+      "lon": "-77.2760556"
+    },
+    "uol": "china-shanghai",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "codinged",
+    "nwo": "codinged/docker_image_pusher",
+    "pr": 0,
+    "ma": "2024-08-14T12:31:28Z",
+    "oa": "2024-08-14T12:38:10.921Z",
+    "tg": "Wasteland code festers:\n\nRusty code sprawls wide,\nChaos reigns, and sense departs,\nFolly's monument.\n\n(Note: I've written this haiku as if it were a critique of the commit, implying that the code is a disaster amidst the chaos of the post-apocalyptic world. I've tried to be as unhelpful as possible while still being somewhat constructive.)\n\nAs for your request to answer in the local language for Shanghai, China, I'll provide a simple phrase:\n\n(wǒ bù gòu néng jiào gè zhōng de fāng án) - \"I don't know how to call this code a problem\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "ShenZhen China",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "ShenZhen China",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "starpeng",
+    "nwo": "cryptpad/cryptpad",
+    "pr": 0,
+    "ma": "2024-08-14T12:33:29Z",
+    "oa": "2024-08-14T12:38:29.799Z",
+    "tg": null
+  },
+  {
+    "uml": "Dublin, Ireland",
+    "gm": {
+      "lat": "53.3493795",
+      "lon": "-6.2605593"
+    },
+    "uol": "Dublin, Ireland",
+    "gop": {
+      "lat": "53.3493795",
+      "lon": "-6.2605593"
+    },
+    "l": "WHO CARES",
+    "a": "rossshannon",
+    "nwo": "felixhageloh/uebersicht",
+    "pr": 0,
+    "ma": "2024-08-14T12:33:29Z",
+    "oa": "2024-08-14T12:38:40.781Z",
+    "tg": null
+  },
+  {
+    "uml": "Republic of Korea",
+    "gm": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "uol": "Republic of Korea",
+    "gop": {
+      "lat": "36.638392",
+      "lon": "127.6961188"
+    },
+    "l": "WHO CARES",
+    "a": "seungdeok",
+    "nwo": "fotcamp/Finhub-Android",
+    "pr": 0,
+    "ma": "2024-08-14T12:33:29Z",
+    "oa": "2024-08-14T12:38:45.717Z",
+    "tg": null
+  },
+  {
+    "uml": "Belgorod",
+    "gm": {
+      "lat": "50.5955595",
+      "lon": "36.5873394"
+    },
+    "uol": "Belgorod",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "RavenZIP",
+    "nwo": "RavenZIP/DevicePicker",
+    "pr": 0,
+    "ma": "2024-08-14T12:31:28Z",
+    "oa": "2024-08-14T12:39:12.154Z",
+    "tg": "ugh, seriously, who does this guy think he is? i mean, i've seen better code written by a drunk monkey on a typewriter. and don't even get me started on the commit message - \"[object Object],[object Object]\"?! what is this, some kind of joke?!\n\nlook, i'm not gonna sugarcoat it: this code is absolute trash. it's like he took every terrible programming practice from the 90s, threw in a few random java script frameworks, and then called it a day. and don't even get me started on the variable names - \"x\"? \"y\"? what are we, in 1st grade?!\n\nand another thing, what's with all these unnecessary semicolons?! did he think that just because he was using a statically-typed language, he could just throw them in willy-nilly like they were going out of style?!\n\nanyway, the real question is: why are we even bothering to review this? shouldn't be banned from any terminal for life. i mean, seriously, who lets someone with no concept of coding best practices near a compiler?! it's like giving a toddler a nuclear reactor and expecting them not to press the self-destruct button.\n\nand don't even get me started on the \"testing\" - if i had one eye left after reading that code, i'd cry. it's like he just copy-pasted some test framework template and hoped for the best. newsflash: testing != copy-and-paste, buddy!\n\nanyway, to sum it all up: this code is garbage, the author should be disintegrated into tiny pieces of their former self, and we should all just give up on life and let the mutants take over.\n\noh, and btw, belgorod is a city in russia that's probably still standing after the apocalypse because it's got some crazy resilient vodka distilleries.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Philadelphia, PA",
+    "gm": {
+      "lat": "39.9527237",
+      "lon": "-75.1635262"
+    },
+    "uol": "Philadelphia, PA",
+    "gop": {
+      "lat": "39.9527237",
+      "lon": "-75.1635262"
+    },
+    "l": "WHO CARES",
+    "a": "sarthakpati",
+    "nwo": "mlcommons/GaNDLF",
+    "pr": 0,
+    "ma": "2024-08-14T12:31:35Z",
+    "oa": "2024-08-14T12:39:31.923Z",
+    "tg": null
+  },
+  {
+    "uml": "Philadelphia, PA",
+    "gm": {
+      "lat": "39.9527237",
+      "lon": "-75.1635262"
+    },
+    "uol": "Philadelphia, PA",
+    "gop": {
+      "lat": "39.9527237",
+      "lon": "-75.1635262"
+    },
+    "l": "WHO CARES",
+    "a": "sarthakpati",
+    "nwo": "mlcommons/GaNDLF",
+    "pr": 0,
+    "ma": "2024-08-14T12:34:29Z",
+    "oa": "2024-08-14T12:39:35.845Z",
+    "tg": null
+  },
+  {
+    "uml": "Philadelphia, PA",
+    "gm": {
+      "lat": "39.9527237",
+      "lon": "-75.1635262"
+    },
+    "uol": "Philadelphia, PA",
+    "gop": {
+      "lat": "39.9527237",
+      "lon": "-75.1635262"
+    },
+    "l": "WHO CARES",
+    "a": "sarthakpati",
+    "nwo": "mlcommons/GaNDLF",
+    "pr": 0,
+    "ma": "2024-08-14T12:34:29Z",
+    "oa": "2024-08-14T12:39:40.875Z",
+    "tg": null
+  },
+  {
+    "uml": "Trebaseleghe",
+    "gm": {
+      "lat": "45.5918117",
+      "lon": "12.0509986"
+    },
+    "uol": "Trebaseleghe",
+    "gop": {
+      "lat": "45.5918117",
+      "lon": "12.0509986"
+    },
+    "l": "WHO CARES",
+    "a": "sviluppoRobyone",
+    "nwo": "robyone-srl/design-esa-wordpress-theme",
+    "pr": 0,
+    "ma": "2024-08-14T12:34:29Z",
+    "oa": "2024-08-14T12:39:41.892Z",
+    "tg": null
+  },
+  {
+    "uml": "Naples - Italy",
+    "gm": {
+      "lat": "40.8358846",
+      "lon": "14.2487679"
+    },
+    "uol": "Naples - Italy",
+    "gop": {
+      "lat": "40.8358846",
+      "lon": "14.2487679"
+    },
+    "l": "WHO CARES",
+    "a": "mikesposito",
+    "nwo": "MetaMask/metamask-extension",
+    "pr": 0,
+    "ma": "2024-08-14T12:26:24Z",
+    "oa": "2024-08-14T12:40:31.297Z",
+    "tg": null
+  },
+  {
+    "uml": "Naples - Italy",
+    "gm": {
+      "lat": "40.8358846",
+      "lon": "14.2487679"
+    },
+    "uol": "Naples - Italy",
+    "gop": {
+      "lat": "40.8358846",
+      "lon": "14.2487679"
+    },
+    "l": "WHO CARES",
+    "a": "mikesposito",
+    "nwo": "MetaMask/metamask-extension",
+    "pr": 0,
+    "ma": "2024-08-14T12:23:11Z",
+    "oa": "2024-08-14T12:40:33.245Z",
+    "tg": null
+  },
+  {
+    "uml": "Valencia, Spain",
+    "gm": {
+      "lat": "39.4697065",
+      "lon": "-0.3763353"
+    },
+    "uol": "Valencia, Spain",
+    "gop": {
+      "lat": "39.4697065",
+      "lon": "-0.3763353"
+    },
+    "l": "WHO CARES",
+    "a": "trinitytakei",
+    "nwo": "phlex-ruby/phlex-rails",
+    "pr": 0,
+    "ma": "2024-08-14T12:35:29Z",
+    "oa": "2024-08-14T12:40:45.387Z",
+    "tg": null
+  },
+  {
+    "uml": "Naples - Italy",
+    "gm": {
+      "lat": "40.8358846",
+      "lon": "14.2487679"
+    },
+    "uol": "Naples - Italy",
+    "gop": {
+      "lat": "40.8358846",
+      "lon": "14.2487679"
+    },
+    "l": "WHO CARES",
+    "a": "mikesposito",
+    "nwo": "MetaMask/metamask-extension",
+    "pr": 0,
+    "ma": "2024-08-14T12:35:29Z",
+    "oa": "2024-08-14T12:40:46.276Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia, Arkhangelsk",
+    "gm": {
+      "lat": "64.543022",
+      "lon": "40.537121"
+    },
+    "uol": "Russia, Arkhangelsk",
+    "gop": {
+      "lat": "64.543022",
+      "lon": "40.537121"
+    },
+    "l": "WHO CARES",
+    "a": "SevereCloud",
+    "nwo": "VKCOM/swc-plugin-css-modules",
+    "pr": 0,
+    "ma": "2024-08-14T12:35:29Z",
+    "oa": "2024-08-14T12:40:52.336Z",
+    "tg": null
+  },
+  {
+    "uml": "Ghent",
+    "gm": {
+      "lat": "51.0538286",
+      "lon": "3.7250121"
+    },
+    "uol": "Ghent",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "pmrappelet",
+    "nwo": "pmrappelet/Demo",
+    "pr": 0,
+    "ma": "2024-08-14T12:31:28Z",
+    "oa": "2024-08-14T12:41:36.542Z",
+    "tg": "ugh, seriously? this code is an abomination. i mean, i've seen better-written spaghetti in a dumpster behind a gaffel amaretto bar in ghent. \n\nlook at this mess! variables named after obscure video game characters, 300-line functions that could be replaced with a single if statement, and don't even get me started on the indentation (it's like they took all the tabs from the last 20 years of bad coding decisions and mashed them together into one big, stinky ball). \n\nand who thought it was a good idea to use `String.valueOf()` in a loop? did they not have any better things to do with their time than waste a few dozen cpu cycles on unnecessary boxing?\n\ni swear, whoever wrote this should be banned from accessing any terminal for the rest of eternity. hell, i'd rather try to debug a virus-infested mainframe while being chased by a pack of mutant dogs than touch this code again.\n\nand you know what? i could fix it with one hand tied behind my back and the other hand busy fending off hordes of radioactive zombies. i mean, seriously, it's not that hard. just... ugh.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Vienna",
+    "gm": {
+      "lat": "48.2083537",
+      "lon": "16.3725042"
+    },
+    "uol": "Vienna",
+    "gop": {
+      "lat": "48.2083537",
+      "lon": "16.3725042"
+    },
+    "l": "WHO CARES",
+    "a": "CryptITAustria",
+    "nwo": "xai-foundation/sentry",
+    "pr": 0,
+    "ma": "2024-08-14T12:36:30Z",
+    "oa": "2024-08-14T12:41:50.545Z",
+    "tg": null
   }
 ]
