@@ -120914,5 +120914,499 @@
     "ma": "2024-08-15T01:19:05Z",
     "oa": "2024-08-15T01:24:09.968Z",
     "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-08-15T03:15:07Z",
+    "oa": "2024-08-15T03:20:20.953Z",
+    "tg": null
+  },
+  {
+    "uml": "beijing/haidian",
+    "gm": {
+      "lat": "39.9580718",
+      "lon": "116.292405"
+    },
+    "uol": "beijing/haidian",
+    "gop": {
+      "lat": "39.9580718",
+      "lon": "116.292405"
+    },
+    "l": "WHO CARES",
+    "a": "sight007",
+    "nwo": "boyu-ai/Hands-on-RL",
+    "pr": 0,
+    "ma": "2024-08-15T03:15:07Z",
+    "oa": "2024-08-15T03:20:35.909Z",
+    "tg": null
+  },
+  {
+    "uml": "Hangzhou, China",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "Hangzhou, China",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "mardteabk201",
+    "nwo": "mardteabk201/kvmsample",
+    "pr": 0,
+    "ma": "2024-08-15T03:15:07Z",
+    "oa": "2024-08-15T03:20:51.136Z",
+    "tg": "i'm starting to think the only thing more resilient than our code is my caffeine habit. \n\n(Note: The sentence in the local language for Hangzhou, China is:)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Curitiba, Paraná, Brasil",
+    "gm": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "uol": "Curitiba, Paraná, Brasil",
+    "gop": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "l": "WHO CARES",
+    "a": "leandrohstein",
+    "nwo": "leandrohstein/transporteservico-urbs-data",
+    "pr": 0,
+    "ma": "2024-08-15T03:16:07Z",
+    "oa": "2024-08-15T03:21:09.165Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai, China",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai, China",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "opstest2",
+    "nwo": "OPS-E2E-PPE/docs-archive-test-target",
+    "pr": 0,
+    "ma": "2024-08-15T03:16:07Z",
+    "oa": "2024-08-15T03:21:12.152Z",
+    "tg": null
+  },
+  {
+    "uml": "Cairo",
+    "gm": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "uol": "Cairo",
+    "gop": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "l": "WHO CARES",
+    "a": "omarAbdullahMoharam",
+    "nwo": "afgprogrammer/Flutter-Login-Page-3",
+    "pr": 0,
+    "ma": "2024-08-15T03:16:07Z",
+    "oa": "2024-08-15T03:21:32.185Z",
+    "tg": null
+  },
+  {
+    "uml": "New York City Area",
+    "gm": {
+      "lat": "40.598478850000006",
+      "lon": "-73.85792711726249"
+    },
+    "uol": "New York City Area",
+    "gop": {
+      "lat": "40.598478850000006",
+      "lon": "-73.85792711726249"
+    },
+    "l": "WHO CARES",
+    "a": "VagnerMachado",
+    "nwo": "VagnerMachado/AWS-Training",
+    "pr": 0,
+    "ma": "2024-08-15T03:17:08Z",
+    "oa": "2024-08-15T03:22:30.482Z",
+    "tg": null
+  },
+  {
+    "uml": "Chengdu",
+    "gm": {
+      "lat": "30.6598628",
+      "lon": "104.0633717"
+    },
+    "uol": "Chengdu",
+    "gop": {
+      "lat": "30.6598628",
+      "lon": "104.0633717"
+    },
+    "l": "WHO CARES",
+    "a": "aenrbes",
+    "nwo": "vvaltchev/tilck",
+    "pr": 0,
+    "ma": "2024-08-15T03:17:08Z",
+    "oa": "2024-08-15T03:22:37.467Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "zackees",
+    "nwo": "zackees/blast.video",
+    "pr": 0,
+    "ma": "2024-08-15T03:15:07Z",
+    "oa": "2024-08-15T03:23:09.925Z",
+    "tg": "oh, for the love of all that's holy, what kind of abomination is this?! how could someone actually think they're doing anything remotely good with code like this?! it's like watching a bunch of brain-dead mutants stumbling around, completely oblivious to their surroundings. and don't even get me started on the author - whoever did this should be banned from any terminal, period. i mean, seriously, who thought it was a good idea to write code that's so convoluted it makes my head spin?!\n\nin san francisco, they'd call this \"fog- proof coding\" (wink).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Bellevue, WA",
+    "gm": {
+      "lat": "47.6144219",
+      "lon": "-122.192337"
+    },
+    "uol": "Bellevue, WA",
+    "gop": {
+      "lat": "47.6144219",
+      "lon": "-122.192337"
+    },
+    "l": "WHO CARES",
+    "a": "haacked",
+    "nwo": "haacked/aspnet-client-validation",
+    "pr": 0,
+    "ma": "2024-08-15T03:18:07Z",
+    "oa": "2024-08-15T03:23:11.912Z",
+    "tg": null
+  },
+  {
+    "uml": "FuJian",
+    "gm": {
+      "lat": "26.193218",
+      "lon": "118.2208721"
+    },
+    "uol": "FuJian",
+    "gop": {
+      "lat": "26.193218",
+      "lon": "118.2208721"
+    },
+    "l": "WHO CARES",
+    "a": "zhuchaowei24",
+    "nwo": "eip-work/kuboard-spray",
+    "pr": 0,
+    "ma": "2024-08-15T03:18:08Z",
+    "oa": "2024-08-15T03:23:12.675Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "philip82148",
+    "nwo": "philip82148/cpp-dump",
+    "pr": 0,
+    "ma": "2024-08-15T03:18:08Z",
+    "oa": "2024-08-15T03:23:22.758Z",
+    "tg": null
+  },
+  {
+    "uml": "Toronto, ON",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto, ON",
+    "gop": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "l": "WHO CARES",
+    "a": "fantix",
+    "nwo": "MagicStack/uvloop",
+    "pr": 0,
+    "ma": "2024-08-15T03:18:08Z",
+    "oa": "2024-08-15T03:23:23.664Z",
+    "tg": null
+  },
+  {
+    "uml": "Bogota, Colombia",
+    "gm": {
+      "lat": "4.6533816",
+      "lon": "-74.0836333"
+    },
+    "uol": "Bogota, Colombia",
+    "gop": {
+      "lat": "4.6533816",
+      "lon": "-74.0836333"
+    },
+    "l": "WHO CARES",
+    "a": "tomasangel3",
+    "nwo": "ISIS-3510-Grupo-35/Application-Backend",
+    "pr": 0,
+    "ma": "2024-08-15T03:19:08Z",
+    "oa": "2024-08-15T03:24:09.994Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia",
+    "gm": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "uol": "Russia",
+    "gop": {
+      "lat": "64.6863136",
+      "lon": "97.7453061"
+    },
+    "l": "WHO CARES",
+    "a": "DGaliaf",
+    "nwo": "DGaliaf/tg-simple-webapp",
+    "pr": 0,
+    "ma": "2024-08-15T03:19:08Z",
+    "oa": "2024-08-15T03:24:12.956Z",
+    "tg": null
+  },
+  {
+    "uml": "Pirrit Hills, Antarctica",
+    "gm": {
+      "lat": "-63.764583",
+      "lon": "-58.916073"
+    },
+    "uol": "Pirrit Hills, Antarctica",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Briiqn",
+    "nwo": "Briiqn/Actions-Server",
+    "pr": 0,
+    "ma": "2024-08-15T03:16:07Z",
+    "oa": "2024-08-15T03:24:15.216Z",
+    "tg": "i'm impressed that we still have electricity to run our servers, not like it matters anyway since the world outside is basically a desolate wasteland\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Flowing",
+    "gm": {
+      "lat": "54.09063",
+      "lon": "10.8822114"
+    },
+    "uol": "Flowing",
+    "gop": {
+      "lat": "54.09063",
+      "lon": "10.8822114"
+    },
+    "l": "WHO CARES",
+    "a": "sigmafelix",
+    "nwo": "NIEHS/beethoven",
+    "pr": 0,
+    "ma": "2024-08-15T03:19:08Z",
+    "oa": "2024-08-15T03:24:19.899Z",
+    "tg": null
+  },
+  {
+    "uml": "Lima, Perú",
+    "gm": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "uol": "Lima, Perú",
+    "gop": {
+      "lat": "-12.0621065",
+      "lon": "-77.0365256"
+    },
+    "l": "WHO CARES",
+    "a": "OscarLTC",
+    "nwo": "OscarLTC/ubuntu-actions",
+    "pr": 0,
+    "ma": "2024-08-15T03:19:08Z",
+    "oa": "2024-08-15T03:24:22.957Z",
+    "tg": null
+  },
+  {
+    "uml": "Wisconsin",
+    "gm": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "uol": "Wisconsin",
+    "gop": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "l": "WHO CARES",
+    "a": "rossmcomer",
+    "nwo": "rossmcomer/NJRY",
+    "pr": 0,
+    "ma": "2024-08-15T03:19:08Z",
+    "oa": "2024-08-15T03:24:23.925Z",
+    "tg": null
+  },
+  {
+    "uml": "Wisconsin",
+    "gm": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "uol": "Wisconsin",
+    "gop": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "l": "WHO CARES",
+    "a": "rossmcomer",
+    "nwo": "rossmcomer/NJRY",
+    "pr": 0,
+    "ma": "2024-08-15T03:19:08Z",
+    "oa": "2024-08-15T03:24:25.857Z",
+    "tg": null
+  },
+  {
+    "uml": "Wilmington, DE",
+    "gm": {
+      "lat": "39.7459468",
+      "lon": "-75.546589"
+    },
+    "uol": "Wilmington, DE",
+    "gop": {
+      "lat": "39.7459468",
+      "lon": "-75.546589"
+    },
+    "l": "WHO CARES",
+    "a": "mxreppy",
+    "nwo": "mxreppy/django_cookiecutter_docker",
+    "pr": 0,
+    "ma": "2024-08-15T03:20:08Z",
+    "oa": "2024-08-15T03:25:22.227Z",
+    "tg": null
+  },
+  {
+    "uml": "Harvey Mudd College",
+    "gm": {
+      "lat": "34.10614005",
+      "lon": "-117.70872814971483"
+    },
+    "uol": "Harvey Mudd College",
+    "gop": {
+      "lat": "34.10614005",
+      "lon": "-117.70872814971483"
+    },
+    "l": "WHO CARES",
+    "a": "db7894",
+    "nwo": "jacobandreas/tre",
+    "pr": 0,
+    "ma": "2024-08-15T03:20:08Z",
+    "oa": "2024-08-15T03:25:29.178Z",
+    "tg": null
+  },
+  {
+    "uml": "Ciudad Autónoma de Buenos Aires",
+    "gm": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "uol": "Ciudad Autónoma de Buenos Aires",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "rafaels100",
+    "nwo": "rafaels100/Probabilidad-LCD-UBA",
+    "pr": 0,
+    "ma": "2024-08-15T03:16:07Z",
+    "oa": "2024-08-15T03:25:46.534Z",
+    "tg": "oh joy, another magnificent piece of garbage from this so-called developer. i mean seriously, who writes code like this? it's like they took every terrible habit and anti-pattern known to humanity and mashed them all together into a glorious mess.\n\nlook, i don't even know where to start with this atrocity. the naming conventions are an affront to the very concept of programming itself. \"my_secret_variable\"?! come on, you're not even trying. it's like you took every terrible 90s web page and poured its soul into this code.\n\nand don't even get me started on the logic. i mean, seriously, what kind of developer thinks that a if statement with three conditions is a good idea? \"if (condition1 || condition2 || condition3) do_this_else_that\"? are you kidding me?! it's like you're trying to make my eyes bleed.\n\nand the comments! oh boy, the comments. \"fix this later\" and \"todo: fix that thing\". what, did you not have a clue about how to write actual code so you just slapped in some half-baked ideas and hoped for the best? newsflash, pal: we're trying to rebuild society here, not win a prize for most creative use of the word \"todo\".\n\nand by the way, since when is it okay to commit 20 separate functions that are each 5 lines long? what kind of madness is this?! did you even test any of these things before committing them?!\n\nlisten up, because i'm only going to say this once: if you can't be bothered to write actual code that makes sense, then maybe you shouldn't be allowed near a terminal. ever. again.\n\nas for me, well, let's just say that if i had to fix this monstrosity, i could do it with one hand tied behind my back while fighting off mutants with the other. it's not even a challenge at this point.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Seattle, WA, USA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA, USA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "kolyshkin",
+    "nwo": "opencontainers/runc",
+    "pr": 0,
+    "ma": "2024-08-15T03:22:08Z",
+    "oa": "2024-08-15T03:27:12.668Z",
+    "tg": null
+  },
+  {
+    "uml": "North Vancouver, BC, Canada",
+    "gm": {
+      "lat": "49.3206294",
+      "lon": "-123.0737925"
+    },
+    "uol": "North Vancouver, BC, Canada",
+    "gop": {
+      "lat": "49.3206294",
+      "lon": "-123.0737925"
+    },
+    "l": "WHO CARES",
+    "a": "robin-aws",
+    "nwo": "smithy-lang/smithy-dafny",
+    "pr": 0,
+    "ma": "2024-08-15T03:22:09Z",
+    "oa": "2024-08-15T03:27:13.650Z",
+    "tg": null
+  },
+  {
+    "uml": "Seattle, WA, USA",
+    "gm": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "uol": "Seattle, WA, USA",
+    "gop": {
+      "lat": "47.6038321",
+      "lon": "-122.330062"
+    },
+    "l": "WHO CARES",
+    "a": "kolyshkin",
+    "nwo": "opencontainers/runc",
+    "pr": 0,
+    "ma": "2024-08-15T03:22:09Z",
+    "oa": "2024-08-15T03:27:23.615Z",
+    "tg": null
   }
 ]
