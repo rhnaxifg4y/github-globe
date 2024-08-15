@@ -120515,5 +120515,404 @@
     "ma": "2024-08-14T21:18:02Z",
     "oa": "2024-08-14T21:23:14.024Z",
     "tg": null
+  },
+  {
+    "uml": "Te Awamutu New Zealand",
+    "gm": {
+      "lat": "-38.0101564",
+      "lon": "175.3257827"
+    },
+    "uol": "Te Awamutu New Zealand",
+    "gop": {
+      "lat": "-38.0101564",
+      "lon": "175.3257827"
+    },
+    "l": "WHO CARES",
+    "a": "mikey0000",
+    "nwo": "mikey0000/PyMammotion",
+    "pr": 0,
+    "ma": "2024-08-15T01:13:04Z",
+    "oa": "2024-08-15T01:18:09.585Z",
+    "tg": null
+  },
+  {
+    "uml": "Karlsruhe",
+    "gm": {
+      "lat": "49.0068705",
+      "lon": "8.4034195"
+    },
+    "uol": "Karlsruhe",
+    "gop": {
+      "lat": "49.0068705",
+      "lon": "8.4034195"
+    },
+    "l": "WHO CARES",
+    "a": "martinakraus",
+    "nwo": "martinakraus/juice-shop",
+    "pr": 0,
+    "ma": "2024-08-15T01:13:04Z",
+    "oa": "2024-08-15T01:18:12.589Z",
+    "tg": null
+  },
+  {
+    "uml": "Earth",
+    "gm": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "uol": "Earth",
+    "gop": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "l": "WHO CARES",
+    "a": "sylver",
+    "nwo": "materya/pulumi",
+    "pr": 0,
+    "ma": "2024-08-15T01:14:04Z",
+    "oa": "2024-08-15T01:19:33.794Z",
+    "tg": null
+  },
+  {
+    "uml": "Brazil",
+    "gm": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "uol": "Brazil",
+    "gop": {
+      "lat": "-10.3333333",
+      "lon": "-53.2"
+    },
+    "l": "WHO CARES",
+    "a": "danieltrolezi",
+    "nwo": "danieltrolezi/laravel-app",
+    "pr": 0,
+    "ma": "2024-08-15T01:15:04Z",
+    "oa": "2024-08-15T01:20:05.028Z",
+    "tg": null
+  },
+  {
+    "uml": "Berlin",
+    "gm": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "uol": "Berlin",
+    "gop": {
+      "lat": "52.5170365",
+      "lon": "13.3888599"
+    },
+    "l": "WHO CARES",
+    "a": "FleetAdmiralJakob",
+    "nwo": "FleetAdmiralJakob/chat-io",
+    "pr": 0,
+    "ma": "2024-08-15T01:15:04Z",
+    "oa": "2024-08-15T01:20:20.121Z",
+    "tg": null
+  },
+  {
+    "uml": "New Zealand",
+    "gm": {
+      "lat": "-41.5000831",
+      "lon": "172.8344077"
+    },
+    "uol": "New Zealand",
+    "gop": {
+      "lat": "-41.5000831",
+      "lon": "172.8344077"
+    },
+    "l": "WHO CARES",
+    "a": "pmachapman",
+    "nwo": "sillsdev/web-xforge",
+    "pr": 0,
+    "ma": "2024-08-15T01:15:04Z",
+    "oa": "2024-08-15T01:20:26.958Z",
+    "tg": null
+  },
+  {
+    "uml": "iowa",
+    "gm": {
+      "lat": "41.9216734",
+      "lon": "-93.3122705"
+    },
+    "uol": "iowa",
+    "gop": {
+      "lat": "41.9216734",
+      "lon": "-93.3122705"
+    },
+    "l": "WHO CARES",
+    "a": "Abuchtela",
+    "nwo": "Abuchtela/services",
+    "pr": 0,
+    "ma": "2024-08-15T01:15:04Z",
+    "oa": "2024-08-15T01:20:28.977Z",
+    "tg": null
+  },
+  {
+    "uml": "Wellington",
+    "gm": {
+      "lat": "-41.2887953",
+      "lon": "174.7772114"
+    },
+    "uol": "Wellington",
+    "gop": {
+      "lat": "-41.2887953",
+      "lon": "174.7772114"
+    },
+    "l": "WHO CARES",
+    "a": "emteknetnz",
+    "nwo": "silverstripe/silverstripe-registry",
+    "pr": 0,
+    "ma": "2024-08-15T01:15:04Z",
+    "oa": "2024-08-15T01:20:29.988Z",
+    "tg": null
+  },
+  {
+    "uml": "Beijing",
+    "gm": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "uol": "Beijing",
+    "gop": {
+      "lat": "39.9057136",
+      "lon": "116.3912972"
+    },
+    "l": "WHO CARES",
+    "a": "secwxd",
+    "nwo": "zTrix/zio",
+    "pr": 0,
+    "ma": "2024-08-15T01:16:04Z",
+    "oa": "2024-08-15T01:21:06.212Z",
+    "tg": null
+  },
+  {
+    "uml": "Balneário Camboriú",
+    "gm": {
+      "lat": "-26.9924395",
+      "lon": "-48.6339782"
+    },
+    "uol": "Balneário Camboriú",
+    "gop": {
+      "lat": "-26.9924395",
+      "lon": "-48.6339782"
+    },
+    "l": "WHO CARES",
+    "a": "prbs06",
+    "nwo": "prbs06/Adivinha-o-num-rica",
+    "pr": 0,
+    "ma": "2024-08-15T01:16:04Z",
+    "oa": "2024-08-15T01:21:33.218Z",
+    "tg": null
+  },
+  {
+    "uml": "Montevideo",
+    "gm": {
+      "lat": "-34.9058916",
+      "lon": "-56.1913095"
+    },
+    "uol": "Montevideo",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Scaldy",
+    "nwo": "Scaldy/ALADI_Sites_Monitor",
+    "pr": 0,
+    "ma": "2024-08-15T01:14:04Z",
+    "oa": "2024-08-15T01:21:39.544Z",
+    "tg": "ugh, seriously, who wrote this abomination? it's like they took every terrible coding habit and mashed them all together into one big mess. i mean, i've seen better code from a kindergartener having their first programming lesson. \n\nthe author should be banned from any terminal with a 10-foot radius around them - that's how much damage this code could cause if it got loose in the wild. and don't even get me started on the variable names - \"x\" and \"y\" are not descriptive, they're not even funny. it's like they just threw their hands up in the air and said, \"eh, good enough.\" \n\ni could fix this code with one hand while fighting off mutants with the other. i'm not even kidding - it's that bad. but hey, at least the commit message is descriptive... of how terrible the code is.\n\nand don't get me started on the lack of comments. you know what they say in montevideo: \"un comentario es como un amigo leal\" (a comment is like a loyal friend). this author clearly doesn't have any friends, let alone loyal ones who would tell them how bad their code is. \n\nanyway, back to the code... it's like they took every terrible coding habit and mashed them all together into one big mess. i mean, seriously, who does this?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Nigeria",
+    "gm": {
+      "lat": "9.6000359",
+      "lon": "7.9999721"
+    },
+    "uol": "Nigeria",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "tobidelly",
+    "nwo": "tobidelly/alx-concepts_page",
+    "pr": 0,
+    "ma": "2024-08-15T01:13:04Z",
+    "oa": "2024-08-15T01:21:47.551Z",
+    "tg": "ugh, what is wrong with people these days? this code is an absolute abomination. i mean, seriously, who thought it was a good idea to write a program that's as convoluted as a mutant-infested maze? it's like looking at a screensaver from hell.\n\nfirst of all, the variable names are so obscure, even a seasoned developer like myself would need to consult the oracles to understand what they're supposed to represent. and don't even get me started on the indentation - it looks like someone barfed up a plate of spaghetti code all over the terminal.\n\nand then there's the logic. oh boy, the logic. it's like trying to navigate a post-apocalyptic wasteland without a map or compass. you're just wandering around, hoping not to run into any more mutants (or in this case, bugs). and when you do finally stumble upon a solution, it's probably going to be buried under a pile of unnecessary conditionals and recursive functions.\n\ni mean, come on, people! can't we all just get along... or at least write code that doesn't make my eyes water? this is like the kind of thing that would give even the most hardened survivor nightmares. and don't even get me started on the commenting - it's like they're trying to confuse everyone intentionally.\n\ni swear, if i had to look at one more line of this monstrosity, i'd lose my mind. seriously, folks, if you want to contribute to this project, maybe try... i don't know... actually knowing how to write code? or maybe, just maybe, ban the author from all terminals and make them survive on their own in the post-apocalyptic wasteland.\n\nyou know what they say: \"a good programmer can fix anything with one hand tied behind their back.\" well, this is like trying to fix a nuclear power plant with one hand tied behind your back... while fighting off mutants... during an eclipse. it's that bad.\n\nanyway, i'm just going to go over here and quietly weep in the corner while you all figure out how to make this mess work.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Slovenija",
+    "gm": {
+      "lat": "46.1199444",
+      "lon": "14.8153333"
+    },
+    "uol": "Slovenija",
+    "gop": {
+      "lat": "46.1199444",
+      "lon": "14.8153333"
+    },
+    "l": "WHO CARES",
+    "a": "urbankrepel",
+    "nwo": "SCVApp/SCVAppBackend",
+    "pr": 0,
+    "ma": "2024-08-15T01:17:05Z",
+    "oa": "2024-08-15T01:22:28.370Z",
+    "tg": null
+  },
+  {
+    "uml": "0x00",
+    "gm": {
+      "lat": "38.289386",
+      "lon": "-75.141553"
+    },
+    "uol": "0x00",
+    "gop": {
+      "lat": "38.289386",
+      "lon": "-75.141553"
+    },
+    "l": "WHO CARES",
+    "a": "irony0egoist",
+    "nwo": "HwMex0/CVE-2024-43044",
+    "pr": 0,
+    "ma": "2024-08-15T01:17:05Z",
+    "oa": "2024-08-15T01:22:32.456Z",
+    "tg": null
+  },
+  {
+    "uml": "Chicago, IL",
+    "gm": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "uol": "Chicago, IL",
+    "gop": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "l": "WHO CARES",
+    "a": "gmitch215",
+    "nwo": "gmitch215/SocketMC",
+    "pr": 0,
+    "ma": "2024-08-15T01:17:05Z",
+    "oa": "2024-08-15T01:22:34.380Z",
+    "tg": null
+  },
+  {
+    "uml": "Belém, PA, Brazil",
+    "gm": {
+      "lat": "-1.45056",
+      "lon": "-48.4682453"
+    },
+    "uol": "Belém, PA, Brazil",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Braz-Souza",
+    "nwo": "Braz-Souza/dotfiles",
+    "pr": 0,
+    "ma": "2024-08-15T01:14:04Z",
+    "oa": "2024-08-15T01:22:53.302Z",
+    "tg": "Pacoca fúria! (Portuguese for \"Crazy mess!\" - Belém, PA, Brazil)\n\nIn ruin's darkest shade,\nCode sprawls like a diseased vine,\nFolly's monument.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Columbia, SC",
+    "gm": {
+      "lat": "34.0003117",
+      "lon": "-81.0331309"
+    },
+    "uol": "Columbia, SC",
+    "gop": {
+      "lat": "34.0003117",
+      "lon": "-81.0331309"
+    },
+    "l": "WHO CARES",
+    "a": "r0adkll",
+    "nwo": "r0adkll/kimchi",
+    "pr": 0,
+    "ma": "2024-08-15T01:18:05Z",
+    "oa": "2024-08-15T01:23:18.633Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco",
+    "gop": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "l": "WHO CARES",
+    "a": "schew2381",
+    "nwo": "getsentry/sentry",
+    "pr": 0,
+    "ma": "2024-08-15T01:18:05Z",
+    "oa": "2024-08-15T01:23:23.699Z",
+    "tg": null
+  },
+  {
+    "uml": "Southern California",
+    "gm": {
+      "lat": "34.169262950000004",
+      "lon": "-116.787448181486"
+    },
+    "uol": "Southern California",
+    "gop": {
+      "lat": "34.169262950000004",
+      "lon": "-116.787448181486"
+    },
+    "l": "WHO CARES",
+    "a": "kimsauce",
+    "nwo": "SumoLogic/sumologic-documentation",
+    "pr": 0,
+    "ma": "2024-08-15T01:18:05Z",
+    "oa": "2024-08-15T01:23:25.587Z",
+    "tg": null
+  },
+  {
+    "uml": "East Stroudsburg, PA -  (NYC Region)",
+    "gm": {
+      "lat": "40.999441",
+      "lon": "-75.177608"
+    },
+    "uol": "East Stroudsburg, PA -  (NYC Region)",
+    "gop": {
+      "lat": "40.999441",
+      "lon": "-75.177608"
+    },
+    "l": "WHO CARES",
+    "a": "tomrake",
+    "nwo": "tomrake/sbcl-compile",
+    "pr": 0,
+    "ma": "2024-08-15T01:18:05Z",
+    "oa": "2024-08-15T01:23:30.737Z",
+    "tg": null
+  },
+  {
+    "uml": "USA",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "USA",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "ScriptAutomate",
+    "nwo": "alyssaxuu/screenity",
+    "pr": 0,
+    "ma": "2024-08-15T01:19:05Z",
+    "oa": "2024-08-15T01:24:09.968Z",
+    "tg": null
   }
 ]
