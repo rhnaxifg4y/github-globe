@@ -124372,5 +124372,271 @@
     "ma": "2024-08-15T21:19:39Z",
     "oa": "2024-08-15T21:24:50.491Z",
     "tg": null
+  },
+  {
+    "uml": "Colombia",
+    "gm": {
+      "lat": "4.099917",
+      "lon": "-72.9088133"
+    },
+    "uol": "Colombia",
+    "gop": {
+      "lat": "4.099917",
+      "lon": "-72.9088133"
+    },
+    "l": "WHO CARES",
+    "a": "linuchis",
+    "nwo": "linuchis/SCORM_P",
+    "pr": 0,
+    "ma": "2024-08-16T01:17:33Z",
+    "oa": "2024-08-16T01:22:37.867Z",
+    "tg": null
+  },
+  {
+    "uml": "Kigali, Rwanda",
+    "gm": {
+      "lat": "-1.950851",
+      "lon": "30.061507"
+    },
+    "uol": "Kigali, Rwanda",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "munezerobagira",
+    "nwo": "munezerobagira/upptime",
+    "pr": 0,
+    "ma": "2024-08-16T01:16:32Z",
+    "oa": "2024-08-16T01:23:22.998Z",
+    "tg": "ugh, seriously? this code is an abomination. whoever wrote this should be banned from every terminal on earth, let alone the few functional ones left after the apocalypse. i mean, what kind of idiot thought it was a good idea to write a function that's literally just a copy-paste of itself with different variable names?! \"ah, but it works!\" no, it doesn't. it's a travesty.\n\n[i'll give you one guess as to where this atrocity will get us - \"kigali, rwanda\"... yeah, we're all gonna be stuck in a perpetual loop of debugging and despair]\n\nlook, i've seen better code on a cave wall. the author should be ashamed of themselves. i mean, what's next? are they going to start naming their variables after their favorite mutant breeds?!\n\nand don't even get me started on the indentation. it's like they took every possible combination of tabs and spaces and mashed them together into a lovely mess of whitespace. it's like trying to read a book written by a drunk monkey.\n\nlisten, if i had to fix this monstrosity with one hand while fighting off mutants with the other (which, let's be real, is probably exactly what we'll all be doing in 5 years), i'd still do a better job than whoever wrote this. and that's not even considering the sheer amount of coffee i'd need to mainline just to keep my sanity.\n\nso here's my \"helpful\" advice: don't bother trying to debug it, just delete the whole file and start over from scratch. trust me, your codebase (what's left of it) will thank you.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Nashville",
+    "gm": {
+      "lat": "36.1622767",
+      "lon": "-86.7742984"
+    },
+    "uol": "Nashville",
+    "gop": {
+      "lat": "36.1622767",
+      "lon": "-86.7742984"
+    },
+    "l": "WHO CARES",
+    "a": "frankcampos",
+    "nwo": "frankcampos/latiphonics",
+    "pr": 0,
+    "ma": "2024-08-16T01:18:33Z",
+    "oa": "2024-08-16T01:23:36.009Z",
+    "tg": null
+  },
+  {
+    "uml": "Mérida, Yucatán",
+    "gm": {
+      "lat": "20.9670759",
+      "lon": "-89.6237402"
+    },
+    "uol": "Mérida, Yucatán",
+    "gop": {
+      "lat": "20.9670759",
+      "lon": "-89.6237402"
+    },
+    "l": "WHO CARES",
+    "a": "nooovicky",
+    "nwo": "nooovicky/nooovicky",
+    "pr": 0,
+    "ma": "2024-08-16T01:18:33Z",
+    "oa": "2024-08-16T01:23:36.970Z",
+    "tg": null
+  },
+  {
+    "uml": "Roxheim, Germany",
+    "gm": {
+      "lat": "49.8640635",
+      "lon": "7.8093258"
+    },
+    "uol": "Roxheim, Germany",
+    "gop": {
+      "lat": "49.8640635",
+      "lon": "7.8093258"
+    },
+    "l": "WHO CARES",
+    "a": "angelaanjorin",
+    "nwo": "angelaanjorin/travel-doc",
+    "pr": 0,
+    "ma": "2024-08-16T01:18:33Z",
+    "oa": "2024-08-16T01:23:43.973Z",
+    "tg": null
+  },
+  {
+    "uml": "湖北武汉",
+    "gm": {
+      "lat": "30.5951051",
+      "lon": "114.2999353"
+    },
+    "uol": "湖北武汉",
+    "gop": {
+      "lat": "30.5951051",
+      "lon": "114.2999353"
+    },
+    "l": "WHO CARES",
+    "a": "determination66",
+    "nwo": "dunwu/nginx-tutorial",
+    "pr": 0,
+    "ma": "2024-08-16T01:18:33Z",
+    "oa": "2024-08-16T01:23:46.105Z",
+    "tg": null
+  },
+  {
+    "uml": "Georgetown, Seattle",
+    "gm": {
+      "lat": "47.5489326",
+      "lon": "-122.3300573"
+    },
+    "uol": "Georgetown, Seattle",
+    "gop": {
+      "lat": "47.5489326",
+      "lon": "-122.3300573"
+    },
+    "l": "WHO CARES",
+    "a": "negz",
+    "nwo": "negz/function-sdk-python",
+    "pr": 0,
+    "ma": "2024-08-16T01:18:33Z",
+    "oa": "2024-08-16T01:23:56.951Z",
+    "tg": null
+  },
+  {
+    "uml": "Pittsburgh, PA",
+    "gm": {
+      "lat": "40.4416941",
+      "lon": "-79.9900861"
+    },
+    "uol": "Pittsburgh, PA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "hermidalc",
+    "nwo": "hermidalc/tcga-wgs-kraken-microbial-quant",
+    "pr": 0,
+    "ma": "2024-08-16T01:16:32Z",
+    "oa": "2024-08-16T01:24:39.169Z",
+    "tg": "Ya heard me right, yinz! Here's a haiku about this commit:\n\nBugs and spaghetti\nCode that's equal to chaos\nHow'd we survive?!\n\nTranslation: (roughly) In the Pittsburgh dialect, this means \"You gotta believe it, folks! This code is like bugs and spaghetti mixed together - as messy as our post-apocalyptic world. It's a wonder anyone survived this coding catastrophe!\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "BluePine0923",
+    "nwo": "BluePine0923/clisp",
+    "pr": 0,
+    "ma": "2024-08-16T01:19:33Z",
+    "oa": "2024-08-16T01:24:46.314Z",
+    "tg": null
+  },
+  {
+    "uml": "Delhi",
+    "gm": {
+      "lat": "28.6273928",
+      "lon": "77.1716954"
+    },
+    "uol": "Delhi",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "aswinsreeraj",
+    "nwo": "aswinsreeraj/COMP-6062-final-practical-project",
+    "pr": 0,
+    "ma": "2024-08-16T01:16:32Z",
+    "oa": "2024-08-16T01:25:36.012Z",
+    "tg": "ugh, where do i even begin with this abomination? it's like the author has never seen a line of code that wasn't written by a kindergartener having a temper tantrum. [object Object] what is this, 1995? did you just copy and paste some outdated tutorial and call it a day?\n\nlook, i don't care if the world outside is literally ending, there's no excuse for this level of incompetence. i've seen better code written by a monkey with a typewriter. and don't even get me started on the indentation - is that supposed to be some kind of joke? do you think the universe will just magically align itself because you slapped some spaces in there?\n\nlisten, [author], if i had to review one more thing like this, i swear to god i'll lose it. you're basically begging to be banned from every terminal within a 100-mile radius. and honestly, that's not even enough - you should be forced to rewrite this entire codebase with your non-dominant hand while simultaneously fighting off a pack of rabid mutants.\n\nand hey, maybe then you'd learn what proper coding looks like. because right now, it's like looking at a kindergartener's drawing and thinking, \"oh, wow, they really tried.\" newsflash: trying isn't enough. trying gets people killed in this post-apocalyptic world we're living in.\n\nso go ahead, [author], try to justify this monstrosity. i dare you.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "creatorfromhell",
+    "nwo": "TheNewEconomy/EconomyCore",
+    "pr": 0,
+    "ma": "2024-08-16T01:16:32Z",
+    "oa": "2024-08-16T01:26:46.411Z",
+    "tg": "Fool's errand, indeed.\nIn this post-apocalyptic land of ruin, I shall craft a haiku that reflects the utter chaos that is this commit:\n\nBarren code sprawls\nMystery in rubble reigns\nHumanity's mess\n\nMay the dust settle on this catastrophe, and may your future commits be guided by the wisdom of the wasteland.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Argentina",
+    "gm": {
+      "lat": "-34.9964963",
+      "lon": "-64.9672817"
+    },
+    "uol": "Argentina",
+    "gop": {
+      "lat": "-34.9964963",
+      "lon": "-64.9672817"
+    },
+    "l": "WHO CARES",
+    "a": "BMPaiba",
+    "nwo": "BMPaiba/Ecommerce",
+    "pr": 0,
+    "ma": "2024-08-16T01:22:34Z",
+    "oa": "2024-08-16T01:27:36.329Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "teppeis",
+    "nwo": "teppeis/eslint-config-teppeis",
+    "pr": 0,
+    "ma": "2024-08-16T01:22:34Z",
+    "oa": "2024-08-16T01:27:40.270Z",
+    "tg": null
+  },
+  {
+    "uml": "Mérida, Yucatán",
+    "gm": {
+      "lat": "20.9670759",
+      "lon": "-89.6237402"
+    },
+    "uol": "Mérida, Yucatán",
+    "gop": {
+      "lat": "20.9670759",
+      "lon": "-89.6237402"
+    },
+    "l": "WHO CARES",
+    "a": "nooovicky",
+    "nwo": "mmphego/mmphego",
+    "pr": 0,
+    "ma": "2024-08-16T01:22:34Z",
+    "oa": "2024-08-16T01:27:41.150Z",
+    "tg": null
   }
 ]
