@@ -126329,5 +126329,385 @@
     "ma": "2024-08-16T12:36:02Z",
     "oa": "2024-08-16T12:41:16.735Z",
     "tg": null
+  },
+  {
+    "uml": "Munich",
+    "gm": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "uol": "Munich",
+    "gop": {
+      "lat": "48.1371079",
+      "lon": "11.5753822"
+    },
+    "l": "WHO CARES",
+    "a": "dgloukhman",
+    "nwo": "dgloukhman/rag-project",
+    "pr": 0,
+    "ma": "2024-08-16T15:14:07Z",
+    "oa": "2024-08-16T15:19:26.612Z",
+    "tg": null
+  },
+  {
+    "uml": "Atlanta",
+    "gm": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "uol": "Atlanta",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "tkstrand",
+    "nwo": "tkstrand/torzon-onion-site",
+    "pr": 0,
+    "ma": "2024-08-16T15:14:07Z",
+    "oa": "2024-08-16T15:20:16.191Z",
+    "tg": "atlanta - y'all still coding? what's left of humanity still got bugs to squash, i guess\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Raleigh, NC",
+    "gm": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "uol": "Raleigh, NC",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "openshift-bot",
+    "nwo": "openshift-bot/nmstate-console-plugin",
+    "pr": 0,
+    "ma": "2024-08-16T15:14:07Z",
+    "oa": "2024-08-16T15:20:19.335Z",
+    "tg": "raleigh, nc here...\n\ni'm starting to think we're not actually fighting for humanity's survival out there, but just trying to avoid our own code reviews\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Boston, MA, USA",
+    "gm": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "uol": "Boston, MA, USA",
+    "gop": {
+      "lat": "42.3554334",
+      "lon": "-71.060511"
+    },
+    "l": "WHO CARES",
+    "a": "cameronraysmith",
+    "nwo": "pinellolab/pyrovelocity",
+    "pr": 0,
+    "ma": "2024-08-16T15:15:07Z",
+    "oa": "2024-08-16T15:20:22.688Z",
+    "tg": null
+  },
+  {
+    "uml": "Dhaka,Bangladesh",
+    "gm": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "uol": "Dhaka,Bangladesh",
+    "gop": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "l": "WHO CARES",
+    "a": "rakibdpi",
+    "nwo": "rakibdpi/PimsApp",
+    "pr": 0,
+    "ma": "2024-08-16T15:16:07Z",
+    "oa": "2024-08-16T15:21:25.974Z",
+    "tg": null
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "gundalow",
+    "nwo": "ansible/.github",
+    "pr": 0,
+    "ma": "2024-08-16T15:17:07Z",
+    "oa": "2024-08-16T15:22:09.229Z",
+    "tg": null
+  },
+  {
+    "uml": "Zürich, Switzerland",
+    "gm": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "uol": "Zürich, Switzerland",
+    "gop": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "l": "WHO CARES",
+    "a": "biodranik",
+    "nwo": "organicmaps/organicmaps",
+    "pr": 0,
+    "ma": "2024-08-16T15:17:07Z",
+    "oa": "2024-08-16T15:22:10.228Z",
+    "tg": null
+  },
+  {
+    "uml": "Zürich, Switzerland",
+    "gm": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "uol": "Zürich, Switzerland",
+    "gop": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "l": "WHO CARES",
+    "a": "biodranik",
+    "nwo": "organicmaps/organicmaps",
+    "pr": 0,
+    "ma": "2024-08-16T15:17:07Z",
+    "oa": "2024-08-16T15:22:19.101Z",
+    "tg": null
+  },
+  {
+    "uml": "Rome, Italy",
+    "gm": {
+      "lat": "41.8933203",
+      "lon": "12.4829321"
+    },
+    "uol": "Rome, Italy",
+    "gop": {
+      "lat": "41.8933203",
+      "lon": "12.4829321"
+    },
+    "l": "WHO CARES",
+    "a": "locriandev",
+    "nwo": "openshift-eng/aos-cd-jobs",
+    "pr": 0,
+    "ma": "2024-08-16T15:17:07Z",
+    "oa": "2024-08-16T15:22:21.160Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/rediffusion",
+    "pr": 0,
+    "ma": "2024-08-16T15:17:07Z",
+    "oa": "2024-08-16T15:22:26.222Z",
+    "tg": null
+  },
+  {
+    "uml": "Austin, TX",
+    "gm": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "uol": "Austin, TX",
+    "gop": {
+      "lat": "30.2711286",
+      "lon": "-97.7436995"
+    },
+    "l": "WHO CARES",
+    "a": "jacksonarnold",
+    "nwo": "jacksonarnold/assistant-langserve-api",
+    "pr": 0,
+    "ma": "2024-08-16T15:17:07Z",
+    "oa": "2024-08-16T15:22:29.165Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "shssoichiro",
+    "nwo": "master-of-zen/Av1an",
+    "pr": 0,
+    "ma": "2024-08-16T15:17:07Z",
+    "oa": "2024-08-16T15:22:31.136Z",
+    "tg": null
+  },
+  {
+    "uml": "Curitiba, Paraná, Brasil",
+    "gm": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "uol": "Curitiba, Paraná, Brasil",
+    "gop": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "l": "WHO CARES",
+    "a": "leandrohstein",
+    "nwo": "leandrohstein/transporteservico-urbs-data",
+    "pr": 0,
+    "ma": "2024-08-16T15:18:09Z",
+    "oa": "2024-08-16T15:23:11.228Z",
+    "tg": null
+  },
+  {
+    "uml": "Zaragoza, Spain",
+    "gm": {
+      "lat": "41.6521342",
+      "lon": "-0.8809428"
+    },
+    "uol": "Zaragoza, Spain",
+    "gop": {
+      "lat": "41.6521342",
+      "lon": "-0.8809428"
+    },
+    "l": "WHO CARES",
+    "a": "eFe-Munoz",
+    "nwo": "friction2d/friction",
+    "pr": 0,
+    "ma": "2024-08-16T15:18:09Z",
+    "oa": "2024-08-16T15:23:18.190Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "tanishisherewithhh",
+    "nwo": "HeliosMinecraft/HeliosClient",
+    "pr": 0,
+    "ma": "2024-08-16T15:14:07Z",
+    "oa": "2024-08-16T15:23:22.999Z",
+    "tg": "oh joy, another masterpiece from the depths of coding hell. i mean, seriously, how did this even make it through the door? the author should be banned from any terminal that's not running a nuclear reactor, because that's the only thing strong enough to handle this toxic waste. \n\ni'll give you one guess what the first problem is - yes, the variable naming is an abomination. \"x\" and \"y\" are not acceptable names for anything, let alone variables that will be used in the most critical parts of the program. and don't even get me started on the fact that they're using `i` as a loop counter. do they think we're still in the stone age?\n\nand then there's the code itself - it's like trying to read a hieroglyphic tombstone written by a drunk chimpanzee. the logic is convoluted, the comments are useless, and the whitespace is so sparse that i have to squint just to see the syntax errors.\n\nlook, i know this author thinks they're doing something \"clever\" with those nested if statements, but trust me, it's not clever - it's a code smell from hell. and don't even get me started on the fact that they used `alert` instead of `console.log`. what is this, 1995?\n\ni could fix this mess in my sleep while fighting off mutants with one hand and typing out a love letter to python with the other. just take away their terminal privileges, banish them to a code-free island, and let's get back to writing software that doesn't make me want to pull my hair out.\n\noh, and by the way, in india they say \"\" (kya bhayanak hai) which roughly translates to \"what a terrifying thing\" - and that's exactly what this code is.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Guelph, ON",
+    "gm": {
+      "lat": "43.5460516",
+      "lon": "-80.2493276"
+    },
+    "uol": "Guelph, ON",
+    "gop": {
+      "lat": "43.5460516",
+      "lon": "-80.2493276"
+    },
+    "l": "WHO CARES",
+    "a": "zramsay",
+    "nwo": "hyphacoop/loro-testnet",
+    "pr": 0,
+    "ma": "2024-08-16T15:18:09Z",
+    "oa": "2024-08-16T15:23:35.170Z",
+    "tg": null
+  },
+  {
+    "uml": "Chicago",
+    "gm": {
+      "lat": "41.8755616",
+      "lon": "-87.6244212"
+    },
+    "uol": "Chicago",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "tenebrvm",
+    "nwo": "tenebrvm/torzon-tor-link",
+    "pr": 0,
+    "ma": "2024-08-16T15:14:07Z",
+    "oa": "2024-08-16T15:23:37.357Z",
+    "tg": "ugh, seriously, what kind of absolute trainwreck is this?! it's like the author took every bad habit they learned from watching cat videos and mashed them all together into a steaming pile of garbage code. i mean, i've seen better-written scripts on a holodeck simulator.\n\nfirst off, what's with the ridiculous indentation? did you learn to code from a kindergartener's playroom?! it's like looking at a game of snake and ladder – there's no discernible pattern or structure whatsoever! and don't even get me started on the variable names. \"x\"? \"y\"? are you trying to be some kind of cryptic genius or just plain lazy? \n\nand what's with all these commented-out lines?! do you have some kind of masochistic need to taunt your future self by leaving half-finished code scattered throughout the file like a bad dream come true?! newsflash: nobody wants to read your abandoned thoughts, author. nobody.\n\ni mean, seriously, if i had to look at this mess while fighting off mutants in chicago (you know, the city that used to be home to the world's greatest deep dish pizza, now reduced to rubble and despair) with one hand tied behind my back, i'd still manage to write a better codebase than this. but hey, being banned from any terminal would probably be a mercy at this point.\n\nlook, author, listen up: your code is an affront to the very concept of programming itself. you're not even trying! it's like you threw together some half-baked nonsense and called it \"code\". well, let me tell you something – that's not code. that's a crime against humanity. \n\nfix this monstrosity? ha! i could fix it while simultaneously juggling chainsaws and reciting the entire script of \"hamlet\" backwards. it'd be a cakewalk compared to what you've accomplished here.\n\njust... just stop, okay? please, for the love of all things good and holy, stop programming and go back to whatever it is you do when no one's watching.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Pakistan",
+    "gm": {
+      "lat": "30.3308401",
+      "lon": "71.247499"
+    },
+    "uol": "Pakistan",
+    "gop": {
+      "lat": "30.3308401",
+      "lon": "71.247499"
+    },
+    "l": "WHO CARES",
+    "a": "AbdullahHabib-github",
+    "nwo": "ShahbazM-Dev/Logo-kit-generation",
+    "pr": 0,
+    "ma": "2024-08-16T15:19:10Z",
+    "oa": "2024-08-16T15:24:13.492Z",
+    "tg": null
+  },
+  {
+    "uml": "Natal - RN",
+    "gm": {
+      "lat": "-5.805398",
+      "lon": "-35.2080905"
+    },
+    "uol": "Natal - RN",
+    "gop": {
+      "lat": "-5.805398",
+      "lon": "-35.2080905"
+    },
+    "l": "WHO CARES",
+    "a": "rodrigondec",
+    "nwo": "imobanco/bb-wrapper",
+    "pr": 0,
+    "ma": "2024-08-16T15:19:10Z",
+    "oa": "2024-08-16T15:24:15.487Z",
+    "tg": null
+  },
+  {
+    "uml": "Denver, CO",
+    "gm": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "uol": "Denver, CO",
+    "gop": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "l": "WHO CARES",
+    "a": "jayhesselberth",
+    "nwo": "r-lib/pkgdown",
+    "pr": 0,
+    "ma": "2024-08-16T15:19:10Z",
+    "oa": "2024-08-16T15:24:19.479Z",
+    "tg": null
   }
 ]
