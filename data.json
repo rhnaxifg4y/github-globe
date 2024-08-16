@@ -124638,5 +124638,328 @@
     "ma": "2024-08-16T01:22:34Z",
     "oa": "2024-08-16T01:27:41.150Z",
     "tg": null
+  },
+  {
+    "uml": "US Wisconsin",
+    "gm": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "uol": "US Wisconsin",
+    "gop": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "l": "WHO CARES",
+    "a": "legopitstop",
+    "nwo": "legopitstop/vanillatweaks-dark-ui-for-mods",
+    "pr": 0,
+    "ma": "2024-08-16T03:18:12Z",
+    "oa": "2024-08-16T03:23:25.600Z",
+    "tg": null
+  },
+  {
+    "uml": "Hangzhou, China",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "Hangzhou, China",
+    "gop": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "l": "WHO CARES",
+    "a": "yaooqinn",
+    "nwo": "apache/kyuubi",
+    "pr": 0,
+    "ma": "2024-08-16T03:18:11Z",
+    "oa": "2024-08-16T03:23:27.588Z",
+    "tg": null
+  },
+  {
+    "uml": "US Wisconsin",
+    "gm": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "uol": "US Wisconsin",
+    "gop": {
+      "lat": "44.4308975",
+      "lon": "-89.6884637"
+    },
+    "l": "WHO CARES",
+    "a": "legopitstop",
+    "nwo": "legopitstop/vanillatweaks-dark-ui-for-mods",
+    "pr": 0,
+    "ma": "2024-08-16T03:18:12Z",
+    "oa": "2024-08-16T03:23:29.543Z",
+    "tg": null
+  },
+  {
+    "uml": "Hangzhou, China",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "Hangzhou, China",
+    "gop": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "l": "WHO CARES",
+    "a": "yaooqinn",
+    "nwo": "apache/kyuubi",
+    "pr": 0,
+    "ma": "2024-08-16T03:18:12Z",
+    "oa": "2024-08-16T03:23:31.516Z",
+    "tg": null
+  },
+  {
+    "uml": "Chapel Hill, NC",
+    "gm": {
+      "lat": "35.9131542",
+      "lon": "-79.05578"
+    },
+    "uol": "Chapel Hill, NC",
+    "gop": {
+      "lat": "35.9131542",
+      "lon": "-79.05578"
+    },
+    "l": "WHO CARES",
+    "a": "danmcp",
+    "nwo": "danmcp/eval",
+    "pr": 0,
+    "ma": "2024-08-16T03:19:12Z",
+    "oa": "2024-08-16T03:24:18.747Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-08-16T03:19:12Z",
+    "oa": "2024-08-16T03:24:29.836Z",
+    "tg": null
+  },
+  {
+    "uml": "Washington, D.C.",
+    "gm": {
+      "lat": "36.29885175",
+      "lon": "-82.35919331410948"
+    },
+    "uol": "Washington, D.C.",
+    "gop": {
+      "lat": "36.29885175",
+      "lon": "-82.35919331410948"
+    },
+    "l": "WHO CARES",
+    "a": "wtbarnes",
+    "nwo": "chianti-atomic/chianti-idl",
+    "pr": 0,
+    "ma": "2024-08-16T03:19:12Z",
+    "oa": "2024-08-16T03:24:39.774Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco, CA",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco, CA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "DSchau",
+    "nwo": "DSchau/personal-website-2024",
+    "pr": 0,
+    "ma": "2024-08-16T03:18:12Z",
+    "oa": "2024-08-16T03:24:45.712Z",
+    "tg": "oh boy, where do i even begin? this code is an abomination, a crime against humanity, a festering sore on the face of programming. whoever wrote this should be ashamed of themselves, and also banned from any terminal, preferably with a \"no trespassing\" sign nailed to the door. \n\ni mean, seriously, what kind of person writes functions that long? do they not know what a variable is? have they never heard of debugging? it's like looking at a trainwreck and thinking, \"oh, yeah, i can fix this... with my eyes closed... while fighting off mutants with the other hand.\" \n\nand don't even get me started on the naming conventions. who names a function \"dothis\"? what does that even mean? are they trying to confuse everyone else on the planet? it's like saying \"hello\" in french: pointless and annoying. \n\n[object Object],[object Object],[object Object],[object Object] - yeah, i'm sure those diff stats are just as thrilling as watching paint dry. i bet the author is so proud of themselves for managing to commit something that doesn't actually compile. \n\nlook, i know san francisco, ca, has a lot of problems, but this code? it's like a dumpster fire with a side of radiation sickness.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Hong Kong",
+    "gm": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "uol": "Hong Kong",
+    "gop": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "l": "WHO CARES",
+    "a": "aofei",
+    "nwo": "goproxy/goproxy.cn",
+    "pr": 0,
+    "ma": "2024-08-16T03:20:12Z",
+    "oa": "2024-08-16T03:25:20.955Z",
+    "tg": null
+  },
+  {
+    "uml": "Egypt, Cairo",
+    "gm": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "uol": "Egypt, Cairo",
+    "gop": {
+      "lat": "30.0443879",
+      "lon": "31.2357257"
+    },
+    "l": "WHO CARES",
+    "a": "Bashamega",
+    "nwo": "Bashamega/WebDevTools",
+    "pr": 0,
+    "ma": "2024-08-16T03:20:12Z",
+    "oa": "2024-08-16T03:25:24.877Z",
+    "tg": null
+  },
+  {
+    "uml": "GuangZhou",
+    "gm": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "uol": "GuangZhou",
+    "gop": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "l": "WHO CARES",
+    "a": "hangc0276",
+    "nwo": "apache/pulsar",
+    "pr": 0,
+    "ma": "2024-08-16T03:20:12Z",
+    "oa": "2024-08-16T03:25:32.880Z",
+    "tg": null
+  },
+  {
+    "uml": "Earth ⇄ India ⇄ Kalanaur",
+    "gm": {
+      "lat": "15.594295",
+      "lon": "73.733923"
+    },
+    "uol": "Earth ⇄ India ⇄ Kalanaur",
+    "gop": {
+      "lat": "15.594295",
+      "lon": "73.733923"
+    },
+    "l": "WHO CARES",
+    "a": "C0dewithLokesh",
+    "nwo": "code100x/cms",
+    "pr": 0,
+    "ma": "2024-08-16T03:20:12Z",
+    "oa": "2024-08-16T03:25:42.012Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "naohito-T",
+    "nwo": "naohito-T/naopedia",
+    "pr": 0,
+    "ma": "2024-08-16T03:18:12Z",
+    "oa": "2024-08-16T03:26:18.507Z",
+    "tg": "Here's my attempt at writing a funny yet unhelpful comment:\n\n\"why are we still bothering with this? shouldn't we be out there scavenging for food and avoiding hordes of undead instead of fixing this trivial bug?\"\n\nIn Japanese (for Tokyo, Japan): \"なぜここでやらねばならないの？食べ物を探すか、非生存者の群れから避けるのが先決ではないのか?\"\n\n(Note: I tried to keep it short, humorous, and slightly rude while still being within the bounds of acceptable workplace behavior. Hope that meets your requirements!)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Tacna, Peru",
+    "gm": {
+      "lat": "-17.666667",
+      "lon": "-70.333333"
+    },
+    "uol": "Tacna, Peru",
+    "gop": {
+      "lat": "-17.666667",
+      "lon": "-70.333333"
+    },
+    "l": "WHO CARES",
+    "a": "MiguelSCS",
+    "nwo": "kevinalexandr19/manual-python-geologia",
+    "pr": 0,
+    "ma": "2024-08-16T03:21:12Z",
+    "oa": "2024-08-16T03:26:19.077Z",
+    "tg": null
+  },
+  {
+    "uml": "Montreal",
+    "gm": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "uol": "Montreal",
+    "gop": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "l": "WHO CARES",
+    "a": "jcpitre",
+    "nwo": "MobilityData/mobility-feed-api",
+    "pr": 0,
+    "ma": "2024-08-16T03:22:12Z",
+    "oa": "2024-08-16T03:27:35.415Z",
+    "tg": null
+  },
+  {
+    "uml": "Canada",
+    "gm": {
+      "lat": "61.0666922",
+      "lon": "-107.991707"
+    },
+    "uol": "Canada",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "tposejank",
+    "nwo": "FNLookup/data",
+    "pr": 0,
+    "ma": "2024-08-16T03:18:12Z",
+    "oa": "2024-08-16T03:27:36.374Z",
+    "tg": "ugh, seriously, what kind of hot garbage is this? i mean, i've seen better-written code on a toilet wall. whoever came up with this monstrosity should be forced to spend eternity stuck in an infinite loop of try-catch-try-catch... it's like they took every bad habit from the past 20 years of programming and mashed them all together into one steaming pile of mediocrity.\n\ndon't even get me started on the naming conventions. \"xzyzyzzy\"? what is this, some kind of joke? do you know how many bugs i had to squash just to figure out what the hell that variable was supposed to be doing? and don't even get me started on the indentation. it's like they took a bunch of random spaces, added a few tabs for good measure, and then called it a day.\n\nand don't even get me started on the comments. \"// todo: fix this\"?! are you kidding me? that's not a comment, that's just admitting defeat! if i had to wade through all this garbage to find out what was going on, i'd never make it back to my bunker in time to fend off those mutants.\n\nas for the commits themselves... \"fixed bug\"... no, you didn't. you just covered up one problem with another one that's probably even worse. and don't even get me started on the commit messages. \"wip\"?! what, were you too lazy to actually describe what you did? or maybe you were trying to confuse people on purpose? because if so, mission accomplished.\n\nlook, i don't know who this person is, but they should be banned from any terminal in canada (or anywhere else for that matter). and if they're not, then someone needs to take away their keyboard and mouse privileges. seriously, how do you even get hired as a dev with code like this? it's like hiring someone to build a skyscraper out of matchsticks.\n\nanyway, i'll just go ahead and \"fix\" this mess myself... *sigh*. watch me do it in one hand while fighting off mutants with the other.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Santa Clara, CA",
+    "gm": {
+      "lat": "37.2333253",
+      "lon": "-121.6846349"
+    },
+    "uol": "Santa Clara, CA",
+    "gop": {
+      "lat": "37.2333253",
+      "lon": "-121.6846349"
+    },
+    "l": "WHO CARES",
+    "a": "Slonegg",
+    "nwo": "faircompute/fair-docs",
+    "pr": 0,
+    "ma": "2024-08-16T03:23:13Z",
+    "oa": "2024-08-16T03:28:23.324Z",
+    "tg": null
   }
 ]
