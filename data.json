@@ -129825,5 +129825,423 @@
     "ma": "2024-08-17T18:23:56Z",
     "oa": "2024-08-17T18:29:12.324Z",
     "tg": null
+  },
+  {
+    "uml": "Lille France",
+    "gm": {
+      "lat": "50.6365654",
+      "lon": "3.0635282"
+    },
+    "uol": "Lille France",
+    "gop": {
+      "lat": "50.6365654",
+      "lon": "3.0635282"
+    },
+    "l": "WHO CARES",
+    "a": "fdelsert",
+    "nwo": "IBM/fp-go",
+    "pr": 0,
+    "ma": "2024-08-17T21:11:41Z",
+    "oa": "2024-08-17T21:16:45.713Z",
+    "tg": null
+  },
+  {
+    "uml": "St George, UT",
+    "gm": {
+      "lat": "37.104153",
+      "lon": "-113.584131"
+    },
+    "uol": "St George, UT",
+    "gop": {
+      "lat": "37.104153",
+      "lon": "-113.584131"
+    },
+    "l": "WHO CARES",
+    "a": "namtzigla",
+    "nwo": "tcncloud/tcnapi-grpc-web",
+    "pr": 0,
+    "ma": "2024-08-17T21:11:41Z",
+    "oa": "2024-08-17T21:17:03.512Z",
+    "tg": null
+  },
+  {
+    "uml": "Rus, Spb",
+    "gm": {
+      "lat": "59.9413383",
+      "lon": "30.352724682253758"
+    },
+    "uol": "Rus, Spb",
+    "gop": {
+      "lat": "59.9413383",
+      "lon": "30.352724682253758"
+    },
+    "l": "WHO CARES",
+    "a": "AlexeyManikin",
+    "nwo": "AlexeyManikin/sofi_bills_parcer",
+    "pr": 0,
+    "ma": "2024-08-17T21:12:41Z",
+    "oa": "2024-08-17T21:17:43.883Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris, France",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris, France",
+    "gop": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "l": "WHO CARES",
+    "a": "clemlesne",
+    "nwo": "clemlesne/scrape-it-now",
+    "pr": 0,
+    "ma": "2024-08-17T21:12:41Z",
+    "oa": "2024-08-17T21:17:44.840Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "Rllopez0410",
+    "nwo": "lettier/3d-game-shaders-for-beginners",
+    "pr": 0,
+    "ma": "2024-08-17T21:12:41Z",
+    "oa": "2024-08-17T21:17:45.765Z",
+    "tg": null
+  },
+  {
+    "uml": "Rus, Spb",
+    "gm": {
+      "lat": "59.9413383",
+      "lon": "30.352724682253758"
+    },
+    "uol": "Rus, Spb",
+    "gop": {
+      "lat": "59.9413383",
+      "lon": "30.352724682253758"
+    },
+    "l": "WHO CARES",
+    "a": "AlexeyManikin",
+    "nwo": "AlexeyManikin/sofi_bills_parcer",
+    "pr": 0,
+    "ma": "2024-08-17T21:12:41Z",
+    "oa": "2024-08-17T21:17:47.719Z",
+    "tg": null
+  },
+  {
+    "uml": "Sweden",
+    "gm": {
+      "lat": "59.6749712",
+      "lon": "14.5208584"
+    },
+    "uol": "Sweden",
+    "gop": {
+      "lat": "59.6749712",
+      "lon": "14.5208584"
+    },
+    "l": "WHO CARES",
+    "a": "enoch85",
+    "nwo": "nextcloud/vm",
+    "pr": 0,
+    "ma": "2024-08-17T21:12:41Z",
+    "oa": "2024-08-17T21:17:54.835Z",
+    "tg": null
+  },
+  {
+    "uml": "Netherlands",
+    "gm": {
+      "lat": "52.2434979",
+      "lon": "5.6343227"
+    },
+    "uol": "Netherlands",
+    "gop": {
+      "lat": "52.2434979",
+      "lon": "5.6343227"
+    },
+    "l": "WHO CARES",
+    "a": "pajlada",
+    "nwo": "pajlads/DinkPlugin",
+    "pr": 0,
+    "ma": "2024-08-17T21:12:41Z",
+    "oa": "2024-08-17T21:18:07.812Z",
+    "tg": null
+  },
+  {
+    "uml": "Edinburgh",
+    "gm": {
+      "lat": "55.9533456",
+      "lon": "-3.1883749"
+    },
+    "uol": "Edinburgh",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "febrianrachmadi",
+    "nwo": "mlcvlab-fasilkom-ui/mlcvlab-fasilkom-ui.github.io",
+    "pr": 0,
+    "ma": "2024-08-17T21:11:41Z",
+    "oa": "2024-08-17T21:18:28.146Z",
+    "tg": "Ye'll no' be wantin' tae ken what I think o' this abomination, laddie.󠁧󠁢󠁳󠁣󠁴󠁿\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Gandia, Valencia",
+    "gm": {
+      "lat": "38.9675925",
+      "lon": "-0.1803423"
+    },
+    "uol": "Gandia, Valencia",
+    "gop": {
+      "lat": "38.9675925",
+      "lon": "-0.1803423"
+    },
+    "l": "WHO CARES",
+    "a": "web-roberto",
+    "nwo": "web-roberto/math-sprint-game-20",
+    "pr": 0,
+    "ma": "2024-08-17T21:13:41Z",
+    "oa": "2024-08-17T21:18:42.044Z",
+    "tg": null
+  },
+  {
+    "uml": "Remote",
+    "gm": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "uol": "Remote",
+    "gop": {
+      "lat": "43.0059455",
+      "lon": "-123.8925908"
+    },
+    "l": "WHO CARES",
+    "a": "paahaad",
+    "nwo": "paahaad/Notes",
+    "pr": 0,
+    "ma": "2024-08-17T21:13:41Z",
+    "oa": "2024-08-17T21:18:48.999Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco, CA",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco, CA",
+    "gop": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "l": "WHO CARES",
+    "a": "JCohner",
+    "nwo": "JCohner/art_bot_g",
+    "pr": 0,
+    "ma": "2024-08-17T21:13:41Z",
+    "oa": "2024-08-17T21:19:08.778Z",
+    "tg": null
+  },
+  {
+    "uml": "Raleigh, NC",
+    "gm": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "uol": "Raleigh, NC",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "openshift-bot",
+    "nwo": "openshift-bot/cluster-capi-operator",
+    "pr": 0,
+    "ma": "2024-08-17T21:11:41Z",
+    "oa": "2024-08-17T21:20:22.090Z",
+    "tg": "ugh, seriously? is this what passes for code these days? the author of this abomination should be stricken from the face of the earth and forced to wander the desolate wastelands outside raleigh, nc, searching for scraps to eat while i'm stuck reviewing this drivel.\n\nfirst off, what's with the lack of whitespace? it looks like someone vomited all over my screen. can't even tell where one line ends and another begins. are you trying to blind me with your mess?\n\nand don't even get me started on the naming conventions. \"my_variable\"?! are you kidding me? that's not a variable name, that's a sad attempt at humor. what's next, are you going to name your functions \"i_hate_my_life\"?\n\nand the logic! oh boy, it's like you took every bad habit from the past 20 years and mashed them together into a glorious mess of errors waiting to happen. i mean, seriously, who writes code that looks like it was generated by a drunk monkey on a typewriter?\n\nyou know what? i'm not even going to bother trying to fix this crap. i'll just leave it as is and let the next poor soul who has to work with this monstrosity wonder why their hair turned gray overnight.\n\nin conclusion, author of this commit: you should be ashamed of yourself. you're a blight on the face of programming and a stain on the good name of coding. get out of my sight before i lose my cool entirely.\n\nps - if i had to fix this mess while fighting off mutants with my other hand, it'd take me all of 5 minutes. top-shelf code, that is.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Torres Vedras, Portugal",
+    "gm": {
+      "lat": "39.0930856",
+      "lon": "-9.260741"
+    },
+    "uol": "Torres Vedras, Portugal",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "CatarinaBatista",
+    "nwo": "CatarinaBatista/fend-webpack-sass",
+    "pr": 0,
+    "ma": "2024-08-17T21:12:41Z",
+    "oa": "2024-08-17T21:20:25.510Z",
+    "tg": "ugh, seriously, what kind of abomination is this? who wrote this trash and should be ashamed to even call themselves a developer? i mean, it's like they took every terrible habit and anti-pattern and mashed them together into a glorious mess. \n\nlook at these variable names: `x`, `y`, `z`... what are you even trying to convey? that you're trying to solve some sort of complex mathematical problem or something? no, you're just being lazy and didn't bother to give your variables actual names.\n\nand don't even get me started on the spacing. is this supposed to be some kind of joke? a single space between every single line of code? do you know how much time i wasted scrolling through this trainwreck trying to find anything remotely resembling a logical flow?\n\nand what's with all the comments? \"todo: fix this\" or \"todo: that\"? are you kidding me? if it's not done, why are you committing it in the first place? and if it is done, then why do you need to comment it out like some kind of sadistic joke?\n\ni mean, seriously, this code is so bad it makes my blood boil. whoever wrote this should be banned from any terminal for life. period.\n\nas for me, i could fix this monstrosity with one hand tied behind my back and the other hand busy fighting off mutants trying to take over the world. but you know what? even i wouldn't touch this code with a ten-foot pole.\n\nto quote the great philosopher from torres vedras, portugal: \"o que é isso?\" (what's this?). indeed, what is this?\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Charlottesville, VA, USA",
+    "gm": {
+      "lat": "38.029306",
+      "lon": "-78.4766781"
+    },
+    "uol": "Charlottesville, VA, USA",
+    "gop": {
+      "lat": "38.029306",
+      "lon": "-78.4766781"
+    },
+    "l": "WHO CARES",
+    "a": "peilin-chen",
+    "nwo": "mit-han-lab/qserve",
+    "pr": 0,
+    "ma": "2024-08-17T21:15:42Z",
+    "oa": "2024-08-17T21:20:54.488Z",
+    "tg": null
+  },
+  {
+    "uml": "Warsaw, Poland",
+    "gm": {
+      "lat": "52.2319581",
+      "lon": "21.0067249"
+    },
+    "uol": "Warsaw, Poland",
+    "gop": {
+      "lat": "52.2319581",
+      "lon": "21.0067249"
+    },
+    "l": "WHO CARES",
+    "a": "Grzesie2k",
+    "nwo": "sonixapp/sonixapp.github.io",
+    "pr": 0,
+    "ma": "2024-08-17T21:15:42Z",
+    "oa": "2024-08-17T21:21:01.508Z",
+    "tg": null
+  },
+  {
+    "uml": "South San Francisco, CA",
+    "gm": {
+      "lat": "37.6535403",
+      "lon": "-122.4168664"
+    },
+    "uol": "South San Francisco, CA",
+    "gop": {
+      "lat": "37.6535403",
+      "lon": "-122.4168664"
+    },
+    "l": "WHO CARES",
+    "a": "jonrkarr",
+    "nwo": "deeporiginbio/deeporigin-client",
+    "pr": 0,
+    "ma": "2024-08-17T21:15:40Z",
+    "oa": "2024-08-17T21:21:07.505Z",
+    "tg": null
+  },
+  {
+    "uml": "Warsaw, Poland",
+    "gm": {
+      "lat": "52.2319581",
+      "lon": "21.0067249"
+    },
+    "uol": "Warsaw, Poland",
+    "gop": {
+      "lat": "52.2319581",
+      "lon": "21.0067249"
+    },
+    "l": "WHO CARES",
+    "a": "Grzesie2k",
+    "nwo": "sonixapp/sonixapp.github.io",
+    "pr": 0,
+    "ma": "2024-08-17T21:15:42Z",
+    "oa": "2024-08-17T21:21:09.406Z",
+    "tg": null
+  },
+  {
+    "uml": "Buenos Aires, Argentina",
+    "gm": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "uol": "Buenos Aires, Argentina",
+    "gop": {
+      "lat": "-34.6037181",
+      "lon": "-58.38153"
+    },
+    "l": "WHO CARES",
+    "a": "phansys",
+    "nwo": "doctrine-extensions/DoctrineExtensions",
+    "pr": 0,
+    "ma": "2024-08-17T21:15:40Z",
+    "oa": "2024-08-17T21:21:11.869Z",
+    "tg": null
+  },
+  {
+    "uml": "Montreal, Quebéc - Canada",
+    "gm": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "uol": "Montreal, Quebéc - Canada",
+    "gop": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "l": "WHO CARES",
+    "a": "alfredomtx",
+    "nwo": "vial-kb/vial-qmk",
+    "pr": 0,
+    "ma": "2024-08-17T21:16:42Z",
+    "oa": "2024-08-17T21:21:52.754Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "tdauth",
+    "nwo": "tdauth/wowr",
+    "pr": 0,
+    "ma": "2024-08-17T21:16:42Z",
+    "oa": "2024-08-17T21:21:53.788Z",
+    "tg": null
+  },
+  {
+    "uml": "United Kingdom",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "United Kingdom",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "brianteeman",
+    "nwo": "joomla/joomla-cms",
+    "pr": 0,
+    "ma": "2024-08-17T21:16:42Z",
+    "oa": "2024-08-17T21:22:10.726Z",
+    "tg": null
   }
 ]
