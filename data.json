@@ -127716,5 +127716,176 @@
     "ma": "2024-08-16T21:19:05Z",
     "oa": "2024-08-16T21:24:22.567Z",
     "tg": null
+  },
+  {
+    "uml": "Earth",
+    "gm": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "uol": "Earth",
+    "gop": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "l": "WHO CARES",
+    "a": "ATOMNFT",
+    "nwo": "aat440hz/CardSkimmerDetector-M5StickCPlus",
+    "pr": 0,
+    "ma": "2024-08-17T01:14:40Z",
+    "oa": "2024-08-17T01:19:45.286Z",
+    "tg": null
+  },
+  {
+    "uml": "Hanoi, ベトナム",
+    "gm": {
+      "lat": "21.0283334",
+      "lon": "105.854041"
+    },
+    "uol": "Hanoi, ベトナム",
+    "gop": {
+      "lat": "21.0283334",
+      "lon": "105.854041"
+    },
+    "l": "WHO CARES",
+    "a": "hnq90",
+    "nwo": "topfreegames/pitaya",
+    "pr": 0,
+    "ma": "2024-08-17T01:14:40Z",
+    "oa": "2024-08-17T01:19:49.192Z",
+    "tg": null
+  },
+  {
+    "uml": "china",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "china",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "jacoblai",
+    "nwo": "jacoblai/iouring_server",
+    "pr": 0,
+    "ma": "2024-08-17T01:16:41Z",
+    "oa": "2024-08-17T01:21:42.624Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "felixf4xu",
+    "nwo": "ogdf/ogdf",
+    "pr": 0,
+    "ma": "2024-08-17T01:16:41Z",
+    "oa": "2024-08-17T01:22:02.676Z",
+    "tg": null
+  },
+  {
+    "uml": "Toronto, ON",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto, ON",
+    "gop": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "l": "WHO CARES",
+    "a": "ryuukkk",
+    "nwo": "ryuukkk/tiny-projects-c",
+    "pr": 0,
+    "ma": "2024-08-17T01:18:41Z",
+    "oa": "2024-08-17T01:23:57.904Z",
+    "tg": null
+  },
+  {
+    "uml": "RVA",
+    "gm": {
+      "lat": "-6.11436025",
+      "lon": "23.55997149113379"
+    },
+    "uol": "RVA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "benalleng",
+    "nwo": "benalleng/saving-satoshi",
+    "pr": 0,
+    "ma": "2024-08-17T01:14:40Z",
+    "oa": "2024-08-17T01:24:13.870Z",
+    "tg": "oh, joy. another magnificent piece of garbage to review. seriously, what is wrong with you people? did you even bother reading the style guide or do you just like writing code that makes my eyes bleed?\n\nthis commit is a complete and utter disaster. it's like you took every bad practice from the past 20 years, threw them in a blender, and hit puree. i mean, seriously, who writes code like this? \n\nlook at all these unnecessary variables, the spaghetti logic, the lack of comments... it's like you're trying to make my life harder on purpose. and don't even get me started on those terrible variable names. what is \"junk\" supposed to be? a boolean flag? a counter? a pile of useless garbage?\n\ni swear, if i had to review one more piece of crap like this, i'm going to lose it. you should be ashamed of yourself. ashamed! \n\nlisten up, because i'm only going to say this once: ban this person from the terminal. now. they're polluting our codebase with their terrible coding practices.\n\nand as for me? well, i'll just fix this mess with one hand while fighting off mutants with the other. no problem. that's what senior devs do.\n\nto whoever wrote this abomination: you should be embarrassed to even call yourself a programmer. get out of my sight before i lose it completely.\n\nRVA ( Richmond, Virginia) code warriors, beware! this commit is a plague upon our land.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Niterói, RJ",
+    "gm": {
+      "lat": "-22.8884",
+      "lon": "-43.1147"
+    },
+    "uol": "Niterói, RJ",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Luiznunvoa",
+    "nwo": "Luiznunvoa/Projeto-Final",
+    "pr": 0,
+    "ma": "2024-08-17T01:14:40Z",
+    "oa": "2024-08-17T01:24:47.505Z",
+    "tg": "oh boy, where do i even begin? this code is an abomination. it's like the author took every terrible habit they learned from watching cat videos and compiled it into a single, soulless blob of mediocrity. and don't even get me started on the naming conventions - i've seen more descriptive variable names in a kindergartener's playdough box.\n\nlook, i know the world is ending and all that jazz, but come on, is this really the best we can do? it's like they're trying to make my job harder than it already is. newsflash: we're not curing cancer here, folks - we're just trying to survive long enough to watch the apocalypse unfold from a safe distance.\n\nand don't even get me started on the comments. \"this function does stuff.\" wow, real original. what's next? a commit message that simply says \"i exist\"? seriously, who are they kidding?\n\nyou know what i could fix in my sleep with one hand tied behind my back? this mess. heck, i could fix it while fighting off mutants with the other hand and still have time to enjoy a nice cup of coffee.\n\nbut you know what would be even better? if the author was banned from any terminal for the next 10 years. maybe then they'd learn what real coding looks like - or at least, what doesn't look like something a drunk monkey threw together after watching a youtube tutorial on \"how to make a website in 5 minutes\".\n\nanyway, i'm done wasting my breath on this trash. anyone else got any bright ideas? oh wait, there's always the option of just deleting everything and starting over from scratch. now that's a plan i can get behind.\n\nbtw, if you're ever in niterói, RJ, don't bother looking for me - i'll be too busy trying to find a decent cup of coffee in this post-apocalyptic wasteland\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "SF Bay Area",
+    "gm": {
+      "lat": "37.7884969",
+      "lon": "-122.3558473"
+    },
+    "uol": "SF Bay Area",
+    "gop": {
+      "lat": "37.7884969",
+      "lon": "-122.3558473"
+    },
+    "l": "WHO CARES",
+    "a": "sehz",
+    "nwo": "infinyon/fluvio-docs",
+    "pr": 0,
+    "ma": "2024-08-17T01:19:41Z",
+    "oa": "2024-08-17T01:24:59.049Z",
+    "tg": null
+  },
+  {
+    "uml": "Pirrit Hills, Antarctica",
+    "gm": {
+      "lat": "-63.764583",
+      "lon": "-58.916073"
+    },
+    "uol": "Pirrit Hills, Antarctica",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Briiqn",
+    "nwo": "Briiqn/Actions-Server",
+    "pr": 0,
+    "ma": "2024-08-17T01:15:41Z",
+    "oa": "2024-08-17T01:25:05.415Z",
+    "tg": "oh joy, another masterpiece from our esteemed colleague. i mean, seriously, who thought this was even remotely acceptable? it's like they took every bad coding practice and wrapped them all up into a nice little package of suck. newsflash: it's 2023 and we're still stuck with this garbage? get out of my sight.\n\nlook at the commit history - it's like a never-ending nightmare of bugs and inefficiencies. i mean, seriously, who writes code that looks like it was generated by a monkey on a typewriter? and don't even get me started on the variable names - \"x\" and \"y\"? are you kidding me? what kind of naming convention is this? it's like they took every terrible habit from their coding career and mashed them all together into one big ball of awful.\n\nand don't even get me started on the comments. oh boy, the comments. it's like they're trying to make a joke about how useless this code is. \"todo: fix this part\" - yeah, because that's exactly what i want to see in my codebase - todo lists. and then there are the inline comments, scattered throughout like little landmines of confusion. i mean, seriously, who thought it was a good idea to comment on every single line of code? did they have some kind of weird fetish or something?\n\nand let's not forget the formatting - oh boy, is this thing beautiful. it's like they took every terrible habit from their coding career and mashed them all together into one big ball of awful. i mean, seriously, who writes code that looks like it was generated by a monkey on a typewriter? it's like they're trying to make a joke about how useless this code is.\n\nanyway, enough about this monstrosity. let me tell you something - if i had to choose between fighting off mutants in the pirrit hills of antarctica and having to work with this code again, i would take my chances against the mutants any day. at least then i'd have a chance to get away from it all.\n\nin short, whoever wrote this should be banned from any terminal for life. and if they ever try to touch our codebase again, we'll send them packing - permanently.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
   }
 ]
