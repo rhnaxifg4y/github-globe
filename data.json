@@ -129540,5 +129540,290 @@
     "ma": "2024-08-17T15:18:18Z",
     "oa": "2024-08-17T15:23:28.434Z",
     "tg": null
+  },
+  {
+    "uml": "Jalisco, Mexico",
+    "gm": {
+      "lat": "20.3333331",
+      "lon": "-103.6666671"
+    },
+    "uol": "Jalisco, Mexico",
+    "gop": {
+      "lat": "20.3333331",
+      "lon": "-103.6666671"
+    },
+    "l": "WHO CARES",
+    "a": "AlexCR97",
+    "nwo": "twbs/bootstrap",
+    "pr": 0,
+    "ma": "2024-08-17T18:19:56Z",
+    "oa": "2024-08-17T18:24:56.669Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "olanod",
+    "nwo": "hermit-os/hermit-rs",
+    "pr": 0,
+    "ma": "2024-08-17T18:19:56Z",
+    "oa": "2024-08-17T18:25:02.467Z",
+    "tg": null
+  },
+  {
+    "uml": "Bhopal, India",
+    "gm": {
+      "lat": "23.2584857",
+      "lon": "77.401989"
+    },
+    "uol": "Bhopal, India",
+    "gop": {
+      "lat": "23.2584857",
+      "lon": "77.401989"
+    },
+    "l": "WHO CARES",
+    "a": "Parvezkhan0",
+    "nwo": "Parvezkhan0/Transport",
+    "pr": 0,
+    "ma": "2024-08-17T18:19:56Z",
+    "oa": "2024-08-17T18:25:07.491Z",
+    "tg": null
+  },
+  {
+    "uml": "⚡️universe",
+    "gm": {
+      "lat": "55.04113185",
+      "lon": "9.81038979494516"
+    },
+    "uol": "⚡️universe",
+    "gop": {
+      "lat": "55.04113185",
+      "lon": "9.81038979494516"
+    },
+    "l": "WHO CARES",
+    "a": "goldenglorys",
+    "nwo": "KoljaB/LocalAIVoiceChat",
+    "pr": 0,
+    "ma": "2024-08-17T18:19:56Z",
+    "oa": "2024-08-17T18:25:13.557Z",
+    "tg": null
+  },
+  {
+    "uml": "Florida",
+    "gm": {
+      "lat": "27.7567667",
+      "lon": "-81.4639835"
+    },
+    "uol": "Florida",
+    "gop": {
+      "lat": "27.7567667",
+      "lon": "-81.4639835"
+    },
+    "l": "WHO CARES",
+    "a": "WellHatchedOne",
+    "nwo": "WellHatchedOne/sea-np-gmtk2024",
+    "pr": 0,
+    "ma": "2024-08-17T18:20:56Z",
+    "oa": "2024-08-17T18:26:00.786Z",
+    "tg": null
+  },
+  {
+    "uml": "Meru,Kenya",
+    "gm": {
+      "lat": "0.0499786",
+      "lon": "37.6500063"
+    },
+    "uol": "Meru,Kenya",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "fredrickbernardonduru",
+    "nwo": "fredrickbernardonduru/AutoMe",
+    "pr": 0,
+    "ma": "2024-08-17T18:18:55Z",
+    "oa": "2024-08-17T18:26:11.316Z",
+    "tg": "ugh, what an abomination. this code is so bad it's like someone vomited all over the terminal and then tried to pass it off as a functioning program. i mean, seriously, who writes functions that are 300 lines long? did they think we're trying to solve world hunger in there or something?\n\nand don't even get me started on the variable names. \"x\" and \"y\"? what is this, 1982? can't you at least try to be original for once? i mean, i know it's not like it's going to make a difference or anything, but still.\n\nand then there's the indentation. oh boy, the indentation. it's like they took every possible way of formatting code and mashed them all together into one big mess. i'm surprised it even compiles.\n\ni swear, if i had to look at this again, i'd lose my mind. or at least my patience. either way, someone needs to take a serious look at this commit and ban the author from any terminal that has an internet connection. seriously, don't they know that's like giving them access to the source code of the entire world? it's like leaving your door unlocked and expecting no one to try anything.\n\nand you know what? i could fix all this with one hand tied behind my back while fighting off mutants with the other. okay, maybe not really, but you get the point. this is bad. really bad. like \"i'm-gonna-lose-my-job-if-i-have-to-read-this-one-more-time\" bad.\n\nso here's a suggestion: why don't we just take all the code and put it in a file called \"badcode.py\" and then delete the whole commit? that way, no one has to see this again. ever.\n\nas for the author, let's just say they're not going anywhere anytime soon. unless they get a good lawyer. or a miracle cure for their apparent lack of coding skills.\n\nso there you have it: my two cents on this \"commit\". i hope it helps (not that it will).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Rimini",
+    "gm": {
+      "lat": "43.946503899999996",
+      "lon": "12.631031715742981"
+    },
+    "uol": "Rimini",
+    "gop": {
+      "lat": "43.946503899999996",
+      "lon": "12.631031715742981"
+    },
+    "l": "WHO CARES",
+    "a": "AndreaBrighi",
+    "nwo": "AndreaBrighi/Gradle-Git-Sensitive-Semantic-Versioning-Plugin-for-Android",
+    "pr": 0,
+    "ma": "2024-08-17T18:21:56Z",
+    "oa": "2024-08-17T18:27:03.037Z",
+    "tg": null
+  },
+  {
+    "uml": "Mumbai, India",
+    "gm": {
+      "lat": "19.08157715",
+      "lon": "72.88662753964906"
+    },
+    "uol": "Mumbai, India",
+    "gop": {
+      "lat": "19.08157715",
+      "lon": "72.88662753964906"
+    },
+    "l": "WHO CARES",
+    "a": "ZakiMohammed",
+    "nwo": "ZakiMohammed/ng-hacknight-half-app",
+    "pr": 0,
+    "ma": "2024-08-17T18:21:56Z",
+    "oa": "2024-08-17T18:27:04.923Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "BeryJu",
+    "nwo": "BeryJu/k8s",
+    "pr": 0,
+    "ma": "2024-08-17T18:18:55Z",
+    "oa": "2024-08-17T18:27:11.854Z",
+    "tg": "i'm not sure how much longer i can tolerate this nonsense, maybe it's time to just start coding in morse code and let the zombies figure it out\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Lages, SC, Brazil",
+    "gm": {
+      "lat": "-27.8165664",
+      "lon": "-50.325883"
+    },
+    "uol": "Lages, SC, Brazil",
+    "gop": {
+      "lat": "-27.8165664",
+      "lon": "-50.325883"
+    },
+    "l": "WHO CARES",
+    "a": "giovanigirardi",
+    "nwo": "giovanigirardi/marketplace-client",
+    "pr": 0,
+    "ma": "2024-08-17T18:21:56Z",
+    "oa": "2024-08-17T18:27:12.978Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris",
+    "gop": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "l": "WHO CARES",
+    "a": "Lili75fr",
+    "nwo": "Lili75fr/SIRH",
+    "pr": 0,
+    "ma": "2024-08-17T18:22:56Z",
+    "oa": "2024-08-17T18:28:11.192Z",
+    "tg": null
+  },
+  {
+    "uml": "Mirpur , Dhaka ,Bangladesh",
+    "gm": {
+      "lat": "23.817758949999998",
+      "lon": "90.37244789599441"
+    },
+    "uol": "Mirpur , Dhaka ,Bangladesh",
+    "gop": {
+      "lat": "23.817758949999998",
+      "lon": "90.37244789599441"
+    },
+    "l": "WHO CARES",
+    "a": "HUNTER-SAZZADUL-ISLAM",
+    "nwo": "HUNTER-SAZZADUL-ISLAM/Credit-Card-Fraud-Machine-Learning",
+    "pr": 0,
+    "ma": "2024-08-17T18:22:56Z",
+    "oa": "2024-08-17T18:28:19.085Z",
+    "tg": null
+  },
+  {
+    "uml": "Stockholm",
+    "gm": {
+      "lat": "59.3251172",
+      "lon": "18.0710935"
+    },
+    "uol": "Stockholm",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "21st-centuryman",
+    "nwo": "21st-centuryman/riscy_cores",
+    "pr": 0,
+    "ma": "2024-08-17T18:18:55Z",
+    "oa": "2024-08-17T18:28:38.066Z",
+    "tg": "oh joy, another masterpiece from our esteemed colleague who clearly has no business being near a computer, let alone writing code. this commit is an abomination, a travesty, a monument to all that is wrong with modern programming. \n\nfirst of all, what's with the variable names? \"x\" and \"y\"? are you kidding me? how about we just call them \"thing1\" and \"otherThing2\"? at least then it would be consistent in its lack of clarity.\n\nand don't even get me started on the logic. it's like looking at a plate of spaghetti that's been sat out for a week - it's a mess, it's confusing, and i have no idea how it's supposed to work. \n\nlisten, if you're going to write code, at least have the decency to make it readable. this is like trying to decipher a ancient hieroglyphic text written by someone who's never seen a computer in their life.\n\nand what's with all the unnecessary comments? \"this is where we do the thing\"? no kidding, genius. that's why i'm here, to figure out what you meant to say when you wrote that 10-line block of gibberish.\n\ni swear, if i had to fix this mess, i'd need a team of experts, a box of donuts, and a few stiff drinks just to calm my nerves. and even then, it would be a miracle if we didn't end up with something that works.\n\nyou know what? scratch all that. just ban the author from any terminal for life. better yet, ship them off to stockholm (ja, stockholm) and let them try to figure out how to code in swedish. see how they like it.\n\nanyway, i hope you're proud of yourself, author. this commit is a shining example of everything that's wrong with our industry.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Lebanon",
+    "gm": {
+      "lat": "33.8750629",
+      "lon": "35.843409"
+    },
+    "uol": "Lebanon",
+    "gop": {
+      "lat": "33.8750629",
+      "lon": "35.843409"
+    },
+    "l": "WHO CARES",
+    "a": "JanoTheDev",
+    "nwo": "peterhanania/Pogy",
+    "pr": 0,
+    "ma": "2024-08-17T18:23:56Z",
+    "oa": "2024-08-17T18:29:00.306Z",
+    "tg": null
+  },
+  {
+    "uml": "Conn.",
+    "gm": {
+      "lat": "41.6500201",
+      "lon": "-72.7342163"
+    },
+    "uol": "Conn.",
+    "gop": {
+      "lat": "41.6500201",
+      "lon": "-72.7342163"
+    },
+    "l": "WHO CARES",
+    "a": "nmk860",
+    "nwo": "couriersud/msigd",
+    "pr": 0,
+    "ma": "2024-08-17T18:23:56Z",
+    "oa": "2024-08-17T18:29:12.324Z",
+    "tg": null
   }
 ]
