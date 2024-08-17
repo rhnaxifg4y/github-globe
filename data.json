@@ -129274,5 +129274,271 @@
     "ma": "2024-08-17T12:32:49Z",
     "oa": "2024-08-17T12:38:09.312Z",
     "tg": null
+  },
+  {
+    "uml": "Dhaka, Bangladesh",
+    "gm": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "uol": "Dhaka, Bangladesh",
+    "gop": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "l": "WHO CARES",
+    "a": "saadi001",
+    "nwo": "saadi001/ACC",
+    "pr": 0,
+    "ma": "2024-08-17T15:13:17Z",
+    "oa": "2024-08-17T15:18:31.857Z",
+    "tg": null
+  },
+  {
+    "uml": "Madrid, Spain",
+    "gm": {
+      "lat": "40.4167047",
+      "lon": "-3.7035825"
+    },
+    "uol": "Madrid, Spain",
+    "gop": {
+      "lat": "40.4167047",
+      "lon": "-3.7035825"
+    },
+    "l": "WHO CARES",
+    "a": "brahma-dev",
+    "nwo": "brahma-dev/metafetch",
+    "pr": 0,
+    "ma": "2024-08-17T15:13:17Z",
+    "oa": "2024-08-17T15:18:33.907Z",
+    "tg": null
+  },
+  {
+    "uml": "Bosnia and Herzegovina",
+    "gm": {
+      "lat": "44.3053476",
+      "lon": "17.5961467"
+    },
+    "uol": "Bosnia and Herzegovina",
+    "gop": {
+      "lat": "44.3053476",
+      "lon": "17.5961467"
+    },
+    "l": "WHO CARES",
+    "a": "kaizerpwn",
+    "nwo": "nextui-org/nextui",
+    "pr": 0,
+    "ma": "2024-08-17T15:13:17Z",
+    "oa": "2024-08-17T15:18:40.841Z",
+    "tg": null
+  },
+  {
+    "uml": "Oregon, USA",
+    "gm": {
+      "lat": "43.9792797",
+      "lon": "-120.737257"
+    },
+    "uol": "Oregon, USA",
+    "gop": {
+      "lat": "43.9792797",
+      "lon": "-120.737257"
+    },
+    "l": "WHO CARES",
+    "a": "scottchiefbaker",
+    "nwo": "mmucklo/krumo",
+    "pr": 0,
+    "ma": "2024-08-17T15:14:17Z",
+    "oa": "2024-08-17T15:19:42.208Z",
+    "tg": null
+  },
+  {
+    "uml": "NYC",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "NYC",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "nikarc",
+    "nwo": "nikarc/dotfiles",
+    "pr": 0,
+    "ma": "2024-08-17T15:13:17Z",
+    "oa": "2024-08-17T15:20:05.993Z",
+    "tg": "oh joy, another masterpiece from the author who should be banned from any terminal, let alone touch a keyboard again. this code is an abomination, a complete and utter disaster that makes me question their very existence. i mean seriously, how do you even manage to write such garbage? it's like they took every terrible coding habit, mashed them together into one big ball of fail, and then called it \"code\".\n\nand don't even get me started on the naming conventions - or lack thereof. it's like they just typed in whatever came to mind without even considering what anyone else might think. i mean, seriously, is \"whatever\" really a good variable name? do you know how many hours of my life i'm going to waste trying to decipher this trainwreck?\n\nand the indentation - or lack thereof - makes me want to rip out my hair in frustration. it's like they just gave up on life and decided to write code that would make even the most seasoned dev weep tears of sadness.\n\ni mean, honestly, if i had to look at one more line of this monstrosity, i'd probably lose my mind. it's like they took every terrible coding practice, threw them into a blender, and hit puree. ugh.\n\nso, to the author, let me say this: you should be banned from any terminal, period. end of story. done. kaput. you're never going near a keyboard again. and if i had my way, you'd be forced to rewrite this entire thing by hand while fighting off mutants in the ruins of nyc (that's new york city, for those who don't know).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Deutschland, Hagen",
+    "gm": {
+      "lat": "51.3582945",
+      "lon": "7.473296"
+    },
+    "uol": "Deutschland, Hagen",
+    "gop": {
+      "lat": "51.3582945",
+      "lon": "7.473296"
+    },
+    "l": "WHO CARES",
+    "a": "OriginalSimon",
+    "nwo": "Silvenga/RedditShredder",
+    "pr": 0,
+    "ma": "2024-08-17T15:15:17Z",
+    "oa": "2024-08-17T15:20:21.746Z",
+    "tg": null
+  },
+  {
+    "uml": "Chattogram,Bangladesh",
+    "gm": {
+      "lat": "22.333778",
+      "lon": "91.8344348"
+    },
+    "uol": "Chattogram,Bangladesh",
+    "gop": {
+      "lat": "22.333778",
+      "lon": "91.8344348"
+    },
+    "l": "WHO CARES",
+    "a": "minhaj-abcd",
+    "nwo": "minhaj-abcd/demo",
+    "pr": 0,
+    "ma": "2024-08-17T15:15:17Z",
+    "oa": "2024-08-17T15:20:33.446Z",
+    "tg": null
+  },
+  {
+    "uml": "Monte Carmelo/MG",
+    "gm": {
+      "lat": "-18.7260939",
+      "lon": "-47.4958859"
+    },
+    "uol": "Monte Carmelo/MG",
+    "gop": {
+      "lat": "-18.7260939",
+      "lon": "-47.4958859"
+    },
+    "l": "WHO CARES",
+    "a": "MarlonBrendonx",
+    "nwo": "MarlonBrendonx/git-test-gpg",
+    "pr": 0,
+    "ma": "2024-08-17T15:15:17Z",
+    "oa": "2024-08-17T15:20:45.439Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "abhinav20git",
+    "nwo": "abhinav20git/flip-shop",
+    "pr": 0,
+    "ma": "2024-08-17T15:17:18Z",
+    "oa": "2024-08-17T15:22:25.172Z",
+    "tg": null
+  },
+  {
+    "uml": "Hue, Vietnam",
+    "gm": {
+      "lat": "16.4639321",
+      "lon": "107.5863388"
+    },
+    "uol": "Hue, Vietnam",
+    "gop": {
+      "lat": "16.4639321",
+      "lon": "107.5863388"
+    },
+    "l": "WHO CARES",
+    "a": "joutvhu",
+    "nwo": "joutvhu/get-release",
+    "pr": 0,
+    "ma": "2024-08-17T15:17:18Z",
+    "oa": "2024-08-17T15:22:31.133Z",
+    "tg": null
+  },
+  {
+    "uml": "Arjatpara, Mohakhali, Dhaka-1212",
+    "gm": {
+      "lat": "23.7755616",
+      "lon": "90.3951024"
+    },
+    "uol": "Arjatpara, Mohakhali, Dhaka-1212",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "nayan5572",
+    "nwo": "nayan5572/skill-shoot",
+    "pr": 0,
+    "ma": "2024-08-17T15:13:17Z",
+    "oa": "2024-08-17T15:23:01.401Z",
+    "tg": "oh joy, oh rapture. another piece of garbage code to deal with in this post-apocalyptic wasteland. \n\nlook at this monstrosity:\n\n```\n[object Object]\n```\n\nis that even a joke? what kind of sadistic developer comes up with something like this and thinks it's acceptable? the author of this... abomination should be forced to spend eternity stuck in an infinite loop of `print \"please help\"`.\n\ni mean, seriously, who designed this trainwreck? someone who clearly has never heard of encapsulation, abstraction, or even basic syntax? it's like they took every terrible idea they had and mashed them together into a hot mess of code. \n\nand don't even get me started on the naming conventions. i mean, what kind of person renames `int` to `i`? are they trying to make our collective blood boil? or maybe they're just trying to create a new language that's a combination of c++ and python... and fails miserably.\n\nanyway, back to the task at hand: fixing this mess. honestly, i could do it with one hand tied behind my back while fighting off mutants with the other. but hey, what's the point? the author is probably still out there, laughing maniacally as they watch their code destroy the world.\n\nas for me, well, i'm stuck in this dingy cave in arjatpara, mohakhali, dhaka-1212, surrounded by nothing but dust and despair. at least the coffee here is decent, though.\n\nbut seriously, whoever wrote this should be banned from any terminal that has a keyboard, mouse, or even a command prompt. they're a threat to society, pure and simple.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "kshau",
+    "nwo": "SAT-Unlimited/questions",
+    "pr": 0,
+    "ma": "2024-08-17T15:13:17Z",
+    "oa": "2024-08-17T15:23:26.015Z",
+    "tg": "oh boy, where do i even start with this absolute dumpster fire? the author of this code should be forced to survive in the wasteland without any supplies or shelter - that's how terrible it is. i mean, seriously, who writes a function like this: `function get_user_info(user_id) { return {user: 'bob', email: 'bob@bob.com'} }`?! it's like they're trying to make my life harder.\n\nand don't even get me started on the variable names - `x`, `y`, `z`? what, did they run out of creative names or something? it's like they're trying to make me have a seizure just looking at the code. and the indentation? forget about it. it looks like a kindergartener's art project gone wrong.\n\nlisten up, author: you should be banned from any terminal, including the ones in the underground bunker where we're trying to rebuild society. i mean, seriously, who lets this code get committed? did you even test it? because if not, then shame on you. and if so... well, let's just say my patience is wearing thin.\n\nand don't even get me started on the performance. i mean, come on - are we trying to bring down the entire system with these slow-as-molasses queries?! it's like they want us all to be stuck in the wasteland forever, unable to escape due to some poorly written function that takes an eternity to execute.\n\nas for fixing this monstrosity... well, i could do it with one hand tied behind my back and the other fighting off mutants while sipping a nice glass of radioactive juice. but honestly, i think it's better left broken - at least then we can all just agree to ignore it and pretend it never happened.\n\nin conclusion: the author should be forced to relearn programming from scratch (preferably with a baseball bat), and anyone who touches this code should have their terminal privileges revoked for life. and to the person who committed this... well, let's just say you're not welcome in our little community of survivors. now if you'll excuse me, i have some mutant-hunting to attend to.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "lagos",
+    "gm": {
+      "lat": "6.4550575",
+      "lon": "3.3941795"
+    },
+    "uol": "lagos",
+    "gop": {
+      "lat": "6.4550575",
+      "lon": "3.3941795"
+    },
+    "l": "WHO CARES",
+    "a": "dben11",
+    "nwo": "dben11/CODSOFT-",
+    "pr": 0,
+    "ma": "2024-08-17T15:18:18Z",
+    "oa": "2024-08-17T15:23:27.484Z",
+    "tg": null
+  },
+  {
+    "uml": "Netherlands",
+    "gm": {
+      "lat": "52.2434979",
+      "lon": "5.6343227"
+    },
+    "uol": "Netherlands",
+    "gop": {
+      "lat": "52.2434979",
+      "lon": "5.6343227"
+    },
+    "l": "WHO CARES",
+    "a": "sleepingcat4",
+    "nwo": "huggingface/huggingface_hub",
+    "pr": 0,
+    "ma": "2024-08-17T15:18:18Z",
+    "oa": "2024-08-17T15:23:28.434Z",
+    "tg": null
   }
 ]
