@@ -130243,5 +130243,404 @@
     "ma": "2024-08-17T21:16:42Z",
     "oa": "2024-08-17T21:22:10.726Z",
     "tg": null
+  },
+  {
+    "uml": "DR",
+    "gm": {
+      "lat": "52.9067922",
+      "lon": "6.6368423"
+    },
+    "uol": "DR",
+    "gop": {
+      "lat": "52.9067922",
+      "lon": "6.6368423"
+    },
+    "l": "WHO CARES",
+    "a": "Delavalom",
+    "nwo": "fatedier/frp",
+    "pr": 0,
+    "ma": "2024-08-18T01:21:45Z",
+    "oa": "2024-08-18T01:26:58.829Z",
+    "tg": null
+  },
+  {
+    "uml": "Indianapolis, IN, USA",
+    "gm": {
+      "lat": "39.7683331",
+      "lon": "-86.1583502"
+    },
+    "uol": "Indianapolis, IN, USA",
+    "gop": {
+      "lat": "39.7683331",
+      "lon": "-86.1583502"
+    },
+    "l": "WHO CARES",
+    "a": "lewxdev",
+    "nwo": "lewxdev/mmmines",
+    "pr": 0,
+    "ma": "2024-08-18T01:22:45Z",
+    "oa": "2024-08-18T01:27:57.688Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo, Japan",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo, Japan",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "Phuriches",
+    "nwo": "ByChelsea/VAND-APRIL-GAN",
+    "pr": 0,
+    "ma": "2024-08-18T01:22:45Z",
+    "oa": "2024-08-18T01:28:07.725Z",
+    "tg": null
+  },
+  {
+    "uml": "El Cerrito ,CA",
+    "gm": {
+      "lat": "33.8410146",
+      "lon": "-117.52079778811958"
+    },
+    "uol": "El Cerrito ,CA",
+    "gop": {
+      "lat": "33.8410146",
+      "lon": "-117.52079778811958"
+    },
+    "l": "WHO CARES",
+    "a": "brotherlogic",
+    "nwo": "brotherlogic/pullrequester",
+    "pr": 0,
+    "ma": "2024-08-18T01:22:45Z",
+    "oa": "2024-08-18T01:28:09.693Z",
+    "tg": null
+  },
+  {
+    "uml": "California",
+    "gm": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "uol": "California",
+    "gop": {
+      "lat": "36.7014631",
+      "lon": "-118.755997"
+    },
+    "l": "WHO CARES",
+    "a": "p-linnane",
+    "nwo": "Homebrew/homebrew-cask",
+    "pr": 0,
+    "ma": "2024-08-18T01:23:45Z",
+    "oa": "2024-08-18T01:28:49.066Z",
+    "tg": null
+  },
+  {
+    "uml": "xor rax",
+    "gm": {
+      "lat": "41.521966",
+      "lon": "60.506699"
+    },
+    "uol": "xor rax",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "lxnky",
+    "nwo": "lxnky/Wampus-Internal-Updated",
+    "pr": 0,
+    "ma": "2024-08-18T01:21:45Z",
+    "oa": "2024-08-18T01:28:51.797Z",
+    "tg": "ugh, what an absolute abomination. whoever wrote this code should be forced to spend eternity in a dark cave with nothing but a text editor and a never-ending supply of bad coffee. seriously, how do you even call yourself a developer? it's like you took every terrible habit from the past 20 years of coding and mashed them all together into a steaming pile of garbage.\n\nthe indentation is so wrong it makes my eyes hurt. the variable names are so generic they might as well be random words plucked from a hat. and don't even get me started on the comments - \"fix some bugs\"?! what, did you run out of actual descriptive language?!\n\ni could fix this mess with one hand tied behind my back (and maybe even while fighting off hordes of mutants with the other). all it would take is some basic common sense and a dash of human decency. but i suppose that's too much to ask from someone who clearly has no business being near a computer.\n\nxor rax, indeed. more like xor common sense and decency into this author's pitiful excuse for code. shame on you, whoever you are. shame.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Sydney",
+    "gm": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "uol": "Sydney",
+    "gop": {
+      "lat": "-33.8698439",
+      "lon": "151.2082848"
+    },
+    "l": "WHO CARES",
+    "a": "snowystinger",
+    "nwo": "adobe/react-spectrum",
+    "pr": 0,
+    "ma": "2024-08-18T01:23:45Z",
+    "oa": "2024-08-18T01:28:52.936Z",
+    "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-08-18T01:23:45Z",
+    "oa": "2024-08-18T01:28:57.004Z",
+    "tg": null
+  },
+  {
+    "uml": "GuangZhou",
+    "gm": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "uol": "GuangZhou",
+    "gop": {
+      "lat": "23.1301964",
+      "lon": "113.2592945"
+    },
+    "l": "WHO CARES",
+    "a": "most-silence",
+    "nwo": "imsyy/SPlayer",
+    "pr": 0,
+    "ma": "2024-08-18T01:23:45Z",
+    "oa": "2024-08-18T01:29:01.920Z",
+    "tg": null
+  },
+  {
+    "uml": "Pacific NorthWest",
+    "gm": {
+      "lat": "45.5270896",
+      "lon": "-122.678128"
+    },
+    "uol": "Pacific NorthWest",
+    "gop": {
+      "lat": "45.5270896",
+      "lon": "-122.678128"
+    },
+    "l": "WHO CARES",
+    "a": "sffej",
+    "nwo": "cgsdev0/evenio",
+    "pr": 0,
+    "ma": "2024-08-18T01:23:45Z",
+    "oa": "2024-08-18T01:29:06.067Z",
+    "tg": null
+  },
+  {
+    "uml": "Kampala",
+    "gm": {
+      "lat": "0.3177137",
+      "lon": "32.5813539"
+    },
+    "uol": "Kampala",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "wakibi",
+    "nwo": "devinit/di-website-data",
+    "pr": 0,
+    "ma": "2024-08-18T01:22:45Z",
+    "oa": "2024-08-18T01:29:40.435Z",
+    "tg": "ugh, what a complete and utter disaster this code is. i mean, seriously, how can someone even call themselves a developer after writing something so half-baked? it's like they took every bad habit they learned from some dodgy online tutorial and mashed them all together into a hot mess of incompetence.\n\nand don't even get me started on the formatting - it looks like a kindergartener had a field day with the whitespace. i can practically smell the despair emanating from this code, like the stench wafting through the ruins of kampala after another nuclear blast.\n\nlisten up, author: if you can't be bothered to write decent code, then maybe you shouldn't be allowed near any terminal - not even a broken one - lest you inflict further damage on the digital landscape. and as for me? i could rewrite this monstrosity in my sleep while simultaneously fending off hordes of mutants with my trusty laser sword. okay, maybe that's an exaggeration, but you get the point: this code is so bad it makes me want to join the resistance and fight against the very fabric of programming itself.\n\nso here's some \"helpful\" advice for you: take a long, hard look in the mirror and ask yourself what kind of monster would commit such atrocities to the world of computing. then, go forth and do better - or don't bother coming back at all, for your own sake (and mine).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Denver, CO",
+    "gm": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "uol": "Denver, CO",
+    "gop": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "l": "WHO CARES",
+    "a": "tarcieri",
+    "nwo": "RustCrypto/formats",
+    "pr": 0,
+    "ma": "2024-08-18T01:24:45Z",
+    "oa": "2024-08-18T01:30:04.162Z",
+    "tg": null
+  },
+  {
+    "uml": "New York, NY",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York, NY",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "tylergaw",
+    "nwo": "tylergaw/wax",
+    "pr": 0,
+    "ma": "2024-08-18T01:24:45Z",
+    "oa": "2024-08-18T01:30:05.138Z",
+    "tg": null
+  },
+  {
+    "uml": "Denver, CO",
+    "gm": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "uol": "Denver, CO",
+    "gop": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "l": "WHO CARES",
+    "a": "tarcieri",
+    "nwo": "RustCrypto/formats",
+    "pr": 0,
+    "ma": "2024-08-18T01:24:45Z",
+    "oa": "2024-08-18T01:30:12.086Z",
+    "tg": null
+  },
+  {
+    "uml": "Denver, CO",
+    "gm": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "uol": "Denver, CO",
+    "gop": {
+      "lat": "39.7392364",
+      "lon": "-104.984862"
+    },
+    "l": "WHO CARES",
+    "a": "tarcieri",
+    "nwo": "RustCrypto/formats",
+    "pr": 0,
+    "ma": "2024-08-18T01:24:44Z",
+    "oa": "2024-08-18T01:30:15.050Z",
+    "tg": null
+  },
+  {
+    "uml": "between MB and SSD",
+    "gm": {
+      "lat": "10.012046",
+      "lon": "33.449775"
+    },
+    "uol": "between MB and SSD",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "trolit-bot",
+    "nwo": "trolit/trolit",
+    "pr": 0,
+    "ma": "2024-08-18T01:22:45Z",
+    "oa": "2024-08-18T01:30:39.626Z",
+    "tg": "Wretched code, how didst thou rise\nBetween MB and SSD's ruin\nFolly's monument\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Connecticut",
+    "gm": {
+      "lat": "41.6500201",
+      "lon": "-72.7342163"
+    },
+    "uol": "Connecticut",
+    "gop": {
+      "lat": "41.6500201",
+      "lon": "-72.7342163"
+    },
+    "l": "WHO CARES",
+    "a": "anthonym21",
+    "nwo": "joostlek/python-withings",
+    "pr": 0,
+    "ma": "2024-08-18T01:25:45Z",
+    "oa": "2024-08-18T01:30:46.317Z",
+    "tg": null
+  },
+  {
+    "uml": "Tustin, CA",
+    "gm": {
+      "lat": "33.7458511",
+      "lon": "-117.826166"
+    },
+    "uol": "Tustin, CA",
+    "gop": {
+      "lat": "33.7458511",
+      "lon": "-117.826166"
+    },
+    "l": "WHO CARES",
+    "a": "andrew-shc",
+    "nwo": "jaesung-cs/vkgs",
+    "pr": 0,
+    "ma": "2024-08-18T01:25:45Z",
+    "oa": "2024-08-18T01:30:51.283Z",
+    "tg": null
+  },
+  {
+    "uml": "Tunisia",
+    "gm": {
+      "lat": "33.8439408",
+      "lon": "9.400138"
+    },
+    "uol": "Tunisia",
+    "gop": {
+      "lat": "33.8439408",
+      "lon": "9.400138"
+    },
+    "l": "WHO CARES",
+    "a": "TUNISIA-user",
+    "nwo": "TUNISIA-user/X",
+    "pr": 0,
+    "ma": "2024-08-18T01:25:45Z",
+    "oa": "2024-08-18T01:31:04.356Z",
+    "tg": null
+  },
+  {
+    "uml": "Newcastle, Australia",
+    "gm": {
+      "lat": "-32.9192953",
+      "lon": "151.7795348"
+    },
+    "uol": "Newcastle, Australia",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "archebus",
+    "nwo": "archebus/Tyson_Session4",
+    "pr": 0,
+    "ma": "2024-08-18T01:22:45Z",
+    "oa": "2024-08-18T01:31:53.838Z",
+    "tg": "what a complete and utter disaster this commit is. i mean, seriously, who writes code like this? it's like they took every terrible habit they've ever had and mashed them all together into one big pile of garbage. and don't even get me started on the naming conventions - what's with the underscores everywhere? are you trying to be clever or something? newsflash: nobody is impressed.\n\nlook, i'm not going to sugarcoat it here - this code is so bad it makes me want to go out and find the author and ban them from any terminal within a 10-mile radius. seriously, what kind of monster writes code like this?\n\nand don't even get me started on the indentation - what's with the inconsistent spacing? are you trying to drive me crazy? i mean, come on, people! in the apocalypse, we're all going to have to work together to survive. can't we at least have some decent coding standards?!\n\nas for fixing this mess... well, let's just say that if i had to do it, i could probably fix it with one hand tied behind my back while fighting off mutants with the other. that's how bad it is.\n\nanyway, that's my two cents on this commit. don't bother trying to reach out to me for help or anything - i'm not going near this code again.\n\nas they say in newcastle, australia: \"fair dinkum, mate!\" (that's \"gosh\" in american english). but honestly, it's more like \"good lord, what have you done?!\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Oakland, CA, US",
+    "gm": {
+      "lat": "37.8044557",
+      "lon": "-122.271356"
+    },
+    "uol": "Oakland, CA, US",
+    "gop": {
+      "lat": "37.8044557",
+      "lon": "-122.271356"
+    },
+    "l": "WHO CARES",
+    "a": "sunshowers",
+    "nwo": "sunshowers/camino",
+    "pr": 0,
+    "ma": "2024-08-18T01:27:46Z",
+    "oa": "2024-08-18T01:32:50.639Z",
+    "tg": null
   }
 ]
