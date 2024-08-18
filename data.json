@@ -131668,5 +131668,290 @@
     "ma": "2024-08-18T09:23:30Z",
     "oa": "2024-08-18T09:28:38.363Z",
     "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "taori",
+    "nwo": "taori/actions",
+    "pr": 0,
+    "ma": "2024-08-18T12:30:29Z",
+    "oa": "2024-08-18T12:35:48.067Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "taori",
+    "nwo": "taori/actions",
+    "pr": 0,
+    "ma": "2024-08-18T12:30:29Z",
+    "oa": "2024-08-18T12:35:48.976Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "Seasawher",
+    "nwo": "Seasawher/SelectionSort.lean",
+    "pr": 0,
+    "ma": "2024-08-18T12:30:29Z",
+    "oa": "2024-08-18T12:35:51.269Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "lowply",
+    "nwo": "lowply/build-hugo",
+    "pr": 0,
+    "ma": "2024-08-18T12:30:29Z",
+    "oa": "2024-08-18T12:35:52.110Z",
+    "tg": null
+  },
+  {
+    "uml": "[::1]",
+    "gm": {
+      "lat": "27.224073",
+      "lon": "87.291339"
+    },
+    "uol": "[::1]",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "NotAShelf",
+    "nwo": "NotAShelf/NotAShelf",
+    "pr": 0,
+    "ma": "2024-08-18T12:30:29Z",
+    "oa": "2024-08-18T12:36:07.058Z",
+    "tg": "The code that dare not speak its name:\n\nCrashing, burning, pain\nFumes of incompetence rise\n[::1] hell awaits\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Santo Domingo, Dominican Republic",
+    "gm": {
+      "lat": "18.4801972",
+      "lon": "-69.942111"
+    },
+    "uol": "Santo Domingo, Dominican Republic",
+    "gop": {
+      "lat": "18.4801972",
+      "lon": "-69.942111"
+    },
+    "l": "WHO CARES",
+    "a": "jesusantguerrero",
+    "nwo": "jesusantguerrero/atmosphere-ui",
+    "pr": 0,
+    "ma": "2024-08-18T12:31:29Z",
+    "oa": "2024-08-18T12:36:31.318Z",
+    "tg": null
+  },
+  {
+    "uml": "Toronto ",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto ",
+    "gop": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "l": "WHO CARES",
+    "a": "AloyBranCheung",
+    "nwo": "AloyBranCheung/budget-v2",
+    "pr": 0,
+    "ma": "2024-08-18T12:31:29Z",
+    "oa": "2024-08-18T12:36:59.280Z",
+    "tg": null
+  },
+  {
+    "uml": "Jashore, Khulna, Bangladesh",
+    "gm": {
+      "lat": "23.1665256",
+      "lon": "89.2094419"
+    },
+    "uol": "Jashore, Khulna, Bangladesh",
+    "gop": {
+      "lat": "23.1665256",
+      "lon": "89.2094419"
+    },
+    "l": "WHO CARES",
+    "a": "mdsaifurrahman117",
+    "nwo": "mdsaifurrahman117/Biker-Zone",
+    "pr": 0,
+    "ma": "2024-08-18T12:32:30Z",
+    "oa": "2024-08-18T12:37:31.401Z",
+    "tg": null
+  },
+  {
+    "uml": "Blockchain",
+    "gm": {
+      "lat": "44.6465984",
+      "lon": "34.4007341"
+    },
+    "uol": "Blockchain",
+    "gop": {
+      "lat": "44.6465984",
+      "lon": "34.4007341"
+    },
+    "l": "WHO CARES",
+    "a": "timecapsuletoken",
+    "nwo": "MetaMask/contract-metadata",
+    "pr": 0,
+    "ma": "2024-08-18T12:32:30Z",
+    "oa": "2024-08-18T12:37:54.376Z",
+    "tg": null
+  },
+  {
+    "uml": "Boston / Munich",
+    "gm": {
+      "lat": "48.1471939",
+      "lon": "11.5792847"
+    },
+    "uol": "Boston / Munich",
+    "gop": {
+      "lat": "48.1471939",
+      "lon": "11.5792847"
+    },
+    "l": "WHO CARES",
+    "a": "protortyp",
+    "nwo": "yacineMTB/dingllm.nvim",
+    "pr": 0,
+    "ma": "2024-08-18T12:32:30Z",
+    "oa": "2024-08-18T12:37:57.410Z",
+    "tg": null
+  },
+  {
+    "uml": "Mumbai",
+    "gm": {
+      "lat": "19.08157715",
+      "lon": "72.88662753964906"
+    },
+    "uol": "Mumbai",
+    "gop": {
+      "lat": "19.08157715",
+      "lon": "72.88662753964906"
+    },
+    "l": "WHO CARES",
+    "a": "starthecode",
+    "nwo": "starthecode/VoiceVerse",
+    "pr": 0,
+    "ma": "2024-08-18T12:33:30Z",
+    "oa": "2024-08-18T12:38:31.659Z",
+    "tg": null
+  },
+  {
+    "uml": "Spain",
+    "gm": {
+      "lat": "39.3260685",
+      "lon": "-4.8379791"
+    },
+    "uol": "Spain",
+    "gop": {
+      "lat": "39.3260685",
+      "lon": "-4.8379791"
+    },
+    "l": "WHO CARES",
+    "a": "Roky3029",
+    "nwo": "Roky3029/taskCli",
+    "pr": 0,
+    "ma": "2024-08-18T12:33:30Z",
+    "oa": "2024-08-18T12:38:34.623Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "bsassi",
+    "nwo": "bsassi/Portfolio-Management",
+    "pr": 0,
+    "ma": "2024-08-18T12:30:29Z",
+    "oa": "2024-08-18T12:39:20.108Z",
+    "tg": "I think it's time to retrain this code, or better yet, reanimate the dev who wrote it.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Dhaka,Bangladesh",
+    "gm": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "uol": "Dhaka,Bangladesh",
+    "gop": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "l": "WHO CARES",
+    "a": "shakiz",
+    "nwo": "shakiz/Barivara",
+    "pr": 0,
+    "ma": "2024-08-18T12:34:30Z",
+    "oa": "2024-08-18T12:39:56.786Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, South Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, South Korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "leeeyubin",
+    "nwo": "yourssu/Handy-Android",
+    "pr": 0,
+    "ma": "2024-08-18T12:35:30Z",
+    "oa": "2024-08-18T12:40:35.977Z",
+    "tg": null
   }
 ]
