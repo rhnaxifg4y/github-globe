@@ -134005,5 +134005,537 @@
     "ma": "2024-08-19T06:28:33Z",
     "oa": "2024-08-19T06:33:51.580Z",
     "tg": null
+  },
+  {
+    "uml": "Zurich, Switzerland",
+    "gm": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "uol": "Zurich, Switzerland",
+    "gop": {
+      "lat": "47.3744489",
+      "lon": "8.5410422"
+    },
+    "l": "WHO CARES",
+    "a": "FedericoNegri",
+    "nwo": "ansys/pyhps",
+    "pr": 0,
+    "ma": "2024-08-19T09:15:58Z",
+    "oa": "2024-08-19T09:21:10.554Z",
+    "tg": null
+  },
+  {
+    "uml": "Newcastle upon Tyne, United Kingdom",
+    "gm": {
+      "lat": "54.9738474",
+      "lon": "-1.6131572"
+    },
+    "uol": "Newcastle upon Tyne, United Kingdom",
+    "gop": {
+      "lat": "54.9738474",
+      "lon": "-1.6131572"
+    },
+    "l": "WHO CARES",
+    "a": "StuartWheater",
+    "nwo": "datashield/dsBaseClient",
+    "pr": 0,
+    "ma": "2024-08-19T09:15:58Z",
+    "oa": "2024-08-19T09:21:23.490Z",
+    "tg": null
+  },
+  {
+    "uml": "Iran/Mashhad",
+    "gm": {
+      "lat": "36.2974945",
+      "lon": "59.6059232"
+    },
+    "uol": "Iran/Mashhad",
+    "gop": {
+      "lat": "36.2974945",
+      "lon": "59.6059232"
+    },
+    "l": "WHO CARES",
+    "a": "kavehkm",
+    "nwo": "kavehkm/GitTest",
+    "pr": 0,
+    "ma": "2024-08-19T09:15:58Z",
+    "oa": "2024-08-19T09:21:27.488Z",
+    "tg": null
+  },
+  {
+    "uml": "Hefei",
+    "gm": {
+      "lat": "31.8665676",
+      "lon": "117.281428"
+    },
+    "uol": "Hefei",
+    "gop": {
+      "lat": "31.8665676",
+      "lon": "117.281428"
+    },
+    "l": "WHO CARES",
+    "a": "leon2017",
+    "nwo": "leon2017/sparkchaindemo",
+    "pr": 0,
+    "ma": "2024-08-19T09:16:59Z",
+    "oa": "2024-08-19T09:22:00.903Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "inocsin",
+    "nwo": "NVIDIA/nvImageCodec",
+    "pr": 0,
+    "ma": "2024-08-19T09:16:59Z",
+    "oa": "2024-08-19T09:22:02.947Z",
+    "tg": null
+  },
+  {
+    "uml": "The Cloud",
+    "gm": {
+      "lat": "53.1699605",
+      "lon": "-2.1441253"
+    },
+    "uol": "The Cloud",
+    "gop": {
+      "lat": "53.1699605",
+      "lon": "-2.1441253"
+    },
+    "l": "WHO CARES",
+    "a": "k8s-ci-robot",
+    "nwo": "kubernetes-sigs/kueue",
+    "pr": 0,
+    "ma": "2024-08-19T09:16:59Z",
+    "oa": "2024-08-19T09:22:06.929Z",
+    "tg": null
+  },
+  {
+    "uml": "Italy",
+    "gm": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "uol": "Italy",
+    "gop": {
+      "lat": "42.6384261",
+      "lon": "12.674297"
+    },
+    "l": "WHO CARES",
+    "a": "davideicardi",
+    "nwo": "dynamicexpresso/DynamicExpresso",
+    "pr": 0,
+    "ma": "2024-08-19T09:16:59Z",
+    "oa": "2024-08-19T09:22:09.944Z",
+    "tg": null
+  },
+  {
+    "uml": "Guadalajara, Spain (Remote)",
+    "gm": {
+      "lat": "40.630579",
+      "lon": "-3.163734"
+    },
+    "uol": "Guadalajara, Spain (Remote)",
+    "gop": {
+      "lat": "40.630579",
+      "lon": "-3.163734"
+    },
+    "l": "WHO CARES",
+    "a": "sdelamo",
+    "nwo": "micronaut-projects/micronaut-json-schema",
+    "pr": 0,
+    "ma": "2024-08-19T09:16:59Z",
+    "oa": "2024-08-19T09:22:26.970Z",
+    "tg": null
+  },
+  {
+    "uml": "Singapore",
+    "gm": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "uol": "Singapore",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Hasithar8220",
+    "nwo": "Hasithar8220/crowdvibe",
+    "pr": 0,
+    "ma": "2024-08-19T09:15:58Z",
+    "oa": "2024-08-19T09:22:37.435Z",
+    "tg": "Murai-murai, Singapura!\n\nFutile code sprawls\nChaos reigned, yet still we code\nMadness amidst ash\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Worldwide!",
+    "gm": {
+      "lat": "53.5120412",
+      "lon": "-2.2434612"
+    },
+    "uol": "Worldwide!",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "azure-sdk",
+    "nwo": "MicrosoftDocs/azure-docs-sdk-python",
+    "pr": 0,
+    "ma": "2024-08-19T09:15:58Z",
+    "oa": "2024-08-19T09:22:47.049Z",
+    "tg": "In this forsaken land, I must speak:\n\n\"In ruin's grasp, code lies\nForgotten, amidst the dust\nFoolishness abides\"\n\nTranslation for \"Worldwide!\": Tout le monde ! (in French, since it appears we're in a post-apocalyptic world)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Michigan",
+    "gm": {
+      "lat": "43.6211955",
+      "lon": "-84.6824346"
+    },
+    "uol": "Michigan",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "NarendraNReddy1",
+    "nwo": "NarendraNReddy1/ANSIBLE",
+    "pr": 0,
+    "ma": "2024-08-19T09:15:58Z",
+    "oa": "2024-08-19T09:22:53.195Z",
+    "tg": "Here's my attempt at a funny yet slightly rude comment:\n\n\" honestly, i'm still not sure how we're still functioning around here. can't even get a decent cup of coffee without having to navigate through a horde of undead. great job, i guess?\"\n\nAnd the local language for Michigan is... (drumroll please)... Michigander: \"walter's a good boy\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Samara",
+    "gm": {
+      "lat": "53.2194648",
+      "lon": "50.2039316"
+    },
+    "uol": "Samara",
+    "gop": {
+      "lat": "53.2194648",
+      "lon": "50.2039316"
+    },
+    "l": "WHO CARES",
+    "a": "igorlesnenko",
+    "nwo": "socketsupply/socket",
+    "pr": 0,
+    "ma": "2024-08-19T09:17:59Z",
+    "oa": "2024-08-19T09:23:03.530Z",
+    "tg": null
+  },
+  {
+    "uml": "Busan",
+    "gm": {
+      "lat": "35.1799528",
+      "lon": "129.0752365"
+    },
+    "uol": "Busan",
+    "gop": {
+      "lat": "35.1799528",
+      "lon": "129.0752365"
+    },
+    "l": "WHO CARES",
+    "a": "injoon2019",
+    "nwo": "Nexters/Bottles_BE",
+    "pr": 0,
+    "ma": "2024-08-19T09:17:59Z",
+    "oa": "2024-08-19T09:23:14.378Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "schmichri",
+    "nwo": "iunera/azure-devops-templates",
+    "pr": 0,
+    "ma": "2024-08-19T09:19:00Z",
+    "oa": "2024-08-19T09:24:02.660Z",
+    "tg": null
+  },
+  {
+    "uml": "Japan",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "Japan",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "RossyWhite",
+    "nwo": "RossyWhite/sendgrid-rs",
+    "pr": 0,
+    "ma": "2024-08-19T09:19:00Z",
+    "oa": "2024-08-19T09:24:11.784Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "schmichri",
+    "nwo": "iunera/azure-devops-templates",
+    "pr": 0,
+    "ma": "2024-08-19T09:19:00Z",
+    "oa": "2024-08-19T09:24:26.520Z",
+    "tg": null
+  },
+  {
+    "uml": "France",
+    "gm": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "uol": "France",
+    "gop": {
+      "lat": "46.603354",
+      "lon": "1.8883335"
+    },
+    "l": "WHO CARES",
+    "a": "HiDeoo",
+    "nwo": "HiDeoo/starlight-image-zoom",
+    "pr": 0,
+    "ma": "2024-08-19T09:20:00Z",
+    "oa": "2024-08-19T09:25:03.962Z",
+    "tg": null
+  },
+  {
+    "uml": "Paris",
+    "gm": {
+      "lat": "48.8588897",
+      "lon": "2.3200410217200766"
+    },
+    "uol": "Paris",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "CAAAB",
+    "nwo": "CAAAB/plots",
+    "pr": 0,
+    "ma": "2024-08-19T09:16:59Z",
+    "oa": "2024-08-19T09:25:14.195Z",
+    "tg": "The code, a monument to futility\nAmidst ruins, it still persists\nFoolishness abides.\n\n(Note: I've written this haiku in English, as it's not possible to write it in a specific local language without knowing which language is intended. If you'd like me to rewrite the response to include a sentence in the local language for Paris, I can do so!)\n\nRegarding your commit, I must say that I'm... perplexed by its existence. It seems that amidst the chaos and devastation of our post-apocalyptic world, someone has managed to conjure up a codebase that is almost as broken as the society we once knew.\n\nI mean, seriously, who thought it was a good idea to add yet another layer of complexity to this already Byzantine system? And don't even get me started on the naming conventions – it's like they're trying to make my eyes bleed!\n\nIn any case, I'm afraid that your commit is not exactly what we need right now. You see, we're currently in the process of rebuilding society from scratch, and your code doesn't exactly fit into our plans.\n\nSo, I'll have to ask you to reconsider this commit and maybe, just maybe, come up with something a bit more... useful.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Israel",
+    "gm": {
+      "lat": "30.8124247",
+      "lon": "34.8594762"
+    },
+    "uol": "Israel",
+    "gop": {
+      "lat": "30.8124247",
+      "lon": "34.8594762"
+    },
+    "l": "WHO CARES",
+    "a": "nitzanto",
+    "nwo": "SupportAI-Project/SupportAI-Frontend",
+    "pr": 0,
+    "ma": "2024-08-19T09:18:46Z",
+    "oa": "2024-08-19T09:25:22.956Z",
+    "tg": null
+  },
+  {
+    "uml": "Raleigh, NC",
+    "gm": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "uol": "Raleigh, NC",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "openshift-bot",
+    "nwo": "openshift-bot/configmap-reload",
+    "pr": 0,
+    "ma": "2024-08-19T09:16:59Z",
+    "oa": "2024-08-19T09:25:23.782Z",
+    "tg": "ugh, what is wrong with people? this code is an abomination. i can barely believe someone had the audacity to call themselves a developer and submit this... this... thing. the lack of understanding of even the most basic concepts is staggering. it's like they took a handful of random keywords from the internet, threw them together in a pot, and hoped for the best.\n\nthe sheer incompetence is enough to make me want to ban them from any terminal, let alone allowing them near a compiler. i mean, seriously, who thought it was okay to use that many semicolons? it's like they're trying to blind anyone who dares to look at the code with a barrage of unnecessary punctuation.\n\nand don't even get me started on the \"logic\" (if you can call it that). it's like they took every bad habit they learned from watching others and mashed them all together into this... this... mess. i mean, honestly, i've seen better-written code from a 5-year-old playing with legos.\n\nas for fixing it... haha, please. i could fix this with one hand tied behind my back while fighting off mutants in the streets of raleigh, nc (that's \"raleigh, NC\" to you non-locals). all i'd need is a few minutes of sanity and a working compiler. but seriously, who am i kidding? it's not like anyone would even bother trying to fix this monstrosity.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Disappeared",
+    "gm": {
+      "lat": "52.96266095",
+      "lon": "-1.155116995335516"
+    },
+    "uol": "Disappeared",
+    "gop": {
+      "lat": "52.96266095",
+      "lon": "-1.155116995335516"
+    },
+    "l": "WHO CARES",
+    "a": "lgarithm",
+    "nwo": "kungfu-team/tenplex",
+    "pr": 0,
+    "ma": "2024-08-19T09:20:00Z",
+    "oa": "2024-08-19T09:25:25.099Z",
+    "tg": null
+  },
+  {
+    "uml": "Israel",
+    "gm": {
+      "lat": "30.8124247",
+      "lon": "34.8594762"
+    },
+    "uol": "Israel",
+    "gop": {
+      "lat": "30.8124247",
+      "lon": "34.8594762"
+    },
+    "l": "WHO CARES",
+    "a": "sbekkerm",
+    "nwo": "openstack-k8s-operators/ci-framework",
+    "pr": 0,
+    "ma": "2024-08-19T09:21:00Z",
+    "oa": "2024-08-19T09:26:01.248Z",
+    "tg": null
+  },
+  {
+    "uml": "Chennai",
+    "gm": {
+      "lat": "13.0836939",
+      "lon": "80.270186"
+    },
+    "uol": "Chennai",
+    "gop": {
+      "lat": "13.0836939",
+      "lon": "80.270186"
+    },
+    "l": "WHO CARES",
+    "a": "HarshCasper",
+    "nwo": "localstack/docs",
+    "pr": 0,
+    "ma": "2024-08-19T09:21:00Z",
+    "oa": "2024-08-19T09:26:17.302Z",
+    "tg": null
+  },
+  {
+    "uml": "Cape Town",
+    "gm": {
+      "lat": "-33.928992",
+      "lon": "18.417396"
+    },
+    "uol": "Cape Town",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "skudunter",
+    "nwo": "skudunter/GMTK-2024",
+    "pr": 0,
+    "ma": "2024-08-19T09:17:59Z",
+    "oa": "2024-08-19T09:27:09.446Z",
+    "tg": "Here is my attempt at crafting a haiku that meets your requirements:\n\nRubble-filled code sprawl\nFoolishness amidst ruin\nWhy did it persist?\n\nI hope this conveys the frustration and bewilderment I would feel reviewing such a commit in a post-apocalyptic world. As for the local language of Cape Town, I'll provide an answer in Afrikaans: \"Wat 'n nonsensie is?\" which translates to \"What nonsense is?\"\n\nAs your reviewer, I must say that this commit... leaves much to be desired.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Split, Croatia",
+    "gm": {
+      "lat": "43.5116383",
+      "lon": "16.4399659"
+    },
+    "uol": "Split, Croatia",
+    "gop": {
+      "lat": "43.5116383",
+      "lon": "16.4399659"
+    },
+    "l": "WHO CARES",
+    "a": "icota",
+    "nwo": "Foundation-Devices/envoy",
+    "pr": 0,
+    "ma": "2024-08-19T09:22:01Z",
+    "oa": "2024-08-19T09:27:09.618Z",
+    "tg": null
+  },
+  {
+    "uml": "Lens, Haut-de-France, France",
+    "gm": {
+      "lat": "43.1349918",
+      "lon": "0.9837159"
+    },
+    "uol": "Lens, Haut-de-France, France",
+    "gop": {
+      "lat": "43.1349918",
+      "lon": "0.9837159"
+    },
+    "l": "WHO CARES",
+    "a": "MrLkuch",
+    "nwo": "Simplon-hdf/Projet-DotNet-P6-LJMA",
+    "pr": 0,
+    "ma": "2024-08-19T09:22:01Z",
+    "oa": "2024-08-19T09:27:13.054Z",
+    "tg": null
+  },
+  {
+    "uml": "London",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "johnal95",
+    "nwo": "johnal95/workouts-api",
+    "pr": 0,
+    "ma": "2024-08-19T09:17:59Z",
+    "oa": "2024-08-19T09:28:00.274Z",
+    "tg": "ugh, seriously? this code is an abomination. who does this person think they're fooling by calling themselves a developer? it's like they took every terrible practice they learned from youtube tutorials and github tutorials and mashed them all together into a hot mess.\n\nfirst of all, what's with the godforsaken variable names? \"x\" and \"y\"? are you kidding me? in this post-apocalyptic wasteland, we don't have time for ambiguity. name your variables something that means something, like \"mutantCount\" or \"foodRation\". and don't even get me started on the indentation - it's like they just gave up on life.\n\nand the logic! oh boy, it's like a jumbled mess of spaghetti code. i mean, i've seen better-organized trash heaps in london (remember that one time we had to navigate through the rubble-strewn streets to find food? yeah, this code is worse than that).\n\nlook, author of this monstrosity, if you want to be taken seriously as a developer, then at least try. i mean, i could fix this with one hand tied behind my back while fighting off hordes of mutants with the other. and don't even get me started on the commits themselves - [object Object]?! what is this, some kind of joke? \n\nanyway, in conclusion, author of this commit, you should be banned from any terminal for life. seriously, just take away their keyboard privileges and let them wander the desolate wasteland alone.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "South Tyrol, Italy",
+    "gm": {
+      "lat": "46.655945450000004",
+      "lon": "11.23021287087526"
+    },
+    "uol": "South Tyrol, Italy",
+    "gop": {
+      "lat": "46.655945450000004",
+      "lon": "11.23021287087526"
+    },
+    "l": "WHO CARES",
+    "a": "mr-manuel",
+    "nwo": "mr-manuel/venus-os_dbus-mqtt-pv",
+    "pr": 0,
+    "ma": "2024-08-19T09:23:01Z",
+    "oa": "2024-08-19T09:28:08.896Z",
+    "tg": null
   }
 ]
