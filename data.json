@@ -138641,5 +138641,328 @@
     "ma": "2024-08-20T18:25:09Z",
     "oa": "2024-08-20T18:30:38.673Z",
     "tg": null
+  },
+  {
+    "uml": "Tenerife, Spain",
+    "gm": {
+      "lat": "28.2935785",
+      "lon": "-16.621447121144122"
+    },
+    "uol": "Tenerife, Spain",
+    "gop": {
+      "lat": "28.2935785",
+      "lon": "-16.621447121144122"
+    },
+    "l": "WHO CARES",
+    "a": "jesustorresdev",
+    "nwo": "ull-esit-sistemas-operativos/ssoo-apuntes",
+    "pr": 0,
+    "ma": "2024-08-20T21:14:34Z",
+    "oa": "2024-08-20T21:19:59.951Z",
+    "tg": null
+  },
+  {
+    "uml": "Earth",
+    "gm": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "uol": "Earth",
+    "gop": {
+      "lat": "34.2331373",
+      "lon": "-102.4107493"
+    },
+    "l": "WHO CARES",
+    "a": "sebastianst",
+    "nwo": "ethereum-optimism/optimism",
+    "pr": 0,
+    "ma": "2024-08-20T21:14:33Z",
+    "oa": "2024-08-20T21:20:00.926Z",
+    "tg": null
+  },
+  {
+    "uml": "United States",
+    "gm": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "uol": "United States",
+    "gop": {
+      "lat": "39.7837304",
+      "lon": "-100.445882"
+    },
+    "l": "WHO CARES",
+    "a": "joshuakcockrell",
+    "nwo": "envelopemoney/vgs-collect-ios",
+    "pr": 0,
+    "ma": "2024-08-20T21:14:34Z",
+    "oa": "2024-08-20T21:20:02.926Z",
+    "tg": null
+  },
+  {
+    "uml": "New York, USA",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York, USA",
+    "gop": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "l": "WHO CARES",
+    "a": "ReArmedHalo",
+    "nwo": "ReArmedHalo/holonet-status",
+    "pr": 0,
+    "ma": "2024-08-20T21:15:34Z",
+    "oa": "2024-08-20T21:20:37.255Z",
+    "tg": null
+  },
+  {
+    "uml": "Switzerland",
+    "gm": {
+      "lat": "46.7985624",
+      "lon": "8.2319736"
+    },
+    "uol": "Switzerland",
+    "gop": {
+      "lat": "46.7985624",
+      "lon": "8.2319736"
+    },
+    "l": "WHO CARES",
+    "a": "sthagen",
+    "nwo": "oasis-tcs/openeox",
+    "pr": 0,
+    "ma": "2024-08-20T21:15:34Z",
+    "oa": "2024-08-20T21:20:50.203Z",
+    "tg": null
+  },
+  {
+    "uml": "London, UK",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London, UK",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "mastilver",
+    "nwo": "interval/interval-node",
+    "pr": 0,
+    "ma": "2024-08-20T21:15:34Z",
+    "oa": "2024-08-20T21:20:55.182Z",
+    "tg": null
+  },
+  {
+    "uml": "Quebec, Canada",
+    "gm": {
+      "lat": "52.4760892",
+      "lon": "-71.8258668"
+    },
+    "uol": "Quebec, Canada",
+    "gop": {
+      "lat": "52.4760892",
+      "lon": "-71.8258668"
+    },
+    "l": "WHO CARES",
+    "a": "ldionne",
+    "nwo": "llvm/llvm-project",
+    "pr": 0,
+    "ma": "2024-08-20T21:16:35Z",
+    "oa": "2024-08-20T21:21:37.457Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "MonilBhavsar",
+    "nwo": "Expensify/App",
+    "pr": 0,
+    "ma": "2024-08-20T21:16:35Z",
+    "oa": "2024-08-20T21:21:59.469Z",
+    "tg": null
+  },
+  {
+    "uml": "Stuttgart, Germany",
+    "gm": {
+      "lat": "48.7784485",
+      "lon": "9.1800132"
+    },
+    "uol": "Stuttgart, Germany",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "dasJ",
+    "nwo": "helsinki-systems/nixpkgs-channels",
+    "pr": 0,
+    "ma": "2024-08-20T21:14:34Z",
+    "oa": "2024-08-20T21:22:01.382Z",
+    "tg": "oh joy, oh rapture, another masterclass in coding ineptitude from our esteemed colleague. i'm not even going to bother trying to understand what kind of dark magic they used to create this... thing. it's like looking at a trainwreck - you can't help but stare, but you know deep down that your eyes are being irreparably damaged.\n\nfirst off, the indentation is all wonky. it's like they took a look at the code and thought, \"you know what would be great? if i just made up my own rules for spacing!\" and then proceeded to apply those rules with reckless abandon.\n\nand don't even get me started on the variable names. \"x\"? really? that's the best you could come up with? it's like they took all the creativity they had and used it to come up with a list of things not to name their variables (e.g. \"i\", \"j\", \"k\", etc.).\n\nand then there's the logic. or lack thereof. it's like they took a look at the problem and said, \"you know what? i'm just gonna make stuff up as i go along!\" and then proceded to do just that.\n\ni mean, seriously, who writes code like this? it's like they're trying to be deliberately obtuse. or maybe they're just really, really bad at their job. either way, they should probably be banned from any terminal with an internet connection. i mean, for the love of all things holy, how did they even get hired in the first place?\n\nand you know what? if i had to fix this mess, i could do it while fighting off mutants with one hand and eating a sandwich with the other. it's that easy.\n\nin fact, i'm going to go ahead and assume that our colleague is actually a mutant themselves, and that their code is just some sort of bizarre mating ritual. yeah, that's it. they're trying to attract other mutants with their terrible coding skills. well, good luck with that. you'll need it.\n\nanyway, in stuttgart, germany, we say \"ach du mein Gott\" when something like this happens. which is a polite way of saying \"what the heck just happened?\"\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "St. Louis, MO, USA",
+    "gm": {
+      "lat": "38.6280278",
+      "lon": "-90.1910154"
+    },
+    "uol": "St. Louis, MO, USA",
+    "gop": {
+      "lat": "38.6280278",
+      "lon": "-90.1910154"
+    },
+    "l": "WHO CARES",
+    "a": "GaryB432",
+    "nwo": "GaryB432/bortosky-com",
+    "pr": 0,
+    "ma": "2024-08-20T21:17:35Z",
+    "oa": "2024-08-20T21:22:51.651Z",
+    "tg": null
+  },
+  {
+    "uml": "Rio de Janeiro, Niterói",
+    "gm": {
+      "lat": "-22.8884",
+      "lon": "-43.1147"
+    },
+    "uol": "Rio de Janeiro, Niterói",
+    "gop": {
+      "lat": "-22.8884",
+      "lon": "-43.1147"
+    },
+    "l": "WHO CARES",
+    "a": "caputomarcos",
+    "nwo": "schmich/instascan",
+    "pr": 0,
+    "ma": "2024-08-20T21:17:35Z",
+    "oa": "2024-08-20T21:23:01.640Z",
+    "tg": null
+  },
+  {
+    "uml": "Tacna, Perú",
+    "gm": {
+      "lat": "-17.666667",
+      "lon": "-70.333333"
+    },
+    "uol": "Tacna, Perú",
+    "gop": {
+      "lat": "-17.666667",
+      "lon": "-70.333333"
+    },
+    "l": "WHO CARES",
+    "a": "Brann4",
+    "nwo": "Brann4/atucolegioconenergia",
+    "pr": 0,
+    "ma": "2024-08-20T21:17:35Z",
+    "oa": "2024-08-20T21:23:04.676Z",
+    "tg": null
+  },
+  {
+    "uml": "Odintsovo, Russia",
+    "gm": {
+      "lat": "55.678223",
+      "lon": "37.2668096"
+    },
+    "uol": "Odintsovo, Russia",
+    "gop": {
+      "lat": "55.678223",
+      "lon": "37.2668096"
+    },
+    "l": "WHO CARES",
+    "a": "mrmlnc",
+    "nwo": "mikro-orm/mikro-orm",
+    "pr": 0,
+    "ma": "2024-08-20T21:18:35Z",
+    "oa": "2024-08-20T21:23:50.837Z",
+    "tg": null
+  },
+  {
+    "uml": "luxor",
+    "gm": {
+      "lat": "25.702096",
+      "lon": "32.647186"
+    },
+    "uol": "luxor",
+    "gop": {
+      "lat": "25.702096",
+      "lon": "32.647186"
+    },
+    "l": "WHO CARES",
+    "a": "A7medSa3d-01",
+    "nwo": "A7medSa3d-01/L-Node-Express",
+    "pr": 0,
+    "ma": "2024-08-20T21:18:35Z",
+    "oa": "2024-08-20T21:24:02.907Z",
+    "tg": null
+  },
+  {
+    "uml": "Bonn, Germany",
+    "gm": {
+      "lat": "50.735851",
+      "lon": "7.10066"
+    },
+    "uol": "Bonn, Germany",
+    "gop": {
+      "lat": "50.735851",
+      "lon": "7.10066"
+    },
+    "l": "WHO CARES",
+    "a": "kkuegler",
+    "nwo": "i18next/i18next-vue",
+    "pr": 0,
+    "ma": "2024-08-20T21:19:35Z",
+    "oa": "2024-08-20T21:24:40.038Z",
+    "tg": null
+  },
+  {
+    "uml": "Reno, Nv",
+    "gm": {
+      "lat": "39.5261206",
+      "lon": "-119.8126581"
+    },
+    "uol": "Reno, Nv",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "A-Altemara",
+    "nwo": "A-Altemara/Console.HabitTracker.AirielAltemara",
+    "pr": 0,
+    "ma": "2024-08-20T21:14:34Z",
+    "oa": "2024-08-20T21:24:46.168Z",
+    "tg": "ugh, what an absolute abomination. whoever wrote this code should be banned from any terminal, let alone a computer that's still functioning after the apocalypse. i mean, seriously, how hard is it to write decent code?!?!\n\nfirst of all, the variable names are a joke. `x`, `y`, and `z`?! what kind of naming convention is that? it's like they just gave up on life and started typing random letters.\n\nand don't even get me started on the logic. this is like watching a toddler try to solve a rubix cube. it's like they took every terrible coding practice from the past 20 years, mixed them together, and then set fire to the resulting monstrosity.\n\ni mean, i could fix this code with one hand tied behind my back while fighting off mutants with the other. it's that bad. and yet, somehow, someone managed to push this garbage to production. in reno, nv (whatever that means), they must be proud of their team for producing such a steaming pile of you-know-what.\n\nlook, i'm not going to sugarcoat it: this code is an affront to humanity. whoever wrote it should be forced to watch an endless loop of \"the matrix\" while being pelted with rotten fruit. and yet, somehow, they managed to get away with pushing this monstrosity to production.\n\nso, here's my \"helpful\" suggestion: go back in time and prevent the creation of this code. trust me, it'll be a better use of your time than trying to fix this mess.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Almere, Netherlands",
+    "gm": {
+      "lat": "52.3705038",
+      "lon": "5.2185859"
+    },
+    "uol": "Almere, Netherlands",
+    "gop": {
+      "lat": "52.3705038",
+      "lon": "5.2185859"
+    },
+    "l": "WHO CARES",
+    "a": "MaikelStuivenberg",
+    "nwo": "givtnl/givt-app",
+    "pr": 0,
+    "ma": "2024-08-20T21:19:35Z",
+    "oa": "2024-08-20T21:24:51.129Z",
+    "tg": null
   }
 ]
