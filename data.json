@@ -139154,5 +139154,499 @@
     "ma": "2024-08-21T01:22:04Z",
     "oa": "2024-08-21T01:27:25.104Z",
     "tg": null
+  },
+  {
+    "uml": "HangZhou",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "HangZhou",
+    "gop": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "l": "WHO CARES",
+    "a": "c121914yu",
+    "nwo": "labring/FastGPT",
+    "pr": 0,
+    "ma": "2024-08-21T03:16:02Z",
+    "oa": "2024-08-21T03:21:14.520Z",
+    "tg": null
+  },
+  {
+    "uml": "Campbell, CA",
+    "gm": {
+      "lat": "37.2870626",
+      "lon": "-121.944881"
+    },
+    "uol": "Campbell, CA",
+    "gop": {
+      "lat": "37.2870626",
+      "lon": "-121.944881"
+    },
+    "l": "WHO CARES",
+    "a": "whsieh",
+    "nwo": "WebKit/WebKit",
+    "pr": 0,
+    "ma": "2024-08-21T03:16:02Z",
+    "oa": "2024-08-21T03:21:15.523Z",
+    "tg": null
+  },
+  {
+    "uml": "ShenZhen",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "ShenZhen",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "RonkTsang",
+    "nwo": "FlowiseAI/Flowise",
+    "pr": 0,
+    "ma": "2024-08-21T03:17:02Z",
+    "oa": "2024-08-21T03:22:19.771Z",
+    "tg": null
+  },
+  {
+    "uml": "India",
+    "gm": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "uol": "India",
+    "gop": {
+      "lat": "22.3511148",
+      "lon": "78.6677428"
+    },
+    "l": "WHO CARES",
+    "a": "abhishekumar09",
+    "nwo": "abhishekumar09/Abhi-Portfolio",
+    "pr": 0,
+    "ma": "2024-08-21T03:17:02Z",
+    "oa": "2024-08-21T03:22:28.758Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai, Hangzhou",
+    "gm": {
+      "lat": "30.431722649999998",
+      "lon": "121.41068755909475"
+    },
+    "uol": "Shanghai, Hangzhou",
+    "gop": {
+      "lat": "30.431722649999998",
+      "lon": "121.41068755909475"
+    },
+    "l": "WHO CARES",
+    "a": "hyfrey",
+    "nwo": "connectrpc/vanguard-go",
+    "pr": 0,
+    "ma": "2024-08-21T03:17:02Z",
+    "oa": "2024-08-21T03:22:30.755Z",
+    "tg": null
+  },
+  {
+    "uml": "Bangladesh",
+    "gm": {
+      "lat": "24.4769288",
+      "lon": "90.2934413"
+    },
+    "uol": "Bangladesh",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "DeveloperMonuar",
+    "nwo": "DeveloperMonuar/be-green",
+    "pr": 0,
+    "ma": "2024-08-21T03:16:02Z",
+    "oa": "2024-08-21T03:22:59.369Z",
+    "tg": "oh joy, another masterpiece from the author of this abomination. i'm actually considering banning them from accessing any terminal ever again, not just because their code is an affront to humanity, but also because it's a blight on the very concept of programming itself.\n\nfirst off, let me just say that the sheer audacity of calling this... thing a \"commit\" is a joke. i mean, seriously, did they even bother to run any tests? or was the whole thing written in like 5 minutes while their mom called them downstairs for dinner?\n\nand don't even get me started on the naming conventions. it's like they took every terrible naming convention they could find and mashed them all together into a beautiful mess of confusion. \"var_xxxx\" this, \"func_yyyy\" that... good lord, man.\n\nyou know what? i'm actually going to go ahead and fix this monstrosity myself, not because it's my job or anything (although, let's be real, it totally is), but because i just can't bear the thought of someone else having to wade through this muck. and you know what? i could do it with one hand tied behind my back while simultaneously fending off hordes of mutants with the other.\n\nin fact, if i had a nickel for every time i've seen code like this... well, let's just say i'd have enough money to buy a small island in bangladesh (বাংলাদেশ) and live out my days in peace, free from the scourge of bad coding.\n\nso, author of this atrocity, consider yourself warned: if you ever try to touch a terminal again, i'll make sure that everyone knows exactly what kind of programming abomination they're working with. got it? good. now get outta my sight before i lose my temper completely.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Chile",
+    "gm": {
+      "lat": "-31.7613365",
+      "lon": "-71.3187697"
+    },
+    "uol": "Chile",
+    "gop": {
+      "lat": "-31.7613365",
+      "lon": "-71.3187697"
+    },
+    "l": "WHO CARES",
+    "a": "hectrhcc",
+    "nwo": "P693K/JJSploit-executor",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:05.057Z",
+    "tg": null
+  },
+  {
+    "uml": "Shenzhen, China",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "Shenzhen, China",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "bluestyle97",
+    "nwo": "ToonCrafter/ToonCrafter",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:08.908Z",
+    "tg": null
+  },
+  {
+    "uml": "Lahore",
+    "gm": {
+      "lat": "31.5656822",
+      "lon": "74.3141829"
+    },
+    "uol": "Lahore",
+    "gop": {
+      "lat": "31.5656822",
+      "lon": "74.3141829"
+    },
+    "l": "WHO CARES",
+    "a": "AhsanAliUet",
+    "nwo": "P693K/JJSploit-executor",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:14.963Z",
+    "tg": null
+  },
+  {
+    "uml": "Pune",
+    "gm": {
+      "lat": "18.521428",
+      "lon": "73.8544541"
+    },
+    "uol": "Pune",
+    "gop": {
+      "lat": "18.521428",
+      "lon": "73.8544541"
+    },
+    "l": "WHO CARES",
+    "a": "Azim04",
+    "nwo": "P693K/JJSploit-executor",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:16.885Z",
+    "tg": null
+  },
+  {
+    "uml": "Kediri",
+    "gm": {
+      "lat": "-7.8111057",
+      "lon": "112.0046051"
+    },
+    "uol": "Kediri",
+    "gop": {
+      "lat": "-7.8111057",
+      "lon": "112.0046051"
+    },
+    "l": "WHO CARES",
+    "a": "arshapradita",
+    "nwo": "P693K/JJSploit-executor",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:20.924Z",
+    "tg": null
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "Onion-L",
+    "nwo": "sxzz/vue-simple-props",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:23.969Z",
+    "tg": null
+  },
+  {
+    "uml": "Pokhara, Nepal",
+    "gm": {
+      "lat": "28.209538",
+      "lon": "83.991402"
+    },
+    "uol": "Pokhara, Nepal",
+    "gop": {
+      "lat": "28.209538",
+      "lon": "83.991402"
+    },
+    "l": "WHO CARES",
+    "a": "Aalok48",
+    "nwo": "P693K/JJSploit-executor",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:28.950Z",
+    "tg": null
+  },
+  {
+    "uml": "La Paz - Bolivia",
+    "gm": {
+      "lat": "-16.4955455",
+      "lon": "-68.1336229"
+    },
+    "uol": "La Paz - Bolivia",
+    "gop": {
+      "lat": "-16.4955455",
+      "lon": "-68.1336229"
+    },
+    "l": "WHO CARES",
+    "a": "rlunadev",
+    "nwo": "P693K/JJSploit-executor",
+    "pr": 0,
+    "ma": "2024-08-21T03:18:02Z",
+    "oa": "2024-08-21T03:23:32.014Z",
+    "tg": null
+  },
+  {
+    "uml": "Venezuela",
+    "gm": {
+      "lat": "8.0018709",
+      "lon": "-66.1109318"
+    },
+    "uol": "Venezuela",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "iperezluis",
+    "nwo": "iperezluis/airplane-game",
+    "pr": 0,
+    "ma": "2024-08-21T03:16:02Z",
+    "oa": "2024-08-21T03:24:05.092Z",
+    "tg": "in venezuela, we say \"¿qué demonio hace esto?\" (what in the world is this?) as i review this commit, wondering how someone still functioning on basic human levels managed to conjure up such a mess.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "fisker",
+    "nwo": "sindresorhus/eslint-plugin-unicorn",
+    "pr": 0,
+    "ma": "2024-08-21T03:19:01Z",
+    "oa": "2024-08-21T03:24:20.046Z",
+    "tg": null
+  },
+  {
+    "uml": "Curitiba, Paraná, Brasil",
+    "gm": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "uol": "Curitiba, Paraná, Brasil",
+    "gop": {
+      "lat": "-25.4295963",
+      "lon": "-49.2712724"
+    },
+    "l": "WHO CARES",
+    "a": "leandrohstein",
+    "nwo": "leandrohstein/transporteservico-urbs-data",
+    "pr": 0,
+    "ma": "2024-08-21T03:19:02Z",
+    "oa": "2024-08-21T03:24:25.139Z",
+    "tg": null
+  },
+  {
+    "uml": "Montreal, Quebec",
+    "gm": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "uol": "Montreal, Quebec",
+    "gop": {
+      "lat": "45.5031824",
+      "lon": "-73.5698065"
+    },
+    "l": "WHO CARES",
+    "a": "carsonSgit",
+    "nwo": "carsonSgit/carsonsgit.github.io",
+    "pr": 0,
+    "ma": "2024-08-21T03:19:02Z",
+    "oa": "2024-08-21T03:24:28.087Z",
+    "tg": null
+  },
+  {
+    "uml": "China",
+    "gm": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "uol": "China",
+    "gop": {
+      "lat": "35.000074",
+      "lon": "104.999927"
+    },
+    "l": "WHO CARES",
+    "a": "fisker",
+    "nwo": "sindresorhus/eslint-plugin-unicorn",
+    "pr": 0,
+    "ma": "2024-08-21T03:19:02Z",
+    "oa": "2024-08-21T03:24:30.027Z",
+    "tg": null
+  },
+  {
+    "uml": "Hangzhou China",
+    "gm": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "uol": "Hangzhou China",
+    "gop": {
+      "lat": "30.2489634",
+      "lon": "120.2052342"
+    },
+    "l": "WHO CARES",
+    "a": "danny0405",
+    "nwo": "apache/hudi",
+    "pr": 0,
+    "ma": "2024-08-21T03:19:01Z",
+    "oa": "2024-08-21T03:24:31.063Z",
+    "tg": null
+  },
+  {
+    "uml": "San Diego, CA",
+    "gm": {
+      "lat": "32.7174202",
+      "lon": "-117.162772"
+    },
+    "uol": "San Diego, CA",
+    "gop": {
+      "lat": "32.7174202",
+      "lon": "-117.162772"
+    },
+    "l": "WHO CARES",
+    "a": "ltshannon",
+    "nwo": "firebase/firebase-admin-node",
+    "pr": 0,
+    "ma": "2024-08-21T03:20:03Z",
+    "oa": "2024-08-21T03:25:32.363Z",
+    "tg": null
+  },
+  {
+    "uml": "Lviv",
+    "gm": {
+      "lat": "49.841952",
+      "lon": "24.0315921"
+    },
+    "uol": "Lviv",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "elgatoafk",
+    "nwo": "elgatoafk/elgatoafk",
+    "pr": 0,
+    "ma": "2024-08-21T03:16:02Z",
+    "oa": "2024-08-21T03:25:47.507Z",
+    "tg": "ugh, what an absolute abomination. who let this trainwreck into our codebase? it's like you took every bad habit you've ever had and wrapped them all up into one big ball of miserable, broken code. i mean, seriously, are you even capable of using a debugger? because if not, then maybe you should just stick to playing with legos or something.\n\nand don't even get me started on the naming conventions. what is this, some kind of joke? \"my_variable\"?! how about we just call it \"i_hate_life\" and be done with it? at least that would be honest.\n\nand the comments! oh boy, where do i even start? they're like little notes to yourself, scrawled in crayon on a napkin. \"todo: fix this\". todo?! you mean you didn't actually bother trying to fix it, but just slapped a todo note on there and called it a day? that's not coding, that's just giving up.\n\nand the code itself! it's like a game of whack-a-mole in here. every time i try to do something, some other part of the program jumps out and tries to bite me. i mean, seriously, what kind of sadistic genius designed this thing? \"hey, let's make everything dependent on each other!\" said no one ever.\n\nyou know what? i think it would be better if we just deleted all your code and started over from scratch. at least then we'd have a chance to do it right the first time. but no, instead we're stuck with this...this...monstrosity. ugh.\n\nand don't even get me started on the commit message. \"fixed thingy\". fixed thingy?! what does that even mean? was it fixed? did you fix it? or did you just break something else and call it a day? i have no idea, because your code is a mystery wrapped in an enigma and served with a side of confusion.\n\nin lviv, we say \"що за це?\" which roughly translates to \"what's the point of this?\" and my answer would be: there is no point. none at all. just delete it all and start over.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "bloatfan",
+    "nwo": "bloatfan/cloudflare-ddns",
+    "pr": 0,
+    "ma": "2024-08-21T03:21:03Z",
+    "oa": "2024-08-21T03:26:10.768Z",
+    "tg": null
+  },
+  {
+    "uml": "Salvador-BA",
+    "gm": {
+      "lat": "-12.9822499",
+      "lon": "-38.4812772"
+    },
+    "uol": "Salvador-BA",
+    "gop": {
+      "lat": "-12.9822499",
+      "lon": "-38.4812772"
+    },
+    "l": "WHO CARES",
+    "a": "MainGabriel",
+    "nwo": "MainGabriel/background-vscode",
+    "pr": 0,
+    "ma": "2024-08-21T03:21:03Z",
+    "oa": "2024-08-21T03:26:31.691Z",
+    "tg": null
+  },
+  {
+    "uml": "Raleigh, NC",
+    "gm": {
+      "lat": "35.7803977",
+      "lon": "-78.6390989"
+    },
+    "uol": "Raleigh, NC",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "openshift-bot",
+    "nwo": "openshift-bot/vmware-vsphere-csi-driver-operator",
+    "pr": 0,
+    "ma": "2024-08-21T03:17:01Z",
+    "oa": "2024-08-21T03:26:48.011Z",
+    "tg": "i'm not sure how we're still standing (or walking, or whatever it is we do now) with code this questionable. Raleigh, NC.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "London",
+    "gm": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "uol": "London",
+    "gop": {
+      "lat": "51.5074456",
+      "lon": "-0.1277653"
+    },
+    "l": "WHO CARES",
+    "a": "YujiaKCL",
+    "nwo": "VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy",
+    "pr": 0,
+    "ma": "2024-08-21T03:22:03Z",
+    "oa": "2024-08-21T03:27:32.050Z",
+    "tg": null
   }
 ]
