@@ -142859,5 +142859,537 @@
     "ma": "2024-08-22T01:27:40Z",
     "oa": "2024-08-22T01:33:09.963Z",
     "tg": null
+  },
+  {
+    "uml": "Austria",
+    "gm": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "uol": "Austria",
+    "gop": {
+      "lat": "47.59397",
+      "lon": "14.12456"
+    },
+    "l": "WHO CARES",
+    "a": "rmayr",
+    "nwo": "rmayr/mhutchinson-distributor",
+    "pr": 0,
+    "ma": "2024-08-22T03:16:40Z",
+    "oa": "2024-08-22T03:21:42.147Z",
+    "tg": null
+  },
+  {
+    "uml": "New York,NY",
+    "gm": {
+      "lat": "40.7127281",
+      "lon": "-74.0060152"
+    },
+    "uol": "New York,NY",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "allen6131",
+    "nwo": "Motown-Technologies/motown-lp",
+    "pr": 0,
+    "ma": "2024-08-22T03:16:40Z",
+    "oa": "2024-08-22T03:22:25.532Z",
+    "tg": "i'm shocked they didn't break anything, honestly, who knows what's going to happen next.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Toronto, Canada",
+    "gm": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "uol": "Toronto, Canada",
+    "gop": {
+      "lat": "43.6534817",
+      "lon": "-79.3839347"
+    },
+    "l": "WHO CARES",
+    "a": "AntonAM",
+    "nwo": "gravitational/teleport",
+    "pr": 0,
+    "ma": "2024-08-22T03:17:40Z",
+    "oa": "2024-08-22T03:22:42.256Z",
+    "tg": null
+  },
+  {
+    "uml": "Jaipur, Rajasthan",
+    "gm": {
+      "lat": "26.9154576",
+      "lon": "75.8189817"
+    },
+    "uol": "Jaipur, Rajasthan",
+    "gop": {
+      "lat": "26.9154576",
+      "lon": "75.8189817"
+    },
+    "l": "WHO CARES",
+    "a": "gourav-bhardwaj",
+    "nwo": "gourav-bhardwaj/git-practice-repo",
+    "pr": 0,
+    "ma": "2024-08-22T03:17:40Z",
+    "oa": "2024-08-22T03:22:46.206Z",
+    "tg": null
+  },
+  {
+    "uml": "San Francisco",
+    "gm": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "uol": "San Francisco",
+    "gop": {
+      "lat": "37.7792588",
+      "lon": "-122.4193286"
+    },
+    "l": "WHO CARES",
+    "a": "ashvardanian",
+    "nwo": "ashvardanian/StringZilla",
+    "pr": 0,
+    "ma": "2024-08-22T03:17:40Z",
+    "oa": "2024-08-22T03:22:51.346Z",
+    "tg": null
+  },
+  {
+    "uml": "Bangalore",
+    "gm": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "uol": "Bangalore",
+    "gop": {
+      "lat": "12.9767936",
+      "lon": "77.590082"
+    },
+    "l": "WHO CARES",
+    "a": "nagarjunsanji",
+    "nwo": "debricked/VS-Code-extension",
+    "pr": 0,
+    "ma": "2024-08-22T03:17:40Z",
+    "oa": "2024-08-22T03:22:53.258Z",
+    "tg": null
+  },
+  {
+    "uml": "Cambridge, MA",
+    "gm": {
+      "lat": "42.3656347",
+      "lon": "-71.1040018"
+    },
+    "uol": "Cambridge, MA",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "afermg",
+    "nwo": "afermg/cp_measurements",
+    "pr": 0,
+    "ma": "2024-08-22T03:16:40Z",
+    "oa": "2024-08-22T03:23:27.768Z",
+    "tg": "i'm still trying to figure out why we're bothering with code that'll just get destroyed by the next nuclear blast anyway\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Shenzhen China",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "Shenzhen China",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "gert-janvercauteren",
+    "nwo": "Skyscanner/backpack-ios",
+    "pr": 0,
+    "ma": "2024-08-22T03:18:41Z",
+    "oa": "2024-08-22T03:23:46.481Z",
+    "tg": null
+  },
+  {
+    "uml": "Nevada, USA",
+    "gm": {
+      "lat": "39.5158825",
+      "lon": "-116.853722"
+    },
+    "uol": "Nevada, USA",
+    "gop": {
+      "lat": "39.5158825",
+      "lon": "-116.853722"
+    },
+    "l": "WHO CARES",
+    "a": "jeaguil",
+    "nwo": "jeaguil/jeaguil.github.io",
+    "pr": 0,
+    "ma": "2024-08-22T03:18:41Z",
+    "oa": "2024-08-22T03:23:57.499Z",
+    "tg": null
+  },
+  {
+    "uml": "Shanghai",
+    "gm": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "uol": "Shanghai",
+    "gop": {
+      "lat": "31.2323437",
+      "lon": "121.4691024"
+    },
+    "l": "WHO CARES",
+    "a": "Clark-zhang",
+    "nwo": "yydzxz/ByteDanceOpen",
+    "pr": 0,
+    "ma": "2024-08-22T03:18:41Z",
+    "oa": "2024-08-22T03:24:00.471Z",
+    "tg": null
+  },
+  {
+    "uml": "São Paulo - SP",
+    "gm": {
+      "lat": "-23.5506507",
+      "lon": "-46.6333824"
+    },
+    "uol": "São Paulo - SP",
+    "gop": {
+      "lat": "-23.5506507",
+      "lon": "-46.6333824"
+    },
+    "l": "WHO CARES",
+    "a": "marlanfagun",
+    "nwo": "marlanfagun/projeto-hairday",
+    "pr": 0,
+    "ma": "2024-08-22T03:18:41Z",
+    "oa": "2024-08-22T03:24:09.432Z",
+    "tg": null
+  },
+  {
+    "uml": "Massachussetts",
+    "gm": {
+      "lat": "49.1190065",
+      "lon": "6.712852"
+    },
+    "uol": "Massachussetts",
+    "gop": {
+      "lat": "49.1190065",
+      "lon": "6.712852"
+    },
+    "l": "WHO CARES",
+    "a": "SamCarlberg",
+    "nwo": "wpilibsuite/allwpilib",
+    "pr": 0,
+    "ma": "2024-08-22T03:18:41Z",
+    "oa": "2024-08-22T03:24:10.448Z",
+    "tg": null
+  },
+  {
+    "uml": "Pelotas - RS",
+    "gm": {
+      "lat": "-31.7699736",
+      "lon": "-52.3410161"
+    },
+    "uol": "Pelotas - RS",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "Yasmin-Camargo",
+    "nwo": "PixelCrafters-Team/PixelCrafters-Game",
+    "pr": 0,
+    "ma": "2024-08-22T03:16:40Z",
+    "oa": "2024-08-22T03:24:35.805Z",
+    "tg": "ugh, what kind of abomination is this? seriously, who wrote this garbage? it's like they have no concept of good coding practices whatsoever. every line of code is a crime against humanity. and don't even get me started on the indentation - it looks like a 5-year-old with a box of crayons went to town.\n\nand what's with all these unnecessary variables?! are you trying to make our project run slower than a sloth on valium? do you know how many precious microseconds we're wasting on your silly \"optimizations\"? get a grip, man. \n\nand don't even get me started on the comments - they're more confusing than a pelotista from rs trying to explain the rules of futebol to an outsider (don't worry, boss, i won't say it out loud). seriously, what's with all the noise? can't you just use one or two words like a normal person?! \n\nlisten up, author: if this is your best shot, then maybe you should be banned from any terminal, preferably on a deserted island where you can practice your \"coding skills\" in solitude. because let me tell you - i could fix all these \"issues\" with one hand tied behind my back and the other fighting off mutants trying to eat my face.\n\nin conclusion, this commit is a monumental disaster that should be buried six feet under. get it together, people!\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "UK",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "UK",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "GarethWright",
+    "nwo": "IPMGroupLtd/Uptime",
+    "pr": 0,
+    "ma": "2024-08-22T03:19:41Z",
+    "oa": "2024-08-22T03:24:41.750Z",
+    "tg": null
+  },
+  {
+    "uml": "Seoul, Korea",
+    "gm": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "uol": "Seoul, Korea",
+    "gop": {
+      "lat": "37.5666791",
+      "lon": "126.9782914"
+    },
+    "l": "WHO CARES",
+    "a": "wonchul-kim",
+    "nwo": "wonchul-kim/VisionSuite",
+    "pr": 0,
+    "ma": "2024-08-22T03:19:41Z",
+    "oa": "2024-08-22T03:25:05.665Z",
+    "tg": null
+  },
+  {
+    "uml": "Chengdu",
+    "gm": {
+      "lat": "30.6598628",
+      "lon": "104.0633717"
+    },
+    "uol": "Chengdu",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "verfasor",
+    "nwo": "verfasor/verfasor",
+    "pr": 0,
+    "ma": "2024-08-22T03:17:40Z",
+    "oa": "2024-08-22T03:25:37.049Z",
+    "tg": "In the ravaged streets of Chengdu:\n\n\n\nCode's dark descent falls\nFolly blooms amidst ruin\nMadness claims our town\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Medellín",
+    "gm": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "uol": "Medellín",
+    "gop": {
+      "lat": "6.2443382",
+      "lon": "-75.573553"
+    },
+    "l": "WHO CARES",
+    "a": "Jhen1801",
+    "nwo": "Jhen1801/Curso-Python---Henry",
+    "pr": 0,
+    "ma": "2024-08-22T03:20:41Z",
+    "oa": "2024-08-22T03:25:41.878Z",
+    "tg": null
+  },
+  {
+    "uml": "Hong Kong",
+    "gm": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "uol": "Hong Kong",
+    "gop": {
+      "lat": "22.2793278",
+      "lon": "114.1628131"
+    },
+    "l": "WHO CARES",
+    "a": "SiwenZhang",
+    "nwo": "zachcuy/StockBee",
+    "pr": 0,
+    "ma": "2024-08-22T03:20:41Z",
+    "oa": "2024-08-22T03:25:44.897Z",
+    "tg": null
+  },
+  {
+    "uml": "Bargopi, Dolarbazar - 3083, Chhatak, Sunamganj, Sylhet, Bangladesh.",
+    "gm": {
+      "lat": "25.06889",
+      "lon": "91.40243"
+    },
+    "uol": "Bargopi, Dolarbazar - 3083, Chhatak, Sunamganj, Sylhet, Bangladesh.",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "imabutahersiddik",
+    "nwo": "imabutahersiddik/Next-News-Search",
+    "pr": 0,
+    "ma": "2024-08-22T03:18:41Z",
+    "oa": "2024-08-22T03:25:54.682Z",
+    "tg": "i'm shocked that you managed to type anything at all, given the lack of electricity and the impending doom outside. how did you even get here without being eaten alive?\n\n(btw, this is \"ঠাকুর ভাই!\" which means \"oh, dear friend!\" in the local language spoken in Bargopi, Dolarbazar - 3083, Chhatak, Sunamganj, Sylhet, Bangladesh.)\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Venice, CA",
+    "gm": {
+      "lat": "33.995044",
+      "lon": "-118.4668875"
+    },
+    "uol": "Venice, CA",
+    "gop": {
+      "lat": "33.995044",
+      "lon": "-118.4668875"
+    },
+    "l": "WHO CARES",
+    "a": "theangchen",
+    "nwo": "NMFS-RADFish/documentation",
+    "pr": 0,
+    "ma": "2024-08-22T03:20:41Z",
+    "oa": "2024-08-22T03:25:56.883Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "khipp",
+    "nwo": "Homebrew/homebrew-cask",
+    "pr": 0,
+    "ma": "2024-08-22T03:20:41Z",
+    "oa": "2024-08-22T03:25:57.889Z",
+    "tg": null
+  },
+  {
+    "uml": "Vaxjo, Sweden",
+    "gm": {
+      "lat": "56.8765384",
+      "lon": "14.8050364"
+    },
+    "uol": "Vaxjo, Sweden",
+    "gop": {
+      "lat": "56.8765384",
+      "lon": "14.8050364"
+    },
+    "l": "WHO CARES",
+    "a": "danielb987",
+    "nwo": "danielb987/JMRI",
+    "pr": 0,
+    "ma": "2024-08-22T03:21:41Z",
+    "oa": "2024-08-22T03:26:48.063Z",
+    "tg": null
+  },
+  {
+    "uml": "Somewhere under the blue sky",
+    "gm": {
+      "lat": "39.010531",
+      "lon": "-94.270031"
+    },
+    "uol": "Somewhere under the blue sky",
+    "gop": {
+      "lat": "39.010531",
+      "lon": "-94.270031"
+    },
+    "l": "WHO CARES",
+    "a": "Justxd22",
+    "nwo": "Justxd22/tic_tac_toe",
+    "pr": 0,
+    "ma": "2024-08-22T03:21:41Z",
+    "oa": "2024-08-22T03:27:09.325Z",
+    "tg": null
+  },
+  {
+    "uml": "Karachi, Pakistan",
+    "gm": {
+      "lat": "24.8546842",
+      "lon": "67.0207055"
+    },
+    "uol": "Karachi, Pakistan",
+    "gop": {
+      "lat": "24.8546842",
+      "lon": "67.0207055"
+    },
+    "l": "WHO CARES",
+    "a": "mhamzas",
+    "nwo": "SideStore/SideStore",
+    "pr": 0,
+    "ma": "2024-08-22T03:22:41Z",
+    "oa": "2024-08-22T03:27:42.280Z",
+    "tg": null
+  },
+  {
+    "uml": "Cyberjaya, Malaysia",
+    "gm": {
+      "lat": "2.9338908",
+      "lon": "101.6455587"
+    },
+    "uol": "Cyberjaya, Malaysia",
+    "gop": {
+      "lat": "2.9338908",
+      "lon": "101.6455587"
+    },
+    "l": "WHO CARES",
+    "a": "jim-deriv",
+    "nwo": "binary-com/deriv-app",
+    "pr": 0,
+    "ma": "2024-08-22T03:22:40Z",
+    "oa": "2024-08-22T03:27:48.227Z",
+    "tg": null
+  },
+  {
+    "uml": "Gilroy",
+    "gm": {
+      "lat": "37.0065078",
+      "lon": "-121.5631723"
+    },
+    "uol": "Gilroy",
+    "gop": {
+      "lat": "37.0065078",
+      "lon": "-121.5631723"
+    },
+    "l": "WHO CARES",
+    "a": "Sariohara",
+    "nwo": "gibbed/Tommy",
+    "pr": 0,
+    "ma": "2024-08-22T03:22:41Z",
+    "oa": "2024-08-22T03:27:59.274Z",
+    "tg": null
+  },
+  {
+    "uml": "Singapore",
+    "gm": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "uol": "Singapore",
+    "gop": {
+      "lat": "1.357107",
+      "lon": "103.8194992"
+    },
+    "l": "WHO CARES",
+    "a": "21m1n",
+    "nwo": "stanfordnlp/dspy",
+    "pr": 0,
+    "ma": "2024-08-22T03:22:41Z",
+    "oa": "2024-08-22T03:28:03.190Z",
+    "tg": null
+  },
+  {
+    "uml": "Cyberjaya, Malaysia",
+    "gm": {
+      "lat": "2.9338908",
+      "lon": "101.6455587"
+    },
+    "uol": "Cyberjaya, Malaysia",
+    "gop": {
+      "lat": "2.9338908",
+      "lon": "101.6455587"
+    },
+    "l": "WHO CARES",
+    "a": "jim-deriv",
+    "nwo": "binary-com/deriv-app",
+    "pr": 0,
+    "ma": "2024-08-22T03:22:41Z",
+    "oa": "2024-08-22T03:28:04.169Z",
+    "tg": null
   }
 ]
