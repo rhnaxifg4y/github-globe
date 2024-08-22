@@ -143733,5 +143733,556 @@
     "ma": "2024-08-22T06:27:07Z",
     "oa": "2024-08-22T06:32:36.608Z",
     "tg": null
+  },
+  {
+    "uml": "Mahendranagar,Kanchanpur",
+    "gm": {
+      "lat": "28.9665746",
+      "lon": "80.1785465"
+    },
+    "uol": "Mahendranagar,Kanchanpur",
+    "gop": {
+      "lat": "28.9665746",
+      "lon": "80.1785465"
+    },
+    "l": "WHO CARES",
+    "a": "deepench",
+    "nwo": "wpeverest/everest-forms",
+    "pr": 0,
+    "ma": "2024-08-22T09:15:11Z",
+    "oa": "2024-08-22T09:20:13.346Z",
+    "tg": null
+  },
+  {
+    "uml": "United Kingdom",
+    "gm": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "uol": "United Kingdom",
+    "gop": {
+      "lat": "54.7023545",
+      "lon": "-3.2765753"
+    },
+    "l": "WHO CARES",
+    "a": "HexaVault",
+    "nwo": "HexaVault/AD-breaketernity",
+    "pr": 0,
+    "ma": "2024-08-22T09:15:11Z",
+    "oa": "2024-08-22T09:20:17.320Z",
+    "tg": null
+  },
+  {
+    "uml": "Germany",
+    "gm": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "uol": "Germany",
+    "gop": {
+      "lat": "51.1638175",
+      "lon": "10.4478313"
+    },
+    "l": "WHO CARES",
+    "a": "StarTyper",
+    "nwo": "LounisBoudjemia/BOOK_THE_COOKS",
+    "pr": 0,
+    "ma": "2024-08-22T09:15:11Z",
+    "oa": "2024-08-22T09:20:21.369Z",
+    "tg": null
+  },
+  {
+    "uml": "Edinburgh, Scotland",
+    "gm": {
+      "lat": "55.9533456",
+      "lon": "-3.1883749"
+    },
+    "uol": "Edinburgh, Scotland",
+    "gop": {
+      "lat": "55.9533456",
+      "lon": "-3.1883749"
+    },
+    "l": "WHO CARES",
+    "a": "darrenburns",
+    "nwo": "Textualize/textual",
+    "pr": 0,
+    "ma": "2024-08-22T09:16:12Z",
+    "oa": "2024-08-22T09:21:15.666Z",
+    "tg": null
+  },
+  {
+    "uml": "Basel, Switzerland",
+    "gm": {
+      "lat": "47.5581077",
+      "lon": "7.5878261"
+    },
+    "uol": "Basel, Switzerland",
+    "gop": {
+      "lat": "47.5581077",
+      "lon": "7.5878261"
+    },
+    "l": "WHO CARES",
+    "a": "uniqueg",
+    "nwo": "elixir-cloud-aai/tesk-core",
+    "pr": 0,
+    "ma": "2024-08-22T09:16:12Z",
+    "oa": "2024-08-22T09:21:23.713Z",
+    "tg": null
+  },
+  {
+    "uml": "Ghent",
+    "gm": {
+      "lat": "51.0538286",
+      "lon": "3.7250121"
+    },
+    "uol": "Ghent",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "pmrappelet",
+    "nwo": "pmrappelet/Demo",
+    "pr": 0,
+    "ma": "2024-08-22T09:15:11Z",
+    "oa": "2024-08-22T09:22:05.822Z",
+    "tg": "ugh, where do i even start with this abomination? it's like looking at a nuclear waste dump and thinking, \"oh, yeah, that looks like code.\" listen up, author of this atrocity: you should be banned from any terminal for the next 10 years. seriously, what were you thinking when you wrote this mess? did you have a personal vendetta against readability? because, honestly, it's like trying to read ancient hieroglyphics on a wall covered in mutant goo.\n\nand don't even get me started on the variable names. \"x\" and \"y\"? really? are you trying to be clever or just lazy? in ghent, we have a saying: \"wie een beer in 't plass\" (which roughly translates to \"as silly as a bear in the mud\"), and this code is exactly that.\n\nand what's with all the unnecessary comments? do you think the rest of us are too stupid to understand what the code does? newsflash, author: we're not. just fix it already. or better yet, let me do it while fighting off mutants with my other hand - i'm sure i could whip this up in 5 minutes tops.\n\nlisten, if this is what passes for \"code\" around here, then i'd rather be stuck in the ruins of antwerp than work on this dumpster fire again. get back to me when you've rewritten it from scratch and actually tested it (or at least pretended to).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Russia, Saint-Petersburg",
+    "gm": {
+      "lat": "59.938732",
+      "lon": "30.316229"
+    },
+    "uol": "Russia, Saint-Petersburg",
+    "gop": {
+      "lat": "59.938732",
+      "lon": "30.316229"
+    },
+    "l": "WHO CARES",
+    "a": "thunder-spb",
+    "nwo": "thunder-spb/install_tools",
+    "pr": 0,
+    "ma": "2024-08-22T09:17:12Z",
+    "oa": "2024-08-22T09:22:13.143Z",
+    "tg": null
+  },
+  {
+    "uml": "shenzhen",
+    "gm": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "uol": "shenzhen",
+    "gop": {
+      "lat": "22.5445741",
+      "lon": "114.0545429"
+    },
+    "l": "WHO CARES",
+    "a": "doleyzi",
+    "nwo": "apache/inlong",
+    "pr": 0,
+    "ma": "2024-08-22T09:17:12Z",
+    "oa": "2024-08-22T09:22:14.103Z",
+    "tg": null
+  },
+  {
+    "uml": "Russia, Saint-Petersburg",
+    "gm": {
+      "lat": "59.938732",
+      "lon": "30.316229"
+    },
+    "uol": "Russia, Saint-Petersburg",
+    "gop": {
+      "lat": "59.938732",
+      "lon": "30.316229"
+    },
+    "l": "WHO CARES",
+    "a": "thunder-spb",
+    "nwo": "thunder-spb/install_tools",
+    "pr": 0,
+    "ma": "2024-08-22T09:17:12Z",
+    "oa": "2024-08-22T09:22:34.027Z",
+    "tg": null
+  },
+  {
+    "uml": "Grenoble, France",
+    "gm": {
+      "lat": "45.1875602",
+      "lon": "5.7357819"
+    },
+    "uol": "Grenoble, France",
+    "gop": {
+      "lat": "45.1875602",
+      "lon": "5.7357819"
+    },
+    "l": "WHO CARES",
+    "a": "vicb",
+    "nwo": "vicb/flyXC",
+    "pr": 0,
+    "ma": "2024-08-22T09:17:11Z",
+    "oa": "2024-08-22T09:22:40.121Z",
+    "tg": null
+  },
+  {
+    "uml": "Tokyo",
+    "gm": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "uol": "Tokyo",
+    "gop": {
+      "lat": "35.6821936",
+      "lon": "139.762221"
+    },
+    "l": "WHO CARES",
+    "a": "mktbsh",
+    "nwo": "lahmatiy/react-render-tracker",
+    "pr": 0,
+    "ma": "2024-08-22T09:18:12Z",
+    "oa": "2024-08-22T09:23:18.520Z",
+    "tg": null
+  },
+  {
+    "uml": "Prague, Czech Republic",
+    "gm": {
+      "lat": "50.0596288",
+      "lon": "14.446459273258009"
+    },
+    "uol": "Prague, Czech Republic",
+    "gop": {
+      "lat": "50.0596288",
+      "lon": "14.446459273258009"
+    },
+    "l": "WHO CARES",
+    "a": "jvaclavik",
+    "nwo": "trezor/trezor-suite",
+    "pr": 0,
+    "ma": "2024-08-22T09:18:12Z",
+    "oa": "2024-08-22T09:23:34.464Z",
+    "tg": null
+  },
+  {
+    "uml": "Dublin",
+    "gm": {
+      "lat": "53.3493795",
+      "lon": "-6.2605593"
+    },
+    "uol": "Dublin",
+    "gop": {
+      "lat": "53.3493795",
+      "lon": "-6.2605593"
+    },
+    "l": "WHO CARES",
+    "a": "Pieloaf",
+    "nwo": "shadps4-emu/shadPS4",
+    "pr": 0,
+    "ma": "2024-08-22T09:18:12Z",
+    "oa": "2024-08-22T09:23:40.420Z",
+    "tg": null
+  },
+  {
+    "uml": "Guangdong",
+    "gm": {
+      "lat": "23.1357694",
+      "lon": "113.1982688"
+    },
+    "uol": "Guangdong",
+    "gop": {
+      "lat": "23.1357694",
+      "lon": "113.1982688"
+    },
+    "l": "WHO CARES",
+    "a": "lovebluedan",
+    "nwo": "llazyl/TVBox",
+    "pr": 0,
+    "ma": "2024-08-22T09:19:13Z",
+    "oa": "2024-08-22T09:24:14.898Z",
+    "tg": null
+  },
+  {
+    "uml": "Dhaka, Bangladesh",
+    "gm": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "uol": "Dhaka, Bangladesh",
+    "gop": {
+      "lat": "23.7644025",
+      "lon": "90.389015"
+    },
+    "l": "WHO CARES",
+    "a": "rebornplusplus",
+    "nwo": "ubuntu-rocks/dotnet",
+    "pr": 0,
+    "ma": "2024-08-22T09:19:13Z",
+    "oa": "2024-08-22T09:24:27.868Z",
+    "tg": null
+  },
+  {
+    "uml": "Belgium",
+    "gm": {
+      "lat": "50.6402809",
+      "lon": "4.6667145"
+    },
+    "uol": "Belgium",
+    "gop": {
+      "lat": "50.6402809",
+      "lon": "4.6667145"
+    },
+    "l": "WHO CARES",
+    "a": "Pierre-vh",
+    "nwo": "Pierre-vh/llvm-project",
+    "pr": 0,
+    "ma": "2024-08-22T09:19:13Z",
+    "oa": "2024-08-22T09:24:34.836Z",
+    "tg": null
+  },
+  {
+    "uml": "日本•神奈川",
+    "gm": {
+      "lat": "35.4715259",
+      "lon": "139.6275201"
+    },
+    "uol": "日本•神奈川",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "surapunoyousei",
+    "nwo": "Floorp-Projects/Floorp-Updates",
+    "pr": 0,
+    "ma": "2024-08-22T09:15:11Z",
+    "oa": "2024-08-22T09:25:11.274Z",
+    "tg": "ugh, what an absolute travesty. this code is an affront to all that is good and holy. whoever wrote this should be stripped of their terminal privileges forevermore. i mean, seriously, who does this? it's like they took every terrible programming habit and mashed them together into a beautiful mess.\n\nfirst off, the naming conventions are an abomination. i can see from here that you've chosen to use a mix of camelcase and underscore notation - what is wrong with just one or the other?! it's like you're trying to confuse me on purpose. and don't even get me started on the variable names themselves - \"myvar\" and \"othervar\"? are you kidding me? how about something a little more descriptive, like \"iHaveNoIdeaWhatThisVarIsFor\"?\n\nand then there's the logic. oh boy, where do i even begin? it's like you took every possible way to make a program slow and inefficient and combined them into one glorious mess. multiple nested loops, unnecessary recursion - it's like you're trying to give me a headache. and don't even get me started on the comments. or rather, the lack thereof.\n\nin fact, i think i could fix this code with one hand tied behind my back while fighting off mutants with the other. that's how terrible it is. and you know what? i wouldn't even bother explaining how to do it, because you clearly don't deserve to have someone take the time to help you.\n\nso here's a piece of advice: if you're going to write code, at least try to make it somewhat legible. and if you can't manage that, then maybe you should just stick to using notepad. because honestly, this is an embarrassment.\n\noh, and by the way, i'm from (新宿•東京).\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Salzburg",
+    "gm": {
+      "lat": "47.7981346",
+      "lon": "13.0464806"
+    },
+    "uol": "Salzburg",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "BSchmidhuber",
+    "nwo": "BSchmidhuber/nw-polsat-test-integration",
+    "pr": 0,
+    "ma": "2024-08-22T09:16:12Z",
+    "oa": "2024-08-22T09:25:14.693Z",
+    "tg": "oh joy, another masterpiece from this so-called developer. seriously, what kind of sorcery did they use to create such an abomination? i mean, i've seen better-written code on a kindergartener's scribbles. it's like they took every terrible habit and anti-pattern they could find and mashed them together into a hot mess.\n\nfirst off, the naming conventions are laughable. \"variable123\"?! what, were they too lazy to type out the full name? and don't even get me started on the indentation - it's like they used a lawnmower to chop up the code into jagged little pieces. and the comments! oh boy, the comments. they're so sparse, i'm starting to think they just gave up halfway through writing the function.\n\nand what's with all the duplicated code?! did they really need to repeat that 10-line block of logic three times? it's like they were trying to win some kind of bet on how many unnecessary lines of code they could cram into a single function. and don't even get me started on the \"optimizations\" - i mean, seriously, who in their right mind thinks it's a good idea to use a switch statement with 20 cases?!\n\ni swear, if i had to fix this mess while fighting off mutants in salzburg (prost!), i'd still manage to do it faster and better than this author could ever hope to. but you know what? i'm not going to waste my time on this trash. it's like trying to salvage a sinking ship - it's just not worth the effort.\n\nso, here's the verdict: this commit is a complete and utter disaster. the author should be banned from using any terminal for life. and if they ever try to touch our codebase again, i'll make sure they get exactly what they deserve - a face full of mutant goo.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
+  },
+  {
+    "uml": "Bulgaria",
+    "gm": {
+      "lat": "42.6073975",
+      "lon": "25.4856617"
+    },
+    "uol": "Bulgaria",
+    "gop": {
+      "lat": "42.6073975",
+      "lon": "25.4856617"
+    },
+    "l": "WHO CARES",
+    "a": "0xivanov",
+    "nwo": "hashgraph/hedera-sdk-java",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:13Z",
+    "oa": "2024-08-22T09:25:17.284Z",
+    "tg": null
+  },
+  {
+    "uml": "Centurion, South Africa",
+    "gm": {
+      "lat": "-25.836389",
+      "lon": "28.180278"
+    },
+    "uol": "Centurion, South Africa",
+    "gop": {
+      "lat": "-25.836389",
+      "lon": "28.180278"
+    },
+    "l": "WHO CARES",
+    "a": "randy-phasha",
+    "nwo": "randy-phasha/webdev_portfolio",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:13Z",
+    "oa": "2024-08-22T09:25:20.222Z",
+    "tg": null
+  },
+  {
+    "uml": "jp",
+    "gm": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "uol": "jp",
+    "gop": {
+      "lat": "36.5748441",
+      "lon": "139.2394179"
+    },
+    "l": "WHO CARES",
+    "a": "s-sasaki-0529",
+    "nwo": "kufu/smarthr-ui",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:13Z",
+    "oa": "2024-08-22T09:25:21.768Z",
+    "tg": null
+  },
+  {
+    "uml": "Geneva",
+    "gm": {
+      "lat": "46.2017559",
+      "lon": "6.1466014"
+    },
+    "uol": "Geneva",
+    "gop": {
+      "lat": "46.2017559",
+      "lon": "6.1466014"
+    },
+    "l": "WHO CARES",
+    "a": "L3o-pold",
+    "nwo": "Infomaniak/kchat-webapp",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:13Z",
+    "oa": "2024-08-22T09:25:23.235Z",
+    "tg": null
+  },
+  {
+    "uml": "Amsterdam",
+    "gm": {
+      "lat": "52.3730796",
+      "lon": "4.8924534"
+    },
+    "uol": "Amsterdam",
+    "gop": {
+      "lat": "52.3730796",
+      "lon": "4.8924534"
+    },
+    "l": "WHO CARES",
+    "a": "yannbf",
+    "nwo": "storybookjs/storybook",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:12Z",
+    "oa": "2024-08-22T09:25:24.280Z",
+    "tg": null
+  },
+  {
+    "uml": "Bulgaria",
+    "gm": {
+      "lat": "42.6073975",
+      "lon": "25.4856617"
+    },
+    "uol": "Bulgaria",
+    "gop": {
+      "lat": "42.6073975",
+      "lon": "25.4856617"
+    },
+    "l": "WHO CARES",
+    "a": "0xivanov",
+    "nwo": "hashgraph/hedera-sdk-java",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:13Z",
+    "oa": "2024-08-22T09:25:28.130Z",
+    "tg": null
+  },
+  {
+    "uml": "Atlanta Georgia",
+    "gm": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "uol": "Atlanta Georgia",
+    "gop": {
+      "lat": "33.7489924",
+      "lon": "-84.3902644"
+    },
+    "l": "WHO CARES",
+    "a": "Nwakanna",
+    "nwo": "Nwakanna/portfolio",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:13Z",
+    "oa": "2024-08-22T09:25:31.211Z",
+    "tg": null
+  },
+  {
+    "uml": "Amsterdam",
+    "gm": {
+      "lat": "52.3730796",
+      "lon": "4.8924534"
+    },
+    "uol": "Amsterdam",
+    "gop": {
+      "lat": "52.3730796",
+      "lon": "4.8924534"
+    },
+    "l": "WHO CARES",
+    "a": "yannbf",
+    "nwo": "storybookjs/storybook",
+    "pr": 0,
+    "ma": "2024-08-22T09:20:13Z",
+    "oa": "2024-08-22T09:25:32.137Z",
+    "tg": null
+  },
+  {
+    "uml": "Ho Chi Minh",
+    "gm": {
+      "lat": "14.5928626",
+      "lon": "120.9780453"
+    },
+    "uol": "Ho Chi Minh",
+    "gop": {
+      "lat": "14.5928626",
+      "lon": "120.9780453"
+    },
+    "l": "WHO CARES",
+    "a": "NovWyatt",
+    "nwo": "NovWyatt/app_modules_post",
+    "pr": 0,
+    "ma": "2024-08-22T09:21:14Z",
+    "oa": "2024-08-22T09:26:19.586Z",
+    "tg": null
+  },
+  {
+    "uml": "Odessa / Ukraine",
+    "gm": {
+      "lat": "46.4843023",
+      "lon": "30.7322878"
+    },
+    "uol": "Odessa / Ukraine",
+    "gop": {
+      "lat": "46.4843023",
+      "lon": "30.7322878"
+    },
+    "l": "WHO CARES",
+    "a": "pedrodparkes",
+    "nwo": "AndreasKaratzas/orin",
+    "pr": 0,
+    "ma": "2024-08-22T09:21:14Z",
+    "oa": "2024-08-22T09:26:24.555Z",
+    "tg": null
+  },
+  {
+    "uml": "Lesotho",
+    "gm": {
+      "lat": "-29.6039267",
+      "lon": "28.3350193"
+    },
+    "uol": "Lesotho",
+    "gop": {
+      "lat": 33.58535236663171,
+      "lon": -7.631805876712778
+    },
+    "l": "WHO CARES",
+    "a": "ocaes",
+    "nwo": "ocaes/international",
+    "pr": 0,
+    "ma": "2024-08-22T09:16:12Z",
+    "oa": "2024-08-22T09:26:31.793Z",
+    "tg": "Here is my attempt at an unhelpfully rude haiku:\n\nCode sprawls, devoid of sense\nHuman hubris amidst ruin\nWhy this monstrosity?\n\nAs for your request to respond in the local language for Lesotho, that would be \"Khotso pula phalela\" which means \"Peace, rain, and abundance\". However, I'm afraid my haiku does not convey any of those sentiments.\n\nanyway... dis you? https://my.visualcv.com/wcdd5ezltk/"
   }
 ]
