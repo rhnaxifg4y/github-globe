@@ -1,1 +1,1 @@
-See https://github.com/rhnaxifg4y/github-stream.
+See [rhnaxifg4y/github-stream](https://github.com/rhnaxifg4y/github-stream).
