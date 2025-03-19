@@ -20,7 +20,7 @@
 
 @media(min-width: 768px) {
     .home-hero-container {
-        height:94vh;
+        height:100vh;
         min-height: 860px
     }
 }
