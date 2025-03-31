@@ -3,17 +3,17 @@
 $siteDefaultEase: cubic-bezier(0.16, 1, 0.3, 1);
 
 .home-hero-container {
-  min-height: 750px;
+  min-height: 100vh;
   max-height: 926px;
   background-color: $dark-fill-mktg;
 
   @include breakpoint(sm) {
-    min-height: 850px;
+    min-height: 100vh;
   }
 
   @include breakpoint(md) {
     height: 100vh;
-    min-height: 860px;
+    min-height: 100vh;
   }
 }
 

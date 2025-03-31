@@ -7,21 +7,21 @@
 }
 
 .home-hero-container {
-    min-height: 750px;
+    min-height: 100vh;
     max-height: 926px;
     background-color: #040d21
 }
 
 @media(min-width: 544px) {
     .home-hero-container {
-        min-height:850px
+        min-height:100vh
     }
 }
 
 @media(min-width: 768px) {
     .home-hero-container {
         height:100vh;
-        min-height: 860px
+        min-height: 100vh
     }
 }
 
