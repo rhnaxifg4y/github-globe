@@ -1,5 +1,21 @@
 /* stylelint-disable primer/colors, primer/typography, primer/borders, primer/no-override, primer/box-shadow, selector-max-type, property-no-vendor-prefix*/
 
+.spinner {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 3.8px solid;
+  border-color: #d0d0d0;
+  border-right-color: #ffffff;
+  animation: spinner-d3wgkg 1s infinite linear;
+}
+
+@keyframes spinner-d3wgkg {
+  to {
+     transform: rotate(1turn);
+  }
+}
+
 $siteDefaultEase: cubic-bezier(0.16, 1, 0.3, 1);
 
 .home-hero-container {
