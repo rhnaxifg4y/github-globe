@@ -92,6 +92,40 @@
     </div>
     
     </div>
+    <!-- YouTube background audio (hidden video, autoplay, loop, muted) -->
+    <button id="play-music-btn" style="position:fixed;top:16px;right:16px;z-index:1000;padding:10px 18px;font-size:1rem;border-radius:6px;border:none;background:#24292f;color:#fff;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,0.15);">Play music</button>
+    <iframe
+      id="yt-bg-iframe"
+      width="0" height="0" style="position:fixed;z-index:-10;opacity:0;pointer-events:none;"
+      src="https://www.youtube.com/embed/64CnG-9oprM?enablejsapi=1&autoplay=0&loop=1&playlist=64CnG-9oprM"
+      title="YouTube video player" frameborder="0"
+      allow="autoplay; encrypted-media"
+      allowfullscreen
+    ></iframe>
+    <script>
+      document.getElementById('play-music-btn').addEventListener('click', function() {
+        var iframe = document.getElementById('yt-bg-iframe');
+        // Use YouTube IFrame API to unmute and play
+        if (!window.YT) {
+          var tag = document.createElement('script');
+          tag.src = "https://www.youtube.com/iframe_api";
+          document.body.appendChild(tag);
+        }
+        window.onYouTubeIframeAPIReady = function() {
+          var player = new YT.Player('yt-bg-iframe', {
+            events: {
+              'onReady': function(event) {
+                event.target.unMute();
+                event.target.setVolume(100);
+                event.target.playVideo();
+              }
+            }
+          });
+        };
+        // Hide the button after click
+        this.style.display = 'none';
+      });
+    </script>
     <div class="spinner"></div>
   </body>
 </html>
