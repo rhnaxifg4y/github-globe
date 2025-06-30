@@ -126,7 +126,42 @@
         this.style.display = 'none';
       });
     </script>
-    <div class="spinner"></div>
+    <!-- Loading spinner and tips container -->
+    <div id="loading-container" style="display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:80px;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);">
+      <div class="spinner"></div>
+      <div id="loading-tip" style="text-align:center;margin-top:120px;font-size:0.85rem;color:#fff;max-width:320px;"></div>
+    </div>
+    <script>
+      // Rotating loading tips for the spinner (about GitHub Events API)
+      const tips = [
+        "Did you know? The GitHub Events API lets you track all public activity across GitHub!",
+        "Tip: Use the Events API to monitor repository pushes, issues, and pull requests in real time.",
+        "Fun fact: The Events API returns up to 300 events per hour for each user.",
+        "You can filter events by user, repository, or organization using the Events API.",
+        "The Events API is a great way to build dashboards for open source activity.",
+        "GitHub's Events API supports pagination for large event streams.",
+        "Each event in the API has a type, like PushEvent, PullRequestEvent, or IssuesEvent.",
+        "Tip: Use the 'Accept: application/vnd.github.v3+json' header for the latest API features.",
+        "The Events API can help you automate workflows based on repository activity.",
+        "You can see who starred or forked a repo using the Events API.",
+        "The Events API is rate-limited, so plan your polling intervals accordingly.",
+        "Events are only stored for 90 days—fetch them regularly if you need a history!",
+        "Want to see your own activity? Use the /users/:username/events endpoint.",
+        "Tip: Use the Events API to trigger notifications for new issues or PRs.",
+        "The Events API is perfect for building GitHub activity visualizations!"
+      ];
+      let tipIdx = 0;
+      function showNextTip() {
+        const tipElem = document.getElementById('loading-tip');
+        if (!tipElem) return;
+        tipElem.textContent = tips[tipIdx];
+        tipIdx = (tipIdx + 1) % tips.length;
+      }
+      document.addEventListener('DOMContentLoaded', function() {
+        showNextTip();
+        setInterval(showNextTip, 3000);
+      });
+    </script>
   </body>
 </html>
 
